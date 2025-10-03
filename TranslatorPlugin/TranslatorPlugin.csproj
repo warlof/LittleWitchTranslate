@@ -18,7 +18,7 @@
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
-    <OutputPath>..\</OutputPath>
+    <OutputPath>..\data\</OutputPath>
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
@@ -31,33 +31,795 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|Arm64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\Arm64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>Arm64</PlatformTarget>
+    <LangVersion>7.3</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|Arm64'">
+    <OutputPath>bin\Arm64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>Arm64</PlatformTarget>
+    <LangVersion>7.3</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <LangVersion>7.3</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <LangVersion>7.3</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <LangVersion>7.3</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <LangVersion>7.3</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="Assembly-CSharp">
-      <HintPath>G:\Games\Little Witch in the Woods\LWIW_Data\Managed\Assembly-CSharp.dll</HintPath>
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\Assembly-CSharp.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Assembly-CSharp-firstpass">
-      <HintPath>G:\Games\Little Witch in the Woods\LWIW_Data\Managed\Assembly-CSharp-firstpass.dll</HintPath>
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\Assembly-CSharp-firstpass.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="DialogueSystem">
-      <HintPath>G:\Games\Little Witch in the Woods\LWIW_Data\Managed\DialogueSystem.dll</HintPath>
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\DialogueSystem.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="DialogueSystemSupport">
-      <HintPath>G:\Games\Little Witch in the Woods\LWIW_Data\Managed\DialogueSystemSupport.dll</HintPath>
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\DialogueSystemSupport.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Opsive.Shared">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\Opsive.Shared.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Opsive.Shared.Events">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\Opsive.Shared.Events.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Opsive.Shared.Game">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\Opsive.Shared.Game.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Opsive.Shared.Inventory">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\Opsive.Shared.Inventory.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Opsive.Shared.Utility">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\Opsive.Shared.Utility.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Opsive.UltimateInventorySystem">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\Opsive.UltimateInventorySystem.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="PixelCrushers">
-      <HintPath>G:\Games\Little Witch in the Woods\LWIW_Data\Managed\PixelCrushers.dll</HintPath>
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\PixelCrushers.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="QuestMachine">
-      <HintPath>G:\Games\Little Witch in the Woods\LWIW_Data\Managed\QuestMachine.dll</HintPath>
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\QuestMachine.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.Animation">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.Animation.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.AudioControl.Runtime">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.AudioControl.Runtime.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.Brewing">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.Brewing.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.Brewing.Durability">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.Brewing.Durability.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.Camera">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.Camera.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.Cat.Runtime">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.Cat.Runtime.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.Chapter">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.Chapter.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.Characters">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.Characters.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.Cheat">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.Cheat.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.Cheat.Command">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.Cheat.Command.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.CinemachineExtension">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.CinemachineExtension.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.Cinematic">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.Cinematic.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.CircularTimingMiniGame">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.CircularTimingMiniGame.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.CircularTimingMiniGame.Editor">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.CircularTimingMiniGame.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.Content.InGameLog">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.Content.InGameLog.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.Content.Puzzles">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.Content.Puzzles.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.Core.Action.Jump.Runtime">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.Core.Action.Jump.Runtime.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.Core.Addressable">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.Core.Addressable.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.Core.Brewing">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.Core.Brewing.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.Core.CollectiblesCraftingSystem">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.Core.CollectiblesCraftingSystem.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.Core.ContentDatabase.Friendship">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.Core.ContentDatabase.Friendship.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.Core.ContentDatabase.Present">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.Core.ContentDatabase.Present.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.Core.ContentDatabase.Quests">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.Core.ContentDatabase.Quests.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.Core.ContentFeatures">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.Core.ContentFeatures.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.Core.CustomMessageHandler">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.Core.CustomMessageHandler.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.Core.DataAnalytics">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.Core.DataAnalytics.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.Core.DataAsset">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.Core.DataAsset.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.Core.DataAsset.Contents">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.Core.DataAsset.Contents.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.Core.EmergencyEscape">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.Core.EmergencyEscape.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.Core.EmergencyEscape.PopupCaller">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.Core.EmergencyEscape.PopupCaller.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.Core.EventTriggerArea">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.Core.EventTriggerArea.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.Core.FriendshipSystem">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.Core.FriendshipSystem.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.Core.IncubatorEstimateTimeRule">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.Core.IncubatorEstimateTimeRule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.Core.LevelTheme.Runtime">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.Core.LevelTheme.Runtime.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.Core.LevelThemeType">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.Core.LevelThemeType.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.Core.LowLevelData">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.Core.LowLevelData.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.Core.MailSystem">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.Core.MailSystem.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.Core.MemorySnapshotHelper">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.Core.MemorySnapshotHelper.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.Core.MiniMap">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.Core.MiniMap.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.Core.MiniMap.PopupCaller">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.Core.MiniMap.PopupCaller.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.Core.MiniMap.StatefulObstacleMarker">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.Core.MiniMap.StatefulObstacleMarker.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.Core.Movement">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.Core.Movement.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.Core.NewBrewing.Data.BrewingHistoryData.Runtime">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.Core.NewBrewing.Data.BrewingHistoryData.Runtime.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.Core.NewBrewing.Data.Task.Runtime">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.Core.NewBrewing.Data.Task.Runtime.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.Core.NoticeBoard.Post">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.Core.NoticeBoard.Post.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.Core.NoticeBoard.Runtime">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.Core.NoticeBoard.Runtime.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.Core.NoticeBoard.Saver">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.Core.NoticeBoard.Saver.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.Core.PotionUsage">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.Core.PotionUsage.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.Core.ReformSystem">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.Core.ReformSystem.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.Core.SyncedResources">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.Core.SyncedResources.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.Core.UniqueID">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.Core.UniqueID.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.Creature">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.Creature.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.Creature.Contents">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.Creature.Contents.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.CustomKeyBinding">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.CustomKeyBinding.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.CustomSequencerCommands">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.CustomSequencerCommands.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.Delivery">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.Delivery.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.Delivery.Rewards">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.Delivery.Rewards.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.DialogueSystem.Lua">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.DialogueSystem.Lua.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.DialogueSystemExtension">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.DialogueSystemExtension.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.DOTween">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.DOTween.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.DropItem">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.DropItem.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.Durability">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.Durability.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.Editor.Constants">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.Editor.Constants.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.Effect">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.Effect.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.Encyclopedia">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.Encyclopedia.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.EntityEnvironmentVFX">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.EntityEnvironmentVFX.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.Extension.Components">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.Extension.Components.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.Extension.DefaultPlayables">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.Extension.DefaultPlayables.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.Extension.Opsive">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.Extension.Opsive.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.Fishing">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.Fishing.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.Fishing.Contents">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.Fishing.Contents.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.FontPreset">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.FontPreset.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.GameInput.XboxInputField">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.GameInput.XboxInputField.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.GameLevel.Runtime">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.GameLevel.Runtime.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.GameLevel.Savers">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.GameLevel.Savers.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.GameLevelTransistor">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.GameLevelTransistor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.GameplayIngredientsExtension">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.GameplayIngredientsExtension.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.Gate.Runtime">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.Gate.Runtime.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.Gate.Runtime.GateInfo">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.Gate.Runtime.GateInfo.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.Gathering">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.Gathering.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.GDK">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.GDK.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.GlobalVariable">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.GlobalVariable.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.GlobalVariable.Extensions">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.GlobalVariable.Extensions.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.Grabbing.Contents">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.Grabbing.Contents.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.Grabbing.Runtime">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.Grabbing.Runtime.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.GridBuildingSystem">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.GridBuildingSystem.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.Holdable">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.Holdable.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.HoldingItem">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.HoldingItem.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.HoldingObject">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.HoldingObject.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.HUD">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.HUD.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.HUD.Contents">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.HUD.Contents.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.IndividualNPCQuest">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.IndividualNPCQuest.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.InputBindingReference">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.InputBindingReference.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.InputController">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.InputController.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.InputDeviceControl">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.InputDeviceControl.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.InputDeviceControl.Data">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.InputDeviceControl.Data.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.Interaction.Runtime">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.Interaction.Runtime.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.InteractSchedule">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.InteractSchedule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.Item">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.Item.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.Item.Potion.Effects">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.Item.Potion.Effects.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.ItemActions">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.ItemActions.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.ItemDisplay">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.ItemDisplay.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.ItemPoolingRule.Content">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.ItemPoolingRule.Content.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.ItemPoolingRule.Core">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.ItemPoolingRule.Core.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.ItemPoolingRule.Rules">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.ItemPoolingRule.Rules.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.ItemStorageBox">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.ItemStorageBox.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.ItemTrading">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.ItemTrading.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.Layered2DSystem">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.Layered2DSystem.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="SunnySideUp.Localization">
-      <HintPath>G:\Games\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.Localization.dll</HintPath>
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.Localization.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.Localization.CustomVariables">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.Localization.CustomVariables.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.LuaUtility">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.LuaUtility.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.Management.Runtime">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.Management.Runtime.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.Manufacture">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.Manufacture.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.Map">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.Map.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.Mashing">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.Mashing.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.MigrationScripts">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.MigrationScripts.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.Time.Runtime">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.Time.Runtime.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.UI.Brewing">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.UI.Brewing.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.UI.CatEncyclopedia">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.UI.CatEncyclopedia.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.UI.CollectiblesCraftingUI">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.UI.CollectiblesCraftingUI.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.UI.ConsolidateInfoUI">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.UI.ConsolidateInfoUI.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.UI.ConsolidateInfoUI.Shared">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.UI.ConsolidateInfoUI.Shared.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.UI.Core">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.UI.Core.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.UI.Credits">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.UI.Credits.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.UI.Delivery">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.UI.Delivery.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.UI.DeliveryPreview">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.UI.DeliveryPreview.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.UI.Encyclopedia">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.UI.Encyclopedia.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.UI.EntityIndication">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.UI.EntityIndication.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.UI.FishingEncyclopedia">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.UI.FishingEncyclopedia.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.UI.GridBuildingSystem">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.UI.GridBuildingSystem.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.UI.GridBuildingSystem.Shared">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.UI.GridBuildingSystem.Shared.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.UI.IndividualNPCQuest">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.UI.IndividualNPCQuest.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.UI.InputSettings">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.UI.InputSettings.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.UI.Inventory">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.UI.Inventory.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.UI.ItemDisplay">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.UI.ItemDisplay.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.UI.ItemStorageBox">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.UI.ItemStorageBox.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.UI.LoadingBar">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.UI.LoadingBar.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.UI.MailBox">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.UI.MailBox.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.UI.ManagementUI">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.UI.ManagementUI.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.UI.Manufacture">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.UI.Manufacture.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.UI.MiniMap">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.UI.MiniMap.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.UI.NewDelivery">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.UI.NewDelivery.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.UI.NewDelivery.Shared">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.UI.NewDelivery.Shared.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.UI.NewInventory">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.UI.NewInventory.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.UI.NewInventory.Contents">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.UI.NewInventory.Contents.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.UI.NewInventory.Shared">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.UI.NewInventory.Shared.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.UI.Note">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.UI.Note.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.UI.Note.Shared">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.UI.Note.Shared.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.UI.NoticeBoard.Runtime">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.UI.NoticeBoard.Runtime.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.UI.Notification">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.UI.Notification.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.UI.PeopleNote">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.UI.PeopleNote.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.UI.Popup">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.UI.Popup.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.UI.Popup.Variables">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.UI.Popup.Variables.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.UI.PotionSelector">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.UI.PotionSelector.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.UI.Quest">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.UI.Quest.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.UI.Reform">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.UI.Reform.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.UI.SaveFileLoad">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.UI.SaveFileLoad.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.UI.SaveProgresss">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.UI.SaveProgresss.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.UI.Settings">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.UI.Settings.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.UI.Store">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.UI.Store.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.UI.Tool">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.UI.Tool.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.UI.ToolSelector">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.UI.ToolSelector.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.UI.Tutorial">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.UI.Tutorial.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.UI.UVMP">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.UI.UVMP.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.UI.UVMP.FancyScrollView">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.UI.UVMP.FancyScrollView.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.UI.UVMP.Fishing">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.UI.UVMP.Fishing.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.UI.UVMP.Shared">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.UI.UVMP.Shared.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.UI.UVMP.Shared.FancyScrollView">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.UI.UVMP.Shared.FancyScrollView.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.UI.UVMP.Shared.UltimateInventorySystem">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.UI.UVMP.Shared.UltimateInventorySystem.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.UI.UVMP.UltimateInventorySystem">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.UI.UVMP.UltimateInventorySystem.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.UI.UVMP.UltimateInventorySystem.Contents">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.UI.UVMP.UltimateInventorySystem.Contents.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SunnySideUp.UI.WishList">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\SunnySideUp.UI.WishList.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="System" />
@@ -69,41 +831,50 @@
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Xml" />
     <Reference Include="Unity.Localization">
-      <HintPath>G:\Games\Little Witch in the Woods\LWIW_Data\Managed\Unity.Localization.dll</HintPath>
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\Unity.Localization.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.ResourceManager">
-      <HintPath>G:\Games\Little Witch in the Woods\LWIW_Data\Managed\Unity.ResourceManager.dll</HintPath>
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\Unity.ResourceManager.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>G:\Games\Little Witch in the Woods\LWIW_Data\Managed\Unity.TextMeshPro.dll</HintPath>
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\Unity.TextMeshPro.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="UnityEngine">
-      <HintPath>G:\Games\Little Witch in the Woods\LWIW_Data\Managed\UnityEngine.dll</HintPath>
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\UnityEngine.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="UnityEngine.AssetBundleModule">
-      <HintPath>G:\Games\Little Witch in the Woods\LWIW_Data\Managed\UnityEngine.AssetBundleModule.dll</HintPath>
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\UnityEngine.AssetBundleModule.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="UnityEngine.CoreModule">
-      <HintPath>G:\Games\Little Witch in the Woods\LWIW_Data\Managed\UnityEngine.CoreModule.dll</HintPath>
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\UnityEngine.CoreModule.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="UnityEngine.InputLegacyModule">
-      <HintPath>G:\Games\Little Witch in the Woods\LWIW_Data\Managed\UnityEngine.InputLegacyModule.dll</HintPath>
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\UnityEngine.InputLegacyModule.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="UnityEngine.InputModule">
-      <HintPath>G:\Games\Little Witch in the Woods\LWIW_Data\Managed\UnityEngine.InputModule.dll</HintPath>
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\UnityEngine.InputModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.TextCoreFontEngineModule">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\UnityEngine.TextCoreFontEngineModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.TextCoreTextEngineModule">
+      <HintPath>G:\SteamLibrary\steamapps\common\Little Witch in the Woods\LWIW_Data\Managed\UnityEngine.TextCoreTextEngineModule.dll</HintPath>
       <Private>False</Private>
     </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Extractor.cs" />
     <Compile Include="Ignore.cs" />
+    <Compile Include="Inventory.cs" />
     <Compile Include="Translator.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TranslatorComponent.cs" />

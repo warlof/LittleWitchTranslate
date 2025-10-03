@@ -7,6 +7,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using UnityEngine;
 using UnityEngine.SceneManagement;
@@ -35,33 +36,33 @@ namespace TranslatorPlugin
             }
         }
 
-        void ExtractTable(LuaTable table, HashSet<LuaTable> walked = null)
+        void ExtractTable(LuaValue val, HashSet<LuaValue> walked = null)
         {
-            if (table == null)
-                return;
             if (walked == null)
-                walked = new HashSet<LuaTable>();
-            if (walked.Contains(table))
+                walked = new HashSet<LuaValue>();
+            if (walked.Contains(val))
                 return;
-            walked.Add(table);
-            ExtractTable(table.MetaTable);
-            foreach (var kv in table.Dict)
+            walked.Add(val);
+
+            if (val is LuaTable table)
             {
-                if (kv.Value is LuaTable table2)
-                    ExtractTable(table2, walked);
-                if (kv.Value is LuaString str)
+                foreach (var kv in table.Dict)
                 {
-                    Extract(str.Text);
+                    System.IO.File.AppendAllText("keys.txt", kv.Key.ToString() + "\r\n");
+                    ExtractTable(kv.Value, walked);
                 }
+                foreach (var v in table.List)
+                    ExtractTable(v, walked);
+                ExtractTable(table.MetaTable, walked);
             }
-            foreach (var v in table.List)
+            else if (val is LuaMultiValue mv)
             {
-                if (v is LuaTable table2)
-                    ExtractTable(table2, walked);
-                if (v is LuaString str)
-                {
-                    Extract(str.Text);
-                }
+                foreach (var v in mv.Values)
+                    ExtractTable(v, walked);
+            }
+            else if (val is LuaString str)
+            {
+                Extract(str.Text);
             }
         }
 
@@ -69,12 +70,33 @@ namespace TranslatorPlugin
         {
             if (txt == null)
                 return;
+            System.IO.File.AppendAllText("text.txt", txt + "\r\n");
             var trimmed = txt.Trim();
-            if (Translator.IsUnknown(trimmed) && !Found.Contains(trimmed))
+            var lines = trimmed.Split(new char[] { '\n', '\r' }, StringSplitOptions.RemoveEmptyEntries);
+            foreach (var line in lines)
             {
-                System.IO.File.AppendAllText("text.txt", txt + "\r\n");
-                Found.Add(trimmed);
+                var l = line.Trim();
+                System.IO.File.AppendAllText("text.txt", l + "\r\n");
+                if (CheckLine(l) && !Found.Contains(l))
+                {
+                    Found.Add(l);
+                    
+                }
             }
+        }
+
+        bool CheckLine(string line)
+        {
+            if (line == null) return false;
+            if (!Regex.IsMatch(line, "[a-zA-Z]+")) return false;
+            var matches = Regex.Matches(line, "(?:^|})([^\\{\\}]+)(?:\\{|$)");
+            var t = "";
+            for (var i = 0; i < matches.Count; i++)
+            {
+                t += matches[i].Groups[1].Value.Trim();
+            }
+            if (t == "") return false;
+            return true;
         }
 
         void Extract(StringField field)
@@ -106,6 +128,7 @@ namespace TranslatorPlugin
                     Extract(message.parameter);
                 }
             }
+            Extract(quest.id);
 
             if (quest.currentSpeaker != null)
                 Extract(quest.currentSpeaker.displayName);
@@ -199,8 +222,22 @@ namespace TranslatorPlugin
         {
             if (content == null)
                 return;
-            Extract(content.originalText);
-            Extract(content.runtimeText);
+            try
+            {
+                Extract(content.originalText);
+            }
+            catch (Exception e)
+            {
+
+            }
+            try
+            {
+                Extract(content.runtimeText);
+            }
+            catch (Exception e)
+            {
+
+            }
         }
 
         void Update()
@@ -240,8 +277,12 @@ namespace TranslatorPlugin
                         {
                             ExtractFields(kv.fields);
                             if (kv.dialogueEntries != null)
+                            {
                                 foreach (var d in kv.dialogueEntries)
+                                {
                                     ExtractFields(d.fields);
+                                }
+                            }
                         }
                         foreach (var kv in DialogueManager.MasterDatabase.keywords)
                         {
@@ -268,7 +309,7 @@ namespace TranslatorPlugin
                     {
                         System.IO.File.AppendAllText("log.txt", "DialogueManager.MasterDatabase is null\r\n");
                     }
-                //ExtractTable(Lua.Environment);
+                    //ExtractTable(Lua.Environment.GetValue("Conversation"));
                     var properties = typeof(QuestMachine).GetProperties(BindingFlags.FlattenHierarchy | BindingFlags.NonPublic | BindingFlags.Static);
                     foreach (var prop in properties)
                     {
@@ -287,6 +328,32 @@ namespace TranslatorPlugin
                             }
                         }
                     }
+
+                    var newTranslations = new Dictionary<string, string>();
+                    foreach (var kv in Translator.Translations)
+                    {
+                        if (Found.Contains(kv.Key))
+                        {
+                            newTranslations.Add(kv.Key, kv.Value);
+                        }
+                    }
+                    var orig = "";
+                    var trans = "";
+                    foreach (var kv in newTranslations)
+                    {
+                        orig += kv.Key + "\r\n";
+                        trans += kv.Value + "\r\n";
+                        Found.Remove(kv.Key);
+                    }
+
+                    foreach (var l in Found)
+                    {
+                        orig += l + "\r\n";
+                        trans += "\r\n";
+                    }
+
+                    System.IO.File.WriteAllText("newtable.orig", orig);
+                    System.IO.File.WriteAllText("newtable.trans", trans);
                     /*
                     var vals = (Dictionary<string, Quest>) questAssets.GetValue(null);
                     System.IO.File.AppendAllText("log.txt", "Quests: " + vals.Count + "\r\n");*/

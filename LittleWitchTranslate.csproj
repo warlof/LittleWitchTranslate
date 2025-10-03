@@ -2,27 +2,30 @@
 
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
-    <TargetFramework>net6.0</TargetFramework>
+    <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-	<Configurations>Debug;Release;WindowsX64;LinuxX64;MacOS</Configurations>
+	<Configurations>Debug;Release;MacOS;Windows;Linux</Configurations>
 	<ApplicationIcon>littlewitch_icon.ico</ApplicationIcon>
+	<Platforms>AnyCPU;Arm64;x64;x86</Platforms>
   </PropertyGroup>
-  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
-	  <DefineConstants>WINDOWS</DefineConstants>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x86'">
+    <DefineConstants>WINDOWS;WINDOWSX86</DefineConstants>
   </PropertyGroup>
-  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <DefineConstants>WINDOWS;WINDOWSX64</DefineConstants>
   </PropertyGroup>
-  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='WindowsX64|AnyCPU'">
-	  <DefineConstants>WINDOWS</DefineConstants>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Linux|x86'">
+    <DefineConstants>LINUX;LINUXX86</DefineConstants>
   </PropertyGroup>
-  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='LinuxX64|AnyCPU'">
-	  <DefineConstants>LINUX</DefineConstants>
-  </PropertyGroup>
-  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='MacOS|AnyCPU'">
-	  <DefineConstants>MACOS</DefineConstants>
-  </PropertyGroup>
-
+	<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='MacOS|x64'">
+	  <DefineConstants>MACOS;MACOSX64</DefineConstants>
+		<UseAppHost>true</UseAppHost>
+	</PropertyGroup>
+	<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='MacOS|Arm64'">
+	  <DefineConstants>MACOS;MACOSARM64</DefineConstants>
+	    <UseAppHost>true</UseAppHost>
+	</PropertyGroup>
   <ItemGroup>
     <Compile Remove="TranslatorPlugin\**" />
     <EmbeddedResource Remove="TranslatorPlugin\**" />
@@ -38,17 +41,23 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\ModManagerGUI\ModManagerGUI.csproj" />
+    <ProjectReference Include="..\ModManagerGUI\ModManagerGUI.csproj" />
   </ItemGroup>
 
   <ItemGroup>
-    <None Update="table.orig">
+    <None Update="data\font">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Update="table.trans">
+    <None Update="data\newtable.orig">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </None>
+    <None Update="data\table.orig">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Update="TranslatorPlugin.dll">
+    <None Update="data\table.trans">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="data\TranslatorPlugin.dll">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
   </ItemGroup>
