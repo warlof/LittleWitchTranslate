@@ -5014,7 +5014,7 @@ You cannot use this item
 You cannot add more
 There are no items selected
 Your inventory is full.
-You don’t have enough stamina.
+You don’t have enough Stamina.
 View Controls
 Graphic Settings
 Return to Main Menu
@@ -12590,15 +12590,15 @@ If a [em1][lua(GetLocalizedString("Common", "WitchStation"))][/em1] is abandoned
 [em1][lua(GetLocalizedString("Common", "WitchStation"))][/em1] maintenance has been standardized completely.
 It can usually be fixed easily with [em1]materials nearby[/em1].
 Alright, I'll gather materials from the surroundings to repair it.
-Wow, what’s this?
-It’s something you’ve seen before.
-Me? I don’t remember it at all.
-Either way, it’s not needed now, so don’t worry about it.
-You’d only need to know if you were moving here.
+Wow, what's this?
+It's something you've seen before.
+Me? I don't remember it at all.
+Either way, it's not needed now, so don't worry about it.
+You'll probably find out if you move here.
 Then maybe I should move here?
-Let’s think about it after you finish your apprenticeship in Highlion and graduate from the Witch School.
-If I’m still alive by then and not bored to death, that is.
-For now, let’s just not worry about it.
+Let's think about it after you finish your apprenticeship in Highlion and graduate from the School for Witches.
+If I'm still alive by then and not bored to death, that is.
+For now, let's just not worry about it.
 Wisteria's tea is special.
 Stories go with tea the most.
 It's not bad, although some parts are boring.
