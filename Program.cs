@@ -175,7 +175,7 @@ namespace LittleWitchTranslate
                 FileNames = new string[] { "LWIW", "Little Witch in the Woods" },
                 DeveloperName = "SUNNY SIDE UP",
                 SteamAppID = "1594940",
-                AdditionalMods = new string[][] { new string[] { "German translation", "Deutsche Übersetzung" }, new string[] { "Craft from storage", "Herstellen aus Lager" }, new string[] { "Sleep anytime", "Jederzeit schlafen" } },
+                AdditionalMods = new string[][] { new string[] { "German translation", "Deutsche Übersetzung" }, new string[] { "French translation", "Französische Übersetzung" }, new string[] { "Craft from storage", "Herstellen aus Lager" }, new string[] { "Sleep anytime", "Jederzeit schlafen" } },
                 StandardMods = new int[]{ 0 }
             });
         }

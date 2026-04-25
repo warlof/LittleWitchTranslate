@@ -18,10 +18,8 @@ You also need to add the ModManagerGUI project from my GitHub
 
 | File                     | Language       |
 | ------------------------ | -------------- |
-| `data/table.trans`       | German (de-DE) |
+| `data/table.de-DE.trans` | German (de-DE) |
 | `data/table.fr-FR.trans` | French (fr-FR) |
-
-To use a different translation, copy or rename the desired `*.trans` file to `table.trans` before running the tool.
 
 ## Automating translation
 
