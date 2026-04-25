@@ -259,7 +259,7 @@ namespace LittleWitchTranslate
             WriteLog("Assembly saved successfully!");
             var config = "";
 
-            if (options.Contains(0))
+            if (options.Contains(0) || options.Contains(1))
             {
                 if (System.IO.File.Exists(System.IO.Path.Combine(translatorBackupPath, "DialogueSystem.dll")))
                     System.IO.File.Copy(System.IO.Path.Combine(translatorBackupPath, "DialogueSystem.dll"), System.IO.Path.Combine(managedPath, "DialogueSystem.dll"), true);
@@ -295,7 +295,7 @@ namespace LittleWitchTranslate
 
                 System.IO.File.Copy(System.IO.Path.Combine(translatorBackupPath, "SunnySideUp.HUD.Contents.dll"), System.IO.Path.Combine(managedPath, "SunnySideUp.HUD.Contents.dll"), true);
             }
-            if (options.Contains(1))
+            if (options.Contains(2))
             {
                 WriteLog("Applying storage crafting mod...");
                 var items = System.IO.Path.Combine(translatorBackupPath, "SunnySideUp.Item.dll");
@@ -581,7 +581,7 @@ namespace LittleWitchTranslate
                 System.IO.File.Copy(System.IO.Path.Combine(translatorBackupPath, "SunnySideUp.UI.CollectiblesCraftingUI.dll"), System.IO.Path.Combine(managedPath, "SunnySideUp.UI.CollectiblesCraftingUI.dll"), true);
             }
 
-            if (options.Contains(2))
+            if (options.Contains(3))
             {
                 WriteLog("Applying sleep anytime mod...");
                 var sleep = System.IO.Path.Combine(translatorBackupPath, "Sleep.dll");
@@ -634,13 +634,27 @@ namespace LittleWitchTranslate
             var currentDirectory = System.IO.Path.GetDirectoryName(Environment.ProcessPath);
             if (Path.GetFullPath(currentDirectory) != Path.GetFullPath(gameDirectory))
             {
-                if (options.Contains(0))
+                if (options.Contains(0) || options.Contains(1))
                 {
+                    string translatingFile = "table.de-DE.trans"; // default translation remain german
+                    if (options.Contains(1))
+                    {
+                        translatingFile = "table.fr-FR.trans";
+                    }
+
                     var copyFiles = new string[] { "table.orig", "table.trans", "font" };
                     foreach (var copyFile in copyFiles)
                     {
-                        WriteLog("Copying " + copyFile);
-                        File.Copy(Path.Combine(currentDirectory, "data", copyFile), Path.Combine(gameDirectory, copyFile), true);
+                        string srcFile = copyFile;
+                        string dstFile = copyFile;
+
+                        if (dstFile == "table.trans")
+                        {
+                            srcFile = translatingFile;
+                        }
+
+                        WriteLog("Copying " + srcFile);
+                        File.Copy(Path.Combine(currentDirectory, "data", srcFile), Path.Combine(gameDirectory, dstFile), true);
                     }
                 }
             }

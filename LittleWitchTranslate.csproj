@@ -54,7 +54,10 @@
     <None Update="data\table.orig">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Update="data\table.trans">
+    <None Update="data\table.de-DE.trans">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="data\table.fr-FR.trans">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
     <None Update="data\TranslatorPlugin.dll">
