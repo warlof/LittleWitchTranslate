@@ -716,7 +716,7 @@ Kyla
 Freddie
 Rubrum
 Sparkle
-Équipage du Train
+Personnel de bord
 Vinch
 Aller au lieu de travail
 Aller à la Maison de la Sorcière
@@ -3072,10 +3072,10 @@ Je dirais sans hésiter « être dans le train pour Highlion ».
 Argh, je déteste vraiment prendre le train...
 Tout serait tellement plus amusant que de prendre le train.
 Bavardages
-Témoignages personnels
+Histoires personnelles
 Boutique
 Bottes à lacets
-C'est pénible de porter des bottes à lacets si on prend le train pour Highlion ?
+Est-ce pénible de porter des bottes à lacets si on prend le train pour Highlion ?
 Une plume extrêmement rare et coûteuse. Elle est imprégnée dans le billet de train.
 La sorcière disparue
 Une sorcière qui s'est évaporée
@@ -3199,7 +3199,7 @@ Tu ferais mieux de demander à quelqu'un qui connaît bien la forêt.
 Des plantes qui ont une histoire
 Y a-t-il des plantes qui portent des histoires sur Wisteria ?
 Trouvez quelqu'un qui connaît bien l'histoire du village.
-Ceci
+Quête
 Test de niveau de livraison de potions : Débutant
 Livraison de potions disponible : Débutant
 Débloquez la livraison de potions du niveau de difficulté suivant.
@@ -4852,8 +4852,8 @@ Mots-clés
 Vous pouvez utiliser des mots-clés pour parler aux villageois ou leur poser des questions sur des sujets précis.
 Il existe des mots-clés généraux et des mots-clés spécifiques.
 Les mots-clés généraux sont des mots-clés permanents qui s'appliquent à tous les villageois.
-Les mots-clés spéciaux sont destinés à certaines situations, comme les quêtes, et disparaissent après un certain nombre d'utilisations.
-Vous pouvez consulter les mots-clés disponibles sur la page « Mots-clés » de la revue.
+Les mots-clés spécifiques sont destinés à certaines situations, comme les quêtes, et disparaissent après un certain nombre d'utilisations.
+Vous pouvez consulter les mots-clés disponibles sur la page « Mots-clés » du journal.
 Ouvrir le menu
 Sélectionner un journal
 Wisteria abrite de nombreux chats.
@@ -5135,7 +5135,7 @@ Tu n'as pas assez d'endurance.
 {amount} pièces
 {count} fois
 {remain}/{total} fois
-Objet collectionné
+Objets collect.
 La tentation
 Informations
 Thème de recherche
@@ -9792,7 +9792,7 @@ Oui, et moi aussi, je me suis bien amusé.
 Et quel cas intéressant !
 Tout le monde fait des erreurs ! Pas de souci.
 Hé… En fait, c'est moi qui l'ai aidé à le trouver, non ?
-Qu'est-ce que tu veux dire ?
+Qu'est-ce que vous voulez dire ?
 En cassant le poteau, on voyait tout de suite d'où il venait.
 Roi
 Même si tu attrapes une souris en reculant, personne ne t'applaudira.
@@ -11906,7 +11906,7 @@ Saviez-vous que c'est cette sorcière qui a été la première à proposer ce tr
 Je sais. Et ce n'est pas un cours, M. Virgil.
 C'était toujours son nom qui venait en premier lorsqu'on énumérait les sorcières ayant accompli de grands exploits.
 Tu veux dire cette chanson bizarre.
-Je me suis creusé la tête pour le créer, d'accord ?
+Je me suis creusé la tête pour la créer, d'accord ?
 Je me la chantais dans ma tête pendant que je passais mon examen d'histoire.
 On peut d'ailleurs la croiser dans les trains aussi.
 En fait, cette sorcière me plaît bien.
@@ -12894,7 +12894,7 @@ Maintenant que les outils sont réparés, il est temps de faire un grand nettoya
 Il est tard, pourquoi ne rentrerais-tu pas pour aujourd'hui ?
 Ah, bien sûr...
 Oh, je peux poser encore une question ?
-Vas-y.
+Allez-y.
 Alvin, tu es clairement un sorcier. Comment as-tu fini par devenir un [em1]acteur[/em1]?
 J'ai entendu dire que les sorcières ne s'intéresseraient pas du tout au théâtre.
 Est-ce toujours le cas aujourd’hui ? Les sorcières ne changent vraiment jamais.
@@ -15197,7 +15197,7 @@ Mon dos.
 Je devrais revenir avec[em1]5[lua(GetLocalizedString("Item", "TearOfDragon_Name"))]s[/em1].
 Quelle page dois-je lire ?
 Arden commencera alors à[em1]Ramasser des fruits[/em1]des arbres voisins.
-Voir le[em1]Revue[/em1]et cherchez les lieux[lua(GetLocalizedString("Item", "TearOfDragon_Name"))]s peuvent être placés.
+Voir le[em1]Journal[/em1]et cherchez les lieux[lua(GetLocalizedString("Item", "TearOfDragon_Name"))]s peuvent être placés.
 Arden dit que le[lua(GetLocalizedString("Item", "TearOfDragon_Name"))] [em1]résonne avec[lua(GetLocalizedString("Item", "TearOfDragon_Name"))]s du même dragon[/em1]. Je ne dois pas perdre celui-ci.
 Quelque chose brille ici. On dirait un[lua(GetLocalizedString("Item", "TearOfDragon_Name"))]!
 Je l’ai trouvé ! C’est un[lua(GetLocalizedString("Item", "TearOfDragon_Name"))]!
@@ -19103,24 +19103,24 @@ Je n’ai pas le choix.
 Non, je veux dire, tu vas vraiment partir quand le train arrive ?
 Je déciderai quand ça viendra.
 Réparons d’abord l’Extracteur.
-Quelque chose te tracasse ?
-Tu veux de l’eau ?
+Quelque chose vous tracasse ?
+Désirez-vous de l’eau ?
 Quoi de neuf ?
 Bonjour, Monsieur le Barman.
-Hé ! Tu veux un verre ?
-Non, je ne bois pas d’alcool. Tu as du thé ?
+Hé ! Vous désirez un verre ?
+Non, je ne bois pas d’alcool. Avez-vous du thé ?
 Alors je prendrai une tasse de ça.
-Le thé contient de l’alcool, cependant. Ça te va ?
-Mais ça, c’est juste de l’alcool. Alcool avec du thé.
+Par contre, le thé contient de l’alcool. Cela vous convient ?
+Mais alors, c’est juste de l’alcool. De l'alcool avec du thé.
 Patate, pomme de terre.
 Tu sais comment sortir, non ?
 Le[em1]Sortie[/em1]est[em1]à côté du canapé[/em1]là-bas.
 Je le savais.
-... Alors puis-je te poser une question au lieu d’un verre ?
+... Alors puis-je vous poser une question au lieu de prendre un verre ?
 N’importe quand.
 Tu sais pourquoi le train s’est arrêté tout à coup ?
 J’ai vu un[em1]Arbre mystérieux[/em1]Dehors, par la fenêtre.
-Dis-moi si tu as besoin de quelque chose à boire.
+Dites-moi si vous désirez quelque chose à boire.
 J’ai été là avec toi tout ce temps.
 J’en sais autant que toi.
 Le train s’arrête-t-il souvent ?
@@ -19149,51 +19149,51 @@ Ce n’est nulle part d’exceptionnel.
 Rien ne valait une ville tentaculaire comme Highlion.
 Au moins, ça devrait être mieux qu’une grande maison de sorcière ennuyeuse.
 J’ai soudain un mauvais pressentiment.
-Pourquoi travailles-tu ici comme barman, et pas dans un bar ?
-Je n’ai peut-être pas l’air du rôle, mais j’étais une grande star à l’époque.
+Pourquoi travaillez-vous ici comme barman, et pas dans un bar ?
+Je n’en ai peut-être pas l’air, mais à l’époque, j’étais quelqu’un d’important.
 Quel genre de travail faites-vous ici ?
 Les cocktails sont ma spécialité.
 J’aime préparer des boissons, mais j’aime aussi les boire.
 Je mélange ma vie et je change l’alcool.
-Attends, je pense que c’est l’inverse.
-Je suis juste un type moyen[em1]Barman[/em1]Travailler dans l’endroit le plus cher du monde.
+Attendez, je pense que c’est l’inverse.
+Je ne suis qu'un [em1]Barman[/em1] comme les autres, travaillant dans l’endroit le plus cher du monde.
 Qu’est-ce qui vous amène dans ce train si cher ?
-Je croyais que tu écoutais notre conversation ?
+Je croyais que vous écoutiez notre conversation ?
 J’ai arrêté d’écouter quand c’est devenu ennuyeux.
-Je vais devenir un[em1]Apprenti[/em1]à la Maison de la Sorcière dans[em1]Highlion[/em1].
-Après avoir travaillé comme apprenti pour[em1]3 ans[/em1], je pourrai[em1]Diplômé[/em1]de l’École des Sorcières.
-Waouh ![em1]Highlion[/em1], hein ? C’est un endroit animé, non ?
+Je vais devenir [em1]apprentie[/em1] à la Maison de la Sorcière à [em1]Highlion[/em1].
+Après avoir travaillé comme apprentie pendant [em1]3 ans[/em1], je pourrai être [em1]diplômé[/em1] de l’École des Sorcières.
+Waouh ! [em1]Highlion[/em1], hein ? C’est un endroit animé, non ?
 C’est ce qu’on dit.
-C’est probablement pour ça que tu as eu le billet de train gratuitement.
-Tu dois être quelqu’un de spécial.
+C’est probablement pour ça que vous avez eu le billet de train gratuitement.
+Vous devez être quelqu’un de spécial.
 Mais ce genre de choses ne m’intéresse pas vraiment.
-[em1]« Ce genre de choses »[/em1]c’est ce qui compte au final.
-Il vaut mieux faire avec. Tu seras content de l’avoir fait plus tard, tu sais.
-Oui,[em1]« Plus tard »[/em1]...
-J’ai déjà possédé un[em1]bar[/em1].
+[em1]« Ce genre de choses »[/em1] c’est ce qui compte au final.
+Il vaut mieux faire avec. Vous serez contente de l’avoir fait plus tard, vous savez.
+Oui, [em1]« plus tard »[/em1]...
+J’ai déjà possédé un [em1]bar[/em1] par le passé.
 Dans cette région ?
-Bien sûr. Ma femme et moi, le[em1]Nous deux[/em1]...
+Bien sûr. Ma femme et moi, [em1]tous les deux[/em1]...
 Waouh, vous êtes tous les deux barmans.
 Je l’ai rencontrée au travail, après tout.
 Nous avons dû déménager à cause des circonstances, donc nous voilà maintenant.
 J’espère qu’un jour vous ouvrirez un bar à nouveau.
-Quelqu’un demande ?
+Est-ce que quelqu’un à demandé ?
 Virgil, tais-toi.
-Tu devais être très populaire.
+Vous deviez être très populaire.
 Il y avait des clients qui venaient au bar juste pour me voir.
-Même aujourd’hui, j’en suis encore fier[em1]Cils[/em1]à moi.
+Même aujourd’hui, je suis encore très fière de mes [em1]cils[/em1].
 Après tout, même ma femme a dit qu’elle était tombée amoureuse d’eux en premier.
 Wow...
 Un conte romantique qui commence par des cils...
 Nous ne vendons que de l’alcool pour l’instant.
 Tu peux regarder mes chaussures ?
 Tes chaussures ? Pourquoi faire ?
-D’après ce que j’ai entendu, il faut enlever ses chaussures avant de mettre les pieds à la station Highlion.
-Tu travailles au train, donc tu sais de quoi je parle, non ?
+D’après ce que j’ai entendu, il faut enlever ses souliers avant de mettre les pieds à la station Highlion.
+Vous travaillez dans le train, donc vous devez savoir de quoi je parle, non ?
 Oh, cette histoire.
-D’accord. J’en ai vu plein[em1]confus[/em1]des passagers tous habillés pour Highlion, pour se retrouver dans la mauvaise situation.
+Effectivement. J’ai vu plein de passagers [em1]confus[/em1], bien apprêtés pour Highlion, mais ayant fini avec les mauvaises chaussures.
 Si vous portez ce genre de chaussures, je vous conseille de les défaire à l’avance.
-Ô vous qui atteignez Highlion, regardez d’abord vos chaussures ! Ou du moins, c’est ainsi que dit le proverbe.
+"Ô vous qui atteignez Highlion, prenez garde à vos chaussures !" En tous cas, c’est ce que dit le dictons.
 Tu vois, Virgil ? J’avais raison !
 Ces bottes à enfiler que maman m’a données m’en disent autant.
 Ce sont de belles bottes.
@@ -19217,24 +19217,24 @@ Rien ne s’est passé la quatrième fois, alors je l’ai secoué une fois de p
 Un esprit curieux. Tu as déjà le talent d’une belle sorcière.
 Merci pour les éloges.
 Je ne te félicitais pas.
-Je devrais y aller alors.
-Très bien, bon voyage.
+Je devrais y aller dans ce cas.
+Très bien, passez un agréable voyage.
 Tu ne peux pas faire le plouc une fois en ville, compris ?
-Tu ne vas pas demander à une seule personne, hein ?
-Quelle que soit la recherche que vous faites, un échantillon n’est jamais suffisant, vous savez.
+Tu ne vas pas te contenter de demander à une seule personne, rassure-moi ?
+Quelle que soit la recherche que tu fais, un échantillon n’est jamais suffisant, tu le sais bien.
 Même les meilleurs détectives ne peuvent pas parvenir à la vérité sur la base d’une seule preuve.
 Hmm... Tu as raison.
 Demandons aussi aux autres.
-S’il y a quelqu’un d’autre dans ce train, bien sûr.
-Les trains sont assez rares, tu sais...
-Ainsi, les constructeurs ont commencé à recevoir toutes sortes de retours dès qu’ils ont construit la première station.
+En admettant qu'il y ait quelqu’un d’autre dans ce train, bien sûr.
+Les trains sont assez rares, vous savez...
+Une fois la première station achevée, les constructeurs ont commencé à recevoir toutes sortes de commentaires.
 C’est pour ça qu’on a fini avec ces règles étranges.
 Demandons aussi aux passagers dans d’autres voitures.
-J’aurais dû déchirer cette stupide affaire[em1]Billet[/em1]Là, tout de suite.
-Regardez ce motif idiot. On dirait qu’il y a des plumes d’aisselle en forme de phénix !
-Bien que ce ne soit pas de l’aisselle, ça l’a définitivement fait[em1][lua(GetLocalizedString("Item", "Phoenix_Collect_Name"))][/em1]Phoenix.
-C’est pour empêcher les gens de[em1]Contrefaçon[/em1]Des billets tellement chers.
-Tu es vraiment un je-sais-tout. Personne n’a demandé.
+J’aurais dû déchirer ce stupide [em1]Billet[/em1] sur-le-champ.
+Regarde un peu ce motif complètement ridicule. On dirait qu’il y a des plumes d’aisselle de phénix dessus !
+Même si cela ne vient pas de l’aisselle, il s'agit bel et bien d'une [em1][lua(GetLocalizedString("Item", "Phoenix_Collect_Name"))][/em1].
+C’est pour empêcher les gens de [em1]contrefaire[/em1] ces billets hors de prix.
+Tu es vraiment un monsieur je-sais-tout. Personne ne t’a rien demandé, on s'en fiche.
 Profitez-vous du trajet en train le plus cher du monde ?
 Pour une sorcière comme vous, je vous donnerai ceci au lieu du thé trafiqué habituel.
 Après tout, un barman ne devrait jamais laisser un client partir les mains vides.
@@ -25834,7 +25834,7 @@ Je suis encore en train de me préparer.
 Grâce aux fréquentes visites d’Ellie à la boutique de fleurs, elle semble pleine de vie.
 Donc je pense à en placer quelques-uns[em1]mobilier varié[/em1]dans la boutique de fleurs. Bien sûr, je vais aussi augmenter le[em1]Matériel[/em1].
 Les améliorations seront prêtes à vous voir dès demain.
-Parle.
+Parlez.
 Il est évident qu’il faut arroser les plantes le matin.
 Bonjour.
 Je m’occupe des fleurs pour qu’elles ne fanent pas.
@@ -25973,27 +25973,27 @@ On dirait vraiment quelque chose sorti d’un conte de fées... Très bien. Si j
 Ah, si Dana y va, peut-être pourrais-tu aussi envisager d’inviter Clala.
 Puisque c’est une expérience spéciale, ce serait encore mieux si la famille pouvait s’unir.
 Avant ça...
-Tu fixes mes pieds depuis un moment, y a-t-il un problème ?
-Oh, j’allais demander de toute façon. Ce n’est pas embêtant de porter des bottes à lanières ?
+Vous fixez mes pieds depuis un moment, y a-t-il un problème ?
+Oh, j’allais justement vous poser la question. Ce n’est pas pénible de porter des bottes avec autant de lanières ?
 Il faut un certain temps pour les mettre et les enlever, mais j’y suis habitué.
-Alors ce serait difficile pour toi à ton arrivée à Highlion.
-Quoi ? De quoi tu parles... ?
+Alors ça va être embêtant pour vous à votre arrivée à Highlion.
+Quoi ? De quoi parlez-vous... ?
 Je veux dire, il faut enlever ses chaussures en descendant.
-Oh, tu plaisantais. Désolé, je suis plutôt ennuyeux quand il s’agit de choses comme ça...
+Oh, vous plaisantiez. Désolé, je suis un peu long à la détente quand il s’agit de ce genre de choses...
 <shake>Jenny !!!</shake>
 <shake>Monsieur le barman !!</shake>
 Enfin, mystère résolu.
-Ai-je fait une erreur ?
-Non, non... Je viens de réaliser que j’ai été trompé.
+Ai-je commis une erreur ?
+Non, non... Je viens de réaliser que j’ai été dupé.
 En y repensant, je m’en souviens maintenant. C’est une blague pour se moquer des gens qui visitent Highlion pour la première fois...
-Arrête. Tu n’as pas besoin de me tuer deux fois en donnant autant de détails.
+Arrêtez. Vous n’avez pas besoin de me tuer deux fois en donnant autant de détails.
 Je suis désolé.
-Tu retiens ton rire ?
+Vous vous retenez de rire ?
 ... Non, je ne le suis pas.
 Il fait tellement d’efforts pour être attentionné envers toi. Ne demande pas deux fois.
 Virgil, je te déteste encore plus maintenant.
-Tu n’as pas à être trop contrarié.
-Quand j’y suis allé pour la première fois dans le passé, un collègue m’a aussi trompé et je les ai enlevés.
+Vous n’avez pas à être trop contrarié.
+Quand j’y suis allé pour la première fois dans le passé, un collègue m’a aussi eu et j'ai fini par les enlever.
 Cela ne me rassure pas du tout.
 Il y a plein de lettres dont les destinataires ne sont pas précisés ?
 Ça devrait être une blague si tu veux mon avis... Brad a toujours aimé faire des blagues.
@@ -26361,11 +26361,11 @@ S’il veut te le remettre en personne, ce sera peut-être quelque chose de frai
 Cette fois, je dois être mentalement prêt à recevoir un cadeau.
 ... Oh. Bonjour.
 Je vous dérange ?
-Négatif. Quel est le problème ?
-Oh, je veux te demander quelque chose.
-Tu es en route pour Highlion, non ?
-Oh... C’est juste que tu as une façon très rigide de parler.
-Oh là là. Les vieilles habitudes ont la vie dure, surtout quand on est profondément pensé.
+Non. Quel est le problème ?
+Oh, je voudrais vous demander quelque chose.
+Vous êtes en route pour Highlion, non ?
+Oh... C’est juste que vous avais une façon très sèche de répondre.
+Oh là là. Les vieilles habitudes ont la vie dure, surtout quand on est plongé dans ses pensées.
 Tu ressembles au concierge de mon école.
 Eh bien, j’étais soldat.
 Alors, qu’est-ce qui t’amène ici ?
@@ -27892,13 +27892,13 @@ Boutique de fleurs
 Légendes sur les fleurs
 Journal
 Connectez-vous avec les gens
-Tu habites à Highlion ?
+Vous habitez à Highlion ?
 Exact. Je possède une boutique de fleurs là-bas.
-Où vas-tu ?
-Pour retrouver un vieil ami à moi.
-Waouh, tu dois être excité.
+Où allez-vous ?
+Retrouver un vieil ami à moi.
+Waouh, vous devez être impatient.
 ... Exact.
-Vous ne trouverez rien d’excitant chez moi, Mlle Sorcière.
+Vous ne trouverez rien d’excitant chez moi, Mlle la Sorcière.
 Je suis juste un homme ordinaire.
 Je me réveille toujours à une heure fixe le matin.
 Manipuler des fleurs me rassure l’esprit.
@@ -28897,19 +28897,19 @@ Quand il fait beau !
 Ils se blottissaient dans des coins.
 Juste. Les beaux jours, nous voulons aussi faire une sieste.
 Un peu plus loin se trouve la salle des machines.
-Les banalités sont interdites pendant l’opération.
-Je suis employé chez Brightman Railroads.
+Les bavardages sont interdits pendant le service.
+Je suis un employé de la compagnie Brightman.
 Mon travail est d’assurer le confort et la sécurité des passagers.
-Merci de garder toute question concernant les souvenirs à la gare jusqu’après être descendu du train.
+Veuillez attendre d'être descendu du train pour poser toute question concernant les souvenirs à la gare.
 Nous ne vérifions pas la tenue des passagers.
 Même si vous ne vérifiez pas, il est gênant de descendre si vous portez des bottes à lacets.
 Il existe tellement de types de vêtements différents qui causent de l’inconfort que je ne peux pas tous les définir.
-Et qu’en est-il du mal à enlever ses chaussures en descendant ?
+Et qu’en est-il des difficultés à enlever ses chaussures lors de la descente ?
 Des retards surviennent de temps en temps à cause de leurs chaussures, mais encore une fois, ce n’est pas réglementé.
 Je suppose qu’il n’y a pas d’amende.
-N’est-ce pas une question de nuire à la réputation sociale plutôt que d’une amende ?
+N’est-ce pas une question de fierté mal placée plutôt qu’une question d'amende ?
 Pour déposer une plainte, veuillez suivre la procédure.
-Selon le règlement du train Brightman, nous ne pouvons pas accepter les effets personnels des passagers.
+Conformément au règlement de la compagnie Brightman, nous ne pouvons pas accepter les effets personnels des passagers.
 J’ai entendu dire qu’il faut un public quand on se produit.
 Enite dit qu’il est important de prendre l’air de temps en temps.
 C’est... juste une habitude.
@@ -29493,7 +29493,7 @@ Je veux aider les personnes à proximité et celles qui en ont besoin.
 Amusant
 J’ai grandi en écoutant toujours l’histoire de l’aventure de ma mère.
 Je voulais vraiment partir dans ce genre d’aventure un jour.
-Un arbre brillant dans la montagne ! Des vignes épineuses partout ! Des plantes et des animaux rares !
+Un arbre scintillant dans la montagne ! Des vignes épineuses partout ! Des plantes et des animaux rares !
 Pour moi, rester dans ce village semblait bien plus amusant que d’aller à Highlion.
 Remise des diplômes
 Je veux devenir une vraie sorcière comme mon parent.
@@ -31195,19 +31195,19 @@ Maintenant, il est temps de ranger la maison.
 Je devrais faire[lua(GetLocalizedString("Item", "MoonOil_Name"))].
 Tu dois faire [em1][lua(GetLocalizedString("Item", "MoonOil_Name"))][/em1] Avant que tu partes.
 Je devrais aller voir Rubrum d’abord.
-Bon, soyez patients et restez assis.
+Bon, maintenant, sois un peu patiente et reste assise.
 Oui, regarde dehors... ! Regarde cette montagne !
-Il doit cacher une grotte avec une chambre carrelée au fond de l’intérieur. Il y aurait de hauts piliers, d’étranges statues... et une porte géante, devant laquelle vous trouverez...
-On dirait le prologue d’une histoire où vous réveillez un terrible démon.
+Elle dissimule une grotte au fond carrelé, avec hautes colonnes, statues étranges… et une porte titanesque devant laquelle tu trouveras…
+On dirait le prologue d’une histoire dans laquelle tu réveilles un terrible démon.
 Attends, tiens bon ! Virgil, tais-toi et regarde par la fenêtre. Au sommet de la montagne.
-Il y a un [em1]Arbre gigantesque brillant[/em1].
-A [em1]<wave>Arbre gigantesque brillant</wave>[/em1]!
+Il y a un [em1]arbre gigantesque et scintillant[/em1].
+Un [em1]<wave>arbre gigantesque et scintillant</wave>[/em1] !
 Pourquoi brille-t-il ? A-t-il des fleurs lumineuses ? Il doit être beau de près.
 Abandonne. Ce train ne s’arrêtera pas avant deux jours.
 Ugh... Je veux sortir maintenant !
 J’espère qu’on va s’écraser.
-Il y a peu de chances que ça arrive, alors ennuye-toi.
-Après tout, tu t’es engagé pour trois ans d’ennui encore plus.
+Il y a peu de chances que ça arrive, alors ennuie-toi.
+Après tout, tu t’es engagée pour trois ans d'un ennui mortel... je te laisse savourer.
 Il n’y a pas de crocophantes dans le coin ?
 Qu’en est-il des boas constricteurs ?
 Ce n’est pas une jungle.
@@ -31227,16 +31227,16 @@ Regarde par la fenêtre si tu t’ennuies autant.
 S’il te plaît...
 Si je devais poser une question, ce serait à propos de la montagne juste là-bas !
 Un problème critique, peut-être ?
-Le train ne peut pas poursuivre son trajet en raison d’un [em1] Question cruciale[/em1]...
-Attention. Le train s’arrêtera jusqu’à ce que [em1]Demain matin[/em1], et l’heure de départ...
+Le train ne peut pas poursuivre son trajet en raison d’un [em1]incident majeur[/em1]...
+Attention. Le train restera à l'arrêt jusqu’à [em1]demain matin[/em1], et l’heure de départ...
 On peut sortir ?
 ... sera probablement annoncé demain. Nous partirons immédiatement si possible...
 D’accord, je reviens dans un moment !
-En attendant, évite de t’éloigner trop du train...
+En attendant, évitez de trop vous éloigner du train...
 Je ne sais pas si tu t’en souviens mais...
-Bien sûr que je m’en souviens ! L’arbre brillant est à la[em1]Pic[/em1].
+Bien sûr que je m’en souviens ! L’arbre scintillant est à la [em1]cime[/em1].
 Non, pas ça.
-On doit revenir [em1]Demain matin[/em1].
+On doit revenir [em1]demain matin[/em1].
 Alors on devrait y aller !
 Bon, j’ai enlevé le noyau.
 Ces lianes agaçantes devraient avoir disparu maintenant !
@@ -31263,9 +31263,9 @@ Allons au nouvel endroit maintenant.
 Comment te sens-tu ?
 <shake>Qu’est-ce que tu veux dire ?</shake>
 Tes molaires pourraient tomber. Détends-toi un peu quand tu parles.
-Je n’arrive pas à croire que Jenny m’ait trompée...
+Je n’arrive pas à croire que Jenny m’ait menti...
 Il y a une raison pour laquelle elle est ton amie.
-Maintenant, retournez à votre place tranquillement et attendez notre arrivée.
+Maintenant, retournes à ta place tranquillement et attends notre arrivée.
 Il nous reste encore trois jours.
 Encore trois jours... c’est aussi terrible que l’odeur des champignons shiitake tachetés.
 Beurk... dégoûtant...
@@ -33997,7 +33997,7 @@ Boîte d’échange pour bourses de pièces d’or
 Boîte d’échange de la pochette Luna
 <color=#a03c3a>Principale</color>
 La vérité est toujours la même !
-Un arbre brillant
+Un arbre scintillant
 À la recherche d’une créature curieuse
 Vers des lieux renouvelés
 Réparation des outils de traitement
