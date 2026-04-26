@@ -3319,7 +3319,7 @@ Utilise l'huile de lune pour te débarrasser des vignes épineuses géantes et a
 Cherche les lianes épineuses près du lac.
 Enlève la laitue toxique près du lac.
 Rendez le sac trouvé à son propriétaire.
-Trouvez la bouteille en verre pour l'Extractor
+Trouvez la bouteille en verre pour l'Extracteur
 Dissipez la malédiction d'Aurea et obtenez la fiole en verre pour l'Extracteur
 Fixez l'extracteur à la bouteille en verre.
 Faut-il enlever ses chaussures en arrivant à Highlion ? Demandez aux autres
@@ -5625,7 +5625,7 @@ Ellie.
 Virgile, tout d'abord, je ne suis pas stupide.
 Deuxièmement, ne me compare pas à un champignon.
 Arrête de lire
-La couverture violet foncé du livre est légèrement souple mais solide. L'auteur indiqué est Mara Smith.
+La couverture violette foncé du livre est légèrement souple mais solide. Le nom de l'auteur est Mara Smith.
 Où dois-je chercher ?
 Je n'ai pas besoin de dormir.
 Je dois retourner au train.
@@ -5649,20 +5649,20 @@ Virgile...
 C'est donc dans ce village que tu vas passer trois ans. Ça te plaît ?
 Ça te dit de retourner à Highlion ?
 Mais qu'est-ce qui s'est passé ici ?
-Quels sont [em1]toutes ces vignes épineuses[/em1] Qu'est-ce que tu fais ici ?
+Qu'est-ce que font [em1]toutes ces vignes épineuses[/em1] ici ?
 Je ne sais même pas quoi dire.
 Je suis tellement contente.
-Allons voir [em1]Rouge[/em1] d'abord.
+Allons voir [em1]Rubrum[/em1] d'abord.
 Et… Il y a quelque chose qui cloche.
-Tout le monde trouverait cela étrange. Pourquoi ces [em1]les plantes grimpantes épineuses ne poussent que sur les maisons[/em1]?
+Tout le monde trouverait cela étrange. Pourquoi ces [em1] plantes grimpantes épineuses ne poussent que sur les maisons[/em1]?
 Non, ce n'est pas ce que je voulais dire.
-On dirait que [em1]Je suis ici depuis[/em1] avant, pour une raison quelconque.
+On dirait que [em1]je suis venue ici[/em1] auparavant, pour une raison quelconque.
 Est-ce une sorte de cliché et d'allusion sans intérêt ?
 Tu n'as sûrement jamais mis les pieds ici.
 Ils ne viennent pas de si loin juste pour le pique-nique de l'école de sorcellerie.
-Mais quelque chose [em1]ça me semble familier[/em1], vraiment.
+Mais quelque chose [em1]me semble familier[/em1].
 As-tu rencontré le charpentier volant ?
-Je ne sais pas. On dirait bien que j'ai eu un [em1]rêve[/em1] mais...
+Je ne sais pas. On dirait bien que j'ai fait un [em1]rêve[/em1] mais...
 Je ne me souviens de rien.
 Tu es nerveuse ou quoi, c'est ton premier jour en tant qu'apprentie sorcière ?
 Bien sûr que non.
@@ -5671,32 +5671,32 @@ Bien sûr !
 Tu sais quoi faire ?
 Je vais d'abord demander à Enite ce qu'elle en pense.
 Même si elle va bien sûr donner son accord, j'attendrai de l'avoir entendu moi-même.
-Nous allons jeter un œil à [em1]maison de menuisier[/em1] et essayer de [em1]se débarrasser des lianes épineuses[/em1].
-N'oubliez pas que nous n'avons pas [em1][lua(GetLocalizedString("Item", "Phoenix_Collect_Name"))][/em1] à gauche.
+Nous allons jeter un œil à la [em1]maison du menuisier[/em1] et essayer de [em1]nous débarrasser des lianes épineuses[/em1].
+N'oubliez pas que nous n'avons plus de [em1][lua(GetLocalizedString("Item", "Phoenix_Collect_Name"))][/em1].
 Tout finira par s'arranger.
-Allons à [em1]Enite[/em1] d'abord.
+Allons voir [em1]Enite[/em1] d'abord.
 Essaie de résumer ce que tu as entendu.
-Enite a déclaré avoir [em1]caractéristiques similaires[/em1] sous le nom de « vigne épineuse blanche ».
-C'est Rubrum qui l'a dit [em1]ça sent comme [lua(GetLocalizedString("InteractableObject", "LittleHoneyPumkin"))][/em1]. Alors c'est probablement aussi [em1]similaire[/em1] vers le[lua(GetLocalizedString("InteractableObject", "LittleHoneyPumkin"))].
+Enite a déclaré que cela à des [em1]caractéristiques similaires[/em1] à la « vigne épineuse blanche ».
+C'est Rubrum qui l'a dit [em1]ça sent comme [lua(GetLocalizedString("InteractableObject", "LittleHoneyPumkin"))][/em1]. Alors c'est probablement [em1]similaire[/em1] à la[lua(GetLocalizedString("InteractableObject", "LittleHoneyPumkin"))].
 Arden... ne m'a rien dit de particulier.
-Il a dit que c'était «[em1]la malveillance de quelqu'un[/em1]« ».
+Il a dit que c'était à cause de la «[em1]la malveillance de quelqu'un[/em1]« ».
 Il suffit de voir une plante grimpante épineuse capable de détruire et de ravager une maison pour en venir à cette conclusion.
-Il semble qu'Arden pense que c'est le [em1]le travail d'une sorcière[/em1].
+Il semble qu'Arden pense que c'est [em1]le travail d'une sorcière[/em1].
 Une malédiction de sorcière ? Dans le monde d'aujourd'hui ? C'est une façon de penser dépassée.
 Il ne le penserait pas s'il était allé à Lucerine Ortu.
 Mais les sorcières d'autrefois sont toujours là.
-Hé, on trouvera le coupable plus tard et on verra bien [em1]La maison de Kyla[/em1] pour l'instant.
-En résumé, les vignes épineuses du village sont un mélange de [em1]caractéristiques de plusieurs plantes[/em1].
+Hé, on trouvera le coupable plus tard et on penson à [em1]la maison de Kyla[/em1] pour l'instant.
+En résumé, les vignes épineuses du village sont un mélange des [em1]caractéristiques de plusieurs plantes[/em1].
 Bon. Je crois que j'ai demandé à tout le monde.
-Je crois avoir vu quelque chose en rapport avec la vigne épineuse sur le [em1]étagère de sorcière[/em1] au rez-de-chaussée.
-Allons aussi jeter un œil à la [em1]La maison de la sorcière[/em1] comme l'a dit Arden.
+Je crois avoir vu quelque chose en rapport avec la vigne épineuse sur l' [em1]étagère de sorcière[/em1] au rez-de-chaussée.
+Allons aussi jeter un œil à [em1]La maison de la sorcière[/em1] comme l'a dit Arden.
 Allons voir.
 Ouah, il fait vraiment noir.
 Si tu as peur, on peut retourner au train.
 J'adore ça !!!
 Dépêchons-nous.
 C'est un [em1]passage secret[/em1], Virgile !
-Je ne pense pas que ce soit un secret ou un passage secret.
+Je ne pense pas que ce soit ni un secret ou ni un passage secret.
 Je parie qu'il y a un chemin plus loin.
 Une montagne !
 Tu cries parce que ça te dégoûte, c'est ça ?
@@ -5718,8 +5718,8 @@ C'est vrai, mais...
 Il semble impossible de se débarrasser de cet énorme truc avec la recette que j'ai pour l'instant.
 La recette de base semble un peu insuffisante.
 Qu'as-tu prévu ?
-Maintenant que le [em1]Hotte aspirante[/em1] Une fois que cela aura été corrigé, vous pourrez fabriquer des potions à partir du [em1]recettes de base[/em1].
-Si vous faites [em1][lua(GetLocalizedString("Item", "BadGrassPotion_Name"))][/em1], vous pouvez vous débarrasser de [em1][lua(GetLocalizedString("InteractableObject", "LittleHoneyPumkin"))][/em1]...
+Maintenant que l' [em1]l'Extracteur[/em1] est réparé, vous pouvez fabriquer des potions à partir de la [em1]recettes de base[/em1].
+Si vous créer une [em1][lua(GetLocalizedString("Item", "BadGrassPotion_Name"))][/em1], vous pourrez vous débarrasser des [em1][lua(GetLocalizedString("InteractableObject", "LittleHoneyPumkin"))][/em1]...
 Encore un peu... Ouais, donc la forêt...
 Je vais enfin pouvoir accéder aux sites qui étaient bloqués !
 Regardons à travers la forêt ! Il doit bien y avoir quelque chose !
@@ -5737,7 +5737,7 @@ Elle vit vraiment dans les bois.
 Est-ce que c'est un rêve ?
 C'est plus sombre que je ne le pensais.
 Virgile n'est pas là non plus.
-Youpi ! Le [lua(GetLocalizedString("Item", "MoonTear_Name"))] C'est prêt !
+Youpi ! La [lua(GetLocalizedString("Item", "MoonTear_Name"))] est prête !
 Il ne me reste plus qu'à retirer le cœur.
 Je dois maintenant trouver le cœur.
 Prêts ?
@@ -5754,9 +5754,9 @@ Ce doit donc être un rêve tout bête, comme ça.
 Non ! Je veux dire qu'il y a quelque chose d'étrange.
 N'est-ce pas parce que le lit a changé ?
 Il y a quelque chose... Je trouve ça bizarre.
-Peut-être. Mais j'ai l'impression que... [em1]avoir le sentiment que c'est important[/em1].
+Peut-être. Mais j'ai l'impression... [em1]d'avoir le sentiment que c'est important[/em1].
 Je devrais aussi demander à d'autres personnes.
-Rouge ?
+Rubrum ?
 Salut Ellie !
 Je vais essayer de deviner cette fois-ci.
 La maison de Roy est terminée, n'est-ce pas ?
@@ -5781,7 +5781,7 @@ Hé hé.
 Quand Kyla est revenue, j'avais l'impression de rêver.
 Mais voilà que Roy est de retour lui aussi.
 Voir Kyla construire la maison de Roy m'a redonné de l'enthousiasme.
-Cette fois-ci aussi, tout le monde s'est vraiment donné à fond.
+Encore une fois, tout le monde s'est vraiment donné à fond.
 Ellie, c'est moi ! On s'y met ensemble !
 Un, deux, trois !
 Ah.
@@ -5833,7 +5833,7 @@ Laissez-moi m'en occuper.
 J'en ai enfin fabriqué un moi-même...
 Manipulez-le avec précaution. Ce n'est sans doute pas sans raison que l'administration le surveille.
 Oui, bien sûr. Parce que personne ne devrait être blessé.
-Prenons l'exemple de [em1][lua(GetLocalizedString("Item", "FirecrackerPotion_Name"))][/em1] c'est Enite.
+Emmenons la [em1][lua(GetLocalizedString("Item", "FirecrackerPotion_Name"))][/em1] à Enite.
 Ha ha ! J'ai réussi à passer le Gaga Bird sans encombre !
 Quelqu'un a-t-il vu Virgile ?
 Pourquoi tu racontes n'importe quoi après une bonne nuit de sommeil ?
@@ -5876,10 +5876,10 @@ Le premier est toujours le plus difficile. À partir de maintenant, ça ira plus
 Devrais-je commencer par ce qui se trouve juste devant moi ?
 Je devrais peut-être commencer par tout planifier.
 Bon… Même si j'ai envie de chercher ailleurs…
-avec le [em1]pont[/em1] Dans cet état, je ne peux aller nulle part.
+Avec le [em1]pont[/em1] dans cet état, je ne peux aller nulle part.
 Tu as raison. Mieux vaut s'occuper de ce qu'on a sous la main plutôt que d'essayer de réparer le pont.
 C'est décidé ! Le prochain villageois sera celui qui habitait cette maison au sud de celle de Kyla.
-Tout d'abord, parlons de [em1]Enite[/em1].
+Tout d'abord, parlons d' [em1]Enite[/em1].
 C'est un jeu d'enfant pour quelqu'un comme Ellie Blueriver !
 Parlons-en à Kyla, alors.
 Super. Il est enfin temps de partir à l'aventure.
