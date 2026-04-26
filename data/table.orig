@@ -12230,7 +12230,7 @@ But how do I maintain it?
 That you also learned at school.
 [em1][lua(GetLocalizedString("Common", "BusStation"))][/em1] maintenance has been standardized completely.
 Be concise.
-Building one is hard, but maintaining one is easy. You just need the materials.
+Building one is hard, but maintaining one is easy.
 Okay, I'll gather the materials right away and give it a shot.
 Okay, I've put this down on the map too.
 I know this!
@@ -18248,7 +18248,7 @@ A [em1]curse[/em1] by a nature lover? Well, maybe.
 Many witches are quirky, after all.
 Alright, let's make [em1][lua(GetLocalizedString("Item", "UncurseCandy_Name"))][/em1] to lift the curse.
 Oh, but we can't use the processing tool now.
-I must process what's been collected to make candy. What should I do?
+I must process what's been collected to make candies. What should I do?
 You picked up several ingredients at the [em1]workplace[/em1] earlier, didn't you?
 Those would be enough to make [em1][lua(GetLocalizedString("Item", "UncurseCandy_Name"))][/em1].
 And did you see the thing beside them?
@@ -18307,7 +18307,7 @@ I think he was heading towards the forest.
 Are you looking for the thing that curses Arden?
 I'm not sure if it's a curse yet.
 Cheer up. Prove the innocence of my pepper.
-I don’t have any items ready now.
+I don't have any items ready now.
 Come by anytime.
 Sell
 Trade with [lua(GetLocalizedString("Common", "NormalCollect"))]
@@ -18499,7 +18499,7 @@ Alright, they're now available. You can buy them anytime.
 It's disturbing how merchants are well-informed sometimes...
 What would you like to discuss with Aurea?
 Money and Happiness
-Some people can buy happiness with money, but some people can’t.
+Some people can buy happiness with money, but others can't.
 So don't worry about how much money you've got. You can be happy regardless.
 [lua(GetLocalizedString("InteractableObject", "People_Aurea"))][lua(GetLocalizedString("Choice", "FavorabilityUP_Small"))]
 Ice Strawberries
@@ -19057,8 +19057,8 @@ I was on a train, but I got off for a moment and It left without me...
 Oh dear...
 I wanted to enter the village, but it was blocked off by some prickly vines.
 Damn nature.
-Thankfully, we found an empty Witch's House nearby, so I've been staying there.
-An empty... Oh, yes there's a Witch's House here. That's good.
+Thankfully, we found an empty witch's house nearby, so I've been staying there.
+An empty... Oh, yes there's a witch's house here. That's good.
 I've business in the village too, but the vines stopped me. Nature be damned.
 I'll be here for a while, so let me know if you need anything.
 Oh, then... Can I ask you a favor?
@@ -19071,7 +19071,7 @@ Wait a minute... I’ll look for them.
 But Ellie, do you have any money?
 I do. Mom gave me pocket money when I came out.
 You think you'll be able to buy witch tools with just enough pocket money to buy a snack or two?
-Eh, is that so?
+Oh, yeah?
 What if I don't have enough money?
 Since you have tools, make and sell potions or something.
 You can also sell candies now.
@@ -19087,7 +19087,7 @@ I'll charge you for it then, however.
 Good, please bring it then.
 Okay. I’ll write [lua(GetLocalizedString("Item", "RoasterHandle_Name"))] in the memo.
 Oh, and take this too.
-Since the worth of the bottle earlier wasn't enough. I'll give this to you as well.
+Since the worth of the bottle earlier wasn't enough, you can have this as well.
 It's an [em1]atlas[/em1], including maps of the surroundings.
 But it's not complete. Please find time to fill in the missing part.
 I've included maps of the surroundings. You can check them out later.
@@ -19428,7 +19428,7 @@ Alright, let's register for now.
 Thank you! <shake>Caww!</shake> Thank you! Visit Employee! <shake>Visit Employee!</shake>
 <shake>Caww!</shake> [em1]<shake>Visit Employee!</shake>[/em1]
 <shake>Caww!</shake> [em1]<shake>Gift!</shake>[/em1]
-I guess it wouldn’t hurt to stay here for a while.
+I guess it wouldn't hurt to stay here for a while.
 [em1]<shake>Closed for the day!</shake>[/em1]
 So suddenly?
 It's not easy getting the message across to witch's crows.
@@ -31148,7 +31148,7 @@ All I see is dust and cobwebs that we have to [em1]clean up[/em1].
 Exactly what I'm talking about.
 Let's find something useful while [em1]cleaning[/em1].
 Good, I think it’s working properly.
-Let’s pass by quickly and find the core in the meantime.
+Let's pass by quickly and find the core in the meantime.
 Anyone there?
 Is anybody there?
 Seems like nobody is here.
