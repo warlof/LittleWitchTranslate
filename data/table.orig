@@ -4703,7 +4703,7 @@ Press the sprint button to move faster than normal.
 Sprinting uses stamina.
 Energy
 Collecting uses energy.
-You can recover energy spent by <color=#800000>eating</color> or <color=#800000>sleeping</color>.
+You can recover spent energy by <color=#800000>eating</color> or <color=#800000>sleeping</color>.
 Keyword Conversations
 You can initiate conversations using the keywords at your disposal.
 Change Category
@@ -8464,12 +8464,12 @@ I wonder what it will become!
 This lizard reminds me of the one at the village fountain.
 A spirit?
 Yes. Spirits may dwell in houses built by witches or craftsmen.
-Great! It’s registered in the Encyclopedia!
-Seems like you can’t catch it right now. Do you know why?
+Great! It's registered in the Encyclopedia!
+Seems like you can't catch it right now. Do you know why?
 How would I know!?
 You might not know, but the [em1]Encyclopedia[/em1] does.
 Take a closer look at the [em1]Encyclopedia[/em1].
-Let’s see...
+Let's see here...
 Now, do you see why you can't catch any?
 Time
 Take another look.
@@ -11863,13 +11863,13 @@ As she witnessed the flower, her body quivered as she was struck with guilt for 
 Then the branch snapped and she fell to her death, clothes billowing in the air.
 The next day, leaves grew from the tree and clear water sprouted from the basin.
 The villagers continued with their lives, worshiping the White and Black Cat Gods of the Tea Tree.
-Looks like it’s hard to remove it with just your hands.
+Looks like it's hard to remove it with just your hands.
 You can temporarily get rid of the vines with [lua(GetLocalizedString("Item", "BadGrassPotion_Name"))].
 But they'll grow back after a while.
 Then what do I do?
-You’ll need to find the [em1]core[/em1] and destroy it. The [em1]core[/em1] should be somewhere near the vines.
+You'll need to find the [em1]core[/em1] and destroy it. The [em1]core[/em1] should be somewhere near the vines.
 And if the core is behind the vines?
-Then you’ll need [em1][lua(GetLocalizedString("Item", "BadGrassPotion_Name"))][/em1] and quick action.
+Then you'll need [em1][lua(GetLocalizedString("Item", "BadGrassPotion_Name"))][/em1] and quick action.
 I don't know...
 It’s not budging an inch.
 Should I throw a potion or something?
@@ -12385,7 +12385,7 @@ A wick-less candle and a flint...
 A glove with a hole, and torn clothes...
 Alright, I've redrawn the witch sigil.
 Let me think it over.
-Should I redraw the witch sigil using [em1]1x [lua(GetLocalizedString("Item", "WitchChalk_" .. GetGlobalVariable("$216") .. "_Name"))][/em1]?
+Should I redraw the witch sigil using 1x [em1][lua(GetLocalizedString("Item", "WitchChalk_" .. GetGlobalVariable("$216") .. "_Name"))][/em1]?
 Wait! Isn't that thing on the platform a [em1]spring[/em1]?
 Can it be used on the [em1]broken board[/em1]?
 Go fetch it.
@@ -31018,7 +31018,7 @@ Taking that into consideration, it looks okay.
 Although it’s not that clean.
 Since the Witch's House is managed on her own.
 It doesn't seem to be in a very good condition considering how dirty it is.
-The bed looks quite comfortable, right?
+The bed looks quite comfortable, though?
 I guess I can just sleep here.
 Um, well, since the Witch's House is a [em1]public institution[/em1].
 And it's better than sleeping outside.
@@ -31156,7 +31156,7 @@ This Witch's House may have been abandoned.
 After all, even the Witch Administration can miss out things.
 Alright, let's go inside!
 The house is a bit messy.
-We’ll just stay for one day. Who cares?
+We'll just stay for one day. Who cares?
 That doesn't matter. Going by [em1]train[/em1] is the only way.
 What's going on? It won't even budge!
 It must be stronger than the secret door in the principal's office.
@@ -31344,7 +31344,7 @@ I've never seen anything like that before!
 Ellie? We have to–
 [em1]<shake>Let's go after that creature!</shake>[/em1]
 Look, Virgil! There's a house!
-That's a [em1]Witch's House[/em1], isn't it?
+That's a [em1]Witch's house[/em1], isn't it?
 It looks pretty old.
 I guess we can talk to the master witch here and stay here for a while.
 It doesn't look like there are people inside...
