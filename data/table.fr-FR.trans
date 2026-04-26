@@ -7162,7 +7162,7 @@ Si tu avais mis autant de passion dans tes études, tu aurais pu obtenir ton dip
 Je ne sais pas trop.
 Hmm, vu que ça a un rapport avec une telle énigme, ça ne peut pas être quelque chose de bien anodin, n'est-ce pas ?
 Il y avait vraiment un [em1]appareil géant[/em1].
-Exactement ! Près de [em1]une fumée étrange de l'autre côté du lac[/em1]!
+Exactement ! Près de [em1] l'étrange fumée de l'autre côté du lac[/em1]!
 Il se peut que quelque chose ait changé. Voyons voir.
 J'ai tellement de coton.
 Tu vas faire des vêtements ou quoi ?
@@ -7172,11 +7172,11 @@ Bon, ça devrait suffire pour réparer la poupée !
 La poupée n'a-t-elle pas perdu un bras ? Il faut du coton pour la réparer.
 J'ai tout un sac de coton. Ça devrait suffire.
 Waouh ! C'est complètement différent de la Forêt Verte !
-Écoute, le [em1]vignes épineuses[/em1] s'étend jusqu'à là...
+Regarde, les [em1]vignes épineuses[/em1] s'étendent jusque là...
 Il semble y avoir un chemin de l'autre côté.
 Quelles surprises nous attendent ? Quelles créatures fascinantes vivent ici ?
 N'oublions pas pourquoi nous sommes ici, au fond.
-Nous sommes ici dans le [lua(GetLocalizedString("Common", "Common_Theme_RainbowForest"))] chercher [em1]Lisa[/em1] et le [em1]cœur de vigne épineuse[/em1]n'est-ce pas ?
+Nous sommes ici dans la [lua(GetLocalizedString("Common", "Common_Theme_RainbowForest"))] à la recherche de [em1]Lisa[/em1] et du [em1]cœur de vigne épineuse[/em1]n'est-ce pas ?
 Ne t'inquiète pas. Je n'ai pas oublié ma mission.
 Bon, en avant !
 Ah, donc voilà à quoi ressemble l'intérieur d'un champignon.
@@ -7188,38 +7188,38 @@ Je l'ai vu tellement souvent que j'ai fini par m'y attacher.
 Je m'en approche ?
 Tu veux encore avoir le visage couvert de miel ?
 Non, je suis juste curieux ! Je voudrais savoir ce qu'il fait.
-Et cela m'inquiète depuis un certain temps [em1]clé[/em1] ça m'a marqué dès la première fois que je l'ai vu.
+Et je m'inquiète pour la [em1]clé[/em1] qu'il tiens depuis la première fois que je l'ai vu.
 Salut ! Qu'est-ce que tu fais ici ?
 Au moins, on sait maintenant que c'est sur le point de disparaître.
 Est-ce qu'il exhibe sa poupée ?
-Je n'ai pas pris la peine de le réparer pour rien...
+Je n'ai pas pris la peine de la réparer pour rien...
 <shake>Ah !</shake>
 Tu sais maintenant à quel point ça fait mal quand tu me piques avec une aiguille ?
-Ce n'est pas la question ! Écoute, il y a un [em1]trace de vigne épineuse[/em1] en direction de cette porte.
-Et il y a un [em1]trou de serrure[/em1] à côté de la serrure !
+Ce n'est pas la question ! Écoute, il y a une [em1]trace de vigne épineuse[/em1] en direction de cette porte.
+Et il y a un [em1]trou de serrure[/em1] à côté du mécanisme de vérouillage !
 Tu t'es mis dans un tel état juste pour une clé ?
 Non, non ! C'est ce gamin bizarre qui avait la clé, c'est lui qui jouait avec la poupée !
-Et la clé avait un [em1]étiquette bleue[/em1] C'est parti !
+Et la clé avait une [em1]étiquette bleue[/em1] !
 Oh, Ellie II, tu es géniale.
 Ne me donne pas de pseudonymes bizarres !
-Bon… Pour ouvrir la porte, il faut d'abord [em1]un gamin bizarre[/em1] partir.
-À côté de la poupée, elle jouait avec un [em1]clé[/em1], n'est-ce pas ?
+Bon… Pour ouvrir la porte, il faut d'abord faire partir ce [em1] gamin bizarre[/em1] .
+À part la poupée, il jouait avec une [em1]clé[/em1], n'est-ce pas ?
 Il le tenait déjà quand nous l'avons rencontré pour la première fois.
 Et si on lui demandait simplement la clé ?
-Nous avons réparé sa poupée. Peut-être qu'elle acceptera de nous donner la clé.
-Allons [em1]parler à[/em1] le gamin bizarre.
-La clé [em1]la balise a la même couleur[/em1] en tant que [em1]le trou de serrure du champignon[/em1].
+Nous avons réparé sa poupée. Peut-être qu'il acceptera de nous donner la clé.
+Allons [em1]parler au[/em1] gamin bizarre.
+Le nom de la clé [em1]a la même couleur[/em1] que [em1]le trou de serrure du champignon[/em1].
 Ça a marché ?
 Ça a marché.
 Bon, je vais éteindre l'appareil et sortir !
 Ah ! C'est donc à ça que ressemble l'intérieur d'un champignon.
 Je n'aurais jamais pensé que je finirais un jour par entrer dans un champignon. On finit par tout vivre quand on vit assez longtemps.
-Comme si tu étais loin d'être « de longue vie ».
+Comme si tu étais proche d'avoir « vécu longtemps ».
 Mais où se trouve cette partie du champignon qui ressemble à un filet ?
 Ça a l'air vieux, mais ça fonctionne encore.
 On trouve également des traces de présence humaine ici.
 Je me demande où sont passés tous les autres...
-Serait-ce... qu'un monstre champignon aurait fait son apparition ?
+Serait-ce possible... qu'un monstre champignon ait fait son apparition ?
 Soyez réaliste, s'il vous plaît.
 Puisqu'il y a un énorme champignon, pourquoi n'y aurait-il pas de monstres champignons ?
 Au fait, j'entends des bruits bizarres…
@@ -7237,12 +7237,12 @@ C'est quand même un peu dur de faire un commentaire comme ça sur l'apparence d
 Qu'est-ce que ça peut bien faire ? Pour l'instant, le problème, c'est qu'il pleure ici et qu'il nous barre le passage.
 Virgile, essaie de faire preuve d'empathie...
 C'est vraiment blessant. Épargne-moi tes leçons.
-Le [em1]marques de vigne épineuse[/em1] semblent aller dans ce sens...
+Les [em1]marques de vigne épineuse[/em1] semblent aller dans ce sens...
 Hmm… Ça pleure si tristement que je n'ai pas vraiment envie de lui demander de partir.
 Pourquoi tu pleures ? Des boules de coton éparpillées…
 On dirait qu'il y a quelque chose à côté.
 Oh... Voyons voir... Un bras ? C'est le bras d'une poupée en coton.
-Euh, il a continué à déambuler sans s'en rendre compte. Est-ce qu'il a laissé tomber le [em1]poupée[/em1] en route ?
+Euh, il a continué à déambuler sans s'en rendre compte. Est-ce qu'il a laissé tomber la [em1]poupée[/em1] en route ?
 Ça me rappelle quand tu étais petit.
 Avant, tu emmenais partout avec toi la poupée qu'Aiden t'avait fabriquée.
 Même pendant le bain et les repas.
@@ -7254,25 +7254,25 @@ Tu pleurais si fort que j'avais l'impression que la maison allait s'écrouler.
 N'exagère pas.
 Mais ton histoire me rappelle quelque chose...
 Mon père me fabriquait souvent des poupées.
-Hmm... Pour suivre le [em1]marques de vigne épineuse[/em1], nous devons suivre cette voie.
+Hmm... Pour suivre les [em1]marques de vigne épineuse[/em1], nous devons suivre cette voie.
 Il faut que le petit s'écarte pour que nous puissions passer.
-Aidons-la à retrouver sa poupée perdue.
+Aidons-le à retrouver sa poupée perdue.
 Au fait, on a déjà vu cette poupée ?
 Oh, arrête ! Je ne m'en souviens même pas !
-Écoute, le bras a été arraché, et le [em1]coton[/em1] s'est peut-être détaché [em1]ailleurs[/em1].
+Écoute, le bras a été arraché, et le [em1]coton[/em1] est peut-être tombé [em1]ailleurs[/em1].
 Recherchons [em1]le coton[/em1] encore une fois.
 Le coton que nous venons de trouver semble s'être échappé de la poupée.
 On ferait mieux de le ramasser et de l'emporter avec nous.
-Au fait, est-ce que j'ai déjà vu ça ? [em1]tomber à plat[/em1] avant ?
+Au fait, est-ce que j'ai déjà vu cette [em1]poupée[/em1] avant ?
 Ça a l'air bizarre.
 Il y a quelque chose sur le côté.
-Euh… Est-ce que c'est un [em1]clé[/em1]? Après avoir perdu la poupée, il s'est mis à tripoter la clé à la place ?
+Euh… Est-ce que c'est une [em1]clé[/em1]? Après avoir perdu la poupée, il s'est mis à tripoter la clé à la place ?
 En parlant de poupées, on n'en a pas trouvé une tout à l'heure ?
 Et il manque le bras.
 [em1][lua(GetLocalizedString("Item", "HoneyBearDoll_Name"))][/em1][lua(GetLocalizedString("Choice", "LetsBringItem"))]
 On ne pourrait pas simplement passer outre ce type qui pleure et continuer ?
 Bon, on ne peut pas, je vois.
-Il a sans doute été abîmé lors de ses déplacements, à moins que son propriétaire ne soit un collectionneur d'armes.
+Il a sans doute été abîmé lors de ses déplacements, à moins que son propriétaire ne collectionne les bras.
 Allô ? Tu pourrais me montrer ce que tu as là ?
 J'ai besoin de cette clé.
 Ah, il est en colère.
@@ -7294,19 +7294,19 @@ J'espère que leur apprentissage se passe bien.
 Il a arrêté de pleurer.
 Même si ce n'est pas le compagnon lui-même, c'est une poupée qu'il a laissée derrière lui.
 J'espère que Honey Bear pourra lui aussi connaître le bonheur.
-Elle a laissé tomber la clé.
+Il a laissé tomber la clé.
 Parfait, je vais chercher la clé !
-Analysez les informations recueillies sur les objets situés autour de Honey Bear et découvrez [em1]la poupée laissée par Honey Bear[/em1].
+Analysez les informations recueillies sur les objets situés autour de Honey Bear et trouvez [em1]la poupée laissée par celui-ci[/em1].
 Je… je ne le prendrai pas. Ne te fâche pas.
-Allons jeter un œil à cet endroit avec le [em1]échelle[/em1] là-bas.
+Allons jeter un œil à cet endroit avec l' [em1]échelle[/em1] là-bas.
 Explorez le camping abandonné.
 Pas besoin de revenir en arrière.
 Un portail ?
 [em1]Portail de jardin[/em1]...?
 Il y a une odeur.
-N'est-ce pas similaire à celui que nous avons vu au [lua(GetLocalizedString("Common", "Common_Theme_GreenForest"))]?
+N'est-ce pas similaire à celui que nous avons vu à la [lua(GetLocalizedString("Common", "Common_Theme_GreenForest"))]?
 Ils semblent avoir beaucoup de secrets.
-Hum, il y a un [em1][lua(GetLocalizedString("Common", "WitchSign"))][/em1] Tout droit. Je ferais bien de retenir cet endroit.
+Hum, il y a un [em1][lua(GetLocalizedString("Common", "WitchSign"))][/em1] en face. Je ferais bien de retenir cet endroit.
 Haha… Ça m'a quand même un peu mis mal à l'aise. Comment ça sonnait ?
 Ça fait tellement longtemps que je ne l'ai pas entendue. Le son est aussi éclatant que dans mon souvenir.
 Waouh, c'était vraiment sympa. Même si c'est encore loin de ma flûte, c'est pas mal.
@@ -7337,7 +7337,7 @@ Je ne manquerai pas de vous offrir à tous un petit récital avec ma merveilleus
 Ha ha, je n'arrive pas à croire qu'on ait maintenant quelqu'un de plus turbulent que moi.
 Même si la bibliothèque est petite, elle regorge de livres que l'on ne trouve ni ne peut acheter ailleurs.
 Il se peut que je doive vous déranger souvent à l'avenir.
-C'est quoi, tous ces bruits ? À quelle heure crois-tu qu'on soit ? C'est épuisant.
+C'est quoi, tous ces bruits ? Quelle heure crois-tu qu'il soit ? C'est épuisant.
 Hahaha… Bref, bienvenue, Arin… et Rex bien sûr !
 Soyez sympas, tout le monde.
 Un explorateur ! Un bibliothécaire ! C'est trop cool !
@@ -7367,12 +7367,12 @@ Ah, ce sont les bonbons peints sur la boîte en fer-blanc qui contient le néces
 Je croyais qu'il était rempli de bonbons, et je me suis fait avoir plein de fois...
 C'était vraiment très populaire à mon époque. Heureusement, les enfants d'aujourd'hui l'apprécient aussi.
 Bon, je vous suis vraiment reconnaissant d'être tous venus m'accueillir à mon retour, mais votre temps est précieux.
-Ne perds pas ton temps avec un vieux comme moi. Dépêche-toi et va voir à tes affaires.
+Ne perds pas ton temps avec un vieux comme moi. Dépêche-toi et occupes toi de tes obligations.
 Bon retour parmi nous, Alvin. J'ai été ravi de faire ta connaissance.
 Je suis vraiment content de te revoir. N'hésite pas à me dire si tu as besoin d'aide.
 Bienvenue !
 Je te prends au mot, alors.
-Bon, le cœur épineux de la vigne dans le [lua(GetLocalizedString("Common", "Common_Theme_RainbowForest"))] est enfin supprimé.
+Bon, le cœur épineux de la vigne dans la [lua(GetLocalizedString("Common", "Common_Theme_RainbowForest"))] est enfin supprimé.
 Nous pouvons désormais poursuivre la restauration du village.
 Malheureusement, Lisa est toujours introuvable.
 Maintenant que j'y pense, c'est vrai.
@@ -7402,7 +7402,7 @@ T-tu n'as pas tort. Je n'ai rien fait de mal.
 Je pense que ça ira. Voyons voir.
 Tu es sérieux ?
 Des provisions d'urgence... des médicaments courants, des outils et un lit de fortune...
-Même s'il est petit, il a tout ce qu'il faut.
+Même s'il est petit, il y a tout ce qu'il faut.
 Le seul problème, c'est que Lisa n'est pas là.
 Nous avons suffisamment de provisions pour rester ici quelques jours.
 Dans une forêt ? Pourquoi faire ?
@@ -7417,7 +7417,7 @@ C'est écrit par Lisa Whitegarden !
 Eh bien, Lisa s'est donc bien installée ici !
 Virgile, tu ne vas tout de même pas continuer à le nier, n'est-ce pas ?
 Bon. C'était le camp de Lisa.
-Continuez à lire.
+Continue à lire.
 On dirait qu'elle écrit tous les jours.
 Bien qu'une méthode de greffage des plantes ait été mise au point, elle présente de nombreux inconvénients.
 Premièrement, les caractéristiques qui seront transmises ne peuvent pas être prédites. Deuxièmement, le croisement donne naissance à des graines. Pour connaître le résultat, il faut les faire pousser pour obtenir des plantes.
@@ -7451,7 +7451,7 @@ Revenons en arrière.
 Hum… d'accord.
 Il faut aussi que nous reconstruisions le village. Je vais reparler au Dieu Chat Blanc.
 Et il faut dire à Enite qu'il faut enlever les lianes épineuses.
-Ça a l'air spacieux. Je vais faire un tour pour voir s'il y a [em1]une autre entrée[/em1] en plus de celle par laquelle nous sommes entrés.
+Ça a l'air spacieux. Je vais faire un tour pour voir s'il y a [em1]une autre entrée[/em1] en plus de celle par laquelle nous sommes passés.
 Cherche la craie de sorcière.
 J'ai trouvé la craie de sorcière. Je vais m'en servir.
 Redessine le sigil de sorcière pour l'activer.
@@ -7471,12 +7471,12 @@ Non. Si quelqu'un aime sa poupée, il veillera certainement à la garder propre.
 C'est facile à dire. Ta poupée était...
 Ça n'a rien à voir avec ma poupée !
 C'est tellement sale que je ne le reconnais même plus. On ne peut pas laisser ça comme ça.
-Nous devons [em1]trouver un moyen de le nettoyer[/em1].
+Nous devons [em1]trouver un moyen de la nettoyer[/em1].
 À qui appartient cette poupée ?
-On l'a jeté ? Il est sale et il lui manque un bras.
+On l'a jeté ? Elle est sale et il lui manque un bras.
 Ouais. Je pense que je n'ai pas besoin d'y toucher, mais...
-Le [em1][lua(GetLocalizedString("Item", "FallenCotton_Name"))][/em1] près de la poupée, on dirait qu'il est usé mais propre.
-On dirait que ça vient de la poupée... Peut-être que le [em1]propriétaire de la poupée[/em1] est-ce quelqu'un d'autre ?
+Le [em1][lua(GetLocalizedString("Item", "FallenCotton_Name"))][/em1] près de la poupée, a l'air usé mais propre.
+On dirait que ça vient de la poupée... Peut-être que le [em1]propriétaire de la poupée[/em1] est quelqu'un d'autre ?
 Nous pourrions les trouver si nous suivons le [em1]Coton tombé[/em1].
 <wave>Ouah !</wave>
 C'était sympa. On recommence !
@@ -7485,56 +7485,56 @@ Oui, mais c'était tellement sympa.
 C'est méchant pour la vigne épineuse.
 Finis ton travail avant de jouer.
 Pfff, tu es pénible.
-Tu vois ? Le [em1]trace de vigne épineuse[/em1] est en train de [em1]vers le haut[/em1].
+Tu vois ? Les [em1]trace de vigne épineuse[/em1] sont en train de monter [em1]vers le haut[/em1].
 Oui, et on dirait qu'il y a un plan d'eau un peu plus loin.
 Il semble y avoir quelque chose de l'autre côté.
 Bon, voyons voir !
 Pfff... <shake>Excusez-moi !</shake> Qu'est-ce qui se passe ?
-Tu as les démangeaisons au nez ?
+Tu as des démangeaisons au nez ?
 Pas vraiment, mais j'ai du mal à respirer.
-Retenez votre souffle et foncez.
+Retiens ton souffle et fonce.
 <shake>Je ne peux pas.</shake> J'ai les yeux qui piquent aussi !
 Dans ce cas, retiens simplement ton souffle et ferme les yeux.
 Virgile, j'ai l'air d'un chapeau, à tes yeux ?!
-[em1]Traces de vigne épineuse[/em1] sont arrivés jusqu'ici...
-Je n'arrive pas à les joindre directement.
-Je dois me débarrasser du [em1]un étrange nuage de fumée[/em1] d'abord.
+[em1]Des traces de vigne épineuse[/em1] sont arrivés jusqu'ici...
+Je ne peux pas passer directement.
+Je dois d'abord me débarrasser de cet [em1] étrange nuage de fumée[/em1] .
 <shake>Excusez-moi !</shake>
 <shake>Atchoum !</shake>
-Cherchez dans les environs tout ce qui pourrait [em1]disperser le nuage de fumée[/em1].
+Cherche dans les environs tout ce qui pourrait [em1]disperser le nuage de fumée[/em1].
 Qu'est-ce que c'est ? C'est énorme.
 Je peux l'allumer ? Hum, voyons voir, <shake>ouah !</shake>
 Comment oses-tu y toucher alors que tu ne sais même pas ce que c'est !
 Je peux l'activer si je le touche !
-Il est d'abord attaché par une chaîne.
+Déjà, il est attaché par une chaîne.
 En parlant de chaînes… J'ai l'impression de les avoir déjà vues quelque part.
 Ça me dit quelque chose… Ah !
-L'immense portail du jardin à [lua(GetLocalizedString("Common", "Common_Theme_GreenForest"))]! Il y avait quelque chose de similaire dessus !
+L'immense portail du jardin de la [lua(GetLocalizedString("Common", "Common_Theme_GreenForest"))]! Il y avait quelque chose de similaire dessus !
 Il devrait donc y avoir un appareil à proximité pour soulever ça...
 Est-ce que cela a également un rapport avec [em1][lua(GetLocalizedString("Common", "WitchSign"))][/em1]?
 Tu viens pas de ramasser un morceau de [em1][lua(GetLocalizedString("Item", "WitchChalk_Blue_Name"))][/em1]?
 [em1]Bleu[/em1]...
 Tu te souviens où tu l'as vu ?
 Bien sûr
-C'était… là ! Sur la colline de [lua(GetLocalizedString("Common", "Common_Theme_RainbowForest"))] et [em1]à côté de la boîte contenant la poupée laissée par le compagnon de Honey Bear[/em1]!
+C'était… là ! Sur la colline de la [lua(GetLocalizedString("Common", "Common_Theme_RainbowForest"))] et [em1]à côté de la boîte contenant la poupée laissée par le compagnon de Honey Bear[/em1]!
 Exactement ! Il y avait un [em1]bleu [lua(GetLocalizedString("Common", "WitchSign"))][/em1]!
-D'accord, je vais prendre le [em1][lua(GetLocalizedString("Item", "WitchChalk_Blue_Name"))][/em1] et se rendre à l'endroit où se trouve le [em1]bleu [lua(GetLocalizedString("Common", "WitchSign"))][/em1]!
+D'accord, je vais prendre le [em1][lua(GetLocalizedString("Item", "WitchChalk_Blue_Name"))][/em1] et me rendre à l'endroit où se trouve le [em1][lua(GetLocalizedString("Common", "WitchSign"))]bleu[/em1]!
 Je ne m'en souviens plus...
 Réfléchis bien. C'est un endroit où tu es déjà allé.
-Tu as vu quelque chose qui ressemble à un [em1]marque bleue[/em1].
+Tu as vu quelque chose qui ressemble à une [em1]marque bleue[/em1].
 Euh...
 J'ai compris
 Je n'en ai aucune idée...
-Un petit indice, s'il vous plaît.
+Un petit indice, s'il te plaît.
 [em1]La poupée de Honey Bear[/em1].
 Hein ? Quoi ?
 Ah ! <shake>Ah oui, je m'en souviens !</shake>
-Il vous faut également [em1]quelque chose en rapport avec [lua(GetLocalizedString("Common", "WitchSign"))][/em1].
+Il te faut également [em1]quelque chose en rapport avec [lua(GetLocalizedString("Common", "WitchSign"))][/em1].
 Je ferais mieux de jeter un coup d'œil par ici.
-Prenez le [em1][lua(GetLocalizedString("Item", "WitchChalk_Blue_Name"))][/em1] et rendez-vous sur le [em1]la boîte contenant la poupée laissée par le compagnon d'Honey Bear[/em1] sur la colline de [lua(GetLocalizedString("Common", "Common_Theme_RainbowForest"))].
+Prend le [em1][lua(GetLocalizedString("Item", "WitchChalk_Blue_Name"))][/em1] et rends toi là où se trouve [em1]la boîte contenant la poupée laissée par le compagnon d'Honey Bear[/em1] sur la colline de la [lua(GetLocalizedString("Common", "Common_Theme_RainbowForest"))].
 Pour activer l'appareil, il faut insérer la clé de Honey Bear dans le [em1]trou de serrure[/em1].
-Essayez la clé.
-Oh, c'est un [lua(GetLocalizedString("Map", "RainbowForest_Plateau"))] encore une fois.
+Essaye la clé.
+Oh, c'est encore une fois un [lua(GetLocalizedString("Map", "RainbowForest_Plateau"))] .
 Et cette voix... !
 Le voilà !
 Mais enfin, comment cela a-t-il pu passer inaperçu ?
@@ -7543,7 +7543,7 @@ Cela ne fonctionne pas sur les créatures de la forêt.
 La barrière ne marche que sur les humains ? Merde !
 Nous devons [em1]soulevez ceci[/em1] sinon, on ne pourra pas entrer.
 Euh… Comment je devrais m'y prendre ? « Bonjour, c'est votre poupée ? »
-Je suppose que ça devrait aller, vu qu'on ne comprend pas ce que ça veut dire de toute façon.
+Je suppose que ça devrait aller, vu qu'on ne comprend pas ce qu'il veut dire de toute façon.
 Mais il n'a pas l'intention de bouger d'un pouce.
 C'est peut-être parce qu'il manque encore un bras à la poupée.
 Euh… est-ce que je devrais le recoudre ?
@@ -7553,26 +7553,26 @@ Tu ne te souviens pas de ce qui s'est passé la dernière fois que tu as pris un
 Quoi ? Arrête de faire des caprices.
 Mon accusation est tout à fait justifiée !
 Je n'étais qu'un enfant ! Maintenant que j'ai appris ça à l'école, je pense pouvoir faire un peu de couture de base.
-Vous pouvez vous rendre sur [em1]une personne douée pour les travaux d'aiguille[/em1] pour le réapprendre si les autres solutions échouent.
+Tu peux te rendre chez [em1]une personne douée pour les travaux d'aiguille[/em1] pour le réapprendre si les autres solutions échouent.
 Je n'ai pas besoin de réapprendre. Je n'ai pas oublié !
 Je n'ai pas assez de coton pour rembourrer la poupée.
 Nous devons d'abord ramasser le coton qui manque.
 Voyons voir ce qu'il faut faire...
-Avez-vous du matériel de couture ?
+As-tu du matériel de couture ?
 Tant que j'ai un truc qui ressemble à une aiguille et du fil, non ?
 Mais pour coudre avec le matériel dont je dispose, j'ai besoin de beaucoup de [em1][lua(GetLocalizedString("Item", "FallenCotton_Name"))][/em1].
 Pour pouvoir recommencer si je me trompe.
-Et maintenant, admirez mon incroyable talent !
+Et maintenant, admire mon incroyable talent !
 Je suis très, très inquiet.
-Ensuite, fixez la poupée avec le coton.
-Vous pourriez bien vous retrouver avec un [em1]poupée effrayante[/em1] si vous le cousez sans préparation préalable.
-Il y aura [em1]risque[/em1] peu importe comment je m'y prends, je vais donc le faire comme ça me plaît.
+Ensuite, fixe la poupée avec le coton.
+Tu pourrer bien te retrouver avec une [em1]poupée effrayante[/em1] si tu le coud sans préparation préalable.
+Il y aura un [em1]risque[/em1] peu importe comment je m'y prends, je vais donc le faire comme ça me plaît.
 Je ne comprends vraiment pas pourquoi tu préfères toujours les chemins semés d'embûches aux routes bien lisses.
 Bon, finissons-en.
 Comment le coudre ?
-Faites confiance à votre intuition
+Fais confiance à ton intuition
 Euh... voyons voir... est-ce que cette aiguille et... ce fil feront l'affaire ?
-Euh… le fil est-il trop court ? Si j'utilise seulement le [lua(GetLocalizedString("Item", "SewingBox_Name"))] pour cette partie...
+Euh… le fil est-il trop court ? Si j'utilise seulement la [lua(GetLocalizedString("Item", "SewingBox_Name"))] pour cette partie...
 Euh... oups, l'aiguille s'est plantée au mauvais endroit... Je vais recommencer...
 Maintenant, trouve du fil de la même couleur, enfile l'aiguille, puis place-la ici...
 Patiemment, un point après l'autre...
@@ -7581,12 +7581,12 @@ Ah oui. On dirait que tu viens de franchir le point de non-retour.
 Hum. Ce gamin va vraiment être ravi !
 Tiens ! Ta poupée !
 Il a l'air plutôt content. C'est super.
-Hein ? Ça vient vers moi ? Qu'est-ce que ça fait ?
+Hein ? Il vient vers moi ? Qu'est-ce qu'il fait ?
 Quel joli sourire !
 <shake>Pff, je suis tout collant !</shake>
-<shake>Mais quelle créature !</shake> J'ai réparé sa poupée, et voilà qu'elle me joue un tour !
+<shake>Mais quelle créature !</shake> J'ai réparé sa poupée, et voilà qu'il me joue un tour !
 C'est peut-être sa façon d'exprimer sa gratitude.
-Si elle voulait m'offrir du miel, elle aurait dû le mettre dans un pot ! Comment suis-je censé le manger s'il m'en met partout sur le visage ?
+Si il voulait m'offrir du miel, il aurait dû le mettre dans un pot ! Comment suis-je censé le manger s'il m'en met partout sur le visage ?
 Ah bon ? On me l'a vraiment donné ?
 Peut-être voulait-il te donner du miel.
 Merci ! Je vais m'en régaler !
@@ -7597,11 +7597,11 @@ J'espère bien que non.
 Tu vois ? Ça lui plaît.
 Étrange en apparence, et encore plus étrange en matière d'esthétique.
 Tu es trop dur, Virgile.
-Utilisez les outils et suivez les instructions
+Utilise les outils et suis les instructions
 [em1][lua(GetLocalizedString("Item", "SewingBox_Name"))][/em1][lua(GetLocalizedString("Choice", "NotHaveItem"))]
 [lua(GetLocalizedString("Choice", "Cancel"))]
-Il vous faut [em1]3[/em1] [em1][lua(GetLocalizedString("Item", "FallenCotton_Name"))][/em1] pour réparer le [lua(GetLocalizedString("Item", "HoneyBearDoll_Name"))].
-Tout d'abord, j'ai besoin de [em1]huit fois [/em1][em1][lua(GetLocalizedString("Item", "FallenCotton_Name"))][/em1] réparer [lua(GetLocalizedString("Item", "HoneyBearDoll_Name"))].
+Il vous faut [em1]3[/em1] [em1][lua(GetLocalizedString("Item", "FallenCotton_Name"))][/em1] pour réparer la [lua(GetLocalizedString("Item", "HoneyBearDoll_Name"))].
+Tout d'abord, j'ai besoin de [em1]8 [/em1][em1][lua(GetLocalizedString("Item", "FallenCotton_Name"))][/em1] pour réparer [lua(GetLocalizedString("Item", "HoneyBearDoll_Name"))].
 Hein ? Pas celui-là ? Encore une fois...
 Vraiment ? Tu ne le regretteras pas ?
 Je vais y réfléchir à nouveau
@@ -7623,7 +7623,7 @@ Ouah... C'est vraiment gentil de ta part. Merci, Enite !
 Et si on allait chercher [em1]Kyla[/em1] d'abord ?
 Bon, cette fois, on se lance pour de bon !
 <wave>C'est parti !</wave>
-Virgile ! Il y a un [em1]combien[/em1]!
+Virgile ! Il y a un [em1]chat[/em1]!
 Est-ce qu'il est venu me voir ?
 Je ne crois pas. Il se trouve juste devant la maison.
 Tu es sûr ? Regarde encore. Ce n'est rien d'autre que l'expression « Allons jouer ! »
@@ -7637,7 +7637,7 @@ Quelqu'un donne à manger aux chats de temps en temps, mais c'est tout.
 D'emblée, ce chat ne ressemblait pas du tout aux villageois.
 Cela ne rend-il pas le fait de s'y habituer d'autant plus remarquable ?
 Quoi qu'il en soit, on a au moins découvert que quelqu'un s'était occupé de ces chats jusqu'à récemment.
-Le [em1]personne[/em1] Rubrum ? Un homme d'âge mûr qu'il ne connaît pas ?
+La [em1]personne[/em1] que Rubrum a mentionné ? Un homme d'âge mûr qu'il ne connaît pas ?
 C'est vrai, Rubrum a dit qu'il avait vu cet homme à l'entrée du temple, au nord du village.
 Alors, ça te dit d'y jeter un œil ?
 Je ne pense pas que ce soit une bonne idée de l'attendre là-bas. Il se peut qu'il ne vienne jamais.
@@ -7664,9 +7664,9 @@ C'est décidé. Je vais créer un grimoire sur les chats.
 D'où vient cette idée ?
 C'est grâce à notre passion commune pour les chats. Nous souhaitons tous les deux nous rapprocher des chats.
 Bon, pour être honnête, cette idée n'est pas si mauvaise.
-Et regarde ça. Ça [em1][lua(GetLocalizedString("Item", "Cranapple_Name"))][/em1] porte des traces de morsures de chat.
+Et regarde ça. Cette [em1][lua(GetLocalizedString("Item", "Cranapple_Name"))][/em1] porte des traces de morsures de chat.
 On en a mangé un petit peu. Peut-être qu'un chat a essayé de le manger, mais qu'il a abandonné à mi-chemin.
-Donc, ici aussi, les chats mangent [em1][lua(GetLocalizedString("Item", "Cranapple_Name"))][/em1]p.
+Donc, ici aussi, les chats mangent des [em1][lua(GetLocalizedString("Item", "Cranapple_Name"))][/em1].
 Je n'y ai jamais réfléchi. Que mangent les chats ?
 Trouve la réponse et note-la dans le grimoire.
 D'accord. Parlons d'abord de notre découverte à Rubrum.
@@ -7679,29 +7679,29 @@ Tu pars explorer les environs du village dès que tu en as l'occasion, mais tu n
 Eh bien… Je préfère rester loin du temple.
 Pourquoi donc ?
 Bref, je crois que c'est ici que cet inconnu s'occupait des chats.
-Pour attirer les chats, il suffit de mettre un peu de [em1][lua(GetLocalizedString("Item", "Cranapple_Name"))][/em1]Le voici.
+Pour attirer les chats, il suffit de mettre un peu de [em1][lua(GetLocalizedString("Item", "Cranapple_Name"))][/em1] ici.
 À moins qu'il n'y ait pas de chats dans le coin… ce qui est impossible.
 Ellie, comment le saurais-tu ?
 C'est l'intuition d'une sorcière.
 Tu as vraiment de l'intuition. Tu l'as déduit du plat à moitié mangé [em1][lua(GetLocalizedString("Item", "Cranapple_Name"))][/em1].
 Bon sang, tu ne pourrais pas arrêter de me gâcher la fête ?
-Je vais d'abord essayer de partir [em1][lua(GetLocalizedString("Item", "Cranapple_Name"))][/em1]au même endroit qu'avant.
+Je vais d'abord essayer de laisser des [em1][lua(GetLocalizedString("Item", "Cranapple_Name"))][/em1]au même endroit qu'avant.
 Il s'est enfui.
-Dès qu'il a vu le [em1][lua(GetLocalizedString("Item", "Cranapple_Name"))][/em1]p.
+Dès qu'il a vu les [em1][lua(GetLocalizedString("Item", "Cranapple_Name"))][/em1].
 C'est comme quand j'ai essayé de le nourrir...
 Bon sang… On était là pour se lier d'amitié avec lui, mais on a fini par le faire fuir.
-Peut-être... qu'on ferait mieux de rester à l'écart du [em1][lua(GetLocalizedString("Item", "Cranapple_Name"))][/em1]n'est-ce pas ?
+Peut-être... qu'on ferait mieux de rester à l'écart des [em1][lua(GetLocalizedString("Item", "Cranapple_Name"))][/em1] ?
 Pourquoi ?
 Mets-toi à sa place. Ça ne te mettrait pas mal à l'aise si quelqu'un te fixait du regard pendant que tu manges ?
-Bon, alors laissons tomber le [em1][lua(GetLocalizedString("Item", "Cranapple_Name"))][/em1]et observer de loin.
+Bon, alors laissons tomber les [em1][lua(GetLocalizedString("Item", "Cranapple_Name"))][/em1]et observons de loin.
 Ça te plaît ?
 Oui, je viens avec toi.
 Rubrum, tu as vu ça ?
-Le chat a mangé le [em1][lua(GetLocalizedString("Item", "Cranapple_Name"))][/em1]p.
+Le chat a mangé les [em1][lua(GetLocalizedString("Item", "Cranapple_Name"))][/em1].
 Bon, je crois qu'il les aime bien, vu qu'il les a engloutis.
 Maintenant, je sais quoi faire.
 Les chats ne peuvent pas se détendre et manger si nous ne restons pas à l'écart.
-Je les ai courus partout avec de la nourriture à la main… Mais ça ne marche pas comme ça.
+Je leurs ai courus après avec de la nourriture à la main… Mais ça ne marche pas comme ça.
 Les chats ont tous leur propre personnalité… mais je pense que tu effraierais n'importe quel chat, haha.
 Oh non...
 Ah, c'est quoi ce bruit ? Je crois que le chat s'en va.
@@ -7741,7 +7741,7 @@ Hum. Mais j'ai un chat devant ma porte !
 Ellie, tu n'as jamais eu de chat. Tu ne les connais pas.
 Les chats sont attirés par les pouvoirs magiques.
 Je suis juste venu jeter un coup d'œil, après avoir découvert que la Maison de la Sorcière, inoccupée depuis longtemps, était désormais habitée par une nouvelle sorcière.
-Mais je suis aussi une sorcière. J'ai des pouvoirs magiques. Ça ne devrait pas m'attirer aussi ?
+Mais je suis aussi une sorcière. J'ai des pouvoirs magiques. Ça ne devrait pas l'attirer aussi ?
 Ou bien le pouvoir magique d'une apprentie sorcière est-il trop faible ?
 Je n'en ai aucune idée. Je n'ai jamais eu affaire à des chats.
 Le fait que je ne connaisse pas les chats est tout à fait normal, puisque les apprentis sorciers n'ont pas d'animaux de compagnie.
@@ -7774,21 +7774,21 @@ Bien sûr que non, puisque tu n'es la mère d'aucun Dosca.
 Et je ne connais même pas ce Dosca. C'est qui ?
 Comment as-tu pu oublier ?
 D'après les registres officiels, il y a [em1]une autre sorcière[/em1] dans cette région.
-Tu veux dire Lisa ? Oh ! La lettre en parle effectivement [em1]Lisa[/em1] toi aussi !
+Tu veux dire Lisa ? Oh ! La lettre en parle effectivement de [em1]Lisa[/em1] aussi !
 Est-ce bien la Lisa que nous connaissons ?
-Qui d'autre cela pourrait-il être, sinon [em1]Lisa[/em1]? La lettre a été envoyée à sa Maison des Sorcières.
-Attends ! Ça veut dire que... [em1]la fille de Lisa[/em1] a donné naissance à un [em1]fille[/em1]!
-C'est généralement comme ça qu'on l'appelle [em1]petite-fille[/em1].
-Mon Dieu... Ça devrait faire <shake>titres</shake>!
+Qui d'autre cela pourrait-il être, sinon [em1]la Lisa[/em1]? La lettre a été envoyée à sa Maison des Sorcières.
+Attends ! Ça veut dire que... [em1]la fille de Lisa[/em1] a donné naissance à une [em1]fille[/em1]!
+C'est généralement on l'appelle [em1]une petite-fille[/em1].
+Mon Dieu... Ça devrait faire <shake>les gors titres</shake>!
 Et Dosca a déclaré qu'elle souhaitait donner à l'enfant le prénom de [em1]Lisa[/em1].
 Il faudrait en parler tout de suite à Lisa !
-On dit souvent qu'« une sorcière laisse ses [em1]broche et prénom[/em1] « à la mort » !
+On dit souvent qu'« une sorcière laisse ses [em1]broches et son nom[/em1] « à sa mort » !
 C'est dire à quel point le nom d'une sorcière a de l'importance.
-Mais où est Lisa ? On ne l'a pas trouvée au [lua(GetLocalizedString("Common", "Common_Theme_RainbowForest"))] ni l'un ni l'autre.
-Bien que le [em1]Le Dieu du Chat Blanc[/em1] a dit qu'elle était là...
+Mais où est Lisa ? On ne l'a pas trouvée à la [lua(GetLocalizedString("Common", "Common_Theme_RainbowForest"))] non plus.
+Bien que le [em1]Dieu du Chat Blanc[/em1] a dit qu'elle était là...
 Tu devrais poser la question directement au Dieu du Chat Blanc.
 D'accord, et je peux aussi lui parler de la restauration du village.
-Il est temps de jeter des ponts !
+Il est temps de contruires les ponts !
 Voyons voir… Roy et Vinch, essayez de rassembler tout le matériel dont on a besoin.
 Kyla m'a donné les chiffres nécessaires. Je vais t'accompagner pour vérifier.
 C'est surtout de la pierre et du bois, je crois ? Ça fait un moment que je n'ai pas transporté de marchandises.
@@ -7831,19 +7831,19 @@ Et Rex est en train de mourir !
 QUOI ?!
 Viens vite !
 Mais qu'est-ce que c'est que ça ?
-Il y avait... <shake>(haletant)</shake> Il y a eu un accident… Vous feriez mieux… d’aller tous jeter un œil…
+Il y a eu... <shake>(haletant)</shake> Il y a eu un accident… Vous feriez mieux… d’aller tous jeter un œil…
 On dirait qu'on a un problème. Que tout le monde mette son travail de côté et vienne voir.
 Bon sang… Qu'est-ce qui se passe ?
 *en sanglotant* Accroche-toi, Arden !
-<shake>Ne m'oublie pas, Rubrub !!</shake>
-<shake>Quel dommage</shake>, Arden !
+<shake>Ne m'oublie pas, Rubrum !!</shake>
+<shake>Noooon</shake>, Arden !
 De quoi s'agit-il ?
 Rex a dit que si on cherchait dans des endroits banals, on ne trouverait que des cailloux ordinaires...
 Que tu dois chercher dans un endroit bizarre, louche et inhabituel.
 Nous sommes donc venus ici et avons creusé à la pioche...
 Puis, tout à coup, la falaise a émis un grand craquement, et Rex s'est retrouvé coincé.
 Un énorme rocher qui tombait m'a manqué de peu, ce qui m'a fait mourir de peur...
-Arden m'a protégé depuis le rocher… et il… il est mort ! <shake>Quel dommage !</shake>
+Arden m'a protégé du le rocher… et il… il est mort ! <shake>Boohoo!</shake>
 Ce n'est pas grave, Rubrum. Arden est un dragon. Les dragons ne meurent pas. Il dort, c'est tout.
 <shake>Je ne peux paaaas respirer !!!</shake>
 <shake>Au secours !!</shake>
@@ -7856,7 +7856,7 @@ Aïe… j'ai mal à la tête…
 Je ne vais jamais, jamais nulle part avec cette petite rouquine.
 Je t'avais dit de faire attention. Tu aurais pu blesser Rubrum aussi.
 Mais les pierres ordinaires, c'est ennuyeux !
-La chasse au trésor comporte des risques inhérents ! Et il ne faut pas se laisser décourager par quelques petits échecs. Rubrub, tu n'es pas d'accord ?
+La chasse au trésor comporte des risques inhérents ! Et il ne faut pas se laisser décourager par quelques petits échecs. Rubrum, tu n'es pas d'accord ?
 Euh… eh bien…
 Tu ne faisais que semer le trouble sous prétexte de chercher des pierres précieuses...
 Tu te mets enfin à ma place.
@@ -7869,7 +7869,7 @@ Moi aussi, je veux une belle pierre.
 Vinch ! Tu es enfin là !
 Je… Je ne cours pas d'habitude…
 Mais j'ai entendu chaque mot.
-Comment comptez-vous nous aider exactement ?
+Comment compte-tu nous aider exactement ?
 Tu pourrais venir ici ? Si tu cries tout le temps, je vais finir par être à bout de souffle... <shake>Ha ha.</shake>
 (haletant) L-laisse-moi reprendre mon souffle.
 Eh bien, je le fais moi-même [em1]peinture[/em1], tu sais. Je pourrais peut-être exaucer le souhait de Rex et Rubrum avec de la peinture.
@@ -7884,7 +7884,7 @@ Pourriez-vous m'aider avec ça ?
 Il nous faut plus de matériel ?
 Ce n'est pas une question de matériaux. On ferait mieux d'aller acheter de la peinture [em1]de différentes couleurs[/em1].
 Je sais comment faire tenir la peinture sur la pierre, car la peinture imperméable est couramment utilisée en peinture à l'huile.
-Ce dont nous avons besoin, c'est donc [em1]autant de couleurs que possible[/em1]?
+Ce dont nous avons besoin, c'est donc [em1]d'autant de couleurs que possible[/em1]?
 Bon, je veux faire ça pour Rex et Rubrum.
 Eh bien… pour faire de la peinture colorée…
 <rainb>[lua(GetLocalizedString("Item", "ColourfulPotion_Name"))]!</rainb>
@@ -7893,7 +7893,7 @@ Je vais préparer autant de peinture que possible. Viens me voir quand tu seras 
 Salut, qu'est-ce que tu fais là-bas ?
 Cet endroit risque de s'effondrer à nouveau. Rentrons vite au village.
 Ellie, attends un instant.
-Pas besoin de me suivre partout. N'hésite pas à [em1]mettez en pratique ce que vous et Vinch avez décidé[/em1].
+Pas besoin de me suivre partout. N'hésite pas à [em1]mettre en pratique ce que toi et Vinch avez décidé[/em1].
 Je vous ai surpris en train de comploter quelque chose en cachette, alors j'ai tendu l'oreille, haha !
 Rubrum a toujours été un enfant sage. Il n'a jamais causé de problèmes, à part quand il griffonnait sur sa couette quand il était petit...
 Ça m'aurait brisé le cœur s'il s'était blessé en suivant Rex partout.
@@ -7902,15 +7902,15 @@ Alors, Madame la Sorcière, vous pouvez vous consacrer à d'autres tâches.
 D'accord. J'ai une idée géniale. Laisse-moi m'en occuper.
 Hahaha, personne n'est plus fiable que notre Mme Sorcière !
 Je m'en remets à vous !
-Je n'en ai pas fait [em1][lua(GetLocalizedString("Item", "ColourfulPotion_Name"))][/em1] Ça fait un moment, mais c'est parti.
+Je n'ai pas fait de [em1][lua(GetLocalizedString("Item", "ColourfulPotion_Name"))][/em1] Ça fait un moment, mais c'est parti.
 C'est la première recette de potion que maman m'a apprise.
-Tu t'amuserais avec ça à ta place, au lieu de faire le fou.
-Tout le monde va l'adorer ! [em1]donne une couleur différente[/em1] à chaque fois que tu l'utilises. C'est tellement amusant !
-Et le [em1]changements de couleur[/em1] à chaque fois que vous le remuez ou que vous ajoutez quelques gouttes. On ne s'en lasse jamais.
-Mais quand j'ai grandi, je me suis trouvé d'autres passe-temps et je ne m'en servais presque plus.
-C'est juste, puisque le [lua(GetLocalizedString("Item", "ColourfulPotion_Name"))] ne peut pas non plus crocheter de serrures pour vous,
+Tu t'amuser avec ça à ta place, au lieu de faire le fou.
+Tout le monde va l'adorer ! Cela[em1]donne une couleur différente[/em1] à chaque fois que tu l'utilises. C'est tellement amusant !
+Et la [em1] couleur change[/em1] à chaque fois que tu le remus ou que tu ajoutes quelques gouttes. On ne s'en lasse jamais.
+Mais quand j'ai grandi, je me suis trouvé d'autres passe-temps et je ne jouais presque plus avec.
+C'est juste, puisque la [lua(GetLocalizedString("Item", "ColourfulPotion_Name"))] ne peut pas non plus crocheter de serrures pour vous,
 ou vous indiquer le chemin vers la bibliothèque secrète.
-Hum, en ce qui concerne le [em1]recette[/em1], je peux demander [em1]Diane[/em1] comme d'habitude.
+Hum, en ce qui concerne la [em1]recette[/em1], je peux demander à [em1]Diane[/em1] comme d'habitude.
 Ouah ! C'est que de la peinture, ça ?
 Certaines couleurs sont plus vives que celles des crayons que Vinch m'a donnés !
 Bon sang ! Je n'avais jamais vu autant de peinture depuis que j'ai quitté le bureau de mon père !
@@ -7930,7 +7930,7 @@ Hé ! Je le ferai !
 Tu décores les pierres ? Ça va être un pont unique.
 Je suis désolé pour tous les ennuis que Rex te cause…
 Ne t'en prends pas à Rex ! Rex m'a fait découvrir plein de choses amusantes et magiques.
-Oh, Rubrub… ! Tu es vraiment un gars fidèle !
+Oh, Rubrum… ! Tu es vraiment un gars fidèle !
 Mais il ne prononce jamais mon nom correctement.
 Ellie ?
 Ellie, quels éléments aimes-tu ?
@@ -7963,7 +7963,7 @@ Ces ponts sont à la fois beaux et solides.
 Ellie, voudrais-tu dire quelques mots au nom des villageois ?
 Hein ? Moi ?
 Allez-y, prenez la parole en tant que commandant en second.
-Hum, eh bien… merci à tous d’avoir pris le temps de contribuer à jeter des ponts.
+Hum, eh bien… merci à tous d’avoir pris le temps de contribuer à construire ces ponts.
 C'est grâce à vous tous que ces ponts extraordinaires ont pu voir le jour. Je tiens également à remercier Kyla, qui a apporté la plus grande contribution.
 Ha ha, tu es trop gentil avec moi.
 Je propose donc que nous traversions ce pont ensemble.
@@ -7976,25 +7976,25 @@ Ne me mêle plus jamais à ce genre de choses.
 Dépêche-toi, on y va !
 Il y avait autrefois un [em1]pont menant à la partie sud du village[/em1] par ici.
 Qu'est-ce qui lui est arrivé ?
-Comme vous pouvez le voir, il n'en reste presque plus.
+Comme vous pouvez le voir, il n'en reste presque plus rien.
 J'en ai parlé à Enite.
-Ce pont est irréparable. La seule solution est de [em1]en construire un nouveau[/em1].
+Ce pont est irréparable. La seule solution est d' [em1]en construire un nouveau[/em1].
 Ça ne va pas être une mince affaire.
 Je suppose que cela va coûter cher en matériaux.
 Et si on recrutait davantage de constructeurs ?
 Plus il y en a, mieux c'est !
-Si c'est le cas, pourquoi ne pas demander aux villageois de [em1]construisons-le ensemble[/em1]?
+Si c'est le cas, pourquoi ne pas demander aux villageois de [em1]le construire ensemble[/em1]?
 Si nous devons construire un nouveau pont, nous ferions mieux d'écouter l'avis de tout le monde.
 Bonne idée. T'es géniale, Ellie.
 Je vais demander à Rubrum de rassembler tous les villageois.
-Mais c'est trop tard aujourd'hui. On reviendra ici demain. [em1]pendant la journée[/em1].
+Mais c'est trop tard aujourd'hui. On reviendra ici demain [em1]durant la journée[/em1].
 Il fait trop sombre la nuit. La bousculade peut causer des blessures.
 Ellie, ne reste pas debout trop tard. Se lever tôt, c'est le secret d'une bonne santé.
 Mamie ! Tout le monde est là !
 Tu ne peux pas me laisser tranquille ? Je ne veux rien avoir à faire avec ce genre d'activités.
 Comment pourrions-nous exclure un seul villageois des affaires du village ?
 Hé, merci à tous d'être venus.
-Je vous ai convoqués aujourd’hui pour discuter d’un plan visant à reconstruire le [em1]pont[/em1] conduisant à la [em1]la partie sud du village[/em1].
+Je vous ai convoqués aujourd’hui pour discuter d’un plan visant à reconstruire le [em1]pont[/em1] conduisant à [em1]la partie sud du village[/em1].
 J'aimerais bien avoir autant de bras que possible pour m'aider à le construire, haha !
 Tu vois bien que ça va me prendre une éternité si je dois tout construire tout seul.
 Et puis, j'ai réfléchi...
