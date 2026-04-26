@@ -3706,7 +3706,7 @@ Poursuis le chat blanc
 Dormir dans la maison de la sorcière
 Entrez dans la maison de la sorcière
 Procurez-vous la bouteille en verre pour l'extracteur
-Réparer la hotte
+Réparer l'extracteur
 Inspecter les environs de la forêt
 Nettoie la maison de la sorcière
 Trouvez où se trouve le village
@@ -4223,7 +4223,7 @@ Donnes-en 3 {Item.Rock_Special} à Kyla.
 Donnes-en 3 {Item.Mud_Special} à Kyla.
 Préparons des potions.
 Préparez les potions
-Remplir l'atlas
+Compléter l'atlas
 Remplissez l'atlas de la {Map.GreenForest} .
 Faites passer l'affection d'un chat que vous appréciez au niveau 1.
 Renforcer l'affection de votre chat
@@ -9198,15 +9198,15 @@ Lisa mérite ces critiques.
 Que disent ces notes de service ?
 On y trouve des messages sur une multitude de sujets.
 Je vais peut-être devoir redéfinir la signification de <lunaphobic>. Le mot « luna » devrait ici avoir une signification plus large que celle de la lune elle-même.
-Baissez le feu... Ajoutez une pincée de [lua(GetItemName("PumpkinTerrier_Powder"))] et une cuillerée de [lua(GetItemName("BubbleLizard_Water"))]. Remuez dans le sens inverse des aiguilles d'une montre. Ajoutez un [lua(GetItemName("OneEyeFrog_Powder"))]...
+Baissez le feu... Ajoutez une pincée de [lua(GetItemName("PumpkinTerrier_Powder"))] et une cuillerée d' [lua(GetItemName("BubbleLizard_Water"))]. Remuez dans le sens inverse des aiguilles d'une montre. Ajoutez une [lua(GetItemName("OneEyeFrog_Powder"))]...
 Je n'ai pas trouvé [em1]la clé de l'atelier de Tanis[/em1], mais de toute façon, presque aucune sorcière ne parvient à venir ici.
-Avec sa silhouette imposante, le [em1]Starwhale[/em1] elle fend les airs comme si elle nageait. Tant la créature elle-même que la façon dont elle se fond dans le décor sont absolument époustouflantes.
+Avec sa silhouette imposante, la [em1]Baleine volante[/em1] fend les airs comme si elle nageait. Tant la créature elle-même que la façon dont elle se fond dans le décor sont absolument époustouflantes.
 Pourtant, dès que je pense à ce qu’il renferme, cela me semble sinistre : une créature maudite.
 Starwhale ? Serait-ce...
 Ce qui nous a menés en bateau.
 Alors, ça s'appelle une « Starwhale » !
 À en croire ce que l'on dit, cette créature serait plutôt dangereuse ?
-Mais tu as dit que ça pourrait être pour nous sauver.
+Mais tu as dit qu'elle pourrait essayer de nous sauver.
 Je ne sais pas.
 Une chose est sûre : Lisa n'est pas une grande fan de Starwhale.
 Voilà encore un sujet dont je pourrai parler avec Lisa quand je la verrai !
@@ -9215,10 +9215,10 @@ Les traces s'étendent sur une bonne distance dans cette direction.
 Le sigil de sorcière n'a pas été effacé. Ça évite bien des tracas.
 Regarde bien. Il y a un [em1]éclair étoilé[/em1] en plus.
 Oups, en effet.
-Hmm... Le [em1]Le sigil de sorcière ne peut pas être utilisé[/em1] quand tout s'illumine d'un éclat étoilé. Et maintenant ?
+Hmm... Le [em1]sigil de sorcière ne peut pas être utilisé[/em1] quand tout s'illumine d'un éclat étoilé. Qu'est-ce qu'on maintenant ?
 Et on ne peut pas éteindre le flash étoilé quand il est rangé dans son étui.
 Je dois trouver une solution.
-Peut-être un [em1]potion[/em1] aussi.
+Peut-être une [em1]potion[/em1].
 Si je ne peux pas le déplacer, je vais le cacher.
 Bon, revenons-en à la vigne épineuse.
 Oh là là... C'est spectaculaire...
@@ -9228,24 +9228,24 @@ Rien ne semble plus déplacé que ces vignes épineuses.
 Est-ce que je peux les enlever comme d'habitude… ?
 Je n'en sais pas plus que toi. Essaie donc.
 Bon, on n'y peut rien.
-Tout d'abord, je vais aller voir le Dieu du Chat Blanc pour récupérer le [lua(GetItemName("SacredWater_Water#Important"))].
+Tout d'abord, je vais aller voir le Dieu du Chat Blanc pour récupérer l' [lua(GetItemName("SacredWater_Water#Important"))].
 Mais tu dois aussi retirer la cage à oiseaux. Comment comptes-tu t'y prendre pour atteindre la cage ?
 Je ne sais pas. On a encore beaucoup de choses à régler.
 Je vais explorer davantage la grotte. Il doit bien y avoir un moyen.
 Regarde là-bas.
-Vous apercevrez peut-être un de nos vieux amis.
+Tu apercevras peut-être un de nos vieux amis.
 Hein ? Où ça ?
 Là-bas, au-delà des ronces.
 Où...
-Ah, c'est vrai ! C'est la Baleine des étoiles !
+Ah, c'est vrai ! C'est la Starry Whale !
 Laisse-moi y jeter un œil de plus près.
 Hein ? On dirait que la fleur a rétréci.
 Cette potion « Sunlight » doit être de mauvaise qualité.
 Je suppose que sa vente sera bientôt interdite.
-En route vers le [lua(GetLocalizedString("Common", "Common_Theme_StarSeaCave"))].
+En route vers la [lua(GetLocalizedString("Common", "Common_Theme_StarSeaCave"))].
 Attends, est-ce que c'est...
 Le camping ?
-Ce doit être le quartier général de Lisa lorsqu'elle étudie le [lua(GetLocalizedString("Common", "Common_Theme_StarSeaCave"))].
+Ce doit être le quartier général de Lisa lorsqu'elle étudie la [lua(GetLocalizedString("Common", "Common_Theme_StarSeaCave"))].
 Mais nous n'avons pas encore prouvé qu'il s'agit bien du campement de Lisa.
 À première vue, ça ne peut guère être autre chose.
 D'accord, tu as raison.
@@ -9254,7 +9254,7 @@ C'est possible.
 Bon... Je vais d'abord jeter un coup d'œil.
 Ou bien tu peux entrer directement dans la tente.
 De nombreux livres sont ouverts.
-Voyons voir… Lunaphobic Plants, Hiddes : Un monde sous le ciel nocturne, Fallen Stars…
+Voyons voir… Plantes Lunaphobic, Hiddes : Un monde sous le ciel nocturne, les étoiles filantes…
 Tout tourne autour des plantes et de la [lua(GetLocalizedString("Common", "Common_Theme_StarSeaCave"))].
 On dirait que Lisa étudie à la fois les étoiles et les plantes.
 Je suppose que oui.
@@ -9263,7 +9263,7 @@ Le sens de la vie, La forêt des sorcières, Sur la magie stellaire...
 Les thèmes sont variés.
 Lisa a commencé à réfléchir au sens de la vie.
 J'ai lu *La Forêt des sorcières*. Ce livre figurait sur la liste des lectures obligatoires à l'école.
-Vous souvenez-vous du contenu ?
+Tu te souviens du contenu ?
 Ça parlait de la façon dont les sorcières vivent et meurent. Je m'en souviens très bien, car c'était très profond.
 « Des années passées à pratiquer la magie, un pouvoir issu de la nature, comblent le fossé entre le corps d'une sorcière et la nature elle-même. »
 « Ainsi, lorsqu'une sorcière âgée meurt, elle se transforme en vent et ne fait plus qu'un avec la nature, sans laisser la moindre trace derrière elle. »
@@ -9279,7 +9279,7 @@ C'est pour ça qu'on a passé tous ces tests exigeants.
 Lisa utilisait sans doute ce livre pour étudier la nature de la magie.
 Est-ce que toutes les sorcières possèdent un de ces chaudrons portatifs ?
 C'est trop lourd pour être qualifié de « portable ».
-Peut-être faudrait-il le rebaptiser « casserole de camping » ?
+Peut-être faudrait-il le rebaptiser « chaudrons de camping » ?
 Ce n'est certainement pas pour les sorcières qui sont toujours en vadrouille, comme toi.
 C'est vrai, ça peut être utile pour des sorcières comme Lisa, qui sont affectées à un centre de recherche.
 Cela pourrait s'avérer utile.
@@ -9290,10 +9290,10 @@ Il y en a encore un.
 [lua(GetItemName("BubbleLizard_Water"))] et [lua(GetItemName("PumpkinTerrier_Powder"))]?
 Est-ce que Lisa était en train de bricoler quelque chose ?
 La poterie, c'est l'art de façonner des pots.
-Une potion ou un bonbon à base de [lua(GetItemName("BubbleLizard_Water"))] et [lua(GetItemName("PumpkinTerrier_Powder"))]. Ça a l'air sympa. J'ai envie de le voir.
+Une potion ou un bonbon à base de [lua(GetItemName("BubbleLizard_Water"))] et de [lua(GetItemName("PumpkinTerrier_Powder"))]. Ça a l'air sympa. J'ai envie de le voir.
 Il y a un autre jardin.
 Ce n'est pas étonnant. Elle est ici pour étudier les plantes.
-Mais elle aurait pu les planter n'importe où dans le [lua(GetLocalizedString("Common", "Common_Theme_StarSeaCave"))].
+Mais elle aurait pu les planter n'importe où dans la [lua(GetLocalizedString("Common", "Common_Theme_StarSeaCave"))].
 La composition du sol peut varier, même au sein d'une même grotte.
 Le sol n'est-il pas fondamentalement le même partout ?
 Tu devrais reprendre ton cours de jardinage.
@@ -9321,7 +9321,7 @@ Je ne fais ça que pour retrouver Lisa.
 Attends, regarde ça.
 C'est un morceau de [lua(GetItemName("WitchChalk_Blue"))].
 Et il y a aussi quelques notes.
-... De plus, les plantes lunaphobes ne peuvent même pas pousser correctement dans le [lua(GetLocalizedString("Common", "Common_Theme_StarSeaCave"))].
+... De plus, les plantes lunaphobes ne peuvent même pas pousser correctement dans la [lua(GetLocalizedString("Common", "Common_Theme_StarSeaCave"))].
 Elles ne peuvent pas germer à proximité d'un éclair stellaire ou d'une étoile.
 Cela nous amène à une hypothèse : les plantes « lunaphobes » n'ont pas peur de la lune, mais [em1]peur de la nuit[/em1].
 (Peut-être que ce qu'on appelle le pouvoir de la lune n'est qu'un des nombreux pouvoirs de la nuit...)
@@ -9329,7 +9329,7 @@ Toutefois, ces substances n'auront plus d'effet sur la plante une fois qu'elle a
 Il faut [em1]une forte présence de la nuit[/em1] pour éliminer ces plantes, comme la lumière de la pleine lune.
 Après tout, les étoiles ne sont pas éternelles.
 Il semblerait que Lisa se soit également intéressée aux lianes épineuses pendant son séjour ici.
-Mais elle a dit que les plantes « lunaphobes » ne poussaient pas bien dans le [lua(GetLocalizedString("Common", "Common_Theme_StarSeaCave"))]...
+Mais elle a dit que les plantes « lunaphobes » ne poussaient pas bien dans la [lua(GetLocalizedString("Common", "Common_Theme_StarSeaCave"))]...
 Comment cette plante grimpante épineuse a-t-elle réussi à s'épanouir ?
 En fait, cette vigne épineuse est une plante créée par Lisa.
 Cela aurait-il pu bénéficier d'un coup de pouce grâce à la combinaison de toutes ces différentes caractéristiques ?
@@ -9339,7 +9339,7 @@ Bon, commençons par préparer des « Larmes de lune ».
 Je me demande s'il y a autre chose que son journal intime...
 Ne fouille pas comme ça dans le logement d'autrui.
 Mais c'est peut-être le dernier endroit qui n'a pas encore été fouillé.
-Si elle n'est pas dans le [lua(GetLocalizedString("Common", "Common_Theme_StarSeaCave"))], je ne vois pas d'autre endroit où chercher... hum ?
+Si elle n'est pas dans la [lua(GetLocalizedString("Common", "Common_Theme_StarSeaCave"))], je ne vois pas d'autre endroit où chercher... hum ?
 Quelle que soit la raison, c'est impoli de mettre le nez dans les affaires d'autrui.
 Virgile, serait-ce que... ?
 C'est une broche de sorcière.
@@ -9347,7 +9347,7 @@ C'est une broche de sorcière.
 Si sa broche de sorcière se trouve dans son lit, cela signifie que...
 En général, cela signifie qu'elle s'est éteinte dans son sommeil.
 <shake>C'est exactement ce que je pensais !</shake>
-Il n'y a pas de jour... Lisa... [em1]déjà mort[/em1]?
+Il n'y a pas de jour... Lisa... [em1] est-elle déjà morte[/em1]?
 C'est impossible. Mais… le Dieu Chat Blanc…
 Se pourrait-il qu'elle soit partie sans la broche ?
 Comme vous le savez, une sorcière ne retire jamais sa broche tant qu'elle est en vie.
@@ -9358,8 +9358,8 @@ Je sais bien que...
 Médites-tu sur les paroles du Dieu Chat Blanc ?
 Pourquoi m'ont-ils menti ?
 Tu te souviens de ce qu'a dit le Dieu Chat Blanc ?
-Que Lisa était à [lua(GetLocalizedString("Common", "Common_Theme_StarSeaCave"))]?
-Ce n'est pas ça. Ils ont dit autre chose à propos du [lua(GetLocalizedString("Common", "Common_Theme_StarSeaCave"))].
+Que Lisa était à la [lua(GetLocalizedString("Common", "Common_Theme_StarSeaCave"))]?
+Ce n'est pas ça. Ils ont dit autre chose à propos de la [lua(GetLocalizedString("Common", "Common_Theme_StarSeaCave"))].
 C'est sans doute à cela qu'ils faisaient allusion.
 Comment pourrait-on passer à côté de ça !
 Lisa est morte ici il y a très longtemps ?!
@@ -9382,10 +9382,10 @@ Et je vais certainement arracher une explication au Dieu Chat Blanc.
 Mais qu'est-ce que je fais maintenant ?
 Fais ce que tu dois faire.
 Tu veux dire enlever le cœur épineux de la vigne.
-Tu n'as pas reçu le [lua(GetItemName("WitchChalk_Blue"))]?
+Tu n'as pas reçu la [lua(GetItemName("WitchChalk_Blue"))]?
 C'est vrai, il y avait cette grande porte là-haut.
 Je vais retirer le cœur épineux de la vigne.
-Pour la Baleine des étoiles et les villageois.
+Pour la Starwhale et les villageois.
 Je... je crois que je devrais d'abord chercher ailleurs.
 Ce n'est pas en repoussant l'échéance que tu y gagneras quoi que ce soit.
 <shake>Je vais quand même le repousser.</shake>
@@ -9395,7 +9395,7 @@ Tu vas donc vraiment t'occuper du village en premier ?
 Le Dieu Chat Blanc cache manifestement quelque chose.
 Que cache-t-il exactement ?
 Je n'en ai aucune idée.
-Mais c'est certain [em1]a un rapport avec Lisa[/em1].
+Mais ce qui est certain c'est que ça [em1]a un rapport avec Lisa[/em1].
 Lisa est morte. Qu'y aurait-il donc à cacher ?
 C'est exactement ça !
 Et si [em1]Lisa est toujours en vie[/em1]?
@@ -9414,19 +9414,19 @@ Ce qui expliquerait pourquoi le Dieu Chat Blanc s'est comporté de manière si �
 Il leur faudrait du temps pour lui remettre la lettre pendant qu'elle se cache.
 Mais si c'est vrai, pourquoi Lisa se serait-elle cachée, alors ?
 Je n'en ai aucune idée. C'est justement ce que je voudrais lui demander.
-Ce n'est pas impossible, mais tu n'as aucune chance [em1]preuve[/em1].
+Ce n'est pas impossible, mais tu n'as aucune [em1]preuve[/em1].
 Alors on va la chercher. Si ça ne marche pas, tant pis.
 Nous pourrons nous occuper de la rénovation du village après.
 Mais comment comptes-tu la retrouver ? On a déjà cherché partout.
 C'est parce que le Dieu Chat Blanc nous a menti.
 Bon... hum...
-Je devrais peut-être demander [em1]Diane[/em1] à propos d'une potion de repérage.
+Je devrais peut-être questionner [em1]Diane[/em1] à propos d'une potion de repérage.
 C'est toujours Diane, n'est-ce pas ?
 Qu'y a-t-il de mal à ce qu'une sorcière utilise le Catalogue des sorcières ?
 La solution la plus simple est généralement la meilleure.
 Allons voir Diane.
 J'ai l'impression que ça fait une éternité que je ne suis pas venu ici.
-Voyons si nous pouvons trouver le [em1]lettre du barman[/em1].
+Voyons si nous pouvons trouver la [em1]lettre du barman[/em1].
 ... J'aurais juré que c'était par ici quelque part.
 Peut-être que quelqu'un l'a pris ?
 Hum. Demandons à Enite.
@@ -9447,11 +9447,11 @@ Ah ! C'est sans aucun doute l'oiseau Gaga.
 <shake>Encore cet oiseau ?</shake>
 Bon, au moins, c'est un bon service de livraison, à sa manière.
 Alors peut-être qu'il est temps d'enterrer cet oiseau… juste à côté d'une graine.
-Non. C'est un autre genre.
+Ne le fait pas. C'est une autre affaire.
 Rubrum, sais-tu où l'Oiseau Gaga emporte tout ce qu'il vole ?
 Il m'a aussi pris un de mes jouets.
 Super… on a trouvé le coupable, mais pas le butin.
-Ah, ça me rappelle quelque chose. La dernière fois que l'oiseau Gaga a volé quelque chose, un autre villageois a aidé à le récupérer.
+Ah, ça me rappelle quelque chose. La dernière fois que l'oiseau Gaga a volé quelque chose, un autre villageois a aidé pour le récupérer.
 Attends, la dernière fois ?
 La lettre ?
 Oui. Une enveloppe noire.
@@ -9464,20 +9464,20 @@ On peut faire vite ? J'ai un restaurant à gérer.
 L'oiseau Gaga a volé quelque chose d'important. Tu sais où il pourrait avoir caché son butin ?
 Ha ! Ce petit voleur infatigable a encore frappé ? Il ne s'arrête jamais.
 Ne me demande pas.
-Alors que je rassemblais les ingrédients dans le [lua(GetLocalizedString("Common", "Common_Theme_GreenForest"))], je voyais ça tout le temps...
-D'habitude, il erre entre les [em1][lua(GetLocalizedString("Map", "GreenForest_Waterfall"))] et le [lua(GetLocalizedString("Map", "GreenForest_Deep"))][/em1].
+Alors que je rassemblais les ingrédients dans la [lua(GetLocalizedString("Common", "Common_Theme_GreenForest"))], je le voyais tout le temps...
+D'habitude, il erre entre les [em1][lua(GetLocalizedString("Map", "GreenForest_Waterfall"))] et la [lua(GetLocalizedString("Map", "GreenForest_Deep"))][/em1].
 Oui, je crois que je l'ai vu là aussi quand j'ai enlevé ce cœur de vigne épineux.
-Je n'ai pas souvent vu le Gaga Bird, mais... je sais ce que c'est [em1]la fleur qu'il aime[/em1].
-Vraiment ? Lequel ?
-[em1]Repos[/em1]. Une fleur violette éclatante qui fleurit principalement dans le [lua(GetLocalizedString("Common", "Common_Theme_GreenForest"))].
-La dernière fois qu'il a pris le jouet de Rubrum, on l'a retrouvé dans un [em1]un endroit où l'Asrahi abonde[/em1].
+Je n'ai pas souvent vu le Gaga Bird, mais... je sais ce qu'elle [em1]fleur qu'il aime[/em1].
+Vraiment ? Laquelle ?
+[em1]Asrahi[/em1]. Une fleur violette éclatante qui fleurit principalement dans la [lua(GetLocalizedString("Common", "Common_Theme_GreenForest"))].
+La dernière fois qu'il a pris le jouet de Rubrum, on l'a retrouvé dans un [em1]endroit où l'Asrahi abonde[/em1].
 Et voilà qu'il m'a encore pris un de mes jouets.
 Merci, Roy.
 Cette fois-ci, je vais le trouver.
 Ouais. Maintenant qu'on connaît l'endroit, ça devrait être facile.
-Il suffit de regarder entre les [em1][lua(GetLocalizedString("Map", "GreenForest_Waterfall"))] et le [lua(GetLocalizedString("Map", "GreenForest_Deep"))][/em1], [em1]là où les asrahis sont en pleine floraison[/em1].
+Il suffit de regarder entre les [em1][lua(GetLocalizedString("Map", "GreenForest_Waterfall"))] et la [lua(GetLocalizedString("Map", "GreenForest_Deep"))][/em1], [em1]là où les asrahis sont en pleine floraison[/em1].
 Tiens. Prends ça.
-Le [em1]cloche pour effrayer les oiseaux[/em1]. Je m'en sers au restaurant pour tenir ce truc à distance. Je me suis dit que ça pourrait t'être utile.
+La [em1]cloche pour effrayer les oiseaux[/em1]. Je m'en sers au restaurant pour tenir ce truc à distance. Je me suis dit que ça pourrait t'être utile.
 Bon, j'y vais.
 Prends soin de toi.
 Alors cet endroit existe vraiment...
@@ -9485,16 +9485,16 @@ Hum. On dirait que Gaga Bird n'est pas là pour le moment.
 Je ferais mieux de chercher tant que j'en ai l'occasion.
 Mon sac est plein.
 Si je veux ramener la lettre, je vais d'abord devoir faire de la place.
-Faisons au moins [em1]2 emplacements libres[/em1].
+Libérons au moins [em1]2 emplacements[/em1].
 C'est donc ça, le nid d'oiseau, hein ?
 Il l'a même modelé pour qu'il lui ressemble comme deux gouttes d'eau.
 Fais attention à ton ton.
 Allez, après tous les problèmes que ça a causés, j'ai bien le droit d'être un peu sévère.
 Hum… rien de visible de l'extérieur…
-Ouah ! Pourquoi ce truc est-il si <shake>Super !</shake>
-Pas question que j'y arrive à mains nues.
+Ouah ! Pourquoi ce truc est-il si <shake>solide !</shake>
+Impossible que j'y arrive à mains nues.
 On dirait que c'est un habile constructeur de nids.
-On dirait plutôt qu'ils y ont fourré n'importe quoi...
+On dirait plutôt qu'il y a fourré n'importe quoi...
 Un nid solide est un bon nid.
 Hum. Tu crois que je vais me faire battre par un tas de brindilles ?
 Voyons voir s'il apprécie ma pelle.
@@ -9513,16 +9513,16 @@ Il est temps d'essayer cette cloche qu'Arden m'a donnée.
 On dirait que ça marche.
 ... Et ça part comme des petits pains !
 Parfait ! Prenons la lettre tant qu'on peut.
-Je comprends. Enfin.
+Je l'ai. Enfin.
 Il est temps de filer d'ici.
 Ouf, je m'en suis sorti.
 Une lettre pour le barman, un jouet pour Rubrum : d'une pierre deux coups.
 Plutôt un oiseau et plein de cailloux.
 Commençons par le commencement. Rendons son jouet à Rubrum.
-Ensuite, nous rassemblerons tout le monde et nous nous dirigerons vers le cœur de la vigne épineuse dans le [lua(GetLocalizedString("Common", "Common_Theme_GreenForest"))].
+Ensuite, nous rassemblerons tout le monde et nous nous dirigerons vers le cœur de la vigne épineuse dans la [lua(GetLocalizedString("Common", "Common_Theme_GreenForest"))].
 Bon, je crois que j'ai pris le coup de main. Ce n'est pas si difficile que ça, finalement.
-Et ensuite, c'est... le [lua(GetLocalizedString("Common", "Common_Theme_RainbowForest"))]?
-Je me demande ce que je vais trouver dans le [lua(GetLocalizedString("Common", "Common_Theme_RainbowForest"))].
+Et ensuite, c'est... la [lua(GetLocalizedString("Common", "Common_Theme_RainbowForest"))]?
+Je me demande ce que je vais trouver dans la [lua(GetLocalizedString("Common", "Common_Theme_RainbowForest"))].
 Ce type bizarre ?
 Hein ? L'Ourson ? Non, ce n'est pas un villageois.
 Si ça concerne les villageois…
@@ -9531,11 +9531,11 @@ C'était à l'époque où davantage de gens s'étaient installés dans le quarti
 Ce n'est pas pour autant que c'était parfait.
 À l'époque, nous étions tous des débutants.
 Mais ça reste sympa quand même.
-Ah ! Alors je peux utiliser le [em1]drapeau[/em1] à l'époque.
+Ah ! Alors je peux utiliser le [em1]drapeau[/em1] de cette époque.
 Si on en fait tous le tour, ça devrait créer un lien assez fort !
 Tu sais au moins qui l'a en ce moment ?
 Hmm... Je crois que je l'ai donné à quelqu'un...
-Ah… je suis presque sûr que c'était [em1]Ici[/em1]Allons leur demander.
+Ah… je suis presque sûr que c'était [em1]Arin[/em1]Allons lui demander.
 Bon, voyons voir comment on peut assembler tout ça...
 Arin l'a donné à Vinch...
 Vinch l'a donné à Alvin...
@@ -9549,7 +9549,7 @@ C'est ridicule !
 Alors... [em1]qui a le drapeau en ce moment[/em1]?
 Réfléchis calmement.
 Personne n'a parlé de le donner à quelqu'un en dehors de ce groupe.
-Ce qui signifie [em1]l'une de ces quatre personnes[/em1] il n'a rien perdu de son talent.
+Ce qui signifie [em1]que l'une de ces quatre personnes[/em1] l'a toujours.
 C'est très probable.
 Mais savez-vous lequel ?
 Je n'en ai pas la moindre idée.
@@ -9564,48 +9564,48 @@ Il n'y a donc aucun mal à réunir tout le monde.
 Une fois qu'on les aura tous réunis au même endroit, on trouvera bien une solution.
 <shake>Tout le monde, rassemblez-vous !!</shake>
 Qu'est-ce qui se passe ?
-Il paraît que ça concerne la glycine du village et le drapeau du défilé.
+Il paraît que ça concerne l'arbre de Wisteria du village et le drapeau du défilé.
 Ah, c'est ce dont tu m'as parlé tout à l'heure. Tu ne l'as toujours pas trouvé ?
 Oui, c'est vrai. C'est pour ça que j'ai convoqué tout le monde ici.
 Je vais vous expliquer.
-Pour réparer le glycine de la ville, il nous faut le drapeau qui a servi lors du défilé.
+Pour soigner l'arbre de Wisteria de la ville, il nous faut le drapeau qui a servi lors du défilé.
 Mais quand j'ai demandé autour de moi, personne ne semblait savoir où c'était. C'est pour ça que je vous ai tous réunis ici.
-Arin, pourrais-tu commencer par décrire le drapeau ? [em1]en détail[/em1]?
-Je l'ai emprunté à [em1]Roi[/em1].
+Arin, pourrais-tu commencer par décrire le drapeau ? [em1]En détail[/em1]?
+Je l'ai emprunté à [em1]Rex[/em1].
 Je voulais étudier le motif du drapeau, alors je lui ai demandé de me le prêter.
 Alors que je l'examinais, j'ai remarqué que [em1]les couleurs du motif s'étaient un peu estompées.[/em1]
-Une fois mes recherches terminées, je les ai transmises à [em1]Treuil[/em1].
+Une fois mes recherches terminées, je l'ai transmis à [em1]Vinch[/em1].
 Vinch, tu peux reprendre à partir de là ?
-J'ai vu le drapeau sur un bureau à la bibliothèque et j'ai demandé [em1]Ici[/em1] si je pouvais te l'emprunter.
-J'avais vraiment envie de [em1]dessine-le[/em1] exactement comme il apparaissait pendant le défilé.
+J'ai vu le drapeau sur un bureau à la bibliothèque et j'ai demandé à [em1]Arin[/em1] si je pouvais l'emprunter.
+J'avais vraiment envie de le [em1]dessiner[/em1] exactement comme il apparaissait pendant le défilé.
 Alors je l'ai dessiné [em1]aussi fidèlement que possible[/em1].
 Pendant que je le peignais, Alvin m'a demandé de lui prêter le drapeau.
 J'ai terminé le tableau, puis j'ai prêté le drapeau à [em1]Alvin[/em1].
 Et Alvin ?
 Je n'arrêtais pas de penser à la texture du drapeau vu lors du défilé. Je voulais l'étudier un peu.
-Quand j'ai vu [em1]Treuil[/em1] Comme il l'avait sur lui, je lui ai demandé si je pouvais l'emprunter, et il a accepté.
+Quand je l'ai vu dans les mains de [em1]Vinch[/em1] je lui ai demandé si je pouvais l'emprunter, et il a accepté.
 J'ai demandé à Enite de vérifier le contenu, et même [em1]couper un petit morceau[/em1] pour l'examiner.
-Pendant que je faisais des recherches, je l'ai laissé un instant à la quincaillerie, et [em1]Roi[/em1] lui a demandé de le lui prêter.
-Je n'avais pas encore fini mes recherches, mais ce n'était pas urgent, alors je l'ai laissé les prendre.
-Ça va, Rex ?
+Pendant que je faisais des recherches, je l'ai laissé un instant à la quincaillerie, et [em1]Rex[/em1] lui a demandé de le lui prêter.
+Je n'avais pas encore fini mes recherches, mais ce n'était pas urgent, alors je l'ai laissé le prendre.
+Okay, Rex ?
 Je suis donc passé au [em1]magasin de bric-à-brac[/em1] et j'ai vu quelque chose d'incroyable : le drapeau du défilé.
-Le moment semblait idéal, alors j'ai demandé [em1]Alvin[/em1] à ce sujet.
-Il m'a dit que je pouvais le prendre à [em1]magasin de bric-à-brac[/em1], alors je l'ai emprunté.
+Le moment semblait idéal, alors j'ai questionner [em1]Alvin[/em1] à ce sujet.
+Il m'a dit que je pouvais le prendre au [em1]magasin de bric-à-brac[/em1], alors je l'ai emprunté.
 Je voulais le porter moi-même, tout comme toi...
-Au bout d'un moment, [em1]Ici[/em1] on m'a demandé de le prêter, alors je l'ai donné.
+Au bout d'un moment, [em1]Arin[/em1] m'a demandé de lui prêter, alors je lui ai donné.
 C'est tout ?
 <shake>Ouais ! Je ne l'ai plus sur moi maintenant !</shake>
 Pfff… bon, d'accord.
-En réalité, j'ai cassé le [em1]mât[/em1] tout en le portant.
+La vérité c'est que, j'ai cassé le [em1]mât[/em1] en le portant.
 <shake>Quoi ?!</shake>
 Voici le mât.
-C'était bien le coup de te casser quelque chose.
-<shake>Salut,</shake> mais je ne porte pas le drapeau en ce moment, c'est vrai !
+Je me douter que tu casserai quelque chose.
+<shake>H-hey,</shake> mais je n'ai pas le drapeau en ce moment, c'est vrai !
 C'est vrai. Je me souviens très bien n'avoir reçu que le drapeau...
 Bon… ça n'a pas vraiment d'importance, alors.
 Quelqu'un d'autre se souvient-il de quelque chose d'important ?
-J'ai fait une erreur en lisant le patron, et [em1]la partie de la lune[/em1] de la conception a été modifiée [em1]argent[/em1].
-Voici le [em1]représentation du drapeau[/em1]. Cela pourrait être utile.
+J'ai fait une erreur en étudiant le patterne, et [em1]la partie de la lune[/em1] du motif est devenu [em1]argenté[/em1].
+Voici la [em1]peinture du drapeau[/em1]. Cela pourrait être utile.
 Voici le [em1]morceau de drapeau[/em1] que j'ai découpé pour mes recherches.
 On se croirait dans un roman policier, non ? Ça va être un vrai défi !
 Quoi ? Un roman policier ? Ça a l'air sympa !
@@ -9613,7 +9613,7 @@ Alors, est-ce qu'on est les suspects ?
 Vous cherchez un voleur de drapeaux ? Intéressant.
 C'est sans doute juste que quelqu'un l'a oublié par inadvertance.
 Je vais découvrir qui c'est.
-Il dégage une agréable impression de [em1]création de liens[/em1].
+Il dégage une agréable sensation renforçant [em1]les liens[/em1].
 Il ne nous reste plus qu'à le trouver.
 Il a bien dû y avoir quelqu'un qui a récupéré le drapeau au départ, et quelqu'un qui l'a en sa possession actuellement.
 Hum… Réfléchissons-y.
@@ -9621,29 +9621,29 @@ Hum… Réfléchissons-y.
 Réécoutez ces histoires
 De qui devrais-je entendre à nouveau l'histoire ?
 Écouter à nouveau les autres ? Montrer quelqu'un du doigt ? Ou... demander un indice à Virgile ?
-Demande un indice à Virgil
+Demande un indice à Virgile
 Virgile, tu as des conseils ?
 Ce drapeau n'est pas apparu comme par magie parmi ces quatre-là.
-[em1]Celui qui l'a reçu en premier[/em1] Il a dû se procurer le drapeau auprès de quelqu'un qui n'appartient pas à ce groupe.
+[em1]Celui qui l'a reçu en premier[/em1] à dû le recevoir de quelqu'un qui n'appartient pas à ce groupe.
 Cela peut sembler être un enchevêtrement confus, mais en réalité [em1]c'est juste une ligne droite[/em1].
-Qui l'a eu ? [em1]d'abord[/em1]? Qui l'a ? [em1]maintenant[/em1]?
-Tout le monde a reçu le drapeau [em1]de la part de quelqu'un[/em1], puis a transmis le drapeau au [em1]la personne suivante[/em1].
+Qui l'a eu ? [em1]en premier[/em1]? Qui l'a ? [em1]maintenant[/em1]?
+Tout le monde a reçu le drapeau [em1]de la part de quelqu'un[/em1], puis a transmis le drapeau à [em1]la personne suivante[/em1].
 Quelqu'un a donc dû le recevoir [em1]deux fois[/em1].
-Si une seule personne l'a reçu deux fois, c'est probablement [em1]premier bénéficiaire[/em1].
+Si une seule personne l'a reçu deux fois, c'est probablement le [em1]premier bénéficiaire[/em1].
 Et comme ils ne l'ont pas transmis par la suite, ils doivent encore l'avoir.
 Retour au début—[em1]qui l'a eu en premier[/em1]?
 Tu veux un indice plus clair ?
-Voici quelques-uns des éléments de preuve tirés des déclarations des personnes concernées : [em1]impossible[/em1].
+Certains des éléments de preuve tirés des déclarations des personnes concernées sont : [em1]impossible[/em1].
 Les résultats, en revanche, sont bien réels.
-Cela signifie que le [em1]hypothèse initiale[/em1] ça doit être une erreur.
-Essayez d'élaborer une nouvelle théorie qui rende possible l'« impossible » mis en évidence.
+Cela signifie que l' [em1]hypothèse initiale[/em1] doit être une erreur.
+Essaye d'élaborer une nouvelle théorie qui rende possible l'« impossible ».
 Comment les événements devraient-ils se dérouler pour que ces preuves aient un sens ?
 Non, je vais y réfléchir tout seul.
 Tu veux que je te donne mon raisonnement ?
 Je vais te dire qui est le coupable.
-Oui, s'il vous plaît. Je n'en ai aucune idée.
-Le coupable est [em1]Treuil[/em1].
-Des treuils ?
+Oui, s'il te plaît. Je n'en ai aucune idée.
+Le coupable est [em1]Vinch[/em1].
+Vinch ?
 Regarde le dessin de Vinch.
 Le mât est intact, la couleur du motif est différente et il n'y a aucune trace de coupure.
 Le drapeau a été transmis d'Alvin à Rex, puis à Arin, et enfin à Vinch...
@@ -9653,17 +9653,17 @@ Le drapeau serait découpé, sans le mât… et la couleur du motif serait modif
 Pourtant, le dessin de Vinch montre que le mât est intact, que la couleur du motif a changé et qu'il ne manque aucun coin.
 Qu'est-ce que cela signifie ?
 Je ne peux pas savoir avec certitude ce qui s'est passé.
-Je suis sûr que le dessin de Vinch n'a pas pu être réalisé à partir de [em1]drapeau qu'il a reçu d'Arin[/em1].
+Je suis sûr que le dessin de Vinch n'a pas pu être réalisé à partir du [em1]drapeau qu'il a reçu d'Arin[/em1].
 Il doit donc y avoir une théorie qui explique cela.
 Si tu veux le savoir, demande-le à Vinch toi-même.
-Bon, parlons-en [em1]Treuil[/em1].
-Informations sur les avis
+Bon, parlons-en à [em1]Vinch[/em1].
+Vérifie les informations
 La couleur du motif.
-Quand je l'ai reçu, je crois que le patron était déjà [em1]argent[/em1].
+Quand je l'ai reçu, je crois que le patterne était déjà [em1]argenté[/em1].
 Hum… Je n’ai pas vraiment fait attention à la couleur, donc je ne m’en souviens pas.
 Je ne m'en souviens pas non plus.
 Extrait du drapeau
-Dans [em1]couper un petit morceau[/em1], avec l'autorisation d'Enite, pour étudier ces documents.
+J'ai[em1]couper un petit morceau[/em1], avec l'autorisation d'Enite, pour étudier le matériau.
 Je ne me souviens pas d'un objet aussi petit...
 Quand je l'ai reçu, c'était [em1]déjà coupé[/em1].
 Quand j'ai peint ce tableau, le drapeau [em1]semblait intact[/em1].
@@ -9675,7 +9675,7 @@ Mât cassé
 Je l'ai cassé en le transportant...
 Quand je l'ai reçu, le mât était [em1]cassé[/em1]. Je n'ai eu que le drapeau.
 Pareil pour moi, je n'ai reçu que le [em1]drapeau[/em1] d'Arin.
-Hmm... Je l'ai compris grâce au [em1]poteau intact[/em1].
+Hmm... Je l'ai compris grâce au [em1]mât intact[/em1].
 Montrer quelqu'un du doigt
 Qui porte le drapeau du défilé et l'a oublié ?
 Le coupable est... [lua(GetLocalizedString("InteractableObject", "People_Arin"))]!
@@ -9690,15 +9690,15 @@ Voici le dessin que Vinch a fait du drapeau.
 Vinch a dit qu'il l'avait dessiné [em1]exactement comme il l'avait vu[/em1], n'est-ce pas ?
 Le coupable est... [lua(GetLocalizedString("InteractableObject", "People_Alvin"))]!
 Quoi ?
-Lorsque Vinch a remis le drapeau à Alvin, il l'a laissé à l' [em1]magasin de bric-à-brac[/em1].
+Lorsque Vinch a remis le drapeau à Alvin, il l'a laissé au [em1]magasin de bric-à-brac[/em1].
 Oui, c'est vrai.
-As-tu rencontré Alvin ? [em1]directement[/em1] à cette époque ?
+As-tu rencontré Alvin ? [em1]En personne[/em1] à cette époque ?
 Euh... non. Je ne crois pas qu'on se soit déjà rencontrés en personne.
 Rex, quand tu l'as emprunté à Alvin, tu l'as rencontré en personne ?
 Hein ? Euh… ouais, je lui ai demandé en personne.
-T'a-t-on remis le drapeau ? [em1]directement[/em1]?
+T'a-t-on remis le drapeau ? [em1]En personne[/em1]?
 Non, je l'ai pris dans le [em1]magasin de bric-à-brac[/em1].
-Du coup, quand Alvin a dépassé le drapeau, personne n'a vraiment [em1]se sont rencontrés en personne[/em1].
+Du coup, quand Alvin a déposé le drapeau, personne ne s'est vraiment [em1]rencontrés en face à face[/em1].
 C'est vrai... mais en quoi est-ce important ?
 On se trompe facilement quand on se souvient de quelque chose qu'on n'a pas vu de ses propres yeux.
 En gros, c'est donc de ma faute.
@@ -9710,13 +9710,13 @@ Cela vous rappelle-t-il quelque chose ?
 Oui, maintenant je m'en souviens.
 Après le défilé, je me suis soudainement mis à penser au drapeau qu'Ellie portait.
 J'ai interrogé Enite à ce sujet. Enite m'a répondu que Rubrum l'avait.
-Je ne pouvais pas me rendre à Rubrum à ce moment-là, alors Enite m'a dit qu'elle transmettrait le message.
+Je ne pouvais pas me rendre chez Rubrum à ce moment-là, alors Enite m'a dit qu'elle transmettrait le message.
 Plus tard, quand j'ai rencontré Rubrum, il m'a dit qu'il l'avait laissé au [em1]magasin de bric-à-brac[/em1].
 Je crois que je l'ai aperçu là-bas un instant.
-Et... pas question...
+Et... impossible...
 Peu après, j'ai rencontré Rex.
 Après ça, j'ai oublié ce drapeau pendant un moment.
-Quand je l'ai vu avec Vinch un peu plus tard, je l'ai demandé sans réfléchir.
+Quand je l'ai vu avec Vinch un peu plus tard, je lui ai demandé sans réfléchir.
 Je crois que j'ai cru à tort que je l'avais prêté à Rex.
 Alors, est-ce qu'on le trouve toujours à l'épicerie ?
 On dirait bien... Si ce que j'ai vu a été laissé par Rubrum, alors je n'ai probablement pas vu où Vinch a posé le drapeau.
@@ -9740,8 +9740,8 @@ Alvin, on peut aller chercher le drapeau maintenant ?
 Hum… désolé, tu peux attendre un peu ?
 Hein ? Pourquoi ?
 D'après ce que j'ai entendu dire, on ne verra plus ce drapeau à l'avenir.
-D'accord. Il faut le semer.
-Alors, donne-moi un jour. Je n'ai pas encore fini d'étudier le dossier.
+C'est vrai. Il faut le semer.
+Alors, donne-moi un jour. Je n'ai pas encore fini d'étudier le matériau.
 D'accord. Je reviendrai demain.
 C'était un petit roman très agréable, Ellie.
 Le coupable est... [lua(GetLocalizedString("InteractableObject", "People_Rex"))]!
@@ -9753,21 +9753,21 @@ Ouais ! C'est vrai... Je l'ai donné à Arin...
 Pfff… je ne sais toujours pas…
 Virgile, tu en as une idée ?
 Il y a quelques points qui ressortent.
-Oh, ne me dis rien. Je vais trouver la solution tout seul.
+Oh, ne me dis rien. Je vais trouver la solution toute seule.
 Vas-y !
 Mais juste le drapeau.
-C'est vrai que Rex a cassé le poteau...
+C'est vrai que Rex a cassé le mât...
 Oui. Je voulais juste le dessiner tel qu'il était.
 Mais si Vinch l'a dessiné en s'inspirant du drapeau qu'Arin a reçu, le mât ne devrait pas être là.
 Rex l'avait déjà cassé, donc Arin n'avait plus que le drapeau.
-C'est vrai. Je n'ai remis le drapeau qu'à Vinch.
-C'est certain, je n'ai reçu le drapeau que d'Arin.
+C'est vrai. Je n'ai remis que le drapeau à Vinch.
+C'est certain, je n'ai reçu que le drapeau d'Arin.
 Pourtant, le dessin de Vinch montre le mât, et le drapeau est parfaitement intact.
-Mais le motif est défraîchi, comme l'a dit Arin.
+Mais le motif est effacé, comme l'a dit Arin.
 Exactement. Voici ma théorie :
 C'est Vinch qui a reçu le drapeau en premier.
 Il a retiré le drapeau alors que le mât était encore intact.
-Avant [em1]terminer le tableau[/em1], il a prêté le drapeau à Alvin.
+Avant de [em1]terminer le tableau[/em1], il a prêté l'a à Alvin.
 Ah !
 Plus tard, Arin le lui a rendu et il a terminé le tableau.
 C'est pourquoi le dessin représente différents aspects du drapeau.
@@ -9792,12 +9792,12 @@ Oui, et moi aussi, je me suis bien amusé.
 Et quel cas intéressant !
 Tout le monde fait des erreurs ! Pas de souci.
 Hé… En fait, c'est moi qui l'ai aidé à le trouver, non ?
-Qu'est-ce que vous voulez dire ?
+Qu'est-ce que tu veux dire ?
 En cassant le poteau, on voyait tout de suite d'où il venait.
-Roi
+Rex
 Même si tu attrapes une souris en reculant, personne ne t'applaudira.
 Bon...
-Mais je l'ai bel et bien acheté au magasin.
+Mais je l'ai bel et bien obtenu au magasin.
 Je suis presque sûr de l'avoir donné moi aussi.
 Si personne ne l'a laissé là en cachette… alors ce n'est probablement pas moi.
 Vinch, qui avait reçu le drapeau d'Arin, n'avait donc naturellement que le drapeau, sans le mât.
@@ -9805,18 +9805,18 @@ C'est vrai. Je n'ai fait qu'un brouillon et je l'ai laissé au magasin.
 Et je l'ai vu plus tard à la bibliothèque.
 Oui. Je me suis souvenu que je n'avais pas fini de le colorier, alors je l'ai emprunté à nouveau.
 Je l'ai emprunté à Arin pour le colorier et terminer le tableau...
-... puis remettez-le en rayon.
+... puis le remetre au magasin.
 Quoi ?!
 Très bien ! Il n'en reste plus qu'un.
 Le dernier va toutefois s'avérer un peu délicat.
-C'est le [lua(GetLocalizedString("Common", "Common_Theme_StarSeaCave"))], tu te souviens ?
+C'est la [lua(GetLocalizedString("Common", "Common_Theme_StarSeaCave"))], tu te souviens ?
 Alors ?
 Comparé aux autres, il ne s'est pas encore passé grand-chose.
-Tu ne trouves pas que ça manque un peu de « lien » ?
+Tu ne trouves pas que ça manque un peu de « cohésion » ?
 Eh bien… oui, c'est vrai.
 Les gens là-bas n'ont encore rien fait ensemble.
 Ouais… tu as raison. Ils ne l'ont pas encore fait…
-Mais [em1]ils vont[/em1]! Beaucoup !
+Mais [em1]ils vont le faire[/em1]! Beaucoup de fois !
 Il ne nous reste plus qu'à enterrer ce qui [em1]deviendra[/em1] la source du lien !
 Attends, quoi ? Tu peux faire ça ?
 Nous avons toujours enfoui des choses du passé.
@@ -9849,7 +9849,7 @@ Si ça te convient, est-ce que tu voudrais venir vivre chez moi ?
 Je pense simplement que ce serait bien qu'on soit proches.
 J'adorerais qu'on vive ensemble, mais… j'ai encore beaucoup de choses à préparer.
 Souhaitez-vous utiliser le [em1]Signe d'amitié[/em1] sur le chat ?
-Tiens. Voici le [em1]Signe d'amitié[/em1] Je me suis préparé pour toi.
+Tiens. Voici le [em1]Signe d'amitié[/em1] Je l'ai préparé pour toi.
 En portant ça, tout le monde saura que tu es un ami qui vit avec moi.
 (Le chat renifle l'étiquette, puis ronronne de contentement.)
 J'ai beaucoup apprécié le temps passé avec toi. Tu vas vivre au village maintenant, n'est-ce pas ?
@@ -9870,8 +9870,8 @@ Hein ? Tu as quelque chose à dire ?
 (La queue du chat se balance lentement d'un côté à l'autre.)
 À en juger par ton air… tu as quelque chose en tête, n'est-ce pas ?
 Si le chat voulait retourner au village, que ferais-tu ?
-Dans...
-Je vais lâcher prise.
+Je...
+Je le laisserai partir.
 Ça me rend triste, mais...
 Je sais que je n'ai pas toujours fait de mon mieux pour toi.
 Alors, si tu veux partir, j'aimerais au moins te dire au revoir. Ça ne te dérange pas, n'est-ce pas ?
@@ -9881,7 +9881,7 @@ Je ferai de mon mieux. Fais-moi confiance.
 (Le chat se met à ronronner.)
 Très bien ! Je compte encore sur toi.
 L'expression du chat est vraiment différente de d'habitude.
-C'est peut-être à cause de [em1]Signe d'amitié[/em1]...
+C'est peut-être à cause du [em1]Signe d'amitié[/em1]...
 Tu... veux vraiment retourner au village ?
 (Le chat regarde Ellie en silence.)
 Le garder contre son gré n'est peut-être pas une bonne idée.
@@ -9889,10 +9889,10 @@ Tu veux retourner là où tu vivais, n'est-ce pas ?
 Cela m'attriste, mais je veux respecter son souhait.
 Tu vas au village tout de suite ? Je t'y accompagne.
 C'est peut-être le collier… J'ai l'impression qu'il veut retourner au village.
-Que faites-vous ?
+Que fais-tu ?
 Si seulement j'avais mieux pris soin de toi.
 (Le chat regarde Ellie d'un air indifférent.)
-Avez-vous quelque chose à dire ?
+As-tu quelque chose à dire ?
 Bien sûr que je devrais te le demander. Me ferais-tu confiance une dernière fois ?
 (Le chat frotte son museau contre Ellie.)
 Je sens que tu me fais confiance. C'est donc oui !
@@ -9901,12 +9901,12 @@ Super ! Devenons amis !
 Me ferais-tu confiance une dernière fois ?
 Je sens que tu me fais confiance.
 ...Mais je sens aussi que tu penses toujours à retourner au village.
-C'est... le [lua(GetLocalizedString("Common", "Common_Theme_StarSeaCave"))]?!
+C'est... la [lua(GetLocalizedString("Common", "Common_Theme_StarSeaCave"))]?!
 C'est moi ou...
 Ce n'est pas aussi chic que je l'avais imaginé.
 Ce n'est peut-être pas une grotte comme les autres.
 Tu crois ?
-Il est relié au [lua(GetLocalizedString("Common", "Common_Theme_StarSeaCave"))].
+Il est relié à la [lua(GetLocalizedString("Common", "Common_Theme_StarSeaCave"))].
 Il y a une vigne épineuse. Je vais suivre cette vigne épineuse pour l'instant.
 Attends...
 Tu as entendu ça ?
@@ -9937,16 +9937,17 @@ Je sais, Virgile.
 Je pense que ça peut nous faire descendre dans le trou créé par l'étoile...
 Je vais m'en servir.
 Peut-être plus tard.
-Regarde, Virgile ! C'est la Baleine des étoiles.
+Regarde, Virgile ! C'est la Starwhale.
 On dirait bien une baleine.
 Ce corps translucide semble être fait de minuscules étoiles. C'est incroyable.
 Mais celui-ci a l'air un peu lent.
-Celui-là ? S'agit-il d'une autre personne ?
+Celui-là ? S'agit-il d'une autre créature ?
 Oui, la taille est différente. L'aspect est également légèrement différent.
 Pour moi, ils se ressemblent.
 Celui-là n'a pas l'air très solide...
 Est-ce à cause des vignes épineuses ?
 Est-ce que le cœur de cette plante grimpante épineuse absorbe la puissance de l'étoile ?
+C'est pourquoi le cœur continue de grossir tandis que les Starwhales s'affaiblissent.
 C'est pourquoi le cœur continue de grossir tandis que les Starwhales s'affaiblissent.
 Pourquoi tu n'arrêtes pas de dire « peut-être » ?
 Parce que nous ne savons rien de cette étoile.
@@ -9955,16 +9956,16 @@ Bon, c'est exactement comme tu l'avais dit.
 Si seulement nous pouvions trouver des documents laissés par les sorcières qui étudiaient autrefois cet endroit.
 Si de tels documents existaient vraiment, bien sûr.
 Bon, commençons par faire ce que nous pouvons.
-Tu veux dire « Craft Moon Tears » ?
-D'accord, à condition d'enlever le cœur épineux de la vigne avec des « Larmes de la Lune »...
+Tu veux dire « Fabriquer des Moon Tears » ?
+D'accord, à condition d'enlever le cœur épineux de la vigne avec des « Moon Tears »...
 La Starwhale sera de nouveau en forme en un rien de temps.
 C'est la Starwhale de tout à l'heure !
-On dirait que cela nous montre la voie.
-Allons-y alors.
+On dirait qu'elle nous montre la voie.
+Suivons-la.
 Suivre quoi ?
 Notre guide !
-Il a fait tomber quelque chose.
-C'était sur le site Starwhale...
+Elle a fait tomber quelque chose.
+C'était sur la Starwhale...
 Un gant… ?
 C'est un gant de jardinage.
 Alors ça doit être celui de Lisa.
@@ -9973,12 +9974,12 @@ Cela explique pourquoi ils étaient si désorganisés.
 Mais où donc est passée Lisa ?!
 Et pourquoi la Starwhale jette-t-elle les affaires de Lisa partout ?
 Pour nous attirer ?
-Vous voulez nous faire venir ? Pourquoi ? Et où ça ?
-Veut-il que nous le guérissions ?
+Tu veux nous faire venir ? Pourquoi ? Et où ça ?
+Veut-elle que nous le guérissions ?
 Je n'arrive pas à deviner ce qu'il pense.
-Bon… d'accord. Je vais m'y tenir pour l'instant.
+Bon… d'accord. Je vais le suivre pour l'instant.
 Je crois que ça a baissé depuis...
-Ah, le voilà !
+Ah, la voilà !
 Je vais d'abord aller voir le camping de Lisa.
 Je dois d'abord retirer cette cage à oiseaux.
 La craie de sorcière pourrait bien faire l'affaire.
@@ -9997,12 +9998,12 @@ Il y a aussi une note de service.
 Ingrédients de la potion : 6 dés
 Cela signifie que tu pourras fabriquer une potion si tu trouves 5 dés supplémentaires.
 Les enfants d'aujourd'hui ne connaissent plus « La marmite d'Olivia » ?
-Le pot d'Olivia ?
+La marmite d'Olivia ?
 C'est ce jeu de dés auquel s'adonnent les hommes d'âge mûr dans les bars ?
 Ne confonds pas le jeu et la réalité, Virgile.
 Les anciens dés de sorcière devraient avoir une grande valeur.
 Ah bon ? Alors je vais prendre celui-là.
-Quoi d'autre ? ... En gros, que des bêtises...
+Quoi d'autre ? ... En gros, que des choses inutiles...
 Virgile, regarde ça.
 C'est une clé !
 Ça doit être la clé de ce laboratoire fermé à clé !
@@ -10023,12 +10024,12 @@ C'est vraiment un laboratoire qui a été utilisé par d'anciens chercheurs !
 Quoi qu'il en soit, il doit avoir au moins cent ans.
 Je n'arrive pas à croire que je vois des objets utilisés par des gens il y a des siècles.
 Nous ne pouvons qu'espérer que ces personnes aient fait leur travail avec soin.
-Nous ne pouvons en savoir plus que sur le [lua(GetLocalizedString("Common", "Common_Theme_StarSeaCave"))] s'ils avaient mené une enquête approfondie sur le [lua(GetLocalizedString("Common", "Common_Theme_StarSeaCave"))].
+Nous ne pouvons en savoir plus sur le [lua(GetLocalizedString("Common", "Common_Theme_StarSeaCave"))] uniquement s'ils avaient mené une enquête approfondie sur la [lua(GetLocalizedString("Common", "Common_Theme_StarSeaCave"))].
 Voyons donc ce qu'ils ont découvert.
 Ces livres sont en meilleur état que ceux qui se trouvent dans les bibliothèques à l'extérieur.
 Après tout, ils avaient une porte pour s'abriter.
 Mais moi non plus, je ne les comprends pas.
-Et je pense qu'ils s'effriteront au moindre effleurement.
+Et je pense qu'ils s'effondreront au moindre effleurement.
 Tu devrais tout de même fouiller les lieux de fond en comble.
 Vous trouverez peut-être des indices concernant la « malédiction » dont Lisa a parlé.
 Notre priorité est d'éliminer les lianes épineuses. La malédiction peut attendre.
@@ -10038,15 +10039,15 @@ Je déteste lire ! Et alors ?
 Ça te sera utile.
 Je le lirai quand j'en aurai l'occasion.
 Je vais chercher ailleurs pour l'instant.
-Potion Étoile
+Star Potion
 Une potion qui permet de localiser n'importe quel être vivant, qu'il s'agisse d'un humain, d'un animal ou d'une plante.
 Il capture et révèle l'âme ou la véritable forme de la cible.
 Remarque : cela ne fonctionne que si l'utilisateur connaît bien la cible.
 L'utilisateur est qualifié si la potion brille.
-En voici un autre chaudron de sorcière.
+Voici un autre chaudron de sorcière.
 Il semblerait que Tanis ait également concocté des potions ici.
 Les potions peuvent également s'avérer utiles en sculpture.
-Les chaudrons des sorcières n'ont pas beaucoup changé au cours du siècle dernier.
+Les chaudrons de sorcières n'ont pas beaucoup changé au cours du siècle dernier.
 Et il semble toujours fonctionner...
 Non, attends, c'est dans un état déplorable.
 Tout est gâché par cette patine verte.
@@ -10069,19 +10070,19 @@ Suivons ce fil lumineux !
 Rien de particulier pour l'instant.
 Bon, je vais utiliser la clé qui se trouve dans ce sac à dos...
 Ce n'est peut-être pas la bonne clé.
-C'est vrai. Regarde, ça va.
+C'est ça. Regarde, ça rentre.
 Hein ? Attends...
 Ça... ça ne tourne pas...
-Y va pas trop fort. La clé est toute vieille. Tu risques de la casser.
-Ne me mets pas la pression alors que je suis déjà nerveux.
+N'y va pas trop fort. La clé est toute vieille. Tu risques de la casser.
+Ne me mets pas la pression alors que je suis déjà nerveuse.
 Peut-être que la clé est trop usée pour s'insérer correctement.
-N'appuyez pas trop fort. Retirez-le légèrement et tournez à nouveau.
-Bon, tire un peu...
-Et tournez... !
+Ne l'enfonce pas trop. Retire-la légèrement et tourne à nouveau.
+Bon, retire la un peu...
+Et tourne... !
 J'ai dit d'y aller doucement.
 C'est bon. Ça bouge... Il faut tourner plus fort...
-Tu vas le casser !
-Une seconde. Remuez un peu… et retournez-le !
+Tu vas la casser !
+Une seconde. Remue un peu… et tourne-la !
 Voilà ! Tu vois ? C'est ouvert.
 Je crois que tu viens de casser la serrure.
 Ce n'était peut-être pas la bonne clé dès le départ. Elle ne rentrait pas bien.
@@ -10096,34 +10097,34 @@ Ce n'est pas du tout caché.
 J'essayais de créer une ambiance d'aventure, d'accord ?
 Attends, il y a une inscription.
 « L'atelier de sculpture de Tanis Rustystone »
-Le saviez-vous ?
+Tanis ?
 Ce nom revenait sans cesse dans les notes de service de Lisa...
 Jamais dans un sens positif.
-C'était sans doute une artiste qui réalisait des sculptures pour le [lua(GetLocalizedString("Common", "Common_Theme_StarSeaCave"))]...
+C'était sans doute une artiste qui réalisait des sculptures pour la [lua(GetLocalizedString("Common", "Common_Theme_StarSeaCave"))]...
 Je vais ouvrir cette porte.
 Vas-y doucement.
-D'accord. Vas-y doucement…
-C'est encore un peu brouillon. Sois plus clair.
-Bon... hein ? Qu'est-ce que... ?
+D'accord. J'y vais doucement…
+C'est encore un peu fort. Sois plus douce.
+Okay... hein ? Qu'est-ce que... ?
 Ha ! Euh... !
-Si c'est ce que tu appelles « plus facile », tu devrais opter pour la solution la plus simple la prochaine fois.
+Si c'est ce que tu appelles « plus douce », tu devrais opter pour la solution la plus douce la prochaine fois.
 C'est fermé à clé ?
 Il nous faut une clé.
 Celui qui l'a fermé à clé aurait dû emporter la clé.
 Où ça ?
-Accueil.
+Chez lui.
 Quand ?
 Il y a un siècle.
 Je ne peux pas le casser pour l'ouvrir ?
 Tu ne devrais pas être aussi brutal, même si tu ne veux pas y aller doucement.
 D'accord, je vais chercher la clé.
-On peut attendre pour enfoncer la porte.
+L'enfonçage de porte peut attendre.
 Je reviendrai quand j'aurai la clé.
-Il y a une guirlande lumineuse !
+Il y a un fil lumineux !
 Depuis quand as-tu deux vies ?
 Je suppose que la potion que Tanis a mise de côté est en sécurité ?
 Cela aurait pu être dangereux.
-J'ai obtenu un bon score à ce moment-là.
+J'ai obtenu un bon score alors.
 Tu pourras te plaindre une fois que j'aurai rattrapé mon retard sur cette discussion !
 Comment puis-je me rendre de l'autre côté ?
 Je crains que ce ne soit pas d'ici.
@@ -10135,23 +10136,23 @@ Que va-t-on découvrir cette fois-ci ? Mon cœur bat la chamade d'excitation.
 Ouah, ça a marché !
 Est-ce que quelque chose a changé… ?
 Je n'ai rien senti.
-Hmm… Je ne comprends pas. Bon, je retourne m'occuper de la tige épineuse.
+Hmm… Je ne comprends pas. Bon, je retourne au coeur des vignes épineuse.
 Hein ? C'est tout ?
 Ça ne marche pas du tout !!
 Tout allait un peu trop bien avant.
 Je ne plaisante pas, Virgile !
 Et maintenant, qu'est-ce qu'on fait ?
-Peut-être avez-vous besoin de plus de « Larmes de la Lune » ?
+Peut-être as-tu besoin de plus de « Larmes de la Lune » ?
 Où pourrais-je bien trouver toutes les fleurs de lune et l'eau sacrée...
-Et l'huile Moon Oil que tu as utilisée au début.
+Et l'huile de lune que tu as utilisée au début.
 Et la plume de phénix, alors ? Et peut-être avons-nous besoin de « plumes » de phénix...
 N'y a-t-il pas d'autre moyen...
 À propos d'une autre solution, Lisa a mentionné quelque chose dans ses notes.
 Vraiment ? Je ne me souviens de rien de particulier.
 Elle a dit que ce n'était pas le pouvoir de la lune que ces plantes craignaient. C'était [em1]le pouvoir de la nuit[/em1]...
-Oh... Attends un peu. En y repensant, si le [lua(GetLocalizedString("Common", "Common_Theme_StarSeaCave"))] renferme la puissance de la nuit...
-il devrait y avoir [em1]quelque chose dans le [lua(GetLocalizedString("Common", "Common_Theme_StarSeaCave"))][/em1] que nous pouvons utiliser.
-Malheureusement, nous ne savons pratiquement rien sur le [lua(GetLocalizedString("Common", "Common_Theme_StarSeaCave"))].
+Oh... Attends un peu. En y repensant, si la [lua(GetLocalizedString("Common", "Common_Theme_StarSeaCave"))] renferme la puissance de la nuit...
+il devrait y avoir [em1]quelque chose dans la [lua(GetLocalizedString("Common", "Common_Theme_StarSeaCave"))][/em1] que nous pouvons utiliser.
+Malheureusement, nous ne savons pratiquement rien sur la [lua(GetLocalizedString("Common", "Common_Theme_StarSeaCave"))].
 Tu as raison.
 Nous avons trouvé le laboratoire, mais il n'y a rien de concluant là-dedans.
 Il y a une porte fermée à clé.
@@ -10159,7 +10160,7 @@ Tu veux dire la porte sur laquelle est écrit [em1]L'atelier de sculpture de Tan
 Bon, fouillons chaque recoin du laboratoire.
 Si ça ne marche pas, je vais préparer un seau de « Larmes de la Lune »...
 Où ?
-Moon Oil a débroussaillé certaines lianes épineuses, dévoilant ainsi quelque chose qui ressemble à un [em1]sac à dos[/em1].
+L'huile de la lune a débroussaillé certaines lianes épineuses, dévoilant ainsi quelque chose qui ressemble à un [em1]sac à dos[/em1].
 Un sac à dos ?!
 Je vais y jeter un œil.
 <wave>Ouah ! La fabrication a réussi ?!</wave>
@@ -10177,7 +10178,7 @@ Attends, je me suis trompé là.
 Félicitations. Tu as réussi à concocter une potion datant d'il y a 100 ans.
 Mais c'est quoi, exactement, cette potion ?!
 Est-ce qu'il enlève le cœur épineux de la vigne ?!
-Vous devez d'abord l'identifier.
+Tu dois d'abord l'identifier.
 <shake>Comment pourrais-je bien identifier une potion datant d'il y a 100 ans !!</shake>
 En consultant un livre datant d'il y a 100 ans, bien sûr.
 Oh oh...
@@ -10192,20 +10193,20 @@ Le dispositif a fait couler de l'eau depuis le haut.
 C'est mieux maintenant !
 Et il y en a encore là-bas.
 Les endroits qui étaient secs sont désormais inondés.
-Vous pouvez désormais nager jusqu'au cœur de la vigne épineuse.
+Tu peux désormais nager jusqu'au cœur de la vigne épineuse.
 C'est vrai. Qu'est-ce qu'on attend ?
 Ça n'a aucun sens !!
 Il doit y avoir autre chose !
 À part la mort de Lisa ?
-Peut-être...
-Tout d'abord, je dois obtenir le [lua(GetItemName("SacredWater_Water#Important"))] du Dieu Chat Noir.
+P-probablement...
+Tout d'abord, je dois obtenir l' [lua(GetItemName("SacredWater_Water#Important"))] du Dieu Chat Noir.
 Allons parler au Dieu Chat Noir demain, dans la journée.
 Est-ce que je m'y prends vraiment bien ?
-L'Orient est le berceau d'où naissent le jour et la nuit.
+L'Est est le berceau d'où naissent le jour et la nuit.
 Pourquoi tu parles toi aussi comme le Dieu Chat Noir ?!
 Si tu veux savoir si c'est la bonne voie, tu dois aller jusqu'au bout.
 Que ferait maman ?
-De l'air ?
+Aria ?
 Que ferait maman si elle se demandait si elle est sur la bonne voie ?
 Aria courait à toute vitesse sur le sentier.
 Courir ?
@@ -10214,10 +10215,10 @@ Si la réponse se trouve au bout du chemin,
 tu ne le sauras jamais si tu n'insistes pas.
 Et Aria court toujours au lieu de marcher.
 C'est tout à fait typique de maman.
-Cela lui a toutefois failli coûter la vie à plusieurs reprises.
+Cela a toutefois failli lui coûter la vie à plusieurs reprises.
 Ah, je vois.
 En tant que membre de Blueriver moi-même,
-Je devrais aussi essayer de courir sur mon parcours.
+Je devrais aussi essayer de courir le long de mon chemin.
 Parce qu'il y a tant de choses que je dois découvrir.
 Que faut-il faire ? Est-ce que j'agis correctement ?
 Est-ce une bonne idée de lui remettre la broche ? Devrais-je laisser Lisa tranquille ?
@@ -10232,8 +10233,8 @@ C'est tout à fait normal dans l'atelier d'une sorcière.
 Pense à Lisa.
 C'est vrai, c'est en tout cas bien plus rangé que chez Lisa.
 Vais-je trouver un indice ici ?
-Pour retirer le cœur épineux de la vigne, je dois me renseigner sur le [em1][lua(GetLocalizedString("Common", "Common_Theme_StarSeaCave"))][/em1]...
-Mais n'est-ce pas un « atelier de sculpture » ? Je doute qu'un sculpteur ait quoi que ce soit de pertinent.
+Pour retirer le cœur épineux de la vigne, je dois me renseigner sur la [em1][lua(GetLocalizedString("Common", "Common_Theme_StarSeaCave"))][/em1]...
+Mais n'est-ce pas un « atelier de sculpture » ? Je doute qu'un sculpteur ne possède quoi que ce soit de pertinent.
 Mais Lisa n'arrêtait pas de parler de Tanis.
 J'ai l'impression qu'il y a quelque chose là-dessous.
 <shake>Il doit bien y avoir quelque chose.</shake>
@@ -10248,9 +10249,9 @@ Pourquoi y aurait-il une cloche ?
 En général, on sonne une cloche pour donner un signal.
 Cela aurait-il un rapport avec cette barrière dont on parlait tout à l'heure ?
 C'est possible. Cette barrière était ornée d'un motif en forme de cloche.
-Je vais sonner pour voir.
+Je vais la sonner pour voir.
 Oh là là, ça fait un son charmant.
-Ça peut aller très loin.
+Le son peut aller très loin.
 Oui, ce n'est pas très fort, mais ça résonne bien.
 Je pense qu'on peut l'entendre dans tout le quartier.
 Voyons ce qu'il est advenu de cette barrière avec la figure en cloche.
@@ -18519,7 +18520,7 @@ Malédiction
 Les malédictions apparaissent souvent quand on s’y attend le moins.
 Soyez toujours attentif à ce que vous rencontrez pour la première fois.
 Je pense que j’aurai de la chance aujourd’hui.
-Une carrière de colporteur peut être assez mouvementée.
+Une carrière de marchand ambulant peut être assez mouvementée.
 Avez-vous des souvenirs particuliers ?
 Un vieil homme m’a vendu une statue maudite en bois d’un singe.
 Je ne peux pas contredire ça.
@@ -18554,7 +18555,7 @@ Le fait d’être trop cher est un problème, mais ce n’est pas non plus très
 Les bonnes choses méritent de bons prix.
 Je ne fais jamais affaire avec des gens qui ne savent pas vraiment valoriser les choses.
 [lua(GetLocalizedString("InteractableObject", "People_Aurea"))][lua(GetLocalizedString("Choice", "FavorabilityUP_Large"))]
-Savez-vous quel est le moment le plus heureux pour un colporteur ?
+Savez-vous quel est le moment le plus heureux pour un marchand ambulant ?
 Je suppose que c’est le cas où c’est rentable ?
 Quand je repère de bonnes choses.
 Je me sens le mieux quand je trouve quelque chose de précieux parmi les objets disposés au hasard au marché de campagne.
@@ -18599,7 +18600,7 @@ Quoi qu’il en soit, tu as tenu ta promesse, alors je devrais tenir la mienne a
 [Hand over the item]
 Waouh ! Merci, Aurea, tu es la meilleure !
 Ce n’était rien. La confiance est le fondement des affaires.
-Voici les options dont dispose un colporteur lorsque le passage est bloqué.
+Voici les options dont dispose un marchand ambulant lorsque le passage est bloqué.
 D’abord, trouvez une autre voie.
 Ensuite, trouvez un autre moyen de transport.
 Troisièmement, débarrassez-vous de certains bagages si les deux premiers ne fonctionnent pas.
@@ -21149,7 +21150,7 @@ D’accord, Ellie. Je pense qu’on peut tout accomplir tant que tu es là !
 Alors, tu vas contacter Kyla maintenant ?
 Oui, j’ai écrit la lettre à l’avance.
 Laisse-moi envoyer la lettre alors.
-Tu le ferais ? Merci. Le colporteur se trouve aussi au village pendant[em1]Jour[/em1], alors s’il te plaît, donne-le-lui.
+Tu le ferais ? Merci. Le marchand ambulant se trouve aussi au village pendant[em1]Jour[/em1], alors s’il te plaît, donne-le-lui.
 D’accord. Oh, et puis-je aussi envoyer ma lettre ?
 Bien sûr. Puis-je te demander ce que tu as écrit ?
 « Je veux te voir bientôt. »
@@ -21160,7 +21161,7 @@ J’ai écrit que tout le monde attendait.
 J’ai écrit qu’elle était toujours la bienvenue.
 Kyla serait heureuse aussi. Alors, je te laisse faire.
 D’accord, ne t’inquiète pas.
-Depuis que le village est devenu ce que vous voyez aujourd’hui, le facteur a cessé de venir, mais vous pouviez le donner au colporteur à la place.
+Depuis que le village est devenu ce que vous voyez aujourd’hui, le facteur a cessé de venir, mais vous pouviez le donner au marchand ambulant à la place.
 J’y ai réfléchi hier.
 Mais je n’en suis toujours pas sûr.
 Les villageois... !
