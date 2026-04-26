@@ -4281,7 +4281,7 @@ Trouvez les cloches et sonnez-les pour lever la barrière en contrebas.
 Essayez de soulever le pont menant au dispositif de descente.
 Utilisez le dispositif de descente pour descendre plus bas.
 Suivez la vigne épineuse.
-Essaie de découvrir le sigil de la sorcière.
+Essaie de découvrir le sigil de sorcière.
 Suivez à nouveau la vigne épineuse.
 Observez la baleine étoilée derrière le cœur épineux de la vigne.
 Jette un œil à l'objet lâché par la petite baleine stellaire.
@@ -4319,7 +4319,7 @@ Soulevez la barrière ornée d'un grand motif en forme de cloche
 Montez sur le pont
 Descendre plus bas
 Observez les environs
-Activer le sigil de la sorcière
+Activer le sigil de sorcière
 Observez la grande baleine étoilée
 Partez à la recherche de la plus petite des baleines stellaires
 Examinez les objets lâchés
@@ -7454,7 +7454,7 @@ Et il faut dire à Enite qu'il faut enlever les lianes épineuses.
 Ça a l'air spacieux. Je vais faire un tour pour voir s'il y a [em1]une autre entrée[/em1] en plus de celle par laquelle nous sommes entrés.
 Cherche la craie de sorcière.
 J'ai trouvé la craie de sorcière. Je vais m'en servir.
-Redessine le sigil de la sorcière pour l'activer.
+Redessine le sigil de sorcière pour l'activer.
 Hein ? Qu'est-ce que c'est que ça ?
 On dirait que quelqu'un a bloqué le passage avec une tente pour empêcher les gens d'entrer.
 C'est un peu comme cette immense porte de jardin dans la forêt.
@@ -8467,7 +8467,7 @@ Oui. Des esprits peuvent habiter dans des maisons construites par des sorcières
 Parfait ! C'est consigné dans le grimoire !
 On dirait que tu ne peux pas l'attraper pour le moment. Tu as une idée de pourquoi ?
 Comment je le saurais ?!
-Toi peut-être, mais le [em1]Grimoire[/em1], lui, oui.
+Toi peut-être pas, mais le [em1]Grimoire[/em1], lui, oui.
 Regarde le [em1]Grimoire[/em1] de plus près.
 Voyons voir...
 Tu comprends maintenant pourquoi tu n'en attrapes pas ?
@@ -11773,7 +11773,7 @@ Le village se trouve à [em1]est[/em1] d'ici.
 Je suppose qu'il y a bien du monde qui habite par ici.
 Je veux aller au village.
 Voici un [em1]village[/em1], Virgile !
-Je suppose que le village se trouve un peu plus loin [lua(GetLocalizedString("InteractableObject", "LittleHoneyPumkin"))].
+Je suppose que le village se trouve au dela de cette [lua(GetLocalizedString("InteractableObject", "LittleHoneyPumkin"))].
 Je voulais visiter le village. Quel dommage.
 Bon, mettons le cap vers l'est.
 Mais on dirait que quelque chose le bloque là-bas.
@@ -11781,7 +11781,7 @@ C'est vrai. C'est [lua(GetLocalizedString("InteractableObject", "LittleHoneyPumk
 Allons d'abord jeter un coup d'œil.
 Voyons ce qui bloque le passage.
 Il fait trop sombre et c'est trop délabré pour que je puisse voir quoi que ce soit.
-Je ne vois aucun mot. Seulement des images...
+Je ne vois aucun mot. Seulement des symboles...
 On reviendra quand il fera plus clair.
 Est-ce le panneau indiquant la Maison de la Sorcière ?
 C'est différent de ce à quoi je suis habitué.
@@ -11864,12 +11864,12 @@ Puis la branche s'est brisée et elle a fait une chute mortelle, ses vêtements 
 Le lendemain, des feuilles poussèrent sur l'arbre et de l'eau claire jaillit du bassin.
 Les villageois ont continué à vivre leur vie, vénérant les dieux chats blanc et noir de l'arbre à thé.
 On dirait que c'est difficile à enlever à la main.
-Vous pouvez vous débarrasser temporairement des lianes avec [lua(GetLocalizedString("Item", "BadGrassPotion_Name"))].
+Tu peux te débarrasser temporairement des lianes avec une [em1][lua(GetLocalizedString("Item", "BadGrassPotion_Name"))][/em1].
 Mais elles repousseront au bout d'un certain temps.
 Alors, qu'est-ce que je fais ?
 Tu dois trouver le [em1]cœur[/em1] et le détruire. Le [em1]cœur[/em1] devrait se trouver à proximité des vignes.
 Et si le cœur se trouve derrière les vignes ?
-Il vous faudra alors [em1][lua(GetLocalizedString("Item", "BadGrassPotion_Name"))][/em1] et une réaction rapide.
+Il te faudra alors une [em1][lua(GetLocalizedString("Item", "BadGrassPotion_Name"))][/em1] et agir rapidement.
 Je ne sais pas...
 Ça ne bouge pas d'un pouce.
 Je devrais lancer une potion ou quelque chose comme ça ?
@@ -12383,9 +12383,9 @@ Du charbon de bois brisé et un chiffon qui pue...
 Ce n'est qu'un tas d'ordures.
 Une bougie sans mèche et un silex...
 Un gant troué et des vêtements déchirés...
-Bon, j'ai redessiné le sigil de la sorcière.
+Bon, j'ai redessiné le sigil de sorcière.
 Laisse-moi y réfléchir.
-Dois-je redessiner le sigil de la sorcière en utilisant [em1]1x [lua(GetLocalizedString("Item", "WitchChalk_" .. GetGlobalVariable("$216") .. "_Name"))][/em1]?
+Dois-je redessiner le sigil de sorcière en utilisant [em1]1x [lua(GetLocalizedString("Item", "WitchChalk_" .. GetGlobalVariable("$216") .. "_Name"))][/em1]?
 Attends ! Ce n'est pas un... sur le quai ? [em1]saut[/em1]?
 Peut-on l'utiliser sur le [em1]planche cassée[/em1]?
 Va le chercher.
@@ -19140,7 +19140,7 @@ Où était l’arbre ?
 Je ne suis pas sûr qu’il y ait un chemin qui y mène...
 Vous le verrez si vous grimpez jusqu’au [em1]point culminant de la montagne[/em1].
 Je vais aller voir. Merci.
-N’oublie pas, le train partira une fois le problème réglé.
+N’oubliez pas, le train partira une fois le problème réglé.
 Je me demande ce qu’il y a là-dehors ?
 J’ai jeté un coup d’œil dehors puisque le train s’était arrêté...
 ... Et cela ressemblait au [em1]village[/em1] où je vivais avant.
@@ -31242,7 +31242,7 @@ Bon, j’ai enlevé le cœur.
 Ces lianes agaçantes devraient avoir disparu maintenant !
 Pourquoi y a-t-il autant de choses qui bloquent le chemin ?
 Ça doit être une forêt pleine de secrets.
-On dirait une barrière faite avec un [em1]Sigil de la sorcière[/em1].
+On dirait une barrière faite avec un [em1]Sigil de sorcière[/em1].
 Sigil de sorcière ? Y a-t-il une sorcière ici ?
 Il y en avait ou...
 Tu te souviens comment ça marche ?
@@ -31323,13 +31323,13 @@ La lumière émise par ces papillons est aussi puissante que [em1]le clair de lu
 C’est pourquoi des choses étranges se produisent toujours dans leur habitat — ils modifient l’environnement.
 Ne sont-ils pas magnifiques ? Un [em1]arbre à thé géant[/em1] avec [em1]des papillons brillant au clair de lune[/em1].
 Ce n’est pas seulement magnifique. On peut dire que c’est un spectacle incroyable à contempler.
-N'est-ce pas une découverte absolument magnifique ?
+N'est-ce pas une découverte sensationnelle ?
 Je vais devoir écrire une lettre à l’école !
-Il faut compléter le [em1]Grimoire[/em1] et tout, non ?
-Ne sois juste pas en retard.
+Il faut aussi compléter le [em1]Grimoire[/em1], n'est-ce pas ?
+Fais simplement en sorte d'être à l'heure.
 Revenons par [em1]où nous sommes passés[/em1]. Il pourrait y avoir d’autres choses étranges.
-En réalité, ces deux formes de vie ne sont pas rares elles-mêmes.
-Quoi ? Tu veux dire que, même si la vue est magnifique, ce n’est pas spécial ?
+En réalité, ces deux formes de vie ne sont pas rares en elles-mêmes.
+Quoi ? Tu veux dire que, même si la vue est splendide, il n’y a rien de spécial ?
 Le fait que ces deux espèces soient réunies est ce qui fait que c'est incroyable.
 C’est un [em1]arbre à thé de raisin amer[/em1]. Je ne pense pas que ce soit l’arbre qui brille.
 En quoi est-ce si particulier de croiser ces deux espèces ensemble ?
@@ -31569,11 +31569,11 @@ D’accord ! Laisse-moi te montrer ce que j’ai !
 Allons à la [em1]La Maison de la Sorcière[/em1]et trouve-la.
 La route est bloquée.
 Très bien, je jette le[lua(GetLocalizedString("Item", "BadGrassPotion_Name"))]Ici, je vais régler ça.
-Selon le [em1]Signe[/em1], le [em1]Village[/em1] Ça doit être par là.
-Mais la route est bloquée par le [em1][lua(GetLocalizedString("InteractableObject", "LittleHoneyPumkin"))][/em1].
+D'après les [em1]indications[/em1], le [em1]village[/em1] devrait se situer par là.
+Mais la route est bloquée par la [em1][lua(GetLocalizedString("InteractableObject", "LittleHoneyPumkin"))][/em1].
 Il n’explosera pas non plus.
 Hehe, je pensais qu’on en aurait besoin, alors j’en ai fait un à l’avance !
-Nous ne pourrons pas passer sans s’en débarrasser.
+Nous ne pourrons pas passer sans nous en débarrasser.
 Cela seul ne résoudra rien, mais vous pouvez y entrer et détruire le cœur quand les lianes auront disparu.
 Bien, utilise ça.
 Je dois juste entrer et détruire le cœur quand les lianes auront disparu, non ?

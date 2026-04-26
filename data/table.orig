@@ -11864,7 +11864,7 @@ Then the branch snapped and she fell to her death, clothes billowing in the air.
 The next day, leaves grew from the tree and clear water sprouted from the basin.
 The villagers continued with their lives, worshiping the White and Black Cat Gods of the Tea Tree.
 Looks like it's hard to remove it with just your hands.
-You can temporarily get rid of the vines with [lua(GetLocalizedString("Item", "BadGrassPotion_Name"))].
+You can temporarily get rid of the vines with [em1][lua(GetLocalizedString("Item", "BadGrassPotion_Name"))][/em1].
 But they'll grow back after a while.
 Then what do I do?
 You'll need to find the [em1]core[/em1] and destroy it. The [em1]core[/em1] should be somewhere near the vines.
@@ -31344,7 +31344,7 @@ I've never seen anything like that before!
 Ellie? We have to–
 [em1]<shake>Let's go after that creature!</shake>[/em1]
 Look, Virgil! There's a house!
-That's a [em1]Witch's house[/em1], isn't it?
+That's a [em1]witch's house[/em1], isn't it?
 It looks pretty old.
 I guess we can talk to the master witch here and stay here for a while.
 It doesn't look like there are people inside...
