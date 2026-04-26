@@ -11783,7 +11783,7 @@ Let's see what's blocking the path.
 It's too dark and worn down for me to see anything.
 I don't see any words. Only pictures...
 Let's come back when it's brighter.
-Is this the sign for the Witch's House?
+Is this the sign for the witch's house?
 It's different from what I'm used to.
 It's because it's old.
 What's this? Why is it locked?
@@ -31073,7 +31073,7 @@ Let's look for one.
 How come everything here is broken?
 You can't expect to find things intact in a place so dirty and messy.
 Still, the pot is fine.
-You need to at least fix the Extractor in order to make potions.
+You need to at least fix the extractor in order to make potions.
 Alright. Let's go to the [em1]village[/em1] first.
 A [em1]Roaster[/em1]? Ugh, I hate this thing.
 After you put in the collected items, it's a long and anxious wait.
@@ -31086,7 +31086,7 @@ We may find something in the village.
 Yeah, let's go to the village first.
 It's okay. The Roaster is not needed for the basic recipes.
 Wow, this pot looks pretty good.
-I think it was made by the [lua(GetLocalizedString("InteriorPropTheme", "BasementBasic"))].
+I think it was made by the "[lua(GetLocalizedString("InteriorPropTheme", "BasementBasic"))]."
 And it has a very classic design.
 I've only ever used the cheap pots at school. Finally, I get to use a good one!
 Do you remember how to use one?
@@ -31404,7 +31404,7 @@ There's a [em1]village[/em1] nearby!
 But we didn't see one yesterday.
 It was probably too dark to see. Let's look for it again.
 See if there is a [em1]sign[/em1] as well.
-How about [em1]cleaning[/em1] the Witch's House?
+How about [em1]cleaning[/em1] the witch's house?
 We might have to stay there until we find the village.
 Please try not to sound so excited. We missed the train, remember?
 That place we saw earlier must be the [em1]village[/em1].
@@ -31415,7 +31415,7 @@ We must get rid of the [em1]prickly vines[/em1] at the village entrance.
 And check if there really is a [em1]village[/em1].
 It’s the bartender’s letter. Shall I read it again?
 As long as we find the village.
-And clean the Witch's House.
+And clean the witch's house.
 You heard me, right?
 Well then. I might as well add more to the Encyclopedia now.
 Great. They're stuck to the tree as expected.
@@ -31514,7 +31514,7 @@ Just brushing off the dust might take a lifetime...
 [em1][lua(GetLocalizedString("Item", "MoonOil_Name"))][/em1]? Looks like a [em1]recipe[/em1] for potion.
 Judging from the mark, this should be a [em1][lua(GetLocalizedString("Common", "LimitedRecipe"))][/em1].
 [lua(GetLocalizedString("Common", "LimitedRecipe"))]s are also [em1]disposable[/em1].
-I guess it was used by the witch who was here.
+I guess it belongs to the previous witch.
 It reads, "a potion with the [em1]power of moon[/em1]." The ingredients are [em1][lua(GetLocalizedString("Encyclopedia", "MoonFlower_Name"))][/em1] and [em1][lua(GetLocalizedString("Item", "Phoenix_Collect_Name"))][/em1].
 They are all very expensive.
 I'll use it someday. Let's have it ready for now.
@@ -31531,7 +31531,7 @@ I have no idea. I got a headache.
 Take a look if you remember later.
 Yeah! I should put it away and revisit it later.
 This desk would be nice to use as a workbench later.
-There’s no use for it now, though.
+There's no use for it now, though.
 Ellie, I hope you haven't forgotten.
 For [lua(GetLocalizedString("Item", "MoonOil_Name"))], you need [em1][lua(GetLocalizedString("Item", "Phoenix_Collect_Name"))][/em1].
 But there's no way we can find a phoenix around here.
@@ -31578,8 +31578,8 @@ This alone won't fix it, but you can get in and destroy the core when the vines 
 Good, use that.
 I just need to get in and destroy the core when the vines are gone, right?
 And also clean up.
-Awesome. The [em1]<wave>Stubborn Weed Externization Potion</wave>[/em1] is complete!
-It's "extermination," not externization.
+Awesome. The [em1]<wave>"Stubborn Weed Elimination Potion"</wave>[/em1] is complete!
+It's "Extermination," not Elimination.
 Anyway, it's ready!
 Okay. Don’t worry.
 You must use it carefully since there are no more ingredients.
@@ -31613,9 +31613,9 @@ First, let's go find the location of the village!
 We can't stay here forever.
 Let's look for the [em1]sign[/em1].
 There was [em1][lua(GetLocalizedString("InteractableObject", "LittleHoneyPumkin"))][/em1] in front of the village...
-The [em1]Stubborn Weed Externization Potion[/em1] should do it, right?
+The [em1]"Stubborn Weed Elimination Potion"[/em1] should do it, right?
 It’s a [em1]'[lua(GetLocalizedString("Item", "BadGrassPotion_Name"))]'[/em1].
-Alright, then let’s make potions in the [em1]Witch's Pot[/em1].
+Alright, then let's make potions in the [em1]witch's pot[/em1].
 Only half of this stuff remains, so you can't process.
 You can't process properly with broken tools.
 Someone left their ingredients on the floor. Let's try making with them for now.
