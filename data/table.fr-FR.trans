@@ -75,7 +75,7 @@ Oui
 Non
 Accepter
 Refuser
-Lire
+Lu
 Ne pas lire
 Manger
 Ne pas manger
@@ -116,7 +116,7 @@ Pièce Luna
 Table Plateau
 Décoration
 Incubateur
-Classement des Sujets de Recherche de le Grimoire
+Classement des Sujets de Recherche du Grimoire
 Vin Pétillant
 Lundi
 Mardi
@@ -579,15 +579,15 @@ Collecter en utilisant la potion appropriée.
 Collecter sans utiliser la potion appropriée.
 Collecter depuis {0}.
 Collecter dans {0}.
-Quand assis
-Quand en vol
+lorsqu'il est posé
+lorsqu'il est en vol
 Collecter en 2 tentatives
 Plaine / Plateau
 Cascade / Forêt
 Ouvrir le bourgeon avec des outils
 Avant qu'il tombe complètement
 Augmenter la Découverte
-Augmenter le taux de butin supplémentaire lors de la collecte
+Augmente le taux de butin lors de la collecte
 Utiliser l'Incubateur gratuitement
 Eau
 Sol
@@ -603,9 +603,9 @@ Avant de Fuir
 Ouvrir le bourgeon avec des impacts physiques
 Éclater les grandes bulles
 Caresser
-Un Insecte des Buissons Chassé par un Pompom
-Une Seconde après l'Apparition
-Au moins 2 en 10 secondes
+un Insecte des Buissons poursuivi par un Pompom
+la seconde suivant son apparition
+au moins 2 spécimens en 10 secondes
 Herbe d'Érable dans les Nuages
 Utiliser la pioche deux fois seulement
 En 20 sec
@@ -993,7 +993,7 @@ Poudre faite en brûlant des plumes de phénix. Elle scintille rouge vif en rais
 Potion d'Élimination des Mauvaises Herbes
 Élimine les mauvaises herbes de votre jardin.
 Cranaple
-Petit mais dur, il est plus sucré et plus savoureux qu'une pomme normale. Il peut être mangé comme confiture ou donné aux animaux comme friandises.
+Petite mais dur, elle est plus sucrée et plus savoureuse qu'une pomme normale. Elle peut être cuisinée comme confiture ou donnée aux animaux comme friandises.
 Pêche Épineuse
 De minuscules épines recouvrent la peau de la pêche.
 Les épines sont aussi douces que de la fourrure, donc les manger n'est pas un problème.
@@ -2264,7 +2264,7 @@ Mettre Dedans
 Poser
 Tout Collecter
 Voir les Objets
-Ouvrir la page de thème
+Se rendre à la page
 Remplir
 Changer de Thème
 objet collecté ↔ méthode de traitement (basculer)
@@ -2292,7 +2292,7 @@ Kyla la Forte
 Objet Clé Émis
 Pas de place dans votre sac. L'objet clé sera envoyé par courrier.
 Expéditeur Inconnu
-Récompense de Complétion de le Grimoire {theme} {category} {achievement}
+Récompense de Complétion du Grimoire {theme} {category} {achievement}
 Membre honorable de l'École des Sorcières
 Stock en Réserve
 Bonjour, Ellie !
@@ -2709,10 +2709,10 @@ Livraison supplémentaire dans le cadre de la quête « Brewing Quest »
 Nous vous envoyons cette lettre pour vous informer de la quête supplémentaire du tutoriel de brassage.
 Pour ceux qui n'ont pas pu accéder au contenu par la voie habituelle, nous mettons à disposition la quête tutorielle séparément.
 Dès que vous aurez fermé cette lettre, la quête sera déclenchée.
-Avis concernant la correction d'un bug lié à la récompense pour l'achèvement de le Grimoire
+Avis concernant la correction d'un bug lié à la récompense pour l'achèvement du grimoire
 Si les statistiques d'Ellie (Fatigue, Endurance) sont soudainement réinitialisées après le chargement de la sauvegarde,
 Vous pourriez recevoir une lettre contenant la récompense dès le prochain jour de jeu.
-Si vous n'êtes pas concerné par ce bug, vous ne recevrez aucun e-mail.
+Si vous n'êtes pas concerné par ce bug, vous ne recevrez aucun courrier.
 Nous vous prions de nous excuser pour ce désagrément.
 Maison de la Sorcière
 Atelier de la Sorcière
@@ -3613,7 +3613,7 @@ Demande à Freddie pourquoi il ne veut pas aller pêcher au village.
 Give 3 {FishName.Cantsee} à Freddie.
 Demandez aux villageois ce qu'ils pensent des chats.
 Cherchez les traces de l'homme d'âge mûr et des chats à l'entrée du temple.
-Va voir Rubrum et parle-lui de du Grimoire sur les chats et des pommes.
+Va voir Rubrum et parle-lui du Grimoire sur les chats et des pommes.
 Procurez-vous-en {Item.Cranapple} et cherchez les chats portant le gène Rubrum.
 Demande à Aurea si elle vend des gamelles pour chat.
 Remplis la gamelle du chat avec du poisson.
@@ -4087,11 +4087,11 @@ Utilise les dés pour concocter une potion
 Rassembler et traiter les matériaux nécessaires à la fabrication de {item/BadGrassPotion}.
 Découvrir {Common.Theme_GreenForest}
 Flâner dans la {Common.Theme_GreenForest} afin de trouver un moyen d'éliminer ces lianes géantes et épineuses.
-Utiliser {item/BadGrassPotion} pour retirer la petite citrouille « Little Honey » dans le {Map.GreenForest_Plateau}.
+Utiliser {item/BadGrassPotion} pour retirer la petite citrouille « Little Honey » sur le {Map.GreenForest_Plateau}.
 {item/BadGrassPotion} Brasser
-Consultez le Grimoire pour découvrir des plantes, des animaux et des recettes de potions.
-Retirer la petite citrouille « Honey » dans le {Map.GreenForest_Plateau}
-Donne le {FishName.SparkleFin} c'est Enite.
+Consultez le grimoire pour découvrir des plantes, des animaux et des recettes de potions.
+Retirer la petite citrouille « Honey » sur le {Map.GreenForest_Plateau}
+Donne le {FishName.SparkleFin} à Enite.
 Donne le {FishName.Nokyeomo} à Enite.
 Donne le {FishName.Skyfin} à Enite.
 1x {Item.NutritionPotion}
@@ -4410,7 +4410,7 @@ Chevauchons le balai jusqu'à ce que sa durabilité soit complètement épuisée
 Accomplissons la tâche de recherche de chaque créature au moins une fois.
 Accomplissons la tâche de recherche de {CreatureName.Mongsiri_Name} au moins une fois.
 Accomplissons la tâche de recherche de {CreatureName.BushBug_Name} au moins une fois.
-Réalisez les tâches de recherche pour le Grimoire.
+Réalisez les tâches de recherche pour le grimoire.
 Accomplissons la tâche de recherche de {CreatureName.FurBall_Name} au moins une fois.
 Accomplissons la tâche de recherche de {CreatureName.CloudFlower_Name} au moins une fois.
 Accomplissons la tâche de recherche de {CreatureName.PhantomJellyfish_Name} au moins une fois.
@@ -4471,9 +4471,9 @@ On dirait que tu as trouvé un moyen de te frayer un chemin à travers cette én
 Pour entrer dans le village, dépêche-toi de rassembler le matériel nécessaire et tente à nouveau ta chance.
 Il faut réparer le balai avant de pouvoir s'en servir pour voler.
 Rassemblez le matériel, puis fixez-le sur l'établi.
-Utilisez la plume pour dessiner les formes de vie que vous rencontrez dans votre Grimoire. Cela vous indiquera comment les collecter et les répertorier.
-Si vous souhaitez en savoir plus sur un sujet, le mieux est de commencer par le noter dans le Grimoire et d'y consigner les informations que vous avez observées.
-Enregistre la forme de vie que tu souhaites observer et complète ton Grimoire.
+Utilisez la plume pour consigner les formes de vie que vous rencontrez dans votre grimoire. Cela vous indiquera comment les collecter et les répertorier.
+Si vous souhaitez en savoir plus sur un sujet, le mieux est de commencer par le noter dans le grimoire et d'y consigner les informations que vous avez observées.
+Enregistre la forme de vie que tu souhaites observer et complète ton grimoire.
 Une fois les ronces débroussaillées, vous pourrez enfin entrer dans Wisteria.
 Essaie de parler à tous les villageois.
 Avant que le village ne soit envahi par des vignes épineuses, il abritait une menuisière nommée Kyla.
@@ -4648,7 +4648,7 @@ Offrez des cadeaux à Arden ou engagez différentes conversations pour renforcer
 Tu as obtenu un balai.
 Chevauchons-le et utilisons-le jusqu'à ce que sa durabilité soit complètement épuisée.
 {Map.GreenForest} abrite de nombreuses espèces animales.
-Essayez d'accomplir au moins une fois chaque mission de recherche de du Grimoire concernant des créatures spécifiques.
+Essayez d'accomplir au moins une fois chaque mission de recherche du Grimoire concernant des créatures spécifiques.
 {Map.RainbowForest} abrite de nombreuses espèces animales.
 Chaque potion a un effet particulier.
 Utilisez le pouvoir des potions pour rassembler les créatures de {Map.GreenForest}.
@@ -4665,20 +4665,20 @@ La Vie d'une Sorcière
 {Common.Ritoring}Le panier de meubles [{aliasedPoolName}]
 Ce panier confère un effet aléatoire [{aliasedPoolName}] recette de mobilier.
 La vie d'une sorcière
-<color=#800000>Collecter</color> les ingrédients nécessaires, <color=#800000>processus</color> après ça, essayez d'en créer un <color=#800000>potion</color>.
-Si vous avez des doutes, essayez d'utiliser la <color=#800000>Plume</color> et <color=#800000>Grimoire</color>.
+<color=#800000>Collecter</color> les ingrédients nécessaires, <color=#800000>processus</color> après ça, essayez d'en créer une <color=#800000>potion</color>.
+Si vous avez des doutes, essayez d'utiliser la <color=#800000>Plume</color> et le <color=#800000>Grimoire</color>.
 Recouvrement avec une attention particulière
 Les animaux vivent généralement dans des <color=#800000>habitats spécifiques</color>.
 Parcourez les forêts pour découvrir toutes sortes d'espèces.
 Utilisez la <color=#800000>Plume</color> et le <color=#800000>Grimoire</color> pour en savoir plus sur leurs habitats.
-Consulter du Grimoire/les recettes
+Consulter le grimoire/les recettes
 Vous pouvez consulter les informations sur les formes de vie et les recettes de potions
-écrit à la plume dans du Grimoire.
+écrit à la plume dans le Grimoire.
 Catégorie/Page suivante
 Fabriquer des potions
 Pour fabriquer des potions, vous devez respecter les conditions requises
 <color=#800000>Ingrédients</color>, <color=#800000>Réglage de la flamme</color>, et <color=#800000>Sens de rotation de la louche</color>.
-Lisez attentivement les <color=#800000>recettes de le Grimoire</color>.
+Lisez attentivement les <color=#800000>recettes du Grimoire</color>.
 Enregistrer / Charger
 Vous pouvez désormais enregistrer et charger votre partie depuis l'armoire située au rez-de-chaussée de la Maison de la Sorcière.
 Siestes
@@ -4696,7 +4696,7 @@ Tableau d'affichage
 Fermer le tableau d'affichage
 Grimoire et Plume de Sorcière
 <color=#800000>Appuyez et maintenez enfoncé</color> le bouton « Utiliser la plume » pour dessiner.
-Une fois que le compteur est plein et que le dessin est terminé, le sujet du dessin <color=#800000>figurera dans le Grimoire</color>.
+Une fois que la jauge est pleine et que le dessin est terminé, le sujet du dessin <color=#800000>figurera dans le Grimoire</color>.
 Modifier les outils
 Utilisez la Plume
 Appuie sur le bouton de sprint pour courir plus vite que d'habitude.
@@ -4737,15 +4737,15 @@ Monter/Descendre
 Habitat, période d'apparition, etc.
 Outils utilisés pour la collecte
 Articles pouvant être collectés
-Comment faciliter le recouvrement
+Comment faciliter la collecte
 Voir les détails
-Vous pouvez consulter des informations sur l'utilisation des <color=#800000>potions</color> dans du Grimoire.
+Vous pouvez consulter des informations sur <color=#800000>l'utilisation des potions</color> dans le Grimoire.
 Essayez-vous au bricolage <color=#800000>{potion}</color> en utilisant <color=#800000>{ingredient_0}</color> et <color=#800000>{ingredient_1}</color>.
 <color=#800000>Les ingrédients nécessaires à</color> la fabrication de la potion choisie sont indiqués ici.
 Les objets que vous ramassez en faisant le ménage sont des <color=#800000>ingrédients</color>, ce qui vous permet de les utiliser immédiatement pour fabriquer des potions.
 Galerie
 Vous pouvez afficher ici le <color=#800000>{0}</color> que vous avez obtenues.
-Vous recevrez un <color=#800000>{0}</color> une fois que vous avez traité un sujet de recherche tiré de du Grimoire.
+Vous recevrez un <color=#800000>{0}</color> une fois que vous avez traité un sujet de recherche tiré du Grimoire.
 *{0} ne peut servir qu'à décorer le dessus du <color=#800000>{1}</color> des mesures appropriées {0}.
 Accélérer
 Lorsque vous grimpez sur des murs d'escalade, vous pouvez appuyer sur le bouton <color=#800000>Accélérer/color> pour aller plus vite.
@@ -4762,7 +4762,7 @@ Pour vous mettre en position d'utiliser le filet, appuyez sur le bouton « Utili
 Pour balancer le filet, relâchez le bouton « Utiliser l'outil ».
 Pour obtenir un mouvement plus ample, maintenez le bouton « Utiliser l'outil » enfoncé avant de le relâcher.
 Vous pouvez faire progresser votre Grimoire et recevoir des récompenses en accomplissant différentes actions.
-À gauche, vous pouvez lire des informations <color=#800000>sur les potions</color>.
+À gauche, vous pouvez lire des informations sur <color=#800000>les potions</color>.
 À droite, vous trouverez des informations sur la <color=#800000>fabrication de potions</color>.
 Les éléments collectés proviennent de plantes et d'animaux.
 Une fois transformés à l'aide d'outils, ils servent d'ingrédients pour la fabrication de potions.
@@ -4773,8 +4773,8 @@ Défis que vous pouvez relever pendant la préparation de la potion.
 Casier à balais
 Vous pouvez ranger vos balais dans le <color=#800000>Casier à balais</color>.
 Vous ne pouvez stocker que des <color=#800000>balais</color> dans le local à balais.
-Dessiner des formes vivantes avec la <color=#800000>Plume</color> dans le Grimoire, débloque des <color=#800000>informations</color> à leur sujet.
-Lorsque vous dessinez le même type de plante ou d'animal <color=#800000>à plusieurs reprises</color>, <color=#800000>des informations complémentaires</color> seront débloqué.
+Dessiner des formes de vie avec la <color=#800000>Plume</color> dans le Grimoire, débloque des <color=#800000>informations</color> à leur sujet.
+Lorsque vous dessinez le même type de plante ou d'animal <color=#800000>plusieurs fois</color>, <color=#800000>des informations supplémentaires</color> seront débloquées.
 Natation
 Vous pouvez entrer dans l'eau et vous y baigner dans la zone délimitée par les balises.
 Décore la maison de la sorcière
@@ -4795,27 +4795,27 @@ Mettez-y un peu de nourriture que les chats aiment pour <color=#800000>attirer</
 Ouvrir le sélecteur d'outils
 Sélectionner un outil
 Outil de commutation
-Il y a <color=#800000>un temps de recharge</color> avant de pouvoir utiliser la plume sur <color=#800000>quelque chose de ce genre</color> encore une fois.
+Il y a <color=#800000>un temps de recharge</color> avant de pouvoir réutiliser la plume sur <color=#800000>quelque chose de ce genre</color>.
 Limite de positionnement de l'outil
 Certains outils de travail sont équipés d'une <color=#800000>limite de placement</color>, tandis que d'autres non.
 Vous pouvez <color=#800000>seulement placer une</color> de chaque <color=#800000>outils de traitement</color> et le <color=#800000>chaudron de la sorcière</color>.
 D'un autre côté, vous pouvez <color=#800000>placer un nombre illimité d'</color> <color=#800000>espaces de stockage</color> et de l'<color=#800000>Incubateurs</color>.
 Ouvrir l'interface de sélection des potions
-L'Incubateur est un outil qui vous permet d'obtenir <color=#800000>de nombreux matériaux</color> grâce <color=#800000>à quelques objets rassemblés</color>.
-Vous ne pouvez utiliser l'Incubateur que sur la flore et la faune d'une <color=#800000>régions dont le taux d'achèvement de du Grimoire est égal ou supérieur à 40 %</color>.
+L'Incubateur est un outil qui vous permet d'obtenir <color=#800000>de nombreux matériaux</color> grâce à quelques <color=#800000>objets collectés</color>.
+Vous ne pouvez utiliser l'Incubateur que sur la flore et la faune d'une <color=#800000>régions dont le taux de complétion du Grimoire est égal ou supérieur à 40 %</color>.
 Vous pouvez placer <color=#800000>plusieurs</color> incubateurs dans l'atelier.
 Fabriquer des potions
 Description provisoire de la fabrication de potions description provisoire de la fabrication de potions description provisoire de la fabrication de potions.
 Modifier les réglages de tir, etc., modifier les réglages de tir, etc., modifier les réglages de tir, etc.
 Direction de la louche : gauche, droite, dans le sens des aiguilles d'une montre, etc.
-Vous pouvez utiliser le <color=#800000>chaudron de la sorcière</color> dans l'atelier pour <color=#800000>préparer la potion dont vous as besoin</color>.
-Lorsque vous préparez une potion, vous devez <color=#800000>consultez sa recette dans du Grimoire</color>, utilisez les <color=#800000>ingrédients</color>, réglez le <color=#800000>feu</color> et mélanger avec la <color=#800000>louche</color>.
-Pendant la phase de mise en place du feu, vous devez régler l' <color=#800000>intensité thermique</color> selon les besoins.
-Il vous suffit de suivre les instructions relatives à la phase actuelle de la <color=#800000>recette</color> et respecter les <color=#800000>exigences en matière d'intensité et de durée de la chaleur</color>. 
+Vous pouvez utiliser le <color=#800000>chaudron de la sorcière</color> dans l'atelier pour <color=#800000>préparer la potion dont vous avez besoin</color>.
+Lorsque vous préparez une potion, vous devez <color=#800000>consultez sa recette dans le Grimoire</color>, utilisez les <color=#800000>ingrédients</color>, réglez le <color=#800000>feu</color> et mélanger avec la <color=#800000>louche</color>.
+Pendant la phase de mise en place du feu, vous devez régler l'<color=#800000>intensité thermique</color> selon les besoins.
+Il vous suffit de suivre les instructions relatives à la phase actuelle de la <color=#800000>recette</color> et respecter les <color=#800000>exigences en matière d'intensité et de durée de la chaleur</color>.
 Pendant la phase d'orientation de la louche, vous devez régler le <color=#800000>sens de rotation de la louche</color>.
 Il vous suffit de suivre les instructions de la <color=#800000>recette</color> disant de <color=#800000>remuer dans le sens indiqué</color> pendant la durée nécessaire.
-La barre de progression en haut indique la <color=#800000>qualité de la potion</color> que vous êtes en train de fabriquer. Si vous ne suivez pas les instructions, la barre raccourcira.
-Si la barre disparaît, <color=#800000>l'artisanat, est raté</color>.
+La barre de progression en haut indique la <color=#800000>qualité de la potion</color> que vous êtes en train de fabriquer. Si vous ne suivez pas les instructions, la barre se réduira.
+Si la barre disparaît, <color=#800000>la concoction, est ratée</color>.
 Plus la barre restante est longue à la fin de la fabrication, plus <color=#800000>votre score est élevé</color>.
 Lorsque vous fabriquez des objets, vous pouvez rencontrer des <color=#800000>situations imprévues</color> dans les deux <color=#800000>phase de mise à feu</color> et la <color=#800000>phase d'orientation de la louche</color>.
 Fais face aux imprévus et prépare des potions de grande qualité !
@@ -4867,7 +4867,7 @@ Si les chats ne sont pas encore à l'aise avec vous, veuillez rester à l'écart
 Dessine de nouveaux chats sur le cahier à l'aide de la plume.
 Vous pouvez enregistrer les préférences et consulter les préférences des chats dans les « Notes sur les chats ».
 Chats
-Sélectionner du Grimoire
+Sélectionner le grimoire
 Sélectionner Atlas
 Sélectionner les notes
 Pour jouer avec le chat, son niveau d'affection doit être d'au moins 1.
@@ -4949,7 +4949,7 @@ Quand l'Amitié d'un villageois augmente, vous recevrez des demandes spéciales 
 En acceptant ces demandes, vous lancez une quête de villageois.
 Favoris
 Vous pouvez ajouter vos <color=#800000>recettes recherchées (potions, bonbons, meubles)</color> à vos favoris pour un accès rapide.
-Vous pouvez ajouter des articles à vos Favoris depuis <color=#800000>la page Recette de du Grimoire, la page Thème de du Grimoire, le Chaudron de la Sorcière et l'Établi</color>.
+Vous pouvez ajouter des articles à vos Favoris depuis <color=#800000>la page Recette du Grimoire, la page Thème du Grimoire, le Chaudron de la Sorcière et l'Établi</color>.
 Vous pouvez également sélectionner une recette dans vos Favoris pour modifier la <color=#800000>quantité cible</color>.
 Vous pouvez consulter vos favoris sur des pages classées par étape de fabrication et les organiser comme vous le souhaitez.
 Si le traitement réduit la quantité requise, les chiffres deviennent <color=#007AFF> bleu</color>; une fois tous les éléments rassemblés, ils se transforment en une <color=#800000>coche</color>.
@@ -4959,7 +4959,7 @@ Vous devez également terminer la quête précédente pour passer à la suivante
 Appuyez sur ce bouton.
 Appuyez pour continuer.
 Sélectionnez la plume en bas.
-Dans cette Grimoire illustrée, vous trouverez toutes sortes d'informations sur les plantes et les animaux.
+Dans ce grimoire illustrée, vous trouverez toutes sortes d'informations sur les plantes et les animaux.
 Renseignez-vous sur leurs habitats, les outils nécessaires à leur cueillette et les méthodes de récolte, puis essayez de les cueillir.
 Terminez les missions de recherche pour obtenir des récompenses supplémentaires.
 Utilisation de potions sur les plantes et les animaux
@@ -5005,7 +5005,7 @@ Difficile
 Ne remuez pas
 Dans le sens des aiguilles d'une montre
 dans le sens inverse des aiguilles d'une montre
-Outils de recouvrement
+Outils de collect
 Sélectionner un ingrédient
 Régler l'intensité du feu
 Contrôle de la direction de la poche de coulée
@@ -5045,7 +5045,7 @@ Quêtes associées
 Personnes associées
 Pas de mot-clé
 Mot-clé gagné
-S'inscrire à du Grimoire
+Ajouté au Grimoire
 Fidèle à l'artisanat
 Merci d'avoir joué !
 Tout acheter
@@ -5099,7 +5099,7 @@ Anglais
 Langue
 <color=#800000>Les paramètres de langue seront pris en compte après le redémarrage du jeu.</color>
 Etc.
-Les articles que vous avez obtenus ont été envoyés par <color=#800000>mail</color>.
+Les articles que vous avez obtenus ont été envoyés par <color=#800000>courrier</color>.
 Êtes-vous sûr(e) de vouloir retourner au menu principal ?
 <color=#800000>Les modifications non enregistrées seront perdues.</color>
 <size=6> (Les objets laissés par terre ne peuvent pas être conservés.) </size>
@@ -5116,7 +5116,7 @@ Jour {day} du mois {month}, Année {year}
 3emè
 Dernières nouvelles
 En savoir plus
-Enregistrement en cours...
+Sauvegarde en cours...
 Si vous quittez le jeu pendant la sauvegarde, des données risquent d'être perdues et des erreurs peuvent survenir lors du chargement du jeu.
 Maintenez enfoncé pour annuler
 Mettre en attente pour incuber
@@ -5128,17 +5128,17 @@ Temps restant
 Lieu
 Il n'y a pas de place dans la vitrine.
 De nouveaux défis
-Actualiser le classement de du Grimoire
-Ajouter un dessin à du Grimoire
+Actualiser le classement du grimoire
+Ajouter un dessin au grimoire
 Classé n° {0}!
 Tu n'as pas assez d'endurance.
 {amount} pièces
 {count} fois
 {remain}/{total} fois
-Objets collect.
+Objets collectés
 La tentation
 Informations
-Thème de recherche
+Objectif de recherche
 Sélectionner un chapitre
 Chapitre 1.
 Début de l'apprentissage
@@ -5161,7 +5161,7 @@ Position
 {0} a été transféré au stock.
 Impossible de placer l'objet ici.
 Non lu
-Courriel avec pièces jointes
+Courrier avec pièces jointes
 Articles reçus
 Il n'y a actuellement aucun meuble à installer.
 Il n'y a pas assez d'objets d'ameublement. Impossible d'accéder à l'inventaire.
@@ -5169,7 +5169,7 @@ Chapitre 4
 Découvrir de nouveaux contenus
 Un chapitre destiné à présenter aux utilisateurs les nouveautés de la version bêta.
 *Marchez sur les fissures de la Maison de la sorcière pour terminer la quête « Restauration de la Maison de la sorcière ». Une fois la quête terminée, vous pourrez utiliser la fonction de placement.
-Aucun e-mail reçu
+Aucun courrier reçu
 Vous pouvez dessiner après {0}et {1}Tu me manques
 Cet outil ne peut pas être sélectionné pour le moment.
 Vous ne pouvez sélectionner que les emplacements contenant des outils.
@@ -5210,7 +5210,7 @@ Résistance des pots
 Taux de défaillance
 Taux de défaillance des véhicules
 Pot de réparation
-Encre sur le «{0}« La page n'est pas encore sèche. »
+L'encre sur la page «{0}» n'est pas encore sèche.
 Ingrédients utilisés
 Ingrédients retournés
 Échec de la fabrication
@@ -5233,7 +5233,7 @@ Gérer le chaudron de la sorcière
 {0} réussir
 Ajouter un article
 Habitat
-Ignorer
+Jeter
 Encore plus d'action
 Grande capacité
 Sécurité
@@ -5440,7 +5440,7 @@ Matériel ouvert
 Afficher/Masquer l'inventaire
 Afficher/masquer les informations sur l'élément
 Outil de travail
-Quitter du Grimoire
+Quitter le grimoire
 Afficher/masquer les matériaux
 Ouvrir la page Thèmes
 Notes de sortie
@@ -5486,10 +5486,10 @@ Il semblerait qu'un problème de blocage soit survenu à cause d'un bug.
 Une téléportation sera tentée dans 5 secondes.
 Si vous ne le souhaitez pas, veuillez sélectionner « Annuler ».
 Vide.
-Une erreur a été détectée lors de l'enregistrement ou du chargement
-Si vous chargez une sauvegarde antérieure à celle qui est actuellement chargée, il peut arriver que <color=#a03c3a> Les informations relatives à la quête ne se chargent pas correctement</color>.
-Si vous continuez ainsi, des problèmes pourraient survenir, alors veuillez <color=#a03c3a> Essayez de charger à nouveau le même fichier de sauvegarde</color>.
-Si ce message d'avertissement s'affiche toujours, cela signifie que la sauvegarde <color=#a03c3a> se trouve déjà dans un état anormal, et vous devrez charger une sauvegarde encore plus ancienne</color>.
+Une erreur a été détectée lors de la sauvegarde ou de son chargement
+Si vous chargez une sauvegarde antérieure à celle qui est actuellement chargée, il peut arriver que <color=#a03c3a>Les informations relatives à la quête ne se chargent pas correctement</color>.
+Si vous continuez ainsi, des problèmes pourraient survenir, alors veuillez <color=#a03c3a>Essayez de charger à nouveau le même fichier de sauvegarde</color>.
+Si ce message d'avertissement s'affiche toujours, cela signifie que la sauvegarde <color=#a03c3a>qui se trouve déjà dans un état anormal, et vous devrez charger une sauvegarde encore plus ancienne</color>.
 Veuillez continuer à charger les sauvegardes précédentes jusqu'à ce que cet avertissement ne s'affiche plus.
 Si cet avertissement s'affiche dans des circonstances normales, merci de le signaler via Discord.
 Avertissement
@@ -5866,10 +5866,10 @@ C'est quelque chose auquel je ne veux plus repenser...
 Bon sang ! Je n'arrive pas à l'attraper à la main !
 Tu croyais vraiment qu'un papillon était assez bête pour se laisser attraper sans broncher ?
 Alors, qu'est-ce que tu veux que je fasse ?
-Tu avais dit que tu remplirais le [em1]Encyclopédie[/em1]. Faites preuve de bon sens.
+Tu avais dit que tu remplirais le [em1]Grimoire[/em1]. Faites preuve de bon sens.
 Oh ! La plume !
-Tout d'abord, je vais [em1]les ajouter à l'encyclopédie[/em1] avec ça.
-Utilisons le [em1]plume[/em1] pour s'inscrire [em1][lua(GetLocalizedString("Encyclopedia", "MoonButterfly_Name"))][/em1] dans le [em1]Encyclopédie[/em1] et essayer [em1]l'ouvrir[/em1].
+Tout d'abord, je vais [em1]les ajouter au grimoire[/em1] avec ça.
+Utilisons le [em1]plume[/em1] pour s'inscrire [em1][lua(GetLocalizedString("Encyclopedia", "MoonButterfly_Name"))][/em1] dans le [em1]Grimoire[/em1] et essayer [em1]l'ouvrir[/em1].
 Bon, qui est le prochain villageois ?
 Un seul est revenu jusqu'à présent.
 Le premier est toujours le plus difficile. À partir de maintenant, ça ira plus vite.
@@ -5959,18 +5959,18 @@ C'est un vrai Gaga Bird.
 C'est possible, à condition de s'en accommoder [em1]un bruit horrible[/em1].
 Je ne pense pas que je fermerai l'œil dans le train.
 Je me demande s'il y a un endroit où je pourrais dormir ce soir.
-Et le sol ? La terre et les cailloux devraient former un bon lit.
+Qu'est-ce que tu penses du sol ? La terre et les cailloux devraient former un lit bien douillet.
 Ça n'est pas drôle, Virgile.
-Écoute, cet endroit est aussi habité par les [em1][lua(GetLocalizedString("Encyclopedia", "MoonButterfly_Name"))][/em1] que nous avons vu au sommet.
-Tu ferais bien d'en rassembler quelques-uns pour tes études.
-Tu crois que je pourrais m'approcher discrètement et le prendre ?
+Regardes, cet endroit est aussi habité par les [em1][lua(GetLocalizedString("Encyclopedia", "MoonButterfly_Name"))][/em1] que nous avons vu au sommet.
+Tu ferais bien d'en collecter quelques-uns pour tes études.
+Tu crois que je pourrais m'approcher discrètement et en prendre ?
 Jetons un coup d'œil à la [em1][lua(GetLocalizedString("Encyclopedia", "MoonButterfly_Name"))][/em1].
-Voyons les informations concernant [em1][lua(GetLocalizedString("Encyclopedia", "MoonButterfly_Name"))][/em1] puisqu'ils sont inscrits au [em1]Encyclopédie[/em1].
+Voyons les informations concernant [em1][lua(GetLocalizedString("Encyclopedia", "MoonButterfly_Name"))][/em1] puisqu'ils sont inscrits au [em1]Grimoire[/em1].
 Utilisons le [em1]plume[/em1] pour s'inscrire [em1][lua(GetLocalizedString("Encyclopedia", "MoonButterfly_Name"))][/em1] dans le [em1]Catalogue[/em1].
 Attends. Tu ne te souviens pas de ce qu'a dit M. Gravier ?
 [em1]Dessine-le avant de le toucher ![/em1]
 Exactement.
-Tout d'abord, utilise la plume pour le dessiner dans l'Encyclopédie.
+Tout d'abord, utilise la plume pour le dessiner dans le Grimoire.
 La mort se cache-t-elle sous le lit ?
 Non, pas ça...
 Je ne peux pas sortir avec les haltères.
@@ -5988,7 +5988,7 @@ Demandons à Diane.
 Et si on consultait le Catalogue des sorcières ?
 Aucun des objets présents dans cet espace ne peut être emporté.
 Ouah, c'est quoi ça ?
-C'est une récompense pour tout le travail que tu as fourni pour l'Encyclopédie.
+C'est une récompense pour tout le travail que tu as fourni pour le Grimoire.
 C'est joli.
 Mais où devrais-je le ranger ?
 La maison de la sorcière est trop petite pour le moment.
@@ -7656,11 +7656,11 @@ Mais Rubrum a dit qu'il avait vu un adulte. C'était peut-être juste un adulte 
 Regarde ça. Son dessin… est encore pire que le mien. C'est une catastrophe.
 Est-ce vraiment un chat ? Il doit être un artiste abstrait passionné.
 Ce type… Il doit vraiment avoir très envie de se lier d'amitié avec les chats.
-Il a enregistré plein d'artistes, un peu comme moi qui enrichis mon encyclopédie.
+Il a enregistré plein d'artistes, un peu comme moi qui enrichis mon grimoire.
 Mais la plupart des pages sont vierges.
 Peut-être qu'il n'avait pas le temps, ou qu'ils ne l'aimaient pas.
 Je suppose que je peux remplir ces pages blanches à sa place !
-C'est décidé. Je vais créer une encyclopédie sur les chats.
+C'est décidé. Je vais créer un grimoire sur les chats.
 D'où vient cette idée ?
 C'est grâce à notre passion commune pour les chats. Nous souhaitons tous les deux nous rapprocher des chats.
 Bon, pour être honnête, cette idée n'est pas si mauvaise.
@@ -7668,7 +7668,7 @@ Et regarde ça. Ça [em1][lua(GetLocalizedString("Item", "Cranapple_Name"))][/em
 On en a mangé un petit peu. Peut-être qu'un chat a essayé de le manger, mais qu'il a abandonné à mi-chemin.
 Donc, ici aussi, les chats mangent [em1][lua(GetLocalizedString("Item", "Cranapple_Name"))][/em1]p.
 Je n'y ai jamais réfléchi. Que mangent les chats ?
-Trouve la réponse et note-la dans l'encyclopédie.
+Trouve la réponse et note-la dans le grimoire.
 D'accord. Parlons d'abord de notre découverte à Rubrum.
 Il doit être sur le bord de sa chaise en ce moment.
 Il ne peut pas être si curieux que ça.
@@ -7712,7 +7712,7 @@ Et il n'a même pas regardé en arrière.
 Cela ne m'inquiète pas du tout.
 Pourquoi ? Tu as un plan ?
 Prépare-toi. J'appellerais ça « le pouvoir de l'observation ».
-Écoute, Rubrum. Voici l'encyclopédie sur les chats que cet homme d'âge mûr a laissée.
+Écoute, Rubrum. Voici le grimoire sur les chats que cet homme d'âge mûr a laissée.
 Mon Dieu… Il dessine encore moins bien que moi.
 Hahaha… Ne t'inquiète pas pour les photos. Regarde les informations qui sont notées ici.
 Tu vois ? On y décrit plein de chats différents.
@@ -8218,7 +8218,7 @@ L'écriture est un peu brouillonne… mais j'arrive quand même à la déchiffre
 Ça me rappelle tes débuts en tant qu'écrivain. Tu avais annoté tous les livres d'Aiden.
 Ah oui, j'étais à cet âge où je voulais mettre en pratique tout ce que j'avais appris.
 Mais… il n'a pas précisé de quel genre de jouet il s'agissait.
-Probablement comme la dernière fois, quand tu as trouvé l'encyclopédie sur les chats et les pommes.
+Probablement comme la dernière fois, quand tu as trouvé le grimoire sur les chats et les pommes.
 Vraiment ? On verra bien assez tôt.
 Voici ce que [em1]Rouge[/em1] C'est bien de ça dont il parlait dans sa lettre, n'est-ce pas ?
 Ça n'a pas l'air en très bon état, n'est-ce pas ?
@@ -8464,11 +8464,11 @@ Je me demande ce que ça va donner !
 Ce lézard me rappelle celui de la fontaine du village.
 Un fantôme ?
 Oui. Des esprits peuvent habiter dans des maisons construites par des sorcières ou des artisans.
-Super ! C'est inscrit dans l'encyclopédie !
-On dirait que tu n'arrives pas à l'attraper pour le moment. Tu sais pourquoi ?
+Parfait ! C'est consigné dans le grimoire !
+On dirait que tu ne peux pas l'attraper pour le moment. Tu as une idée de pourquoi ?
 Comment je le saurais ?!
-Vous ne le savez peut-être pas, mais le [em1]Encyclopédie[/em1] c'est le cas.
-Découvrez de plus près le [em1]Encyclopédie[/em1].
+Toi peut-être, mais le [em1]Grimoire[/em1], lui, oui.
+Regarde le [em1]Grimoire[/em1] de plus près.
 Voyons voir...
 Tu comprends maintenant pourquoi tu n'en attrapes pas ?
 Heure
@@ -8482,7 +8482,7 @@ Il n'y a pas grand-chose à faire dans ce cas.
 Mais je veux le faire tout de suite !
 Il est plus important de se rendre à la maison de la sorcière à Highlion.
 Hum...
-Revenons en bas. Il doit bien y avoir autre chose d'amusant.
+Retournons en bas. Il doit bien y avoir autre chose d'amusant à faire.
 Mais tu devrais finir de ranger avant de partir.
 Ah, bien sûr...
 On dirait que quelque chose est tombé par terre.
@@ -11863,12 +11863,12 @@ En voyant la fleur, son corps se mit à trembler, submergée par la culpabilité
 Puis la branche s'est brisée et elle a fait une chute mortelle, ses vêtements flottant au vent.
 Le lendemain, des feuilles poussèrent sur l'arbre et de l'eau claire jaillit du bassin.
 Les villageois ont continué à vivre leur vie, vénérant les dieux chats blanc et noir de l'arbre à thé.
-On dirait que c'est difficile de l'enlever à la main.
+On dirait que c'est difficile à enlever à la main.
 Vous pouvez vous débarrasser temporairement des lianes avec [lua(GetLocalizedString("Item", "BadGrassPotion_Name"))].
-Mais ils repousseront au bout d'un certain temps.
+Mais elles repousseront au bout d'un certain temps.
 Alors, qu'est-ce que je fais ?
-Vous devrez trouver le [em1]cœur[/em1] et le détruire. Le [em1]cœur[/em1] ça devrait se trouver quelque part près des vignes.
-Et si le cœur se trouvait derrière les vignes ?
+Tu dois trouver le [em1]cœur[/em1] et le détruire. Le [em1]cœur[/em1] devrait se trouver à proximité des vignes.
+Et si le cœur se trouve derrière les vignes ?
 Il vous faudra alors [em1][lua(GetLocalizedString("Item", "BadGrassPotion_Name"))][/em1] et une réaction rapide.
 Je ne sais pas...
 Ça ne bouge pas d'un pouce.
@@ -11914,7 +11914,7 @@ En fait, cette sorcière me plaît bien.
 C'est un dicton bien connu.
 Ce sigil de sorcière semble avoir été un peu effacé.
 Ça ne marchera pas si on l'efface comme ça.
-Vous pouvez redessiner le sigil à l'aide du [em1]craie de sorcière de la même couleur[/em1].
+Tu peux redessiner le sigil à l'aide d'une [em1]craie de sorcière de la même couleur[/em1].
 Puisque j'ai celui que j'ai récupéré tout à l'heure, redessinons-le avec celui-là.
 Je n'ai pas le [em1][lua(GetLocalizedString("Item", "GreenForestCoreKey_Name"))][/em1].
 Je n'ai pas le [em1][lua(GetLocalizedString("Item", "WitchChalk_" .. GetGlobalVariable("$216") .. "_Name"))][/em1].
@@ -11924,7 +11924,7 @@ Je pense que je vais pouvoir pousser le rocher, puisque c'est en descente.
 Peut-être, mais la pierre doit quand même être un peu [em1]plus léger[/em1].
 12 plantes qui ont marqué l'histoire des sorcières
 L'ail : un délice
-Encyclopédie ludique des plantes « sorcières »
+Grimoire ludique des plantes « sorcières »
 Goblin Cup : un champignon noir et brillant en forme de coupe. Buvez la rosée pour un sommeil éternel.
 Les plantes de rêve pour un jardin de sorcière
 Vigne épineuse blanche : Seul le clair de lune peut la détruire. Idéale pour les clôtures.
@@ -12002,7 +12002,7 @@ Mais je ne vais pas lire de livre. J'en ai marre des livres.
 Même un [em1]champignon vénéneux[/em1] est mieux que [em1]une sorcière qui ne lit pas de livres[/em1].
 Parce que [em1]un champignon vénéneux[/em1] meurt [em1]une seule personne[/em1].
 Arrête de me harceler. J'ai déjà lu assez de livres à l'école !
-Hmm, 12 plantes qui ont marqué l'histoire des sorcières, une encyclopédie ludique des plantes des sorcières, des plantes de rêve pour un jardin de sorcières...
+Hmm, 12 plantes qui ont marqué l'histoire des sorcières, un grimoire ludique des plantes des sorcières, des plantes de rêve pour un jardin de sorcières...
 Il existe tellement de livres sur les plantes.
 Je suppose que l'ancienne locataire était une sorcière qui étudiait les plantes.
 Je devrais ranger ici tous les livres que je reçois.
@@ -12579,7 +12579,7 @@ On dirait que le [em1]rez-de-chaussée[/em1].
 On dirait que le [em1]étage supérieur intérieur[/em1].
 On dirait que le [em1]étage inférieur intérieur[/em1].
 Il semble s'agir d'une carte représentant le [em1]l'ensemble de la structure de la grotte[/em1].
-Interdit d'accès
+Zone Interdite
 Ces vestiges me semblent familiers...
 Mais tu l'as appris [em1][lua(GetLocalizedString("Common", "WitchStation"))][/em1] toi aussi. Tu devrais t'en souvenir.
 [em1][lua(GetLocalizedString("Common", "WitchStation"))][/em1]... Ça me dit quelque chose...
@@ -12594,7 +12594,7 @@ Ouah, c'est quoi ça ?
 C'est quelque chose que tu as déjà vu.
 Moi ? Je ne m'en souviens pas du tout.
 Quoi qu'il en soit, ce n'est pas nécessaire pour l'instant, alors ne t'en fais pas.
-Ce n'est utile à savoir que si vous comptez vous installer ici.
+Ce n'est utile à savoir que si tu as l'intention de t'installer ici.
 Alors, je devrais peut-être m'installer ici ?
 On y réfléchira une fois que tu auras terminé ton apprentissage à Highlion et obtenu ton diplôme de l'École de sorcellerie.
 À condition, bien sûr, que je sois encore en vie d'ici là et que je ne suis pas morte d'ennuie.
@@ -13163,7 +13163,7 @@ Dis-moi ce qui t'a le plus enthousiasmé depuis ton arrivée ici.
 Ou bien, tu peux me dire ce que tu préfères sur cette scène appelée Wisteria.
 J'aime tout ce qui se passe ici. Tout dans cet endroit me passionne énormément.
 C'est presque impossible d'en choisir un seul... Mais, maintenant que j'y pense...
-Compléter l'encyclopédie
+Compléter le grimoire
 J'apprécie tout ce que je fais ici, mais ce que je préfère, c'est voir et immortaliser ce que je n'avais lu que dans les livres.
 Cela me rappelle aussi tout ce que j'ai accompli depuis mon arrivée ici !
 Si c'est le cas, j'imagine que tu as besoin d'un balai pour te déplacer facilement pendant que tu observes et explores les environs ?
@@ -18261,7 +18261,7 @@ Ce serait bien.
 Tu n’as pas fait un[em1][lua(GetLocalizedString("Item", "UncurseCandy_Name"))][/em1]À l’instant ?
 Je suppose que je peux simplement lui donner.
 Bon, maintenant levons la malédiction.
-Commençons d’abord par vérifier la[em1]des bonbons qui peuvent lever la malédiction[/em1]dans le[em1]Encyclopédie[/em1].
+Commençons d’abord par vérifier la[em1]des bonbons qui peuvent lever la malédiction[/em1]dans le[em1]Grimoire[/em1].
 J’adore cette forêt.
 Les arbres ici sont toujours verts, comme s’ils n’étaient pas affectés par le changement des saisons.
 Ah, la nature est tellement incroyable !
@@ -19112,7 +19112,7 @@ Non, je ne bois pas d’alcool. Avez-vous du thé ?
 Alors je prendrai une tasse de ça.
 Par contre, le thé contient de l’alcool. Cela vous convient ?
 Mais alors, c’est juste de l’alcool. De l'alcool avec du thé.
-Patate, pomme de terre.
+Effectivement, ça revient au même.
 Tu sais comment sortir, non ?
 Le[em1]Sortie[/em1]est[em1]à côté du canapé[/em1]là-bas.
 Je le savais.
@@ -19568,7 +19568,7 @@ Mais c’est une des concoctions que les professeurs ne nous apprendraient jamai
 Eh bien, maintenant que tu es apprentie sorcière, tu peux y arriver sans souci.
 Bien sûr, cela implique de grandes responsabilités.
 Voici le[em1]Recette du jus Twinkle-Twinkle[/em1].
-Il aurait dû être ajouté automatiquement à votre[em1]Encyclopédie[/em1]. Allez voir.
+Il aurait dû être ajouté automatiquement à votre [em1]Grimoire[/em1]. Allez voir.
 Le[em1]Bug Net[/em1]a été déverrouillé.
 Le[em1][lua(GetLocalizedString("Item", "RememberDreamPotion_Name"))]Recette[/em1]coûte 1[em1]Le Don de Ritoring[/em1].
 La recette pour le[lua(GetLocalizedString("Item", "RememberDreamPotion_Name"))].
@@ -20000,9 +20000,9 @@ Euh, non.
 [lua(GetLocalizedString("Common", "Incubator"))]est un outil avancé réservé aux sorcières qui ont maîtrisé la collection.
 Si vous l’utilisez, vous pouvez obtenir[em1]Beaucoup d’ingrédients[/em1]hors de[em1]Juste quelques objets rassemblés[/em1].
 Cela signifie-t-il que seules les sorcières vétéranes peuvent l’utiliser, tandis que les apprenties sorcières ne le peuvent pas ?
-Non! Ellie, tu as le[em1]Encyclopédie[/em1]émis par l’École des Sorcières, n’est-ce pas ?
-Seules les plantes et animaux avec un niveau suffisant de[em1]complétion de l’Encyclopédie régionale[/em1]peut être utilisé dans[lua(GetLocalizedString("Common", "Incubator"))].
-Ce qui signifie que vous pouvez devenir habile à utiliser le[lua(GetLocalizedString("Common", "Incubator"))]si vous travaillez dur pour mener à bien les recherches de l’Encyclopédie.
+Non! Ellie, tu as le [em1]Grimoire[/em1] émis par l’École des Sorcières, n’est-ce pas ?
+Seules les plantes et animaux avec un niveau suffisant de [em1]complétion du Grimoire régionale[/em1] peut être utilisé dans[lua(GetLocalizedString("Common", "Incubator"))].
+Ce qui signifie que vous pouvez devenir habile à utiliser le [lua(GetLocalizedString("Common", "Incubator"))] si vous travaillez dur pour mener à bien les recherches du Grimoire.
 Wow, ça va m’épargner la difficulté de collecter des objets dans la nature.
 Exactement. C’est particulièrement apprécié par les sorcières qui en ont besoin[em1]voyager beaucoup en collectant des objets[/em1].
 Et tu peux placer[em1]Multiple[/em1][lua(GetLocalizedString("Common", "Incubator"))]s dans votre[em1]Atelier[/em1].
@@ -20118,11 +20118,11 @@ Waouh, c’est impressionnant.
 C’est vrai, n’est-ce pas ? L’Administration des Sorcières est le département qui emploie le plus grand nombre de sorcières.
 Et c’est le seul bâtiment où les vols intérieurs sont autorisés.
 Waouh, pouvoir monter sur un balai à l’intérieur d’un bâtiment, ça a vraiment l’air amusant !
-Pas quand une encyclopédie volante vous assomme alors que vous êtes aveuglé par le beurre de cacahuète d’un sandwich volant qui tombe sur votre visage.
+Pas quand un grimoire volant vous assomme alors que vous êtes aveuglé par le beurre de cacahuète d’un sandwich volant qui tombe sur votre visage.
 On dirait qu’il y a beaucoup de choses qui volent.
-Méfiez-vous de l’encyclopédie volante. C’est ce que nous disons tout le temps.
+Méfiez-vous du grimoire volant. C’est ce que nous disons tout le temps.
 C’est très lourd, et ne baissez pas votre garde même si vous évitez le premier, car le deuxième et le troisième pourraient arriver.
-D’ailleurs, j’ai toujours évité les encyclopédies.
+D’ailleurs, j’ai toujours évité les grimoires.
 Est-ce que les livres circulent aussi à l’École des Sorcières ?
 Non, je n’aime juste pas lire.
 J’aime ça parce que c’est paisible ici.
@@ -20805,7 +20805,7 @@ C’est la récompense que je t’ai promise, un[em1]Nubicula Cupcake[/em1].
 J’ai demandé cela comme test cette fois, mais j’espère que vous l’avez compris[/em1]utiliser des potions pour collecter[em1]Ça rend les choses beaucoup plus faciles.
 On dit que la Maison de la Sorcière, qui fournit le plus de potions chaque année, en consomme aussi le plus.
 Bonne journée, Ellie.
-Des conseils sur l’utilisation des potions se trouvent dans le[em1]Encyclopédie[/em1].
+Des conseils sur l’utilisation des potions se trouvent dans le [em1]Grimoire[/em1].
 Bienvenue. Le soleil est aussi agréable que d’habitude.
 Une fois que vous l’aurez fait, il aura une couleur rouge, vif et joli.
 Je lisais des contes de fées chaque fois que Rubrum ne voulait pas dormir.
@@ -21928,7 +21928,7 @@ C’est ça. J’ai déjà vu les chats manger des pommes[em1]avant le Temple de
 Je vous suggère de placer le bol là où vous les avez nourris[em1][lua(GetLocalizedString("Item", "Cranapple_Name"))][/em1]s. Qu’en dis-tu ?
 Bonne idée. Je vais placer le[em1]Saladier pour chats[/em1]à l’endroit où je leur ai donné des pommes pour la première fois.
 Bien, et dis-moi si tu as besoin de quelque chose d’autre.
-Au final, le bol va toujours à l’endroit où nous avons trouvé l’encyclopédie des chats.
+Au final, le bol va toujours à l’endroit où nous avons trouvé le grimoire des chats.
 C’est un bel endroit. Les chats connaissent déjà cet endroit.
 Vraiment ? Je ne sais pas.
 Mais c’est un endroit où l’étranger en question pourrait se retrouver.
@@ -25506,32 +25506,32 @@ On trouve ici dans la nature beaucoup de formes de vie qu’on ne verrait jamais
 Oui, il y aura probablement beaucoup de poissons incroyables que je n’ai jamais vus auparavant.
 Puisqu’on en parle...
 Êtes-vous intéressé par la collecte de poissons ?
-Pas avec un aquarium ou des frottements de poissons, mais plutôt une sorte[em1]Encyclopédie[/em1].
+Pas avec un aquarium ou des frottements de poissons, mais plutôt une sorte de [em1]Grimoire[/em1].
 Waouh ! Tu collectionnes vraiment des poissons ?
-En fait, je fais une encyclopédie depuis que je suis arrivé ici.
+En fait, je fais un grimoire depuis que je suis arrivé ici.
 C’est un devoir scolaire cependant.
 Peu importe tant que j’aime ça.
 Je ne fais pas non plus le mien à vendre ou quoi que ce soit...
 C’est juste un passe-temps ?
 Eh bien... D’accord.
 On le fait ensemble ?
-On peut finir l’encyclopédie plus tôt si on se joint les mains !
+On peut finir le grimoire plus tôt si on se joint les mains !
 Et on peut parler de poissons dans le processus, ce qui ajoute à l’ambiance.
 La pêche, c’est... pas si simple.
 Il faut savoir quand chaque poisson est actif. Certaines espèces n’apparaissent qu’une fois par siècle. Vous ne prendrez pas instantanément ce que vous voulez.
 Je sais que tu veux dissuader Ellie, mais elle n’a fait que se motiver de plus en plus.
 C’est un marché alors ?
 Tu es sûr ?
-Bien sûr, faisons un[em1]Encyclopédie des poissons[/em1]Ensemble !
+Bien sûr, faisons un [em1]Grimoire des poissons[/em1]Ensemble !
 Soupir...
-Voici l’encyclopédie des poissons que j’ai faite auparavant.
+Voici le grimoire des poissons que j’ai faite auparavant.
 Chacun reçoit des données différentes, donc j’ai laissé celle-ci vide.
 J’ai hâte de le remplir !
-Je te donne[em1]Récompenses[/em1]au fur et à mesure que tu remplis l’Encyclopédie.
+Je te donne[em1]Récompenses[/em1]au fur et à mesure que tu remplis le Grimoire.
 Quant aux récompenses, je vous dirai quand j’aurai décidé.
 Waouh... Super.
 Alors, autre chose que tu veux dire ?
-Voyons voir. J’ai appris à pêcher et j’ai eu l’Encyclopédie des Poissons.
+Voyons voir. J’ai appris à pêcher et j’ai eu le Grimoire des Poissons.
 Rien alors ?
 Hahaha. Salut, Freddie.
 [em1]1[lua(GetLocalizedString("Item", "Fish_CloudSalmon_Name"))][/em1]c’est suffisant pour me nourrir.
@@ -26364,7 +26364,7 @@ Je vous dérange ?
 Non. Quel est le problème ?
 Oh, je voudrais vous demander quelque chose.
 Vous êtes en route pour Highlion, non ?
-Oh... C’est juste que vous avais une façon très sèche de répondre.
+Oh... C’est juste que vous avez une façon très sèche de répondre.
 Oh là là. Les vieilles habitudes ont la vie dure, surtout quand on est plongé dans ses pensées.
 Tu ressembles au concierge de mon école.
 Eh bien, j’étais soldat.
@@ -28193,7 +28193,7 @@ Euh... Elle était plus ratatinée que longue.
 Mamie a dit que cela voulait dire qu’ils étaient[em1]fané[/em1].
 Ils peuvent repousser avec du bien[em1]Nutrition[/em1].
 Je ne peux pas juste attendre qu’elle pousse.
-Vérifiez le[em1]Encyclopédie[/em1]. N’oubliez pas non plus le[em1]Catalogue des Sorcières[/em1].
+Vérifiez le [em1]Grimoire[/em1]. N’oubliez pas non plus le[em1]Catalogue des Sorcières[/em1].
 D’accord. Au fait, tu as le[em1]thé[/em1]Arden a demandé ?
 Je vais lui apporter.
 Oh, d’accord ! Merci !
@@ -28644,7 +28644,7 @@ Euh, ce n’est pas le cas.
 C’est pour ça que je ne les vois que de temps en temps.
 Rubrum, à propos de l’homme d’âge moyen que tu as vu...
 Hm ? Tu l’as rencontré ?
-Mais j’ai trouvé autre chose — une encyclopédie de chats et un[em1][lua(GetLocalizedString("Item", "Cranapple_Name"))][/em1]à moitié dévoré par eux.
+Mais j’ai trouvé autre chose — un grimoire de chats et un[em1][lua(GetLocalizedString("Item", "Cranapple_Name"))][/em1]à moitié dévoré par eux.
 Donc, l’homme et les chats n’étaient pas là, mais il y avait des traces d’eux.
 Oui, voici ma suggestion.
 Allons en trouver[em1][lua(GetLocalizedString("Item", "Cranapple_Name"))][/em1]s et recommencer, d’accord ?
@@ -28720,11 +28720,11 @@ Oui, ça est passé tout de suite par-dessus.
 C’est probablement la première fois que le chat le voit, mais il a tout de suite su comment s’en servir. N’est-ce pas incroyable ?
 Oui, ça a dû être conçu par quelqu’un qui comprend vraiment les chats.
 Quelqu’un qui connaît leurs habitudes... il doit connaître ou vraiment aimer les chats.
-Pensez-vous que cela pourrait être la même personne qui a quitté le[em1]Encyclopédie des chats[/em1]?
+Pensez-vous que cela pourrait être la même personne qui a quitté le [em1]Grimoire des chats[/em1]?
 C’est possible.
-Si c’est le cas, peut-être pourrions-nous lui parler de l’encyclopédie en personne...
+Si c’est le cas, peut-être pourrions-nous lui parler du grimoire en personne...
 Ellie, de quoi parlez-vous avec Virgile ?
-Ah, on parlait justement de la personne qui a quitté l’encyclopédie des chats la dernière fois.
+Ah, on parlait justement de la personne qui a quitté le grimoire des chats la dernière fois.
 Les jouets et le griffoir ont probablement été laissés par lui aussi.
 Mais je n’ai jamais vu quelqu’un comme ça ici... Et personne ne prétend être cette personne.
 Un jour, on le rencontrera probablement au village.
@@ -30362,7 +30362,7 @@ Vraiment ? Tu me donnes déjà des infos privilégiées ? Attends...
 Hein ? Qu’est-ce que tu écris ?
 Oh, c’est mon carnet de travail.
 Je note tout ce qui est utile pour la boutique, y compris des informations sur les habitués potentiels.
-Ah, comme faire une encyclopédie.
+Ah, comme faire un grimoire.
 Exactement. Gérer une boutique demande de connaître et de se souvenir de beaucoup de choses.
 En fait, j’étais occupé à réviser le planning que j’avais écrit avant de venir en ville.
 Un emploi du temps ? Tu planifies tes journées avec autant de soin ?
@@ -31016,22 +31016,22 @@ Elle a donc presque failli ne pas descendre car elle était occupée à défaire
 C’est vraiment une maison de sorcière abandonnée.
 En tenant compte de cela, ça a l’air correct.
 Même si ce n’est pas si propre.
-Puisque la Maison de la Sorcière est gérée seule.
-Il ne semble pas en très bon état vu à quel point il est sale.
-Le lit a l’air plutôt confortable, non ?
+Normal, puisque cette Maison de Sorcière est livrée à elle-même.
+Elle ne semble pas en très bon état vu à quel point elle est sale.
+Le lit a l’air plutôt confortable en revanche, non ?
 Je suppose que je peux juste dormir ici.
-Euh, eh bien, puisque la Maison de la Sorcière est un [em1]Institution publique[/em1].
+Euh, eh bien, puisqu'une Maison de Sorcière est un [em1]espace public[/em1], je suppose.
 Et c’est mieux que de dormir dehors.
 C’est normal de dormir une nuit ou deux.
 C’est quoi cette tête ? Tu as dormi sur un lit moelleux.
 Oui, mais...
 J’ai rêvé que je dormais dans le train.
-Tout cet effort pour ne pas dormir dans le train, pour ensuite rêver de ça ?
+Tous ces efforts pour ne pas dormir dans le train, pour finalement rêver de ça ?
 Tu aurais dû juste dormir dans le train.
 Non, ce n’est pas ça.
 J’ai très bien dormi, en fait.
-Je peux presque entendre le [em1]Bruit du train[/em1], cependant.
-Attends... N’est-ce pas bien le [em1]Bruit du train[/em1] ?
+Je peux presque entendre le [em1]bruit du train[/em1], par contre.
+Attends... Est-ce que ça ne serait pas vraiment le [em1]bruit du train[/em1] justement ?
 Est-ce qu’il part déjà ?
 Allons voir !
 C’est quoi ce truc ?
@@ -31122,7 +31122,7 @@ Vraiment. Ne me parle pas maintenant.
 Notre village est un peu plus loin d’ici !
 Mais nous ne pouvons pas passer maintenant à cause des vignes piquantes...
 Allons pour l’instant à la Maison de la Sorcière et trouvons un moyen.
-Désolé, vous ne pouvez pas aller au-delà d’ici.
+Désolé, vous ne pouvez pas aller plus loin.
 Pourquoi le train s’est-il arrêté ?
 Il y a [em1]quelque chose[/em1] sur la voie.
 On essaie de s’en débarrasser.
@@ -31152,12 +31152,12 @@ Passons rapidement et trouvons le cœur en attendant.
 Il y a quelqu’un ?
 Il y a quelqu’un ?
 On dirait que personne n’est là.
-Cette Maison de la Sorcière a peut-être été abandonnée.
-Après tout, même l’Administration des Sorcières peut passer à côté de certaines choses.
+Cette Maison de Sorcière a peut-être été abandonnée.
+Après tout, même la très Haute Autorité de Sorcellerie peut passer à côté de certaines choses.
 Bon, entrons !
 La maison est un peu en désordre.
 On restera juste un jour. Peu importe.
-Ça n’a pas d’importance. Ça passe [em1]train[/em1] c’est la seule solution.
+Ça n’a aucune importance. Fonce jusqu'au [em1]train[/em1], c’est tout ce qui compte !
 Qu’est-ce qui se passe ? Ça ne bouge même pas !
 Elle doit être plus solide que la porte secrète du bureau du principal.
 Qu’est-ce que c’est ? [em1]Fragments[/em1] En sortant ?
@@ -31234,7 +31234,7 @@ On peut sortir ?
 D’accord, je reviens dans un moment !
 En attendant, évitez de trop vous éloigner du train...
 Je ne sais pas si tu t’en souviens mais...
-Bien sûr que je m’en souviens ! L’arbre scintillant est à la [em1]cime[/em1].
+Bien sûr que je m’en souviens ! L’arbre scintillant est sur la [em1]cime[/em1].
 Non, pas ça.
 On doit revenir [em1]demain matin[/em1].
 Alors on devrait y aller !
@@ -31323,33 +31323,33 @@ La lumière émise par ces papillons est aussi puissante que [em1]le clair de lu
 C’est pourquoi des choses étranges se produisent toujours dans leur habitat — ils modifient l’environnement.
 Ne sont-ils pas magnifiques ? Un [em1]arbre à thé géant[/em1] avec [em1]des papillons brillant au clair de lune[/em1].
 Ce n’est pas seulement magnifique. On peut dire que c’est un spectacle incroyable à contempler.
-Est-ce une découverte vraiment magnifique ?
+N'est-ce pas une découverte absolument magnifique ?
 Je vais devoir écrire une lettre à l’école !
-Compléter l'[em1]Encyclopédie[/em1] et tout ça, non ?
+Il faut compléter le [em1]Grimoire[/em1] et tout, non ?
 Ne sois juste pas en retard.
 Revenons par [em1]où nous sommes passés[/em1]. Il pourrait y avoir d’autres choses étranges.
 En réalité, ces deux formes de vie ne sont pas rares elles-mêmes.
-Quoi ? Tu veux dire, même si la vue est magnifique, ce n’est pas spécial ?
-Le fait que ces deux-là soient ensemble est la partie incroyable.
+Quoi ? Tu veux dire que, même si la vue est magnifique, ce n’est pas spécial ?
+Le fait que ces deux espèces soient réunies est ce qui fait que c'est incroyable.
 C’est un [em1]arbre à thé de raisin amer[/em1]. Je ne pense pas que ce soit l’arbre qui brille.
-Qu’en est-il de ces deux-là ensemble ?
-Ils sont généralement élevés ensemble de façon artificielle pour obtenir [em1][lua(GetLocalizedString("Encyclopedia", "MoonFlower_Name"))][/em1] à Lucerine Ortu.
-Mais il est rare qu’ils soient ensemble naturellement comme ça.
-Euh, bref, on a trouvé quelque chose, non ?
+En quoi est-ce si particulier de croiser ces deux espèces ensemble ?
+Elles sont généralement élevées ensemble de façon artificielle pour obtenir de la [em1][lua(GetLocalizedString("Encyclopedia", "MoonFlower_Name"))][/em1] à Lucerine Ortu.
+Mais il est rare qu’elles évoluent naturellement ensemble comme ça.
+Euh, enfin bref, on a quand même trouvé quelque chose, non ?
 Oh... Waouh...
 Ellie ? Retournons au train...
 [em1]<shake>Regarde ça, Virgile !</shake>[/em1]
 Un chat blanc brillant ?
 Je n’ai jamais rien vu de tel auparavant !
 Ellie ? On doit–
-[em1]<shake>Allons après cette créature !</shake>[/em1]
+[em1]<shake>Rattrapons cette créature !</shake>[/em1]
 Regarde, Virgile ! Il y a une maison !
-C’est un [em1]La Maison de la Sorcière[/em1], n’est-ce pas ?
+C’est une [em1]Maison de Sorcière[/em1], n’est-ce pas ?
 Ça a l’air assez vieux.
-Je suppose qu’on peut parler à la maîtresse sorcière ici et rester ici un moment.
-On dirait qu’il n’y a pas de gens à l’intérieur...
+Je suppose qu’on peut parler à la sorcière propriétaire et rester ici un moment.
+On dirait qu’il n’y a personne à l’intérieur...
 S’il n’y a personne, on pourrait rester un moment.
-N’est-ce pas naturel pour un [em1]Apprentie sorcière[/em1] pour rester à un [em1]La Maison de la Sorcière[/em1] ?
+N’est-ce pas naturel pour une [em1]apprentie sorcière[/em1] de rester dans une [em1]Maison de Sorcière[/em1] ?
 Hein ? Où est passé le chat ?
 C’est vraiment le [em1]son du sifflet du train[/em1] !
 Je crois qu’il va bientôt partir.
@@ -31381,10 +31381,10 @@ Ou alors sois sage et retourne dans le train.
 Ça n'arrivera pas.
 Allons chercher le noyau. Il doit être tout près.
 Comme le noyau émet de la [em1]lumière[/em1] lorsque tu touches les lianes, tu devrais pouvoir le trouver.
-C’est une colline.
+C’est une falaise.
 Ce ne sera pas facile à grimper.
-Regarde là-bas. Il y a des lianes suspendues sur la colline.
-Je vais pouvoir grimper jusqu'à là.
+Regarde là-bas. Il y a des lianes suspendues sur la falaise.
+Je vais pouvoir grimper jusqu'au sommet.
 C’est une mauvaise nouvelle.
 On y est presque.
 Waouh... La maison d’une sorcière...
@@ -31417,7 +31417,7 @@ C’est la lettre du barman. Je la relis ?
 Tant qu’on trouve le village.
 Et nettoyer la Maison de la Sorcière.
 Tu m’as bien entendu, non ?
-Eh bien alors. Je pourrais aussi bien ajouter plus à l’Encyclopédie maintenant.
+Eh bien alors. Je pourrais aussi bien ajouter plus à le Grimoire maintenant.
 Super. Ils sont collés à l’arbre comme prévu.
 Waouh, il y a plein de brillances [em1]papillons[/em1] !
 On va tous les faire disparaître maintenant, non ?
@@ -31937,13 +31937,13 @@ Bien sûr. De quoi avez-vous parlé ?
 J’ai dit à Enite que je voulais aider pour tout ce qui contribue au village. Elle a été ravie de l’entendre et m’a encouragée à le faire.
 Alors j’y ai réfléchi et j’ai fait ce brouillon. Dis-moi ce que tu en penses.
 Un château de chats ? C’est tellement adorable !
-Bjorn, tu as déjà laissé une encyclopédie de chats au village, n’est-ce pas ?
+Bjorn, tu as déjà laissé un grimoire de chats au village, n’est-ce pas ?
 Comment le sais-tu ? J’en ai perdu un en passant par le village.
 Donc c’était vraiment à toi ! Pas étonnant que les styles artistiques soient les mêmes.
 Oh oui ! Maintenant je m’en souviens. Une fois, le train a mal fonctionné et a dû s’arrêter.
 Il se trouvait près de Wisteria, alors j’ai fait le tour du villageois. Depuis, je passe à chaque fois que le train s’arrête près de là.
-Chaque fois que je visite l’endroit, je m’occupe des chats et je discute avec Enite. C’est ainsi que j’ai perdu l’encyclopédie.
-Bien que l’encyclopédie ait été perdue, j’ai fini par y retourner, donc c’était une bénédiction déguisée.
+Chaque fois que je visite l’endroit, je m’occupe des chats et je discute avec Enite. C’est ainsi que j’ai perdu le grimoire.
+Bien que le grimoire ait été perdue, j’ai fini par y retourner, donc c’était une bénédiction déguisée.
 Tu es tellement dévouée au village et aux chats. Tu as dessiné des œuvres tellement amusantes pour eux.
 Ce n’est rien ! Un château pour les chats mérite certainement un design méticuleux !
 Les chats n’ont même pas un vrai refuge. Je veux leur offrir un endroit où vivre ensemble.
