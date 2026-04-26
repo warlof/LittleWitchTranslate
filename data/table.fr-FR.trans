@@ -84,15 +84,15 @@ Ne pas donner
 Le rendre
 Ne pas le rendre
 Annuler
-Euh, attends. [em1]Mon sac à dos est plein[/em1]. Je reviendrai après avoir fait de la place.
+Euh, attends. [em1] Mon sac à dos est plein [/em1]. Je reviendrai après avoir fait de la place.
 J'ai des affaires à régler en ce moment. À plus tard.
 Espace de stockage insuffisant dans le sac à dos.
 et Ellie semblent s'être <color=#800000>un peu</color> rapprochés.
 et Ellie semblent s'être <color=#800000>beaucoup rapprochés</color> après la conversation.
-et Ellie semblent avoir plus de <color=#800000>{Common.Keyword_Basic_AboutYou}</color> à partager maintenant !
+et Ellie semblent avoir plus de choses <color=#800000>{Common.Keyword_Basic_AboutYou}</color> à partager maintenant !
 est nécessaire.
 , apportez-le ici.
-et Ellie semblent avoir plus de <color=#800000>{Common.Keyword_Basic_ChitChat}</color> à partager maintenant !
+et Ellie semblent avoir plus de choses <color=#800000>{Common.Keyword_Basic_ChitChat}</color> à partager maintenant !
 Forêt Verte
 Vallée des Nuages
 Grotte Étoilée
@@ -116,7 +116,7 @@ Pièce Luna
 Table Plateau
 Décoration
 Incubateur
-Classement des Sujets de Recherche de l'Encyclopédie
+Classement des Sujets de Recherche de l'Grimoire
 Vin Pétillant
 Lundi
 Mardi
@@ -137,7 +137,7 @@ Standard
 Avancé
 Pêche
 Spécial
-Encyclopédie/Recette
+Grimoire/Recette
 Carte
 Tableau de Notes
 Sélecteur d'Outils
@@ -156,7 +156,7 @@ Ritoring
 Fabriquer du Mobilier
 Plan
 Fabriquer
-Clochette effaroucheur d'oiseaux
+Clochette à effrayer les oiseaux
 Nourriture
 Interface Intégrée
 Un thé préparé à partir de grains de café torréfiés par Enit. Son arôme profond et agréable remplit toute la pièce.
@@ -169,46 +169,46 @@ Normal
 Délicieux
 Parfait
 Le donut fait maison de Clala. Sa douceur délicate vous fait vous sentir bien tout au long de la dégustation.
-<color=#800000>Manger ce plat accorde de l'endurance supplémentaire pendant une durée limitée.</color>
+<color=#800000> Manger ce plat accorde de l'endurance supplémentaire pendant une durée limitée.</color>
 Le donut fait maison de Clala. Le riche chocolat emplit votre bouche de douceur, vous donnant l'impression que votre énergie revient rapidement.
-<color=#800000>Manger ce plat augmente la vitesse de récupération d'endurance pendant une durée limitée.</color>
+<color=#800000> Manger ce plat augmente la vitesse de récupération d'endurance pendant une durée limitée.</color>
 Le donut fait maison de Clala. Rempli de noix et de noix moulues, une bouchée emplit votre bouche d'un riche arôme de noix.
-<color=#800000>Manger ce plat réduit la consommation d'endurance pendant une durée limitée.</color>
+<color=#800000> Manger ce plat réduit la consommation d'endurance pendant une durée limitée.</color>
 Un thé préparé à partir de feuilles de thé séchées par Rubrum. Rafraîchissant pour une petite gorgée, avec une fin propre qui semble soigneusement préparée.
-<color=#800000>Boire le thé augmente le taux d'apparition des matériaux de collecte communs spéciaux pendant une durée limitée.</color>
+<color=#800000> Boire le thé augmente le taux d'apparition des matériaux de collecte communs spéciaux pendant une durée limitée.</color>
 Un thé préparé à partir de feuilles de thé séchées par Rubrum. Son arôme chaud et douillet apaise l'esprit, apportant du réconfort et un sens de la concentration accrue.
-<color=#800000>Boire le thé augmente le taux d'apparition des matériaux de collecte communs spéciaux pendant un nombre limité de fois.</color>
+<color=#800000> Boire le thé augmente le taux d'apparition des matériaux de collecte communs spéciaux pendant un nombre limité de fois.</color>
 Le donut fait maison de Clala. Le fort arôme de noix et de cacahuètes lui a valu une renommée parmi les enfants.
-<color=#800000>Augmente temporairement les Cadeaux de Ritoring que vous obtenez.</color>
+<color=#800000> Augmente temporairement les Cadeaux de Ritoring que vous obtenez.</color>
 Le donut fait maison de Clala. Il contient un bout de papier avec des mots de bon augure.
-<color=#800000>Vous aide à détecter les Ritorings lorsque vous en passez un.</color>
+<color=#800000> Vous aide à détecter les Ritorings lorsque vous en passez un.</color>
 Le steak d'Arden. Du jus s'écoule de cette tranche de viande parfaitement cuite quand on la mord. La cuisson dépend de l'humeur d'Arden.
-<color=#800000>Restaure une quantité aléatoire de Fatigue.</color>
+<color=#800000> Restaure une quantité aléatoire de Fatigue.</color>
 Le petit pain à la viande fait maison d'Arden, composé d'une feuille de pâte résistante enveloppant une farce à la viande, tendre et al dente.
-<color=#800000>Augmente temporairement la récupération de Fatigue de toute nourriture.</color>
+<color=#800000> Augmente temporairement la récupération de fatigue de toute nourriture.</color>
 La brochette de viande d'Arden. L'arôme de la graisse envoie de la force dans vos membres.
-<color=#800000>Restaure partiellement la capacité réduite de Fatigue récupérable.</color>
+<color=#800000> Restaure partiellement la capacité réduite de fatigue récupérable.</color>
 Le ragoût de côtes épicé d'Arden. Des morceaux de viande légèrement épicés dans une soupe de viande riche, ce plat vous maintient énergique toute la journée.
-<color=#800000>Réduit temporairement la consommation de Fatigue.</color>
-Restaure la capacité de Fatigue
-Récupère la Fatigue de façon aléatoire
-Augmente la récupération de Fatigue
-Réduit la consommation de Fatigue
-Accorde de l'Énergie supplémentaire
-Accélère la récupération d'Énergie
-Réduit la consommation d'Énergie
+<color=#800000> Réduit temporairement la consommation de fatigue.</color>
+Restaure la capacité de fatigue
+Récupère la fatigue de façon aléatoire
+Augmente la récupération de fatigue
+Réduit la consommation de fatigue
+Accorde de l'énergie supplémentaire
+Accélère la récupération d'énergie
+Réduit la consommation d'énergie
 Augmente les chances d'obtenir des objets collectés ordinaires rares
-Augmente les Cadeaux de Ritoring obtenus
+Augmente les cadeaux de Ritoring obtenus
 Détecte les Ritorings
 Annule la pénalité de repos obligatoire
-Beignet à la Carotte
+Beignet à la carotte
 Une spécialité de Clala. La grande quantité de pâte de carotte lui donne un goût doux et rafraîchissant.
-Petite Tarte
+Petite tarte
 Une délicate tarte de la taille d'une bouchée qu'Enite a faite avec les restes d'ingrédients de tarte du jour, comme des fruits.
 Un thé préparé à partir de feuilles de thé séchées par Rubrum. Son subtil parfum et son goût rafraîchissant semblent insuffler une vitalité particulière au corps.
-<color=#800000>Boire le thé augmente la quantité de Cadeaux de Ritoring pour un nombre défini de collectes.</color>
+<color=#800000> Boire le thé augmente la quantité de Cadeaux de Ritoring pour un nombre défini de collectes. </color>
 Un thé préparé à partir de fruits récoltés par Rubrum. Le boire procure un plaisir unique car de petits morceaux de fruits peuvent être mâchés.
-<color=#800000>Après avoir bu le thé, en passant près d'un Ritoring, ses traces deviennent plus visibles que d'habitude.</color>
+<color=#800000> Après avoir bu le thé, en passant près d'un Ritoring, ses traces deviennent plus visibles que d'habitude. </color>
 Squishychub
 Vivent dans des terriers souterrains en groupes de deux à quatre. En tant que créatures curieuses, ils approchent les gens en premier si quelqu'un s'approche d'eux.
 Oiseau Germe
@@ -226,7 +226,7 @@ Il est rapide à s'échapper vers les cimes des arbres s'il est alarmé, alors s
 4. Remuer <color=#800000>{LadleSetting}</color>.
 5. Verser dans le récipient spécifié.
 Fleur de Lune
-La fleur d'un Théier de Raisin Amer qui a absorbé beaucoup de clair de lune, c'est une fleur mystérieuse qui ne fleurit que les nuits sans lune. Contenant le pouvoir de la lune, c'est un ingrédient précieux.
+La fleur d'un Théier de Raisin Amer qui a absorbé beaucoup de lumière de clair de lune, c'est une fleur mystérieuse qui ne fleurit que durant les nuits sans lune. Contenant le pouvoir de la lune, c'est un ingrédient précieux.
 Clochette d'Étoile Argentée
 Si bien nourris, ils feront fleurir beaucoup de fleurs.
 Potion d'Extermination des Mauvaises Herbes
@@ -252,9 +252,9 @@ Un bonbon qui peut soulager une légère malédiction, comme une malédiction qu
 Étape 3
 Étape 4
 Étape 5
-<color=#800000>Ne pas remuer</color>
-Remuer <color=#800000>dans le sens des aiguilles d'une montre</color>
-Remuer <color=#800000>dans le sens contraire des aiguilles d'une montre</color>
+<color=#800000> Ne pas remuer</color>
+Remuer <color=#800000> dans le sens des aiguilles d'une montre</color>
+Remuer <color=#800000> dans le sens contraire des aiguilles d'une montre</color>
 Ajouter à l'<color=#008DD3>Extracteur</color> pour en extraire le jus.
 Ajouter au <color=#008DD3>Séchoir</color> pour le sécher.
 Jus Scintillant Jaune
@@ -348,7 +348,7 @@ Bonbon Collant
 Un bonbon qui colle sans effort à n'importe quoi.
 Un bonbon possédant des propriétés adhésives extrêmement fortes. Il peut même être utilisé pour recoller parfaitement les morceaux d'une statue en pierre cassée. Un incontournable pour les sorcières qui étudient à l'École des Sorcières.
 En général, il est fondu dans le feu avant utilisation.
-Un serpent qui aime effrayer les gens. Il se cache souvent dès qu'il aperçoit quelqu'un qui approche, et surgit quand ils s'approchent. Ils peuvent se cacher dans des endroits autres que les fourrés, alors faites attention.
+Un serpent qui aime effrayer les gens. Il se cache souvent dès qu'il aperçoit quelqu'un s'approcher, et surgit quand ils sont proches. Ils peuvent se cacher dans des endroits autres que les fourrés, alors faites attention.
 Serpent Surprise
 Potion Main Collante
 Stonetip
@@ -356,7 +356,7 @@ Il pousse généralement dans des trous dans les falaises, et se retire dans les
 Sa carapace semblable à de la pierre peut être retirée avec des outils pour exposer la chair à l'intérieur.
 Castor-Feuille
 Il aime garder tout son corps dans l'eau sauf la tête. Certains disent qu'il utilise ses cheveux en forme de feuille pour la photosynthèse, mais la théorie n'a pas été prouvée.
-Il fuit rapidement dès qu'il perçoit quelqu'un qui approche. Vous ne pouvez le attraper que si vous êtes plus rapide que lui.
+Il fuit rapidement dès qu'il perçoit quelqu'un qui approche. Vous ne pouvez l'attraper que si vous êtes plus rapide que lui.
 Jus d'Étoile
 Bonbon Œil Vif
 Un bonbon qui améliore la vue. En le mangeant, vous pouvez voir les choses plus loin, et vos iris deviennent légèrement verdâtres.
@@ -403,7 +403,7 @@ Papillon du Nectar
 Un bonbon qui rend son consommateur bavard. Il crée une impulsion à parler et transforme la personne la plus silencieuse en bavard. Il vaut mieux l'utiliser dans une occasion qui nécessite beaucoup de discours.
 Bonbon Babillard
 Plus vulnérable quand il ne chevauche pas les bulles. Collectez-les avant qu'ils ne montent sur les bulles.
-Des crabes qui s'accrochent aux murs et créent des bulles. Ils s'envolent sur les bulles une fois celles-ci prêtes. Leurs bulles sont plus fermes que les ordinaires. Pourquoi ils répètent ces actions reste inconnu.
+Des crabes qui s'accrochent aux murs et créent des bulles. Ils s'envolent sur les bulles une fois celles-ci prêtes. Leurs bulles sont plus fermes celles les ordinaires. Pourquoi ils répètent ces actions reste inconnu.
 Crabe Flottant
 En cas d'impact, ils se transforment en fumée pour se protéger, vous devez donc les collecter à la main sans les effrayer.
 Un lézard curieux qui a un nuage de fumée comme corps, qui se dissipe en cas de fort impact, et converge à nouveau après un moment.
@@ -419,7 +419,7 @@ Formes de Vie
 Potions
 Un bonbon motivant. Il ne restaure pas l'Énergie ni n'améliore la puissance, alors ne vous poussez pas trop dur.
 Bonbon Moral
-Il gonfle les « articles gonflables » comme un ballon à plat ou une balle.
+Il gonfle les « articles gonflables » tel qu'un ballon à plat ou une balle.
 Imaginez l'article gonflé quand vous lancez cette potion, afin de contrôler le degré de gonflement.
 Potion de Gonflement
 Un bonbon qui accorde de la sagesse, mais pas aussi efficace que la « Potion d'Amélioration de l'Intellect ». Notez que la période de sagesse est suivie d'une période de stupidité de la même durée.
@@ -485,7 +485,7 @@ Utilisée pour soulager la rigidité corporelle ou desserrer des vis rouillées.
 Même les plus légers bruits l'effraient et le font se cacher.
 Son nid, construit à partir de rochers liés ensemble avec des vignes, est imprenable.
 Faites tourner le nid et il s'évanouira de vertige.
-Plus vous tournez longtemps, plus il reste inconscient.
+Plus vous tournez longtemps, plus il restera inconscient longtemps.
 Rat Fort
 N'étant pas fan d'un environnement glacial, il a tendance à se réchauffer avec de la vapeur chaude.
 Lorsqu'il est chauffé à un certain degré, sa carapace douce durcit et devient rigide. Par conséquent, il fonce souvent sur les ennemis qui menacent ses proches.
@@ -536,7 +536,7 @@ Bonbon Pression Lourde
 Un bonbon qui donne à votre corps une sensation de lourdeur. Prenez-en un avant de dormir, et vous vous enfoncerez dans la douceur de votre lit.
 Bonbon Ne-Bougez-Pas
 Un bonbon qui raidit légèrement votre corps. Généralement consommé par les mannequins, qui doivent rester immobiles pour les photos.
-Bonbon de Prescience
+Bonbon de Precognition
 Un bonbon qui vous montre des fragments du futur. Cependant, vous ne saurez pas quand ces visions se réaliseront.
 Bonbon Tête Froide
 Un bonbon qui soulage les maux de tête. Votre esprit se calmera quand la fraîcheur s'infiltre dans votre front.
@@ -600,7 +600,7 @@ Au moins 3 en 20 secondes
 Nombre de fois partiellement évanoui
 « Belle Récompense »
 Avant de Fuir
-Ouvrir le bourgeon avec des impacts corporels
+Ouvrir le bourgeon avec des impacts physiques
 Éclater les grandes bulles
 Caresser
 Un Insecte des Buissons Chassé par un Pompom
@@ -842,7 +842,7 @@ Bénédiction Chaude
 Pause du Professeur
 Ritoring Heureux
 Un Jour Prospère
-Atelier Tonnerre Bleu - Prochaine Génération
+Atelier Tonnerre Bleu - Nouvelle Génération
 Wisteria
 Artistes de la Tristesse
 Brise du Dimanche
@@ -892,9 +892,9 @@ D
 E
 F
 G
-Niv1
-Niv2
-Niv3
+Niveau1
+Niveau2
+Niveau3
 H
 I
 J
@@ -1015,11 +1015,11 @@ Un petit poisson commun.
 Loche
 Un mignon petit poisson avec une légère barbe. Il prospère même dans les eaux boueuses ou sales.
 Tarte aux Pommes d'Enite
-Une tarte aux pommes faite par Enite. Elle sent délicieux.
+Une tarte aux pommes faite par Enite. Son odeur est délicieuse.
 Tarte au Raisin d'Enite
-Une tarte au raisin faite par Enite. Elle sent délicieux.
+Une tarte au raisin faite par Enite. Son odeur est délicieuse.
 Tarte aux Fraises d'Enite
-Une tarte aux fraises faite par Enite. Elle sent délicieux.
+Une tarte aux fraises faite par Enite. Son odeur est délicieuse.
 Cupcake de Sorcière
 Un produit très demandé fabriqué par la populaire boulangerie de sorcières « Nubicula ». Même la décoration de chapeau de sorcière kitsch ne peut pas vous empêcher de savourer sa déliciosité.
 Une potion qui améliore le parfum d'une cible.
@@ -1080,7 +1080,7 @@ Branche
 Une branche complètement normale.
 Elle a une solidité moyenne, mais ne semble pas très durable.
 Boue
-Sol détrempé d'eau.
+Sol terreux trempé par l'eau.
 Doux au toucher, mais assez visqueux.
 Morceau de Rocher
 Un morceau de rocher venu de quelque part.
@@ -1193,20 +1193,20 @@ Sphère Bleue
 Sphère Anneau
 Compartiment de Sac Auxiliaire {0}
 Un compartiment de sac secondaire utilisé pour augmenter la capacité d'un sac en le fixant à un sac.
-{InteriorPropTheme.RoyalGreen}Jardinière Murale
-{InteriorPropTheme.RoyalGreen}Lampe de Bureau
-{InteriorPropTheme.StarryNight}Lampe Murale
-{InteriorPropTheme.StarryNight}Télescope
-{InteriorPropTheme.SimpleWalnut}Étagère
-{InteriorPropTheme.SimpleWalnut}Pot de Fleurs
-{InteriorPropTheme.BasicTheme}Vase
-{InteriorPropTheme.BasicTheme}Cadre Photo
-{InteriorPropTheme.CozyQuilt}Ensemble Brodé
-{InteriorPropTheme.CozyQuilt}Lampe
-{InteriorPropTheme.RoughStone}Lampe
-{InteriorPropTheme.RoughStone}Ensemble de Bouteilles de Vin
+{InteriorPropTheme.RoyalGreen} Jardinière Murale
+{InteriorPropTheme.RoyalGreen} Lampe de Bureau
+{InteriorPropTheme.StarryNight} Lampe Murale
+{InteriorPropTheme.StarryNight} Télescope
+{InteriorPropTheme.SimpleWalnut} Étagère
+{InteriorPropTheme.SimpleWalnut} Pot de Fleurs
+{InteriorPropTheme.BasicTheme} Vase
+{InteriorPropTheme.BasicTheme} Cadre Photo
+{InteriorPropTheme.CozyQuilt} Ensemble Brodé
+{InteriorPropTheme.CozyQuilt} Lampe
+{InteriorPropTheme.RoughStone} Lampe
+{InteriorPropTheme.RoughStone} Ensemble de Bouteilles de Vin
 Bonbon Géant aux Fruits
-Un bonbon curieux qui prendra la saveur de fruit que vous aimez le plus. Sa colorfulité et sa taille gigantesque le rendent très populaire, tandis que le seau de bonbons peut être utilisé de nombreuses façons après avoir été vidé.
+Un bonbon curieux qui prendra la saveur de fruit que vous aimez le plus. Ses couleurs et sa taille gigantesque le rendent très populaire, tandis que le seau de bonbons peut être utilisé de nombreuses façons après avoir été vidé.
 Sac de Piments
 Rempli de piments de toutes les couleurs, il a l'air plutôt inquiétant.
 Onagre Séchée
@@ -1222,7 +1222,7 @@ Pile de Livres de Lisa
 Une pile de livres que Lisa a remise à la Société des Sorcières pour traduction. Doit être traduite avant d'être lue.
 Une bouteille de vin doux décorée d'un délicat nœud. A l'air beau dans la décoration même si vous n'aimez pas boire.
 Pomme Dorée
-Votre souhait pourrait se réaliser après avoir rassemblé 3 de cet objet légendaire.
+Votre souhait pourrait se réaliser après avoir rassemblé 3 exemplaires de cet objet légendaire.
 Beignet Ordinaire
 Un beignet bien cuit rempli de crème sucrée.
 Couverture d'Enite
@@ -1336,7 +1336,7 @@ Recette : {PotionName.DietPotion}
 La recette de {PotionName.RainPotion}. Lancez-la à un endroit pour y former des nuages sombres et provoquer de la pluie.
 La recette de {PotionName.ExpandPotion}, une potion qui gonfle la cible qu'elle contacte.
 La recette de {PotionName.DietPotion}. Réduit temporairement le poids de l'utilisateur.
-{InteriorPropTheme.Workshop_BrassAndBronze} {InteriorPropBasicName.WitchKneader} Niv1
+{InteriorPropTheme.Workshop_BrassAndBronze} {InteriorPropBasicName.WitchKneader} Niveau1
 Un bonbon pour traiter un empoisonnement léger.
 Un plat de saucisses et de légumes grillés sur une brochette en bois. Il est dit « assorti », mais ne contient pas beaucoup de légumes.
 Brochette de Saucisses Assortie
@@ -1566,17 +1566,17 @@ Fille au Chapeau Bleu {InteriorPropBasicName.PictureFrame}
 {InteriorPropTheme.ChicBlack} Moyen {InteriorPropBasicName.Storage}
 {InteriorPropTheme.ChicBlack} Grand {InteriorPropBasicName.Storage}
 {InteriorPropTheme.BasicTheme} Très Petit {InteriorPropBasicName.Storage}
-{InteriorPropTheme.Workshop_BrassAndBronze} {InteriorPropBasicName.WitchKneader} Niv2
-{InteriorPropTheme.Workshop_BrassAndBronze} {InteriorPropBasicName.WitchKneader} Niv3
-{InteriorPropTheme.Workshop_BrassAndBronze} {InteriorPropBasicName.WitchJuicer} Niv1
-{InteriorPropTheme.Workshop_BrassAndBronze} {InteriorPropBasicName.WitchJuicer} Niv2
-{InteriorPropTheme.Workshop_BrassAndBronze} {InteriorPropBasicName.WitchJuicer} Niv3
-{InteriorPropTheme.Workshop_BrassAndBronze} {InteriorPropBasicName.WitchRoaster} Niv1
-{InteriorPropTheme.Workshop_BrassAndBronze} {InteriorPropBasicName.WitchRoaster} Niv2
-{InteriorPropTheme.Workshop_BrassAndBronze} {InteriorPropBasicName.WitchRoaster} Niv3
-{InteriorPropTheme.Workshop_BrassAndBronze} {InteriorPropBasicName.WitchPot} Niv1
-{InteriorPropTheme.Workshop_BrassAndBronze} {InteriorPropBasicName.WitchPot} Niv2
-{InteriorPropTheme.Workshop_BrassAndBronze} {InteriorPropBasicName.WitchPot} Niv3
+{InteriorPropTheme.Workshop_BrassAndBronze} {InteriorPropBasicName.WitchKneader} Niveau2
+{InteriorPropTheme.Workshop_BrassAndBronze} {InteriorPropBasicName.WitchKneader} Niveau3
+{InteriorPropTheme.Workshop_BrassAndBronze} {InteriorPropBasicName.WitchJuicer} Niveau1
+{InteriorPropTheme.Workshop_BrassAndBronze} {InteriorPropBasicName.WitchJuicer} Niveau2
+{InteriorPropTheme.Workshop_BrassAndBronze} {InteriorPropBasicName.WitchJuicer} Niveau3
+{InteriorPropTheme.Workshop_BrassAndBronze} {InteriorPropBasicName.WitchRoaster} Niveau1
+{InteriorPropTheme.Workshop_BrassAndBronze} {InteriorPropBasicName.WitchRoaster} Niveau2
+{InteriorPropTheme.Workshop_BrassAndBronze} {InteriorPropBasicName.WitchRoaster} Niveau3
+{InteriorPropTheme.Workshop_BrassAndBronze} {InteriorPropBasicName.WitchPot} Niveau1
+{InteriorPropTheme.Workshop_BrassAndBronze} {InteriorPropBasicName.WitchPot} Niveau2
+{InteriorPropTheme.Workshop_BrassAndBronze} {InteriorPropBasicName.WitchPot} Niveau3
 Kit de Réparation de Balai Jetable
 Une boîte à outils pour réparer les balais facilement n'importe quand et n'importe où. Ne peut être utilisée qu'une seule fois.
 Recette d'un bonbon qui traite un empoisonnement léger.
@@ -1654,18 +1654,18 @@ Craie jaune utilisée pour dessiner des sigils de sorcière. Elle est enveloppé
 {InteriorPropTheme.GoldenPearl} Grand {InteriorPropBasicName.Storage}
 {InteriorPropTheme.GoldenPearl} Moyen {InteriorPropBasicName.Storage}
 {InteriorPropTheme.GoldenPearl} Petit {InteriorPropBasicName.Storage}
-{InteriorPropTheme.Workshop_SpookyYellow} {InteriorPropBasicName.WitchJuicer} Niv1
-{InteriorPropTheme.Workshop_SpookyYellow} {InteriorPropBasicName.WitchJuicer} Niv2
-{InteriorPropTheme.Workshop_SpookyYellow} {InteriorPropBasicName.WitchJuicer} Niv3
-{InteriorPropTheme.Workshop_SpookyYellow} {InteriorPropBasicName.WitchKneader} Niv1
-{InteriorPropTheme.Workshop_SpookyYellow} {InteriorPropBasicName.WitchKneader} Niv2
-{InteriorPropTheme.Workshop_SpookyYellow} {InteriorPropBasicName.WitchKneader} Niv3
-{InteriorPropTheme.Workshop_SpookyYellow} {InteriorPropBasicName.WitchPot} Niv1
-{InteriorPropTheme.Workshop_SpookyYellow} {InteriorPropBasicName.WitchPot} Niv2
-{InteriorPropTheme.Workshop_SpookyYellow} {InteriorPropBasicName.WitchPot} Niv3
-{InteriorPropTheme.Workshop_SpookyYellow} {InteriorPropBasicName.WitchRoaster} Niv1
-{InteriorPropTheme.Workshop_SpookyYellow} {InteriorPropBasicName.WitchRoaster} Niv2
-{InteriorPropTheme.Workshop_SpookyYellow} {InteriorPropBasicName.WitchRoaster} Niv3
+{InteriorPropTheme.Workshop_SpookyYellow} {InteriorPropBasicName.WitchJuicer} Niveau1
+{InteriorPropTheme.Workshop_SpookyYellow} {InteriorPropBasicName.WitchJuicer} Niveau2
+{InteriorPropTheme.Workshop_SpookyYellow} {InteriorPropBasicName.WitchJuicer} Niveau3
+{InteriorPropTheme.Workshop_SpookyYellow} {InteriorPropBasicName.WitchKneader} Niveau1
+{InteriorPropTheme.Workshop_SpookyYellow} {InteriorPropBasicName.WitchKneader} Niveau2
+{InteriorPropTheme.Workshop_SpookyYellow} {InteriorPropBasicName.WitchKneader} Niveau3
+{InteriorPropTheme.Workshop_SpookyYellow} {InteriorPropBasicName.WitchPot} Niveau1
+{InteriorPropTheme.Workshop_SpookyYellow} {InteriorPropBasicName.WitchPot} Niveau2
+{InteriorPropTheme.Workshop_SpookyYellow} {InteriorPropBasicName.WitchPot} Niveau3
+{InteriorPropTheme.Workshop_SpookyYellow} {InteriorPropBasicName.WitchRoaster} Niveau1
+{InteriorPropTheme.Workshop_SpookyYellow} {InteriorPropBasicName.WitchRoaster} Niveau2
+{InteriorPropTheme.Workshop_SpookyYellow} {InteriorPropBasicName.WitchRoaster} Niveau3
 {InteriorPropTheme.AnglersDream} Grand {InteriorPropBasicName.Rug}
 {InteriorPropTheme.AnglersDream}  Moyen {InteriorPropBasicName.Rug}
 {InteriorPropTheme.AnglersDream} Petit {InteriorPropBasicName.Rug}
@@ -1701,7 +1701,7 @@ Les pêcheurs sont souvent confus par son apparence semblable à une pierre. En 
 Bar
 Un poisson commun trouvé partout. Très sociable, il se mélange aux autres poissons. Ciblé par de nombreux pêcheurs en raison de son bon goût.
 Poisson Ancien
-Au lieu de sa viande, il est plus chassé pour sa belle nageoire dorsale, un matériau d'accessoire. Les Elder Fish juvéniles sont appelés « Junior Fish ».
+Au lieu de sa viande, il est plus chassé pour sa belle nageoire dorsale, un matériau d'accessoire. Les Poissons Ancien juvéniles sont appelés « Poisson Junior ».
 Oursin de Montagne
 Un oursin qui vit dans les forêts ou les montagnes. À l'âge adulte, il remonte depuis l'océan pour s'installer dans les forêts ou les montagnes. La raison reste inconnue.
 Thon Poivron
@@ -1787,8 +1787,8 @@ Un livre fait pour s'entraîner à appliquer des malédictions. Il est plein de 
 {InteriorPropTheme.ThanksGiving} Grand {InteriorPropBasicName.Storage}
 {InteriorPropTheme.ThanksGiving} Moyen {InteriorPropBasicName.Storage}
 {InteriorPropTheme.ThanksGiving} Petit {InteriorPropBasicName.Storage}
-{InteriorPropTheme.ThanksGiving}Jardinière Murale
-{InteriorPropTheme.PureWhite}Lampe
+{InteriorPropTheme.ThanksGiving} Jardinière Murale
+{InteriorPropTheme.PureWhite} Lampe
 {InteriorPropTheme.PureWhite} Grand {InteriorPropBasicName.Rug}
 {InteriorPropTheme.PureWhite} Moyen {InteriorPropBasicName.Rug}
 {InteriorPropTheme.PureWhite} Petit {InteriorPropBasicName.Rug}
@@ -1804,17 +1804,17 @@ Ce bol est parfait pour contenir la nourriture pour chat.
 {InteriorPropTheme.MarchenDream} Petit {InteriorPropBasicName.Storage}
 Recette : {PotionName.BulkUpPotion}
 La recette de {PotionName.BulkUpPotion}.
-{InteriorPropTheme.Guell} {InteriorPropBasicName.WitchJuicer} Niv1
-{InteriorPropTheme.Guell} {InteriorPropBasicName.WitchJuicer} Niv2
-{InteriorPropTheme.Guell} {InteriorPropBasicName.WitchJuicer} Niv3
-{InteriorPropTheme.Guell} {InteriorPropBasicName.WitchKneader} Niv1
-{InteriorPropTheme.Guell} {InteriorPropBasicName.WitchKneader} Niv2
-{InteriorPropTheme.Guell} {InteriorPropBasicName.WitchKneader} Niv3
-{InteriorPropTheme.Guell} {InteriorPropBasicName.WitchRoaster} Niv1
-{InteriorPropTheme.Guell} {InteriorPropBasicName.WitchRoaster} Niv2
-{InteriorPropTheme.Guell} {InteriorPropBasicName.WitchRoaster} Niv3
-{InteriorPropTheme.GluttonsBreakfast}Bocal à Bonbons
-{InteriorPropTheme.GluttonsBreakfast}Tomate Cerise{InteriorPropBasicName.Pot}
+{InteriorPropTheme.Guell} {InteriorPropBasicName.WitchJuicer} Niveau1
+{InteriorPropTheme.Guell} {InteriorPropBasicName.WitchJuicer} Niveau2
+{InteriorPropTheme.Guell} {InteriorPropBasicName.WitchJuicer} Niveau3
+{InteriorPropTheme.Guell} {InteriorPropBasicName.WitchKneader} Niveau1
+{InteriorPropTheme.Guell} {InteriorPropBasicName.WitchKneader} Niveau2
+{InteriorPropTheme.Guell} {InteriorPropBasicName.WitchKneader} Niveau3
+{InteriorPropTheme.Guell} {InteriorPropBasicName.WitchRoaster} Niveau1
+{InteriorPropTheme.Guell} {InteriorPropBasicName.WitchRoaster} Niveau2
+{InteriorPropTheme.Guell} {InteriorPropBasicName.WitchRoaster} Niveau3
+{InteriorPropTheme.GluttonsBreakfast} Bocal à Bonbons
+{InteriorPropTheme.GluttonsBreakfast} Tomate Cerise{InteriorPropBasicName.Pot}
 Jouet pour Chat Cassé
 Un jouet pour chat cassé en deux pendant que Rubrum le brandissait.
 Un tout nouveau jouet pour chat fabriqué par Freddie. Agitez-le devant un chat pour attirer son attention et jouer avec lui.
@@ -1922,9 +1922,9 @@ Boule de Poils de Renard Brumeux Traitée
 Des livres que Clara a empruntés à la bibliothèque.
 Pile de Livres
 Un objet qui vous permet d'adopter un chat avec lequel vous avez créé un lien.
-{InteriorPropTheme.BasementBasic} {InteriorPropBasicName.WitchIncubator} Niv1
-{InteriorPropTheme.BasementBasic} {InteriorPropBasicName.WitchIncubator} Niv2
-{InteriorPropTheme.BasementBasic} {InteriorPropBasicName.WitchIncubator} Niv3
+{InteriorPropTheme.BasementBasic} {InteriorPropBasicName.WitchIncubator} Niveau1
+{InteriorPropTheme.BasementBasic} {InteriorPropBasicName.WitchIncubator} Niveau2
+{InteriorPropTheme.BasementBasic} {InteriorPropBasicName.WitchIncubator} Niveau3
 Beignet au Miel
 Bol Vide
 C'est un cupcake moelleux.
@@ -2204,7 +2204,7 @@ Interagir
 Changer d'Outils
 Utiliser l'Outil
 Sprinter
-Ouvrir l'Encyclopédie
+Ouvrir l'Grimoire
 Terminer le Dialogue
 Sélectionner
 Ingrédient
@@ -2292,7 +2292,7 @@ Kyla la Forte
 Objet Clé Émis
 Pas de place dans votre sac. L'objet clé sera envoyé par courrier.
 Expéditeur Inconnu
-Récompense de Complétion de l'Encyclopédie {theme} {category} {achievement}
+Récompense de Complétion de l'Grimoire {theme} {category} {achievement}
 Membre honorable de l'École des Sorcières
 Stock en Réserve
 Bonjour, Ellie !
@@ -2534,7 +2534,7 @@ Bonjour, c'est Arin qui écrit.
 Aujourd'hui, je bavardais avec Rex quand tu m'es soudain venue à l'esprit, Ellie.
 Tu ressembles à Rex à bien des égards.
 Vous êtes tous les deux des gens d'action. Je suis généralement lent à agir, alors je me dis souvent que je devrais apprendre de vous.
-Je ne pense pas pouvoir jamais vous rattraper,
+Je ne pense pas pouvoir vous rattraper un jour,
 mais c'est bien ainsi.
 J'aime les choses comme elles sont.
 Sois toujours mon exemple.
@@ -2614,7 +2614,7 @@ Comme tu le sais, l'un des chats du village est particulièrement attaché à to
 Viens me voir si tu veux renforcer encore plus ton lien avec les chats.
 Un prospectus du restaurant d'Arden
 Des plats cuisinés à partir d'ingrédients de qualité et généreusement assaisonnés de poivre !
-Passe au Restaurant d'Arden et régale-toi d'un délicieux repas après <color=#800000>une longue journée de travail</color> !
+Passe au Restaurant d'Arden et régale-toi d'un délicieux repas après <color=#800000> une longue journée de travail </color> !
 L'établissement se trouve juste au sud de la fontaine de Wisteria.
 Distinguée apprentie sorcière Ellie,
 Ton aide fiable a sauvé la société des sorcières d'une nouvelle crise.
@@ -2622,11 +2622,11 @@ Ta récupération de La Gardienne Silencieuse inaugurera un tout nouveau chapitr
 Nous attendons avec sincère anticipation et meilleurs vœux ta future croissance et ton voyage, et nous te contacterons à nouveau lorsque nous confirmerons ta préparation. Sincèrement.
 PS : Veuillez ne pas répondre à cette lettre. Toute tentative de localiser l'expéditeur est fortement déconseillée.
 Bonjour, Ellie. Je t'écris pour te dire quelque chose qui pourrait rendre ta vie dans la Maison de la Sorcière un peu plus facile.
-À ce stade, tes aventures ont certainement rempli tes sacs de babioles dont tu n'as pas vraiment besoin. Désormais, tu peux les placer dans le <color=#800000>Coffre d'échange de la Bourse de Pièces d'Or</color> à côté de ma boutique.
+À ce stade, tes aventures ont certainement rempli tes sacs de babioles dont tu n'as pas vraiment besoin. Désormais, tu peux les placer dans le <color=#800000> Coffre d'échange de la Bourse de Pièces d'Or </color> à côté de ma boutique.
 Dépose 10 objets collectés ou matériaux en surplus, et tu recevras une bourse de pièces en retour. J'espère que cela te sera utile.
 —Aurea
 À la propriétaire de la Maison de la Sorcière,
-Tes activités reprenant pleinement, nous souhaitons t'offrir notre soutien. À partir de demain, un <color=#800000>Coffre d'échange de la Bourse de Luna</color> sera installé dans ton jardin.
+Tes activités reprenant pleinement, nous souhaitons t'offrir notre soutien. À partir de demain, un <color=#800000> Coffre d'échange de la Bourse de Luna </color> sera installé dans ton jardin.
 Place tout objet collecté ou matériau en surplus à l'intérieur. Pour chaque 10 objets déposés, tu recevras 1 Bourse de Luna.
 Nous espérons que cela te sera utile. Le Catalogue des Sorcières continuera à t'assister de tout cœur.
 —Département du Catalogue des Sorcières
@@ -2656,7 +2656,7 @@ Mais maintenant que j'écris, je ne sais pas vraiment quoi dire. J'ai juste envi
 Tu viens me voir aujourd'hui, n'est-ce pas ? J'attends chaque jour en me demandant quand tu vas apparaître !
 Il y a tellement tellement de choses que je veux te dire quand on se voit !
 Sis, écoute-moi !
-Clala m'a encore grondée aujourd'hui, tu sais ? Ses remontrances sont les pires, les absolues pires !
+Clala m'a encore grondée aujourd'hui, tu sais ? Ses remontrances sont les pires, les pires des pires !
 J'ai l'impression qu'elle n'est jamais satisfaite de ce que je fais.
 Je suis sûre que le roi démon des remontrances l'a possédée.
 Si seulement toi, Ellie, tu étais ma sœur à la place… (soupir)
@@ -2709,7 +2709,7 @@ Livraison supplémentaire dans le cadre de la quête « Brewing Quest »
 Nous vous envoyons cette lettre pour vous informer de la quête supplémentaire du tutoriel de brassage.
 Pour ceux qui n'ont pas pu accéder au contenu par la voie habituelle, nous mettons à disposition la quête tutorielle séparément.
 Dès que vous aurez fermé cette lettre, la quête sera déclenchée.
-Avis concernant la correction d'un bug lié à la récompense pour l'achèvement de l'encyclopédie
+Avis concernant la correction d'un bug lié à la récompense pour l'achèvement de l'Grimoire
 Si les statistiques d'Ellie (Fatigue, Endurance) sont soudainement réinitialisées après le chargement de la sauvegarde,
 Vous pourriez recevoir une lettre contenant la récompense dès le prochain jour de jeu.
 Si vous n'êtes pas concerné par ce bug, vous ne recevrez aucun e-mail.
@@ -2837,7 +2837,7 @@ Si vous achetez {0}, ça fera {1}. C'est bon ?
 Ça fera {0}.
 Merci, comme toujours.
 Si vous vendez {0}, ça fera {1}. C'est bon ?
-Je suis à court d'argent aujourd'hui parce que vous m'avez trop vendu. Pouvez-vous revenir demain ?
+Je suis à court d'argent aujourd'hui parce que vous m'avez vendu tant de choses. Pouvez-vous revenir demain ?
 Avez-vous quelque chose à vendre ?
 Bienvenue. Prenez le temps de découvrir notre site.
 Si vous avez besoin de {item/Reform_BroomStick}, commerce {ItemCategory.NormalCollect} ou {ItemCategory.NormalCollect_Unique} avec moi pour ça.
@@ -2846,7 +2846,7 @@ Ellie, choisis le {ItemCategory.NormalCollect} choisissez ce que vous voulez et 
 Tu n'as pas assez d'argent sur toi.
 On dirait que tu n'as plus de place dans ton sac.
 C'est complet.
-Si vous voulez {0}, paie-moi simplement {1}.
+Si vous voulez {0}, payez-moi simplement {1}.
 Cela s'avérera utile.
 Tu n'as pas de « Don de Ritoring » sur toi !
 Tu n'as pas assez de place dans ton sac.
@@ -2935,7 +2935,7 @@ J'ai appris trop de choses d'un coup, et ma tête est sens dessus dessous. Je n'
 Après avoir perdu sa veilleuse, Arden souffrait d'insomnie, alors je l'ai aidé à la retrouver. Arden a toujours l'air distant. Je ne savais pas qu'il pouvait souffrir de troubles du sommeil. Bon, il a vécu pendant des centaines d'années, c'est donc tout à fait normal qu'il ait des soucis, mais maintenant que la veilleuse est de retour, il devrait pouvoir bien dormir.
 Un poivre maudit ? Sérieusement ? Arden doit trop réfléchir à cause du manque de sommeil, mais vu sa personnalité, ça ne m'étonnerait pas qu'il soit vraiment maudit. Quoi qu'il en soit, je vais d'abord examiner les souvenirs les plus pertinents.
 Tous les souvenirs que j'ai trouvés concernaient la partenaire d'Arden. C'est elle qui a fait descendre Arden, un dragon, de la montagne dans le village pour ouvrir un restaurant. L'amour, de toutes les choses, est en réalité la cause ?
-Pour se souvenir de sa partenaire, Arden est allé jusqu'à se maudire lui-même, afin de continuer à rêver jusqu'à ce qu'il retrouve ses paroles... Quelles sont donc ces paroles qu'il voulait se rappeler ? Que lui a demandé la Guerrière de retenir ?
+Pour se souvenir de sa partenaire, Arden est allé jusqu'à se maudire lui-même, afin de continuer à rêver jusqu'à ce qu'il retrouve ses paroles... Quelles sont donc ces paroles qu'il voulait se rappeler ? Qu'est-ce que la Guerrière veut qu'il retenienne ?
 Arden a décidé de continuer à vivre en gardant le souvenir d'Angelica. Il mènera sans doute une vie heureuse, comme elle le souhaitait. Dans cent ans, il aura peut-être oublié son passé, tout laissé derrière lui, et sera à nouveau hanté par des cauchemars.
 Mais Arden se souviendra à nouveau. N'est-ce pas, Angelica ?
 Une sorcière qui tient une épicerie. Une observatrice attentive qui ne s'immisce jamais.
@@ -2993,15 +2993,15 @@ Lettres de la fortune
 La bibliothèque a reçu plusieurs lettres destinées à des destinataires inconnus.
 Nous serions très reconnaissants si quelqu'un pouvait venir à la bibliothèque pour nous aider.
 Rose sans épines
-Quelqu'un de bon nageur avec une vue perçante ?
+Un bon nageur avec une vue perçante ?
 Une de mes amies est en train de se noyer. S'il vous plaît, sauvez-la pour moi. Je vous paierai généreusement.
 Étudier les malédictions sur les livres
 Engager quelqu'un qui s'y connaît en malédictions ou en magie pour examiner quelques livres.
 Placez un coussin pour chat
 Accrochez un jouet pour chat qui se balance
 Installez une roue d'exercice pour chat
-Je veux fabriquer un Coussin Chat. Quelqu'un peut m'aider ?
-Je veux fabriquer un Jouet Chat à Suspendre. Quelqu'un peut m'aider ?
+Je veux fabriquer un Coussin pour Chat. Quelqu'un peut m'aider ?
+Je veux fabriquer un Jouet pour Chat à Suspendre. Quelqu'un peut m'aider ?
 Je veux fabriquer une Roue d'Exercice pour Chat. Quelqu'un peut m'aider ?
 Construire un petit pont
 Je pense à construire un petit pont dans la partie nord du village. Si quelqu'un a du temps libre, j'apprécierais vraiment votre aide.
@@ -3127,7 +3127,7 @@ L'origine de la malédiction
 Qui a maudit Arden ?
 Les ruines au centre du village étaient autrefois une fontaine. D'après Enite, cet endroit servait de place publique. Moi aussi, j'avais l'habitude de manger des bonbons gélifiés avec des amis près de la fontaine du foyer, et d'y retrouver des gens.
 Si nous parvenons à restaurer la fontaine, je pense qu'elle deviendra un lieu de rendez-vous et de rencontre.
-Arden ne semble pas très bien dormir à cause du rêve qu'il fait sans cesse. Il pense que c'est à cause d'une malédiction, mais a-t-il vraiment fait quelque chose qui mérite une malédiction ? J'ai appris qu'une malédiction pèse aussi sur celui qui la lance.
+Arden ne semble réussir à bien dormir à cause du rêve qu'il fait sans cesse. Il pense que c'est à cause d'une malédiction, mais a-t-il vraiment fait quelque chose qui mérite une malédiction ? J'ai appris qu'une malédiction pèse aussi sur celui qui la lance.
 Mais pourquoi maintenant ? Qui haïrait Arden à ce point ?
 Puisqu'Arden ne se souvient de rien, je devrais chercher des indices cachés dans des objets. D'après ce que j'ai entendu, les objets peuvent conserver les souvenirs oubliés d'une personne, et il y a des sorcières qui peuvent retrouver ces souvenirs grâce à ces objets. Peut-être que je pourrais essayer ?
 Une potion spéciale souvent utilisée lors des fêtes. Sa fabrication est interdite à toute personne inscrite à l'École des sorcières.
@@ -3188,7 +3188,7 @@ Quel genre de personne était Alvin, l'ancien villageois ?
 Bibliothèque
 Quel genre d'endroit est la bibliothèque du village ?
 Remettez le matériel de peinture
-Va chercher à Vinch de quoi fabriquer de la nouvelle peinture.
+Va demander à Vinch de quoi fabriquer de la nouvelle peinture.
 Livraison par fleuriste
 Dis à Roy de livrer les articles dont Vinch a besoin.
 Aidez-nous à fabriquer des matériaux de peinture
@@ -3203,7 +3203,7 @@ Quête
 Test de niveau de livraison de potions : Débutant
 Livraison de potions disponible : Débutant
 Débloquez la livraison de potions du niveau de difficulté suivant.
-Extension de l'atelier Niv.{0}
+Extension de l'atelier Niveau. {0}
 Développer l'atelier
 Agrandissez l'atelier.
 Construis une maison pour Alvin !
@@ -3250,7 +3250,7 @@ Comment escalader la falaise
 Est-il vraiment impossible de grimper la falaise avec une échelle cassée ?
 L'esprit de l'artisan
 Incitons l'esprit artisanal, qui peut être utile dans la fabrication de meubles, à s'exprimer à travers cette marionnette.
-Pour utiliser {Item.PolarisPotion}, demandons à nouveau à propos de Lisa Whitegarden.
+Pour utiliser {Item.PolarisPotion} , demandons à nouveau à propos de Lisa Whitegarden.
 Livrer les articles récupérés à {Map.StarSeaCave}
 Un livre qui ne s'ouvre pas
 Demandez à Diane comment lever le sceau sur le livre.
@@ -3302,7 +3302,7 @@ Enquêtez sur les citrouilles « Honey Pumpkins » qui bloquent la route.
 Préparez une potion pour éliminer les mauvaises herbes tenaces à l'aide des ingrédients disponibles à l'apothicairerie.
 Utilisation {item/BadGrassPotion} pour retirer la petite citrouille Honey.
 Comment s'en débarrasser ? Déplacez-vous dans la forêt.
-Pour soigner la patte de Rubrum, préparez {item/HealingCandy}.
+Pour soigner la patte de Rubrum, préparez {item/HealingCandy} .
 Utilise une potion explosive sur les vignes épineuses géantes !
 Rubrum a dit avoir vu une carte au trésor là où il s'était retrouvé pris dans les toiles d'araignée. Fouille les buissons.
 Procurez-vous de l'herbe d'érable.
@@ -3325,7 +3325,7 @@ Fixez l'extracteur à la bouteille en verre.
 Faut-il enlever ses chaussures en arrivant à Highlion ? Demandez aux autres
 Retournez à votre place et attendez d'arriver à destination.
 Réparez votre balai à l'Établi dans la Maison de la Sorcière.
-Utilise la plume pour noter les trois nouvelles cibles dans l'Encyclopédie.
+Utilise la plume pour noter les trois nouvelles cibles dans l'Grimoire.
 Rénovation de la Maison de la Sorcière
 Demandez si quelqu'un peut aider à réparer la Maison de la Sorcière.
 Approvisionnement en matériaux
@@ -3400,7 +3400,7 @@ Rendons le sac d'Arden.
 Trouve Rubrum et va chercher le thé qu'Arden a demandé.
 Apporte le thé à Arden.
 Tout a une histoire
-Arden a raconté qu'il était allé se promener près du lac, dans la fraîcheur du matin. {Map.GreenForest}. Cherchez la veilleuse là-bas.
+Arden a raconté qu'il était allé se promener près du lac, dans la fraîcheur du matin. {Map.GreenForest} . Cherchez la veilleuse là-bas.
 Demandez à ceux qui se promènent souvent dans la forêt.
 Regardez la carte dessinée à la main par Rubrum et trouvez où se trouve la lumière nocturne.
 Rendons la lampe d'Arden.
@@ -3433,7 +3433,7 @@ Retrouver la Pelle de Kyla
 Kyla demande à Rubrum de l'aider à retrouver la pelle. Apprenez l'emplacement de la pelle de Rubrum et trouvez-la.
 Rendre la Pelle de Kyla
 On raconte que Rubrum est sorti du village avec la pelle de Kyla pour aller jouer près du puits. Trouve la pelle et rends-la à Kyla.
-Romarin, plante qui aime la lune
+Romarin, une plante qui aime la lune
 Cherche le romarin doré qui fleurit la nuit à l'endroit le plus proche de la lune.
 Emportez avec vous l'onagre séchée tout en tenant le romarin doré dans votre main.
 Apporte le romarin doré à Roy.
@@ -3469,7 +3469,7 @@ Va livrer les arbres chez Vinch avec Roy.
 Demande à Arin ce qu'elle aime.
 Renseignez-vous sur les plantes que l'on trouve uniquement dans les environs de Wisteria.
 Récupérez des graines de fleurs des vœux.
-Prie le Dieu du Chat Noir et interroge-le sur les objets qui revêtent une importance particulière.
+Prie le Dieu du Chat Noir et interroge-le sur les objets qui sont particulièrement importants.
 Découvrez les plantes qui racontent l'histoire de Wisteria.
 Donne à Arin la plante pour fabriquer des marque-pages.
 Demande au Dieu du Chat Blanc en quoi les pétales de glycine sont si particuliers pour cette plante.
@@ -3500,18 +3500,18 @@ Montre à Diane l'incubateur cassé.
 Attends que la maison soit reconstruite.
 Parlez à Aurea et achetez le plan.
 Trouve cette étrange créature jaune pour laquelle tu as réparé une poupée.
-La trace de la vigne épineuse descend dans le {Map.RainbowForest_BlueMushroom}. Suivez ce lien et jetez-y un œil.
+La trace de la vigne épineuse descend dans le {Map.RainbowForest_BlueMushroom} . Suivez ce lien et jetez-y un œil.
 Prenez le sentier qui passe au-dessus du village.
 Commence par réparer la maison de la sorcière.
 Le sentier tracé par les vignes épineuses s'enfonce dans la nouvelle forêt. Suis-le.
 Traverse le pont et ramasse la craie de sorcière.
 Découvrir {Map.RainbowForest_Basin} et chercher des traces de lianes épineuses.
-Essayez de vous débarrasser {Map.RainbowForest_Basin} de cet étrange nuage de fumée.
+Essayez de débarrasser {Map.RainbowForest_Basin} de cet étrange nuage de fumée.
 Résolvez le grand casse-tête que vous avez découvert à {Map.RainbowForest_Plateau}.
 Utilise cet appareil géant pour dissiper cette fumée étrange.
-Un chemin est apparu après la fumée à {Map.RainbowForest_Basin} a disparu. Suis-le vers le haut.
+Un chemin est apparu après que la fumée à {Map.RainbowForest_Basin} ai disparu. Suis-le vers le haut.
 Trouvez le cœur de la vigne épineuse et retirez-le.
-Un chemin est apparu une fois que le cœur épineux de la vigne a été retiré. Suivez ce chemin.
+Un chemin est apparu maintenant que le cœur épineux de la vigne a été retiré. Suivez ce chemin.
 Trouve la poupée représentant cette étrange créature qui bloque la route en pleurant.
 La poupée a un bras cassé et du rembourrage s'échappe. Suis le rembourrage qui traîne par terre.
 Trouve un moyen de nettoyer la poupée sale.
@@ -3540,8 +3540,8 @@ Parle à Alvin.
 Demande à Diane.
 Essaie de lever l'obstacle qui se trouve sur ton chemin.
 Partez à la découverte du jardin secret.
-Suivez le chemin tracé par la vigne épineuse à l'intérieur de la {Map.RainbowForest_RedMushroom}.
-Vous êtes arrivé à {Map.RainbowForest_Basin} après être parti {Map.RainbowForest_RedMushroom}. Explorez les lieux et voyez si vous pouvez vous rendre ailleurs.
+Suivez le chemin tracé par la vigne épineuse à l'intérieur de la {Map.RainbowForest_RedMushroom} .
+Vous êtes arrivé à {Map.RainbowForest_Basin} après être parti {Map.RainbowForest_RedMushroom} . Explorez les lieux et voyez si vous pouvez vous rendre ailleurs.
 Trouvez un dispositif similaire et activez-le pour lever la barrière.
 Trouve la clé du levier à l'intérieur du champignon bleu et fais la connaissance de cette étrange créature.
 Insérez la clé munie de l'étiquette bleue dans la serrure bleue du levier pour ouvrir la porte.
@@ -3573,7 +3573,7 @@ Va chercher la clé du levier chez Honey Bear.
 Trouve la poupée laissée par le compagnon d'Honey Bear.
 Donne à Honey Bear la poupée bleue qui se trouve dans la boîte.
 Trouve cette créature bizarre et répare la poupée cassée.
-- Récupère 8 morceaux de coton tombé et répare-les tout de suite
+- Récupère 8 morceaux de coton tombé et répare la tout de suite
 - Récupère 3 morceaux de coton tombé et apprends à coudre avant de faire des raccommodages
 Ramasse le coton éparpillé et répare la poupée cassée.
 Apporte le coton tombé à cette étrange créature qui pleure.
@@ -3613,37 +3613,37 @@ Demande à Freddie pourquoi il ne veut pas aller pêcher au village.
 Give 3 {FishName.Cantsee} à Freddie.
 Demandez aux villageois ce qu'ils pensent des chats.
 Cherchez les traces de l'homme d'âge mûr et des chats à l'entrée du temple.
-Va voir Rubrum et parle-lui de l'encyclopédie sur les chats et des pommes.
+Va voir Rubrum et parle-lui de l'Grimoire sur les chats et des pommes.
 Procurez-vous-en {Item.Cranapple} et cherchez les chats portant le gène Rubrum.
 Demande à Aurea si elle vend des gamelles pour chat.
 Remplis la gamelle du chat avec du poisson.
 Demandez conseil à Enite pour savoir où placer la gamelle pour chat.
 Placez la gamelle à nourriture pour chat à l'endroit indiqué par Enite.
 Donner 2x {Item.EnduranceUpCandy} pour rejoindre Arin et célébrer la cérémonie avec elle.
-Réalisez le {Item.WeaknessPotion}.
-Utilisez le {Item.WeaknessPotion} pour lever le sceau sur le livre d'Arin.
-Réalisez le {Item.BadGrassPotion}
+Réalisez la {Item.WeaknessPotion} .
+Utilisez la {Item.WeaknessPotion} pour lever le sceau sur le livre d'Arin.
+Réalisez la {Item.BadGrassPotion}
 Enlevez les vignes géantes et épineuses
 Apportez {Item.MapleHerb_Collect}
 Rescue Rubrum
-Réalisez le {Item.SunlightPotion}
+Réalisez la {Item.SunlightPotion}
 Obtenir {Item.MoonFlower_Collect}
-Réalisez le {Item.MoonTear}
-Réalisez le {Item.MoonOil}
-Réalisez le {Item.RememberDreamPotion}
+Réalisez la {Item.MoonTear}
+Réalisez l' {Item.MoonOil}
+Réalisez la {Item.RememberDreamPotion}
 Utilisation {Item.RememberDreamPotion}
-Réalisez le {Item.FirecrackerPotion}
-Réalisez le {Item.GlueCandy}
+Réalisez la {Item.FirecrackerPotion}
+Réalisez la {Item.GlueCandy}
 Découvrir {Map.RainbowForest_Basin}
-Réalisez le {Item.ColourfulPotion}
-Enquêter {Map.GreenForest_Waterfall}
-Enquêter {Map.GreenForest_Deep}
-Enquêter {Map.GreenForest_Plateau}
+Réalisez la {Item.ColourfulPotion}
+Enquêter à {Map.GreenForest_Waterfall}
+Enquêter à {Map.GreenForest_Deep}
+Enquêter à {Map.GreenForest_Plateau}
 Utilisation {Item.StickyHandsPotion}
-Livrer le {Item.Branch_Special}
+Livrer la {Item.Branch_Special}
 Obtenez la recette de {Item.WeaknessPotion}
-Réalisez le {Item.WeaknessPotion}
-Livrer le {Item.WeaknessPotion}
+Réalisez la {Item.WeaknessPotion}
+Livrer la {Item.WeaknessPotion}
 Parlons de {CandyName.NoiseCandy}
 Livrer le {CandyName.NoiseCandy}
 Livrer le {CandyName.UncurseCandy}
@@ -3655,7 +3655,7 @@ Livrer le {Item.StarJuice_Silver}
 Livrer le {Item.FlowerBird_Collect}
 Livrer le {CandyName.AntidoteCandy}
 Utilisation {CandyName.AntidoteCandy}
-Enquêter {Map.RainbowForest_Basin}
+Enquêter à {Map.RainbowForest_Basin}
 Visitez {Map.GreenForest_Waterfall}
 Fouillez le lac à {Map.GreenForest_Waterfall}
 Rechercher {Map.RainbowForest_Basin}
@@ -3723,7 +3723,7 @@ Consulter les informations disponibles dans la bibliothèque
 Retournez à votre emplacement
 Parlez aux gens
 Réparer le balai
-Mettre à jour l'encyclopédie
+Mettre à jour l'Grimoire
 Découvrez le village
 Retrouvez Rubrum dans le village
 Retrouvez Enite au village
@@ -3934,7 +3934,7 @@ Décidez de la suite
 Observez le chat
 Lisez la lettre
 Apprenez à pêcher
-Procurez-vous l'encyclopédie des poissons
+Procurez-vous l'Grimoire des poissons
 Demande encore à Lisa
 Récupère le coton pour la poupée
 Coupez le gâteau
@@ -3997,7 +3997,7 @@ Parle à nouveau au guerrier près du lac, dans le souvenir.
 Donne 1 « Cadeau de Ritoring » non utilisé à Rex pour le convaincre.
 Rénovation de meubles
 Essayons de rénover la chaise commandée par Aurea à l'établi.
-Essayez de créer en suivant les {item/PansyFanLetter_Sofa} recette.
+Essayez de créer en suivant la recette {item/PansyFanLetter_Sofa} .
 Va voir Rex et demande-lui de te parler de ces êtres mystérieux dont il parle.
 Gagnez le concours
 Lire la lettre de Roy
@@ -4009,98 +4009,98 @@ Meubles artisanaux
 Distribuer des bonbons
 Give {item/SweetDreamCandy} vers le Rouge
 Give {item/SweetDreamCandy} à Red.
-Prise 3 {item/FogFox_Collect} c'est Enite.
+Emmène 3 {item/FogFox_Collect} à Enite.
 1x {Item.DeepSleepCandy}
 1x {Item.WorryDownCandy}
-Donnez le {item/SweetCurseCandy} selon
 Donnez le {item/SweetCurseCandy} à Theo.
-Donner 2x {item/Nail_Collect} et 2x {item/FogFox_Collect} c'est Kyla.
-Donner 2x {item/Nail_Collect} et 2x {item/FogFox_Collect} de là
+Donnez le {item/SweetCurseCandy} à Theo.
+Donner 2x {item/Nail_Collect} et 2x {item/FogFox_Collect} à Kyla.
+Donner 2x {item/Nail_Collect} et 2x {item/FogFox_Collect} à Kyla.
 {item/ShootingStarFlower_Collect} ×4
 {item/FirecrackerPotion} ×1
 {item/SpotlightPotion} ×1
 Rassemble tout ce qu'il faut pour la fête et va parler à Enite.
-Parle à Clala le soir, quand elle ne travaille pas. Prends-en deux {item/RolyPoly_Water} avec toi.
-Prenez le {item/WarmComfortCandy} et le {item/HeavyPressCandy} à Théo pendant la journée.
-Réalisez le {item/PolarisPotion}
-Réalisez le {item/SunlightPotion}
-Obtenez le {item/MoonFlower_Collect}
-Artisanat {item/MoonTear}
-Préparez les ingrédients pour le {item/PolarisPotion}
+Parle à Clala le soir, quand elle ne travaille pas. Prends deux {item/RolyPoly_Water} avec toi.
+Prenez le {item/WarmComfortCandy} et la {item/HeavyPressCandy} à Théo pendant la journée.
+Réalisez la {item/PolarisPotion}
+Réalisez la {item/SunlightPotion}
+Obtenez la {item/MoonFlower_Collect}
+Créer la {item/MoonTear}
+Préparez les ingrédients pour la {item/PolarisPotion}
 Préparez la potion nécessaire à la cérémonie de remise des diplômes des sorcières.
 1x {Item.FirecrackerPotion}
 Allons dire à Diane que nous avons fini de préparer la première cérémonie de remise des diplômes de sorcière.
 Préparons les choses nécessaires à la cérémonie de remise des diplômes de sorcière.
-Prends le temps {FishName.CloudSalmon} c'est Enite.
-Prends le temps {FishName.Cantsee} c'est Enite.
-Prends le temps {FishName.BigFist} c'est Enite.
-Prends le temps {FishName.HardLobster} c'est Enite.
-Prends le temps {FishName.Axe} c'est Enite.
-Prends le temps {FishName.BigHead} c'est Enite.
-Prends le temps {Item.WaterDragonfly_Jelly} à Alvin.
-Prends le temps {Item.LeafOtter_Water} à Alvin.
-Prends le temps {Item.Reaver_Powder} à Alvin.
-Prends le temps {Item.CaveLizard_Jelly} à Alvin.
-Prends le temps {Item.MoonButterfly_Water} à Alvin.
-Prends le temps {Item.BubbleLizard_Water} à Alvin.
-Prends le temps {Item.OneEyeFrog_Powder} à Alvin.
-Prends-en 3 {Item.CliffRoot_Collect} à Vinch.
-Prends-en 3 {Item.RolyPoly_Collect} à Vinch.
-Prends-en 3 {Item.ShootingStarFlower_Collect} à Vinch.
-Prends-en 3 {Item.MushroomWallPlants_Collect} à Vinch.
-Prends-en 3 {Item.Moondelion_Collect} à Vinch.
-Prends-en 3 {Item.Bellody_Collect} à Vinch.
-Prends-en 3 {Item.MapleHerb_Collect} à Vinch.
-Prends-en 3 {Item.SilverStarFlower_Collect} à Vinch.
-Prends-en 3 {Item.WitchFlower_Collect} à Vinch.
-Prends-en deux {Item.Rodeo_Collect} à Clala.
-Prends-en deux {Item.BubbleShot_Collect} à Clala.
-Prends-en deux {Item.Ondori_Collect} à Clala.
-Prends-en deux {Item.StoneCrocodile_Collect} à Clala.
-Prends-en deux {Item.Tails_Collect} à Clala.
-Prends-en deux {Item.Uru_Collect} à Clala.
-Prends-en deux {Item.Pompom_Collect} à Clala.
-Prends-en deux {Item.FlowerBird_Collect} à Clala.
-Prends-en deux {Item.LittleMandrake_Collect} à Clala.
-Prends le temps {Item.Gboolnori_Powder} à Alvin.
-Prends le temps {Item.FogFox_Powder} à Alvin.
+Donne {FishName.CloudSalmon} à Enite.
+Donne {FishName.Cantsee} à Enite.
+Donne {FishName.BigFist} à Enite.
+Donne {FishName.HardLobster} à Enite.
+Donne {FishName.Axe} à Enite.
+Donne {FishName.BigHead} à Enite.
+Donne {Item.WaterDragonfly_Jelly} à Alvin.
+Donne {Item.LeafOtter_Water} à Alvin.
+Donne {Item.Reaver_Powder} à Alvin.
+Donne {Item.CaveLizard_Jelly} à Alvin.
+Donne {Item.MoonButterfly_Water} à Alvin.
+Donne {Item.BubbleLizard_Water} à Alvin.
+Donne {Item.OneEyeFrog_Powder} à Alvin.
+Donnes-en 3 {Item.CliffRoot_Collect} à Vinch.
+Donnes-en 3 {Item.RolyPoly_Collect} à Vinch.
+Donnes-en 3 {Item.ShootingStarFlower_Collect} à Vinch.
+Donnes-en 3 {Item.MushroomWallPlants_Collect} à Vinch.
+Donnes-en 3 {Item.Moondelion_Collect} à Vinch.
+Donnes-en 3 {Item.Bellody_Collect} à Vinch.
+Donnes-en 3 {Item.MapleHerb_Collect} à Vinch.
+Donnes-en 3 {Item.SilverStarFlower_Collect} à Vinch.
+Donnes-en 3 {Item.WitchFlower_Collect} à Vinch.
+Donnes-en deux {Item.Rodeo_Collect} à Clala.
+Donnes-en deux {Item.BubbleShot_Collect} à Clala.
+Donnes-en deux {Item.Ondori_Collect} à Clala.
+Donnes-en deux {Item.StoneCrocodile_Collect} à Clala.
+Donnes-en deux {Item.Tails_Collect} à Clala.
+Donnes-en deux {Item.Uru_Collect} à Clala.
+Donnes-en deux {Item.Pompom_Collect} à Clala.
+Donnes-en deux {Item.FlowerBird_Collect} à Clala.
+Donnes-en deux {Item.LittleMandrake_Collect} à Clala.
+Donnes-en temps {Item.Gboolnori_Powder} à Alvin.
+Donnes-en temps {Item.FogFox_Powder} à Alvin.
 Examine le sac à dos qui est tombé du cœur de la liane épineuse.
-Entrez le {Map.StarSeaCave} en passant par le tunnel du village.
-Suivez la vigne épineuse et explorez le {Map.StarSeaCave}.
+Entrez dans {Map.StarSeaCave} en passant par le tunnel du village.
+Suivez la vigne épineuse et explorez la {Map.StarSeaCave}.
 Faites sonner les cloches à {Map.StarSeaCave_Under} pour lever la barrière.
-Découvrez le {Map.StarSeaCave_Under}.
-Rechercher dans le {Map.StarSeaCave_Upper} pour trouver un endroit où utiliser le {item/WitchChalk_Blue}.
-Résous le grand casse-tête que tu as découvert au {Map.StarSeaCave}.
-Artisanat {item/MoonTear}.
-Utilisation {item/MoonTear} pour débarrasser le {Map.StarSeaCave} du cœur de la vigne épineuse.
-Utilisez le {item/StarSeaCaveLaboratoryKey} pour déverrouiller la porte du laboratoire.
-Utilisez le {item/PolarisPotion}.
+Découvrez la {Map.StarSeaCave_Under}.
+Rechercher dans la {Map.StarSeaCave_Upper} pour trouver un endroit où utiliser le {item/WitchChalk_Blue}.
+Résous le grand casse-tête que tu as découvert à {Map.StarSeaCave}.
+Créer la {item/MoonTear}.
+Utilisez la {item/MoonTear} pour débarrasser la {Map.StarSeaCave} du cœur de la vigne épineuse.
+Utilisez la {item/StarSeaCaveLaboratoryKey} pour déverrouiller la porte du laboratoire.
+Utilisez la {item/PolarisPotion}.
 Demande aux Starwhales d'enlever le cœur épineux de la vigne.
-Suivez le {item/PolarisPotion}sa lumière.
-Rechercher dans le {Map.StarSeaCave_HackZone} à la recherche de sculptures cachées.
-Entrez le {Map.StarSeaCave}
-Découvrez le {Map.StarSeaCave}
+Suivez la lumière de la {item/PolarisPotion} .
+Chercher {Map.StarSeaCave_HackZone} à la recherche de sculptures cachées.
+Entrez dans la {Map.StarSeaCave}
+Découvrez la {Map.StarSeaCave}
 Trouvez une utilité à {item/WitchChalk_Blue}
-Utilisez le {item/PolarisPotion}
-Suivre l'effet de {item/PolarisPotion}
+Utilisez la {item/PolarisPotion}
+Observer l'effet de {item/PolarisPotion}
 Utilise les dés pour concocter une potion
-Rassembler et traiter les matériaux nécessaires à la fabrication {item/BadGrassPotion}.
+Rassembler et traiter les matériaux nécessaires à la fabrication de {item/BadGrassPotion}.
 Découvrir {Common.Theme_GreenForest}
-Flâner {Common.Theme_GreenForest} trouver un moyen d'éliminer ces lianes géantes et épineuses.
-Utilisation {item/BadGrassPotion} pour retirer la petite citrouille « Little Honey » dans {Map.GreenForest_Plateau}.
-{item/BadGrassPotion} Brasserie
-Consultez l'encyclopédie pour découvrir des plantes, des animaux et des recettes de potions.
-Retirer la petite citrouille « Honey » dans {Map.GreenForest_Plateau}
-Prends le temps {FishName.SparkleFin} c'est Enite.
-Prends le temps {FishName.Nokyeomo} c'est Enite.
-Prends le temps {FishName.Skyfin} c'est Enite.
+Flâner dans la {Common.Theme_GreenForest} afin de trouver un moyen d'éliminer ces lianes géantes et épineuses.
+Utiliser {item/BadGrassPotion} pour retirer la petite citrouille « Little Honey » dans le {Map.GreenForest_Plateau}.
+{item/BadGrassPotion} Brasser
+Consultez l'Grimoire pour découvrir des plantes, des animaux et des recettes de potions.
+Retirer la petite citrouille « Honey » dans le {Map.GreenForest_Plateau}
+Donne le {FishName.SparkleFin} c'est Enite.
+Donne le {FishName.Nokyeomo} à Enite.
+Donne le {FishName.Skyfin} à Enite.
 1x {Item.NutritionPotion}
 1x {Item.StarJuice_Silver}
 1x {Item.EarPlugPotion}
 Retourne à la maison de la sorcière et repose-toi bien pour demain.
 Vérifie le courrier dans la boîte aux lettres.
 Va voir le Dieu Chat Blanc.
-Adressez-vous à Enite pour lui demander le chemin vers le {Map.StarSeaCave}.
+Adressez-vous à Enite pour lui demander le chemin vers la {Map.StarSeaCave}.
 Discutez avec Kyla pendant la journée et commencez à réparer le pont.
 Lance les pierres dans l'ordre indiqué par Kyla.
 Prépare une potion colorée et apporte-la à Vinch.
@@ -4147,7 +4147,7 @@ Demande conseil au Dieu du Chat Blanc.
 Suivez la recette et fabriquez l'objet à l'établi de la Maison de la Sorcière.
 Parle aux villageois et rassemble les ingrédients nécessaires à la potion.
 Prépare une potion qui renferme ton vœu.
-Semez les graines de glycine dans le {Map.StarSeaCave} là où se trouvait autrefois le cœur de la vigne épineuse.
+Semez les graines de glycine dans la {Map.StarSeaCave} là où se trouvait autrefois le cœur de la vigne épineuse.
 Tu as semé toutes les graines. Parle au Dieu Chat Blanc.
 Parle à Enite pour qu'elle invite les autres.
 Invitez une personne qui n'habite pas au village à la fête.
@@ -4155,9 +4155,9 @@ Attendez le lendemain pour que le festival commence.
 Profitez bien du festival.
 Parle au Dieu du Chat Blanc.
 Demande à Diane de te parler de la potion qui permet de retrouver quelqu'un.
-Explorer l'intérieur du {Map.StarSeaCave}.
+Explorer l'intérieur de la {Map.StarSeaCave}.
 Rassemble les ingrédients pour préparer la potion.
-Créer un {Item.PolarisPotion}.
+Créer une {Item.PolarisPotion}.
 Parle à Kyla demain
 Demande à Kyla si elle peut fabriquer le canapé gonflable que Theo veut.
 Rendez visite à Kyla le lendemain.
@@ -4212,26 +4212,26 @@ Parle à Bjorn
 Parle aux villageois qui aiment les chats pour savoir ce qu'ils apprécient.
 Discutez avec Bjorn pour savoir quel mobilier pour chat fabriquer.
 Donne à Bjorn le matériel nécessaire pour fabriquer des meubles pour chats.
-trois fois {Item.StarSeaCaveBranch}
-trois fois {Item.StarSeaCaveMud}
-trois fois {Item.StarSeaCaveRock}
+3x {Item.StarSeaCaveBranch}
+3x {Item.StarSeaCaveMud}
+3x {Item.StarSeaCaveRock}
 Attendez au moins un jour avant de découvrir les meubles pour chats conçus par Bjorn.
 Demande à Kyla ce dont elle a besoin.
-Prends-en 3 {Item.Branch_Special} c'est Kyla.
-Apporte-lui ce dont Kyla a besoin.
-Prends-en 3 {Item.Rock_Special} c'est Kyla.
-Prends-en 3 {Item.Mud_Special} c'est Kyla.
+Donnes-en 3 {Item.Branch_Special} à Kyla.
+Apporte à Kyla ce dont elle a besoin.
+Donnes-en 3 {Item.Rock_Special} à Kyla.
+Donnes-en 3 {Item.Mud_Special} à Kyla.
 Préparons des potions.
 Préparez les potions
 Remplir l'atlas
-Remplissez le {Map.GreenForest} atlas.
+Remplissez l'atlas de la {Map.GreenForest} .
 Faites passer l'affection d'un chat que vous appréciez au niveau 1.
 Renforcer l'affection de votre chat
 Utilisez la station de sorcière
 Utilise la station de la sorcière pour retourner à la maison de la sorcière.
 Choisissez une zone de la Maison de la sorcière à agrandir.
-2e étage - Côté gauche
-2e étage - à droite
+2ème étage - à gauche
+2ème étage - à droite
 Atelier
 Agrandir la maison de la sorcière
 Préparez les bonbons figurant dans la liste suivante.
@@ -4239,13 +4239,13 @@ Bonbons artisanaux
 Emporte la potion avec toi et va parler au Dieu Chat Blanc.
 Sortez du temple et mettez de l'ordre dans vos pensées.
 Quittez le temple
-Examiner le {Map.StarSeaCave}
+Examiner la {Map.StarSeaCave}
 Recherchez Enite
 Cherchez la lettre du barman
 Trouvez le nid de Gaga Bird
 Plantez la graine de glycine
 Suivez la recette et lancez-vous
-Réalisez le {item/WishPotion}
+Réalisez la {item/WishPotion}
 Invitez tout le monde
 Que le festival commence !
 Attendez le festival
@@ -4307,7 +4307,7 @@ Demande à Alvin ce dont il a besoin.
 Demande à Vinch ce dont il a besoin.
 Apporte à Vinch ce dont il a besoin.
 Demande à Clala ce dont elle a besoin.
-Apporte-lui ce dont Clala a besoin.
+Apporte à Clala ce dont-elle a besoin.
 Parle à l'esprit
 Livrer
 Trouvez un chemin pour descendre
@@ -4383,7 +4383,7 @@ Interroge les villageois pour savoir où se trouve la rose bleue.
 Rendez-vous à l'endroit où se trouvait le Noyau de la Vigne-épine {Common.Theme_GreenForest}.
 Jetez un coup d'œil dans le magasin de fleurs.
 En attendant Roy, jette un coup d'œil dans le magasin de fleurs.
-Rendez-vous au Thornvine Core à {Common.Theme_GreenForest} et obtenir la rose bleue.
+Rendez-vous au Thornvine Core à la {Common.Theme_GreenForest} et obtenir la rose bleue.
 Demandez aux habitants du village et aux personnes extérieures d'écrire des lettres et d'obtenir {item/MemoryBookCopy}.
 Demandez aux habitants du village et aux personnes de l'extérieur d'écrire des lettres pour Roy, et obtenez {item/MemoryBookCopy}.
 Vérifie ta boîte aux lettres demain.
@@ -4410,14 +4410,14 @@ Chevauchons le balai jusqu'à ce que sa durabilité soit complètement épuisée
 Accomplissons la tâche de recherche de chaque créature au moins une fois.
 Accomplissons la tâche de recherche de {CreatureName.Mongsiri_Name} au moins une fois.
 Accomplissons la tâche de recherche de {CreatureName.BushBug_Name} au moins une fois.
-Réalisez les tâches de recherche pour l'encyclopédie.
+Réalisez les tâches de recherche pour l'Grimoire.
 Accomplissons la tâche de recherche de {CreatureName.FurBall_Name} au moins une fois.
 Accomplissons la tâche de recherche de {CreatureName.CloudFlower_Name} au moins une fois.
 Accomplissons la tâche de recherche de {CreatureName.PhantomJellyfish_Name} au moins une fois.
 Accomplissons la tâche de recherche de {CreatureName.WallSticky_Name} au moins une fois.
 Collecter à l'aide de potions
 Utilise la bonne potion pour récolter des ressources.
-Préparons 1 {Item.FirecrackerPotion} pour la cérémonie de remise des diplômes.
+Préparons une {Item.FirecrackerPotion} pour la cérémonie de remise des diplômes.
 Montrons à Arin le {Item.FirstGraduationCeremonyForm}.
 Choisissez le lieu de la cérémonie de remise des diplômes.
 Trouvez quelqu'un pour surveiller le village.
@@ -4436,8 +4436,8 @@ Il semblerait qu'on puisse fabriquer un jouet pour chat suspendu.
 Il semblerait qu'il soit possible de fabriquer une roue d'exercice pour chat.
 Une fois la quête terminée : [Kyla House Moving Finished]
 Un jour après avoir terminé la quête « Arden Villager » : [Prologue: Everything Is Here for a Reason]
-Un jour après avoir terminé la quête « Arden Villager » : [Act 1, Part 1: They Who Cursed a Dragon]
-Un jour après avoir terminé la quête « Arden Villager » : [Act 1, Part 2: The Person in a Dragon's Memory]
+Un jour après avoir terminé la quête « Arden Villager » : [Acte 1, Partie 1: They Who Cursed a Dragon]
+Un jour après avoir terminé la quête « Arden Villager » : [Acte 1, Partie 2: The Person in a Dragon's Memory]
 Une fois la quête terminée : [Everyone's Stage]
 Un jour après avoir terminé la quête « Arden Villager » : [Act 2: A Cursed Promise]
 Arden a perdu sa veilleuse, qui lui tenait toujours compagnie la nuit.
@@ -4456,7 +4456,7 @@ Rends-toi au sommet de la montagne que tu as aperçue depuis le train et cherche
 Les couchettes du train sont étroites et inconfortables, ce qui fait que l'on se réveille plus fatigué qu'après une bonne nuit de sommeil.
 Pendant que le train est en réparation, partez explorer la forêt et trouvez un endroit confortable pour vous détendre.
 Pour fabriquer la potion nécessaire, vous devez d'abord réparer le {InteriorPropBasicName.WitchJuicer}.
-Trouvez un moyen de remplacer la bouteille en verre cassée afin que {InteriorPropBasicName.WitchJuicer} peut fonctionner correctement.
+Trouvez un moyen de remplacer la bouteille en verre cassée afin que {InteriorPropBasicName.WitchJuicer} puisse fonctionner correctement.
 J'ai passé une nuit dans une maison de sorcière sur laquelle je suis tombée par hasard.
 Rentrons avant le départ du train et préparons-nous à partir vers un nouvel endroit.
 La citrouille sucrée bloque l'accès au village.
@@ -4471,9 +4471,9 @@ On dirait que tu as trouvé un moyen de te frayer un chemin à travers cette én
 Pour entrer dans le village, dépêche-toi de rassembler le matériel nécessaire et tente à nouveau ta chance.
 Il faut réparer le balai avant de pouvoir s'en servir pour voler.
 Rassemblez le matériel, puis fixez-le sur l'établi.
-Utilisez la plume pour dessiner les formes de vie que vous rencontrez dans votre encyclopédie. Cela vous indiquera comment les collecter et les répertorier.
-Si vous souhaitez en savoir plus sur un sujet, le mieux est de commencer par le noter dans l'encyclopédie et d'y consigner les informations que vous avez observées.
-Enregistre la forme de vie que tu souhaites observer et complète ton encyclopédie.
+Utilisez la plume pour dessiner les formes de vie que vous rencontrez dans votre Grimoire. Cela vous indiquera comment les collecter et les répertorier.
+Si vous souhaitez en savoir plus sur un sujet, le mieux est de commencer par le noter dans l'Grimoire et d'y consigner les informations que vous avez observées.
+Enregistre la forme de vie que tu souhaites observer et complète ton Grimoire.
 Une fois les ronces débroussaillées, vous pourrez enfin entrer dans Wisteria.
 Essaie de parler à tous les villageois.
 Avant que le village ne soit envahi par des vignes épineuses, il abritait une menuisière nommée Kyla.
@@ -4579,7 +4579,7 @@ Théo veut partager avec ses amis les coffrets cadeaux « Witch's Party Snack »
 Depuis ces incidents, Théo mène une vie sans histoire.
 Mais récemment, un animal étrange qu'il a rencontré avec ses copains lors d'une aventure a éveillé son intérêt.
 Intrigué par cet animal, Théo sollicite maintenant ton avis.
-Théo a découvert une plante sucrée qui pousse dans le {Map.StarSeaCave}.
+Théo a découvert une plante sucrée qui pousse dans la {Map.StarSeaCave}.
 Il emmène sa bande et sa nouvelle amie Honey Bear dans une aventure pour aller chercher cette plante,
 et apparemment, il aimerait que tu te joignes à lui aussi.
 Bjorn s'investit avec beaucoup de passion pour le village.
@@ -4588,10 +4588,10 @@ Découvrez son projet.
 Il y a quelque chose dont Kyla a besoin.
 Trouve-le pour elle avant la fin de la journée.
 Même si les potions concoctées par les sorcières ne peuvent pas être utilisées par les non-sorciers, ces préparations sont extrêmement polyvalentes et peuvent produire des effets puissants ou uniques. N'hésitez pas à concocter davantage de potions qui vous aideront dans vos explorations et vos aventures.
-On dit que tant le dernier cœur de vigne épineuse que Lisa Whitegarden se trouvent dans le {Map.StarSeaCave}.
+Le dernier cœur de vigne épineuse ainsi que Lisa Whitegarden se trouvent dans la {Map.StarSeaCave}.
 Retirez le dernier cœur de vigne épineux de la {Map.StarSeaCave}, terminer la restauration du village et retrouver Lisa.
 Fabriquez une potion « Larmes de la Lune » pour retirer le cœur de la vigne épineuse.
-L'attitude du Dieu Chat Blanc face à votre exploration de la {Map.StarSeaCave} ça semble louche.
+L'attitude du Dieu Chat Blanc face à votre exploration de la {Map.StarSeaCave} semble louche.
 Renseigne-toi sur leurs véritables intentions avant de restaurer complètement le village.
 Tous les villageois sont de retour.
 Pour conclure la restauration du village, redonnez vie à la glycine du village.
@@ -4605,7 +4605,7 @@ Mais quand on s'est revus, il a fait comme si de rien n'était.
 Quelque chose semble bizarre...
 Je devrais lui parler pour savoir ce qu'il en pense vraiment.
 Diane m'a dit que les documents provenant du {Map.StarSeaCave} pourrait également servir à fabriquer de nouveaux bonbons.
-Mais, tout comme dans {Map.RainbowForest}, je vais d'abord devoir réussir son examen.
+Mais, tout comme dans la {Map.RainbowForest}, je vais d'abord devoir réussir son examen.
 Livrez les ingrédients demandés et préparez les nouveaux bonbons.
 Alvin semble chercher quelque chose.
 Donne-lui ce qu'il veut avant la fin de la journée.
@@ -4625,7 +4625,7 @@ Clala, la propriétaire de la boulangerie aux effluves alléchants, a partagé s
 Aidons les sœurs à créer de nouveaux souvenirs ensemble.
 Grâce à l'atlas qu'Aurea nous a offert, nous pouvons désormais collectionner des cartes.
 Voyageons dans les diverses zones de la Forêt Verte et collectons des cartes.
-À Wisteria, l'affection des chats augmente quand vous les nourrissez ou jouez avec eux. Essayez d'augmenter l'affection d'un chat jusqu'à ce que <color=#800000>Caresser</color> devienne disponible.
+À Wisteria, l'affection des chats augmente quand vous les nourrissez ou jouez avec eux. Essayez d'augmenter l'affection d'un chat jusqu'à ce que <color=#800000> Caresser </color> devienne disponible.
 La Station de Sorcière est un appareil pratique qui permet un voyage instantané vers la Maison de la Sorcière ou un retour à l'emplacement d'origine.
 Essayez d'utiliser vous-même WitchStation pour revenir.
 Grâce à la réparation de la Maison de la Sorcière, elle peut maintenant être agrandie encore plus qu'avant.
@@ -4638,17 +4638,17 @@ Arin, la bibliothécaire, a reçu une lettre de menaces lui enjoignant de ne plu
 Cependant, Arin a déclaré qu'elle voulait découvrir la vérité jusqu'au bout.
 Aidons-la et voyons ce qui nous attend.
 Un jour après avoir terminé la quête « Roy Villager » : [Prologue: Moon-loving Rosemary]
-Un jour après avoir terminé la quête « Roy Villager » : [Act 1: Pansy Heart]
+Un jour après avoir terminé la quête « Roy Villager » : [Acte 1: Pansy Heart]
 Un jour après avoir terminé la quête de Theo Villager : [Prologue: Freedom]
-Un jour après avoir terminé la quête de Theo Villager : [Act 1: Pranks]
-Un jour après avoir terminé la quête de Theo Villager : [Act 2: The Encounter]
-Après avoir terminé la quête : [Qui reviendra ? 6]
+Un jour après avoir terminé la quête de Theo Villager : [Acte 1: Pranks]
+Un jour après avoir terminé la quête de Theo Villager : [Acte 2: The Encounter]
+Après avoir terminé la quête : [Who will come back ? 6]
 Arden est le chef bourru qui est resté à Wisteria.
 Offrez des cadeaux à Arden ou engagez différentes conversations pour renforcer votre amitié.
 Tu as obtenu un balai.
 Chevauchons-le et utilisons-le jusqu'à ce que sa durabilité soit complètement épuisée.
 {Map.GreenForest} abrite de nombreuses espèces animales.
-Essayez d'accomplir au moins une fois chaque mission de recherche de l'Encyclopédie concernant des créatures spécifiques.
+Essayez d'accomplir au moins une fois chaque mission de recherche de l'Grimoire concernant des créatures spécifiques.
 {Map.RainbowForest} abrite de nombreuses espèces animales.
 Chaque potion a un effet particulier.
 Utilisez le pouvoir des potions pour rassembler les créatures de {Map.GreenForest}.
@@ -4665,73 +4665,73 @@ La Vie d'une Sorcière
 {Common.Ritoring}Le panier de meubles [{aliasedPoolName}]
 Ce panier confère un effet aléatoire [{aliasedPoolName}] recette de mobilier.
 La vie d'une sorcière
-<color=#800000>Collecter</color> les ingrédients nécessaires, <color=#800000>processus</color> si c'est le cas, essayez de créer un <color=#800000>potion</color>.
-Si vous avez des doutes, essayez d'utiliser le <color=#800000>Plume</color> et <color=#800000>Encyclopédie</color>.
+<color=#800000> Collecter </color> les ingrédients nécessaires, <color=#800000>processus</color> après ça, essayez d'en créer un <color=#800000>potion</color>.
+Si vous avez des doutes, essayez d'utiliser la <color=#800000> Plume </color> et <color=#800000>Grimoire</color>.
 Recouvrement avec une attention particulière
-Les animaux vivent généralement dans <color=#800000>habitats spécifiques</color>.
+Les animaux vivent généralement dans des <color=#800000> habitats spécifiques </color>.
 Parcourez les forêts pour découvrir toutes sortes d'espèces.
-Utilisez le <color=#800000>Plume</color> et <color=#800000>Encyclopédie</color> pour en savoir plus sur leurs habitats.
-Consulter l'encyclopédie/les recettes
+Utilisez la <color=#800000> Plume </color> et <color=#800000> l'Grimoire </color> pour en savoir plus sur leurs habitats.
+Consulter l'Grimoire/les recettes
 Vous pouvez consulter les informations sur les formes de vie et les recettes de potions
-écrit à la plume dans l'Encyclopédie.
+écrit à la plume dans l'Grimoire.
 Catégorie/Page suivante
 Fabriquer des potions
 Pour fabriquer des potions, vous devez respecter les conditions requises
-<color=#800000>Ingrédients</color>, <color=#800000>Réglage de la flamme</color>, et <color=#800000>Sens de rotation de la louche</color>.
-Lisez attentivement le <color=#800000>recettes de l'Encyclopédie</color>.
+<color=#800000> Ingrédients </color>, <color=#800000> Réglage de la flamme </color>, et <color=#800000> Sens de rotation de la louche </color>.
+Lisez attentivement les <color=#800000> recettes de l'Grimoire </color>.
 Enregistrer / Charger
 Vous pouvez désormais enregistrer et charger votre partie depuis l'armoire située au rez-de-chaussée de la Maison de la Sorcière.
 Siestes
 Vous pouvez faire des siestes.
-*Vous ne pouvez pas faire la sieste à <color=#800000>nuit</color>.
-*Vous ne pouvez que <color=#800000>faire une sieste par jour</color>.
+*Vous ne pouvez pas faire la sieste durant <color=#800000> la nuit </color>.
+*Vous ne pouvez <color=#800000>faire qu'une une sieste par jour</color>.
 Passer du temps
-Certains objets de collection ne peuvent être obtenus qu'à <color=#800000>horaires précis</color>.
-Si vous ne pouvez pas les récupérer rapidement, vous pouvez prendre un <color=#800000>jour</color> d'abord.
+Certains objets de collection ne peuvent être obtenus qu'à des <color=#800000> horaires précises </color>.
+Si vous ne pouvez pas les récupérer rapidement, vous pouvez prendre un <color=#800000> jour </color> d'abord.
 Remarques
-Vous pouvez consulter vos notes pour voir le <color=#800000>mots-clés</color> que vous avez.
+Vous pouvez consulter vos notes pour voir les <color=#800000> mots-clés </color> que vous avez.
 Modifier les mots-clés
 Vous pouvez vous rendre sur le tableau d'affichage pour consulter vos tâches en cours.
 Tableau d'affichage
 Fermer le tableau d'affichage
-Encyclopédie et Plume de Sorcière
-<color=#800000>Appuyez et maintenez enfoncé</color> Utilisez le bouton « Utiliser la plume » pour dessiner.
-Une fois que le compteur est plein et que le dessin est terminé, le sujet du dessin sera <color=#800000>figurant dans l'encyclopédie</color>.
+Grimoire et Plume de Sorcière
+<color=#800000> Appuyez et maintenez enfoncé </color> le bouton « Utiliser la plume » pour dessiner.
+Une fois que le compteur est plein et que le dessin est terminé, le sujet du dessin <color=#800000> figurera dans l'Grimoire </color>.
 Modifier les outils
-Utilisez Quill
+Utilisez la Plume
 Appuie sur le bouton de sprint pour courir plus vite que d'habitude.
 Le sprint sollicite l'endurance.
 Énergie
 La collecte consomme de l'énergie.
-Vous pouvez récupérer l'énergie dépensée en <color=#800000>manger</color> ou <color=#800000>endormi</color>.
+Vous pouvez récupérer l'énergie dépensée en <color=#800000> mangeant </color> ou <color=#800000> en dormant </color>.
 Conversations autour de mots-clés
 Vous pouvez entamer des conversations en utilisant les mots-clés mis à votre disposition.
 Changer de catégorie
 Utilisez des mots-clés
 Utiliser des potions
-Vous pouvez utiliser le <color=#800000>Sélecteur de potions</color> à <color=#800000>sélectionner</color> n'importe quelle potion et <color=#800000>utiliser</color> ça.
+Vous pouvez utiliser le <color=#800000> Sélecteur de potions </color> pour <color=#800000> sélectionner </color> n'importe quelle potion et <color=#800000> l'utiliser </color>.
 Ouvrir le sélecteur de potions
 Sélectionner une potion
 Sur la pointe des pieds
 Certaines plantes et certains animaux sont très sensibles ; il faut donc s'en approcher avec précaution.
 En appuyant sur le bouton « Pas de chat », vous vous déplacez plus silencieusement, mais aussi plus lentement.
-Vous pouvez <color=#800000>vendre des bonbons</color> aux commerçants.
-Les commerçants achètent différents <color=#800000>articles</color> et utiliser différents <color=#800000>devises</color>.
-Vous pouvez vendre en utilisant le <color=#800000>Boutique</color> mot-clé dans le dialogue.
+Vous pouvez <color=#800000> vendre des bonbons </color> aux commerçants.
+Les commerçants achètent différents <color=#800000> articles </color> et utilise différentes <color=#800000> devises </color>.
+Vous pouvez vendre en utilisant le </color> mot-clé <color=#800000> Boutique, dans le dialogue .
 Livrer une potion spéciale
-Les marchands achètent des potions supplémentaires en fonction de <color=#800000>règles particulières</color>, en plus des ventes habituelles de potions.
-Livrez les potions demandées pour obtenir <color=#800000>davantage de récompenses</color>.
+Les marchands achètent des potions supplémentaires en fonction de <color=#800000> règles particulières </color>, en plus des ventes habituelles de potions.
+Livrez les potions demandées pour obtenir <color=#800000> davantage de récompenses </color>.
 Mise à jour de l'outil de travail
-Vous pouvez acheter une version améliorée <color=#800000>outils de traitement</color> pareil <color=#800000>Extracteurs</color> ou <color=#800000>Les chaudrons de la sorcière</color>.
-De meilleurs outils vous permettent de fabriquer des ingrédients ou des potions <color=#800000>plus rapidement et en plus grande quantité</color>.
+Vous pouvez acheter une version améliorée <color=#800000> d'outils de traitement </color> tel que des <color=#800000> Extracteurs </color> ou <color=#800000> Les chaudrons de la sorcière </color>.
+De meilleurs outils vous permettent de fabriquer des ingrédients ou des potions <color=#800000> plus rapidement et en plus grande quantité </color>.
 Livre
-Vous pouvez passer <color=#800000>heure</color> rapidement en lisant un livre. C'est pratique quand on attend quelque chose.
-Les livres peuvent être rangés sur le <color=#800000>étagères</color> à la Maison de la sorcière.
+Vous pouvez passer des <color=#800000> heures </color> rapidement en lisant un livre. C'est pratique quand on attend quelque chose.
+Les livres peuvent être rangés sur les <color=#800000> étagères </color> à la Maison de la sorcière.
 Activités de formation
-Le <color=#800000>La quête de la livraison de bonbons</color> est un <color=#800000>Activité de formation</color> que tu <color=#800000>choisir</color> selon les besoins.
-Si vous choisissez de refuser cela <color=#800000>Activités de formation</color>, vous pouvez utiliser le <color=#800000>mots-clés</color> à <color=#800000>du</color> plus tard.
+La <color=#800000> quête de la livraison de bonbons </color> est une <color=#800000> Activité de formation </color> que tu <color=#800000> choisis </color> selon les besoins.
+Si vous choisissez de refuser ces <color=#800000> Activités de formation </color>, vous pouvez utiliser les <color=#800000> mots-clés </color> afin <color=#800000> de les faires </color> plus tard.
 Consultez les informations sur les ingrédients
-Si vous souhaitez vérifier <color=#800000>quels végétaux et animaux</color> Pour chaque ingrédient de la recette, vous pouvez appuyer sur le bouton « Info » pour le consulter.
+Si vous souhaitez vérifier <color=#800000> quels végétaux et animaux</color> Pour chaque ingrédient de la recette, vous pouvez appuyer sur le bouton « Info » pour le consulter.
 Vous pouvez vous déplacer plus vite si vous chevauchée un Balai de Sorcière.
 Monter/Descendre
 Habitat, période d'apparition, etc.
@@ -4739,21 +4739,21 @@ Outils utilisés pour la collecte
 Articles pouvant être collectés
 Comment faciliter le recouvrement
 Voir les détails
-Vous pouvez consulter des informations sur <color=#800000>potion usage</color> dans l'encyclopédie.
+Vous pouvez consulter des informations sur l'utilisation des <color=#800000> potions </color> dans l'Grimoire.
 Essayez-vous au bricolage <color=#800000>{potion}</color> en utilisant <color=#800000>{ingredient_0}</color> et <color=#800000>{ingredient_1}</color>.
-<color=#800000>Ingrédients nécessaires</color> Les ingrédients nécessaires à la fabrication de la potion choisie sont indiqués ici.
-Les objets que vous ramassez en faisant le ménage sont <color=#800000>ingrédients</color>, ce qui vous permet de les utiliser immédiatement pour fabriquer des potions.
+<color=#800000> Les ingrédients nécessaires à </color> la fabrication de la potion choisie sont indiqués ici.
+Les objets que vous ramassez en faisant le ménage sont des <color=#800000> ingrédients </color>, ce qui vous permet de les utiliser immédiatement pour fabriquer des potions.
 Galerie
 Vous pouvez afficher ici le <color=#800000>{0}</color> que vous avez obtenues.
-Vous recevrez un <color=#800000>{0}</color> une fois que vous avez traité un sujet de recherche tiré de l'Encyclopédie.
+Vous recevrez un <color=#800000>{0}</color> une fois que vous avez traité un sujet de recherche tiré de l'Grimoire.
 *{0} ne peut servir qu'à décorer le dessus du <color=#800000>{1}</color> des mesures appropriées {0}.
-Sprinter
-Lorsque vous grimpez sur des murs d'escalade, vous pouvez appuyer sur le bouton <color=#800000>Sprinter</color> pour aller plus vite.
-Rouler plus vite consomme <color=#800000>Endurance</color>.
+Accélérer
+Lorsque vous grimpez sur des murs d'escalade, vous pouvez appuyer sur le bouton <color=#800000>Accélérer/color> pour aller plus vite.
+Rouler plus vite consomme de l'<color=#800000>Endurance</color>.
 Pour prendre la pioche, cliquez sur le bouton « Utiliser l'outil ».
 Pour baisser la pioche, relâchez le bouton « Utiliser l'outil ».
-Pour frapper lentement mais plus fort avec la pioche, <color=#800000>maintenir enfoncé</color> le bouton « Utiliser l'outil ».
-<color=#800000>Se déplacer lentement</color>, appuyez sur une touche directionnelle.
+Pour frapper lentement mais plus fort avec la pioche, <color=#800000> maintenir enfoncé </color> le bouton « Utiliser l'outil ».
+<color=#800000> Pour se déplacer lentement </color>, appuyez sur une touche directionnelle.
 Pour enfoncer la truelle dans le sol, appuyez sur le bouton « Utiliser l'outil ».
 Pour retirer la truelle, relâchez le bouton « Utiliser l'outil ».
 On peut obtenir un effet plus marqué si l'on relâche le bouton au bon moment.
@@ -4761,9 +4761,9 @@ Un Filet à Insectes de Sorcière
 Pour vous mettre en position d'utiliser le filet, appuyez sur le bouton « Utiliser l'outil ».
 Pour balancer le filet, relâchez le bouton « Utiliser l'outil ».
 Pour obtenir un mouvement plus ample, maintenez le bouton « Utiliser l'outil » enfoncé avant de le relâcher.
-Vous pouvez faire progresser votre Encyclopédie et recevoir des récompenses en accomplissant différentes actions.
-À gauche, vous pouvez lire <color=#800000>À propos des potions</color>.
-À droite, vous trouverez des informations sur le <color=#800000>fabrication de potions</color>.
+Vous pouvez faire progresser votre Grimoire et recevoir des récompenses en accomplissant différentes actions.
+À gauche, vous pouvez lire des informations <color=#800000> sur les potions </color>.
+À droite, vous trouverez des informations sur la <color=#800000> fabrication de potions </color>.
 Les éléments collectés proviennent de plantes et d'animaux.
 Une fois transformés à l'aide d'outils, ils servent d'ingrédients pour la fabrication de potions.
 La liste des ingrédients de la potion.
@@ -4771,64 +4771,64 @@ La puissance de feu nécessaire pour concocter la potion.
 La direction dans laquelle remuer pour préparer la potion.
 Défis que vous pouvez relever pendant la préparation de la potion.
 Casier à balais
-Vous pouvez ranger vos balais dans le <color=#800000>Casier à balais</color>.
-Vous ne pouvez stocker que <color=#800000>balais</color> dans le local à balais.
-Dessiner des formes vivantes avec le <color=#800000>Plume</color> dans l'encyclopédie, débloque <color=#800000>informations</color> à leur sujet.
-Lorsque vous dessinez le même type de plante ou d'animal <color=#800000>à plusieurs reprises</color>, <color=#800000>informations complémentaires</color> sera débloqué.
+Vous pouvez ranger vos balais dans le <color=#800000> Casier à balais </color>.
+Vous ne pouvez stocker que des <color=#800000> balais </color> dans le local à balais.
+Dessiner des formes vivantes avec la <color=#800000> Plume </color> dans l'Grimoire, débloque des <color=#800000> informations </color> à leur sujet.
+Lorsque vous dessinez le même type de plante ou d'animal <color=#800000> à plusieurs reprises </color>, <color=#800000> des informations complémentaires</color> seront débloqué.
 Natation
 Vous pouvez entrer dans l'eau et vous y baigner dans la zone délimitée par les balises.
 Décore la maison de la sorcière
 Vous pouvez décorer l'intérieur de la Maison de la sorcière comme bon vous semble.
-<color=#800000>Actionnez la cloche de décoration située près de l'entrée</color> de la Maison de la Sorcière pour commencer à décorer.
+<color=#800000> Actionnez la cloche de décoration située près de l'entrée </color> de la Maison de la Sorcière pour commencer à décorer.
 Village Bulletin
-Village Bulletin <color=#800000>De nouvelles quêtes secondaires seront ajoutées chaque matin</color> au bulletin du village.
+Village Bulletin <color=#800000> De nouvelles quêtes secondaires seront ajoutées chaque matin </color> au bulletin du village.
 Si tu ne sais pas quoi faire, va voir ce dont les villageois ont besoin.
-Même une petite chose peut devenir <color=#800000>une grande aventure</color> en compagnie d'Ellie.
+Même une petite chose peut devenir <color=#800000> une grande aventure </color> en compagnie d'Ellie.
 Boîte aux lettres
-Veuillez lire votre <color=#800000>lettres</color> dans la boîte aux lettres près de la porte de la Maison de la Sorcière.
-Les lettres peuvent être accompagnées de <color=#800000>cadeaux inattendus</color>.
+Veuillez lire vos <color=#800000> lettres</color> dans la boîte aux lettres près de la porte de la Maison de la Sorcière.
+Les lettres peuvent être accompagnées de <color=#800000> cadeaux inattendus </color>.
 Nourrissez les chats
-Prenez et placez le <color=#800000>nourriture pour chats</color> dans ton inventaire pour nourrir les chats.
-Les chats sont toujours très <color=#800000>surveillé</color>, vous devrez donc faire attention lorsque vous les nourrissez.
-Il y a <color=#800000>gamelles pour chats</color> dans le village qui peuvent servir à nourrir les chats.
-Mettez-y un peu de nourriture que les chats aiment pour <color=#800000>attirer</color> les chats.
+Prenez et placez la <color=#800000> nourriture pour chats </color> dans votre inventaire pour nourrir les chats.
+Les chats sont toujours très <color=#800000> surveillés </color>, vous devrez donc faire attention lorsque vous les nourrissez.
+Il y a des <color=#800000> gamelles pour chats </color> dans le village qui peuvent servir à nourrir les chats.
+Mettez-y un peu de nourriture que les chats aiment pour <color=#800000> attirer </color> les chats.
 Ouvrir le sélecteur d'outils
 Sélectionner un outil
 Outil de commutation
-Il y a <color=#800000>un temps de recharge</color> avant de pouvoir utiliser la plume sur <color=#800000>quelque chose de ce genre</color> encore une fois.
+Il y a <color=#800000> un temps de recharge </color> avant de pouvoir utiliser la plume sur <color=#800000> quelque chose de ce genre </color> encore une fois.
 Limite de positionnement de l'outil
-Certains outils de travail sont équipés d'un <color=#800000>limite de placement</color>, tandis que d'autres non.
-Vous pouvez <color=#800000>seulement la première place</color> de chacun <color=#800000>outils de traitement</color> et le <color=#800000>Le chaudron de la sorcière</color>.
-D'un autre côté, vous pouvez <color=#800000>placer un nombre illimité de</color> <color=#800000>espaces de stockage</color> et <color=#800000>Incubateurs</color>.
+Certains outils de travail sont équipés d'une <color=#800000> limite de placement </color>, tandis que d'autres non.
+Vous pouvez <color=#800000> seulement placer une </color> de chaque <color=#800000>outils de traitement </color> et le <color=#800000> chaudron de la sorcière </color>.
+D'un autre côté, vous pouvez <color=#800000> placer un nombre illimité d' </color> <color=#800000> espaces de stockage </color> et d' <color=#800000> Incubateurs</color>.
 Ouvrir l'interface de sélection des potions
-L'Incubateur est un outil qui vous permet d'obtenir <color=#800000>de nombreux matériaux</color> de <color=#800000>quelques objets rassemblés</color>.
-Vous ne pouvez utiliser l'Incubateur que sur la flore et la faune de <color=#800000>régions dont le taux d'achèvement de l'Encyclopédie est égal ou supérieur à 40 %</color>.
-Vous pouvez placer <color=#800000>plusieurs</color> Des incubateurs dans l'atelier.
+L'Incubateur est un outil qui vous permet d'obtenir <color=#800000> de nombreux matériaux </color> grâce <color=#800000> à quelques objets rassemblés </color>.
+Vous ne pouvez utiliser l'Incubateur que sur la flore et la faune d'une <color=#800000> régions dont le taux d'achèvement de l'Grimoire est égal ou supérieur à 40 % </color>.
+Vous pouvez placer <color=#800000> plusieurs </color> incubateurs dans l'atelier.
 Fabriquer des potions
 Description provisoire de la fabrication de potions description provisoire de la fabrication de potions description provisoire de la fabrication de potions.
 Modifier les réglages de tir, etc., modifier les réglages de tir, etc., modifier les réglages de tir, etc.
 Direction de la louche : gauche, droite, dans le sens des aiguilles d'une montre, etc.
-Vous pouvez utiliser le <color=#800000>Le chaudron de la sorcière</color> dans l'atelier pour <color=#800000>prépare la potion dont tu as besoin</color>.
-Lorsque vous préparez une potion, vous devez <color=#800000>consultez sa recette dans l'encyclopédie</color>, utilisez le <color=#800000>ingrédients</color>, réglez le <color=#800000>incendie criminel</color> et mélanger avec le <color=#800000>louche</color>.
-Pendant la phase de mise en place du feu, vous devez régler le <color=#800000>intensité thermique</color> selon les besoins.
-Il vous suffit de suivre les <color=#800000>recette</color>suivre les instructions relatives à la phase actuelle et respecter les <color=#800000>exigences en matière d'intensité et de durée de la chaleur</color>.
-Pendant la phase d'orientation de la poche de coulée, vous devez régler le <color=#800000>sens de rotation de la louche</color>.
-Il vous suffit de suivre les <color=#800000>recette</color>les instructions de <color=#800000>remuer dans le sens indiqué</color> pendant la durée nécessaire.
-La barre de progression en haut indique le <color=#800000>qualité de la potion</color> que vous êtes en train de fabriquer. Si vous ne suivez pas les instructions, la barre raccourcira.
-Si la barre disparaît, <color=#800000>l'artisanat, c'est raté</color>.
-Plus la barre restante est longue à la fin de la fabrication, plus <color=#800000>plus votre score est élevé</color>.
-Lorsque vous fabriquez des objets, vous pouvez rencontrer <color=#800000>situations imprévues</color> dans les deux <color=#800000>phase de mise à feu</color> et le <color=#800000>phase d'orientation de la louche</color>.
+Vous pouvez utiliser le <color=#800000> chaudron de la sorcière </color> dans l'atelier pour <color=#800000> préparer la potion dont vous as besoin </color>.
+Lorsque vous préparez une potion, vous devez <color=#800000> consultez sa recette dans l'Grimoire </color>, utilisez les <color=#800000> ingrédients </color>, réglez le <color=#800000> feu </color> et mélanger avec la <color=#800000> louche </color>.
+Pendant la phase de mise en place du feu, vous devez régler l' <color=#800000> intensité thermique </color> selon les besoins.
+Il vous suffit de suivre les instructions relatives à la phase actuelle de la <color=#800000> recette </color> et respecter les <color=#800000> exigences en matière d'intensité et de durée de la chaleur </color>. 
+Pendant la phase d'orientation de la louche, vous devez régler le <color=#800000> sens de rotation de la louche </color>.
+Il vous suffit de suivre les instructions de la <color=#800000> recette </color> disant de <color=#800000> remuer dans le sens indiqué </color> pendant la durée nécessaire.
+La barre de progression en haut indique la <color=#800000> qualité de la potion </color> que vous êtes en train de fabriquer. Si vous ne suivez pas les instructions, la barre raccourcira.
+Si la barre disparaît, <color=#800000> l'artisanat, est raté </color>.
+Plus la barre restante est longue à la fin de la fabrication, plus <color=#800000> votre score est élevé </color>.
+Lorsque vous fabriquez des objets, vous pouvez rencontrer des <color=#800000> situations imprévues </color> dans les deux <color=#800000> phase de mise à feu </color> et la <color=#800000> phase d'orientation de la louche </color>.
 Fais face aux imprévus et prépare des potions de grande qualité !
-Lorsque vous ajoutez des ingrédients, vous devez ajouter le <color=#800000>ingrédients nécessaires</color>.
-Il vous suffit de suivre les instructions figurant dans le <color=#800000>recette</color> et ajoutez le <color=#800000>ingrédients nécessaires</color> pour la phase actuelle dans le chaudron de la sorcière.
-À droite, on peut voir le <color=#800000>recette de la potion</color> en cours de réalisation.
-<color=#800000>Suivez toutes les étapes de la recette</color> sans manquer de <color=#800000>la fabrication sera réussie</color>.
+Lorsque vous ajoutez des ingrédients, vous devez ajouter les <color=#800000> ingrédients nécessaires </color>.
+Il vous suffit de suivre les instructions figurant dans la <color=#800000> recette</color> et ajoutez les <color=#800000> ingrédients nécessaires </color> pour la phase actuelle dans le chaudron de la sorcière.
+À droite, on peut voir la <color=#800000> recette de la potion </color> en cours de réalisation.
+<color=#800000> Suivez toutes les étapes de la recette </color> sans erreur et <color=#800000>la fabrication sera réussie </color>.
 Méthode de préparation des potions
-Recette complète <color=#800000>recherche</color> un certain nombre de fois pour débloquer
-<color=#800000>artisanat automobile</color> de la recette.
-La fabrication automatique consomme <color=#800000>Durabilité</color> du Chaudron de la sorcière.
-Plus la durabilité est faible, plus <color=#800000>plus le taux d'échec est élevé</color> pendant la fabrication automatique.
-Durabilité de l'Artisanat automobile et du Chaudron de sorcière
+Recette complète <color=#800000> recherche </color> un certain nombre de fois pour débloquer
+<color=#800000> fabrication automatique </color> de la recette.
+La fabrication automatique consomme de la <color=#800000> Durabilité </color> du Chaudron de la sorcière.
+Plus la durabilité est faible, plus <color=#800000> le taux d'échec est élevé </color> pendant la fabrication automatique.
+Durabilité de laFabrication automatique et du Chaudron de sorcière
 Tu peux accélérer ou plonger quand tu nages. Ces deux actions consomment de l'énergie.
 Pour avoir une carte, il faut la dessiner.
 Trouvez le panneau « Carte » quelque part dans la région pour tracer un plan.
@@ -4846,7 +4846,7 @@ Choisissez un meuble dans le menu de fabrication pour le fabriquer.
 Vous ne pouvez commencer à fabriquer un objet que lorsque vous disposez de tous les matériaux nécessaires dans votre inventaire.
 Attrapez des poissons en pêchant.
 Les variations de couleur et les poissons particuliers seront également répertoriés.
-Encyclopédie des poissons
+Grimoire des poissons
 Mots-clés
 « Mots-clés » est une fonctionnalité permettant de dialoguer avec les villageois.
 Vous pouvez utiliser des mots-clés pour parler aux villageois ou leur poser des questions sur des sujets précis.
@@ -4855,7 +4855,7 @@ Les mots-clés généraux sont des mots-clés permanents qui s'appliquent à tou
 Les mots-clés spécifiques sont destinés à certaines situations, comme les quêtes, et disparaissent après un certain nombre d'utilisations.
 Vous pouvez consulter les mots-clés disponibles sur la page « Mots-clés » du journal.
 Ouvrir le menu
-Sélectionner un journal
+Sélectionner le journal
 Wisteria abrite de nombreux chats.
 À chaque fois, ce sont d'autres chats qui font leur apparition dans le village.
 Parmi les chats, certains viendront vers vous, tandis que d'autres se cacheront.
@@ -4867,7 +4867,7 @@ Si les chats ne sont pas encore à l'aise avec vous, veuillez rester à l'écart
 Dessine de nouveaux chats sur le cahier à l'aide de la plume.
 Vous pouvez enregistrer les préférences et consulter les préférences des chats dans les « Notes sur les chats ».
 Chats
-Sélectionner l'encyclopédie
+Sélectionner l'Grimoire
 Sélectionner Atlas
 Sélectionner les notes
 Pour jouer avec le chat, son niveau d'affection doit être d'au moins 1.
@@ -4882,8 +4882,8 @@ Les chats utilisent les meubles lorsqu'ils se trouvent à proximité et qu'ils s
 Le chat ne s'intéressera pas à d'autres objets lorsqu'il utilisera ce meuble.
 Le joueur peut toucher les meubles pour interrompre le chat.
 J'appelle Diane
-Vous pouvez utiliser le <color=#800000>sonnette d'appel</color> n'hésitez pas à appeler Diane à tout moment.
-Diane reviendra après <color=#800000>1 heure</color>.
+Vous pouvez utiliser la <color=#800000> sonnette d'appel </color> n'hésitez pas à appeler Diane à tout moment.
+Diane reviendra après <color=#800000> 1 heure </color>.
 Magasin de balais
 Les balais varient en termes de vitesse, de résistance, etc., et offrent des sensations différentes lorsqu'on les utilise.
 On peut les distinguer en observant leurs types et la forme de leur tige.
@@ -4925,12 +4925,12 @@ Pour fabriquer un meuble, enregistrez d'abord son plan.
 Utilise le plan qui se trouve dans ton inventaire pour l'ajouter au menu de fabrication de l'établi.
 Pour fabriquer des meubles, il faut un plan.
 On peut fabriquer des meubles à l'établi.
-Lorsque vous nagez, vous pouvez <color=#800000>accélérer</color> immédiatement ou <color=#800000>plonge</color>,
-accélérer ou plonger consommera <color=#800000>endurance</color>.
+Lorsque vous nagez, vous pouvez <color=#800000> accélérer </color> immédiatement ou <color=#800000> plonger </color>,
+accélérer ou plonger consommera de l' <color=#800000> endurance </color>.
 Une fois qu'un élément a été dessiné avec la plume, il ne peut plus être redessiné.
 Adoption de Chat
 Lorsque le niveau d'affection d'un chat est au maximum, vous pouvez l'adopter et l'emmener à la maison de la sorcière.
-Lorsque vous avez un <color=#800000>Signe d'amitié</color> Dans ton sac (inventaire), caresse un chat dont le niveau d'affection est au maximum pour l'adopter.
+Lorsque vous avez un <color=#800000> Symbole d'amitié </color> Dans votre sac (inventaire), caressez un chat dont le niveau d'affection est au maximum pour l'adopter.
 À partir du deuxième jour suivant l'adoption, votre chat vivra avec vous à la Maison de la Sorcière, et un niveau d'affection supérieur sera débloqué.
 Si son affection continue de grandir, votre chat pourrait vous offrir des cadeaux.
 Des aliments qui ont des effets
@@ -4948,18 +4948,18 @@ Les villageois de Wisteria ont chacun leur vie et leurs histoires.
 Quand l'Amitié d'un villageois augmente, vous recevrez des demandes spéciales basées sur leurs histoires.
 En acceptant ces demandes, vous lancez une quête de villageois.
 Favoris
-Vous pouvez ajouter votre <color=#800000>recettes recherchées (potions, bonbons, meubles)</color> Ajouter aux favoris pour un accès rapide.
-Vous pouvez ajouter des articles à vos Favoris depuis <color=#800000>la page Recette de l'Encyclopédie, la page Thème de l'Encyclopédie, le Chaudron de la Sorcière et l'Établi</color>.
-Vous pouvez également sélectionner une recette dans vos Favoris pour modifier les <color=#800000>quantité cible</color>.
+Vous pouvez ajouter vos <color=#800000> recettes recherchées (potions, bonbons, meubles) </color> à vos favoris pour un accès rapide.
+Vous pouvez ajouter des articles à vos Favoris depuis <color=#800000> la page Recette de l'Grimoire, la page Thème de l'Grimoire, le Chaudron de la Sorcière et l'Établi </color>.
+Vous pouvez également sélectionner une recette dans vos Favoris pour modifier la <color=#800000> quantité cible </color>.
 Vous pouvez consulter vos favoris sur des pages classées par étape de fabrication et les organiser comme vous le souhaitez.
-Si le traitement réduit la quantité requise, les chiffres changent <color=#007AFF>bleu</color>; une fois tous les éléments rassemblés, ils se transforment en un <color=#800000>coche</color>.
+Si le traitement réduit la quantité requise, les chiffres deviennent <color=#007AFF> bleu </color>; une fois tous les éléments rassemblés, ils se transforment en une <color=#800000> coche </color>.
 Vous pouvez consulter les conditions et les objectifs des quêtes des villageois dans le Journal d'aventure.
 Les quêtes sont activées quand l'Amitié du villageois et les conditions individuelles sont remplies.
 Vous devez également terminer la quête précédente pour passer à la suivante.
 Appuyez sur ce bouton.
 Appuyez pour continuer.
 Sélectionnez la plume en bas.
-Dans cette encyclopédie illustrée, vous trouverez toutes sortes d'informations sur les plantes et les animaux.
+Dans cette Grimoire illustrée, vous trouverez toutes sortes d'informations sur les plantes et les animaux.
 Renseignez-vous sur leurs habitats, les outils nécessaires à leur cueillette et les méthodes de récolte, puis essayez de les cueillir.
 Terminez les missions de recherche pour obtenir des récompenses supplémentaires.
 Utilisation de potions sur les plantes et les animaux
@@ -4986,13 +4986,13 @@ D'accord
 Il n'y a aucune quête en cours
 Mode écran
 Sans frontières
-<color=green>S'affiche tel que l'artiste l'avait prévu.</color>
+<color=green> S'affiche tel que l'artiste l'avait prévu. </color>
 Mise à l'échelle
 Résolution d'écran
 Définit la résolution de l'écran.
 Avec fenêtre
 Mode plein écran
-<color=red>Occupe tout l'écran.</color>
+<color=red> Occupe tout l'écran. </color>
 Enregistrer et quitter
 Recette «{0}«
 Marche
@@ -5027,7 +5027,7 @@ Consulter l'inventaire
 Modifier les emplacements rapides
 Paramètres de mise en pause
 Guide des commandes
-Ride Broom
+Monter sur le balai
 Faites une sieste
 Quêtes des villageois
 Quêtes terminées
@@ -5045,7 +5045,7 @@ Quêtes associées
 Personnes associées
 Pas de mot-clé
 Mot-clé gagné
-S'inscrire à l'Encyclopédie
+S'inscrire à l'Grimoire
 Fidèle à l'artisanat
 Merci d'avoir joué !
 Tout acheter
@@ -5067,7 +5067,7 @@ Déconnexion détectée. Retour à l'écran d'accueil.
 ● Certaines fonctionnalités de la plateforme peuvent ne pas fonctionner correctement.
 ● Certaines fonctionnalités du jeu peuvent ne pas fonctionner, ou entrer en conflit.
 ● Ce titre ne prend actuellement pas en charge les Succès.
-● Ce titre ne prend pas en charge les modes multijoueur.
+● Ce titre ne prend pas en charge le mode multijoueur.
 Il s'agit d'une version de démonstration.
 Le jeu va démarrer automatiquement dans quelques instants.
 Affichage
@@ -5097,39 +5097,39 @@ Action indisponible.
 Mise en attente pour réparation
 Anglais
 Langue
-<color=#800000>Les paramètres de langue seront pris en compte après le redémarrage du jeu.</color>
+<color=#800000> Les paramètres de langue seront pris en compte après le redémarrage du jeu. </color>
 Etc.
-Les articles que vous avez obtenus ont été envoyés par <color=#800000>e-mail</color>.
+Les articles que vous avez obtenus ont été envoyés par <color=#800000> mail </color>.
 Êtes-vous sûr(e) de vouloir retourner au menu principal ?
-<color=#800000>Les modifications non enregistrées seront perdues.</color>
-<size=6>(Les objets laissés par terre ne peuvent pas être conservés.)</size>
+<color=#800000> Les modifications non enregistrées seront perdues. </color>
+<size=6> (Les objets laissés par terre ne peuvent pas être conservés.) </size>
 Il n'y a plus de fichiers de sauvegarde à charger.
 Êtes-vous sûr(e) de vouloir charger le fichier sauvegardé ?
-<color=#800000>Les données non enregistrées seront supprimées.</color>
+<color=#800000> Les données non enregistrées seront supprimées. </color>
 Êtes-vous sûr(e) de vouloir supprimer le fichier sauvegardé ?
-<color=#800000>Les fichiers supprimés ne peuvent pas être restaurés.</color>
+<color=#800000> Les fichiers supprimés ne peuvent pas être restaurés. </color>
 Charger la partie
 Le dernier fichier enregistré ne peut pas être supprimé.
 Jour {day} du mois {month}, Année {year}
 1er
-2e
-3e
+2emè
+3emè
 Dernières nouvelles
 En savoir plus
 Enregistrement en cours...
 Si vous quittez le jeu pendant la sauvegarde, des données risquent d'être perdues et des erreurs peuvent survenir lors du chargement du jeu.
 Maintenez enfoncé pour annuler
 Mettre en attente pour incuber
-Durée requise
+Temps requis
 Montant du paiement
 Nombre de tentatives autorisées
 Temps restant
-{hour}et {minute}Je suis désolé, mais je ne peux pas t'aider là-dessus.
+{hour} et {minute} Je suis désolé, mais je ne peux pas t'aider là-dessus.
 Lieu
 Il n'y a pas de place dans la vitrine.
 De nouveaux défis
-Actualiser le classement de l'encyclopédie
-Ajouter un dessin à l'encyclopédie
+Actualiser le classement de l'Grimoire
+Ajouter un dessin à l'Grimoire
 Classé n° {0}!
 Tu n'as pas assez d'endurance.
 {amount} pièces
@@ -5151,7 +5151,7 @@ Fontaine restaurée
 Les maisons et la fontaine qui bordent la place ont été rénovées. Avant de partir pour la prochaine étape, essayez-vous à différentes activités.
 Vous pouvez choisir n'importe quel chapitre pour reprendre la partie.
 Pour ceux qui jouent à ce jeu pour la première fois, nous vous recommandons vivement de commencer par
-<color=#800000>« Nouvelle partie »</color> pour profiter pleinement du jeu au cas où vous manqueriez quelque chose d'important.
+<color=#800000> « Nouvelle partie » </color> pour profiter pleinement du jeu au cas où vous manqueriez quelque chose d'important.
 ● La version bêta vous permet de jouer au dernier contenu du jeu avant qu'il soit mis à jour dans la version de sortie.
 ● Votre progression peut être perdue dans la version bêta.
 Il n'y a pas de fichier de sauvegarde.
@@ -5183,7 +5183,7 @@ Pas de potion.
 Utilisez «{0}'
 Tu n'as pas assez d'ingrédients.
 Ingrédients
-Auto Craft
+Fabrication automatique
 Artisanat manuel
 Commencer la fabrication ?
 Aucune recette valable.
@@ -5219,7 +5219,7 @@ Indisponible pour le moment.
 La résistance de Broom est au maximum.
 Balai non fourni.
 Dégagé
-« Unstuck » est une téléportation qui envoie Ellie à un endroit précis lorsqu'elle est coincée contre un mur.
+« Déblocage » est une téléportation qui envoie Ellie à un endroit précis lorsqu'elle est coincée contre un mur.
 Tentatives
 {0}fois
 Temps de recharge
@@ -5251,8 +5251,8 @@ L'aventure d'Ellie continue.
 Récolter des poissons communs
 Collecte de poissons spéciaux
 Signaler un bug lié à l'heure statique
-Il y a des passages où le temps est <color=#a03c3a>arrêté intentionnellement pour être présenté</color>.
-Veuillez utiliser ce formulaire de signalement de bug uniquement si vous pensez que le <color=#a03c3a>La fonction « Time Stop » empêche le déroulement normal du jeu</color>.
+Il y a des passages où le temps est <color=#a03c3a> arrêté intentionnellement pour la présentaion </color>.
+Veuillez utiliser ce formulaire de signalement de bug uniquement si vous pensez que la <color=#a03c3a> fonction « Time Stop » empêche le déroulement normal du jeu </color>.
 Fais une capture d'écran de la situation et publie-la sur Discord.
 Vous pouvez accéder au canal Discord officiel depuis la page Steam.
 Si vous ne parvenez pas à jouer en raison d'un problème de synchronisation, veuillez signaler le bug depuis [Menu - Report static time bug].
@@ -5277,10 +5277,10 @@ Certaines données de sauvegarde sont introuvables.
 La récupération de ces informations peut prendre un certain temps.
 Génération des informations relatives aux données sauvegardées
 Prologue
-Acte I
-Acte II
+Acte 1
+Acte 2
 Acte 3
-Acte IV
+Acte 4
 Acte 5
 Accès au contenu
 En cours
@@ -5362,8 +5362,8 @@ Trier par thème (par ordre croissant)
 Trier par thème (par ordre décroissant)
 Trier par nom (par ordre croissant)
 Trier par nom (par ordre décroissant)
-Vous avez ajouté le [{0} recipe] Ajouter aux favoris.
-Vous avez supprimé le [{0} recipe] dans les Favoris.
+Vous avez ajouté la [{0} recipe] Ajouter aux favoris.
+Vous avez supprimé la [{0} recipe] dans les Favoris.
 Aucun favori n'a été enregistré.
 Nombre d'objets fabriqués
 Quêtes accomplies
@@ -5440,15 +5440,15 @@ Matériel ouvert
 Afficher/Masquer l'inventaire
 Afficher/masquer les informations sur l'élément
 Outil de travail
-Quitter l'encyclopédie
+Quitter l'Grimoire
 Afficher/masquer les matériaux
 Ouvrir la page Thèmes
 Notes de sortie
 Catalogue de décoration
 Changer de catégorie - Gauche
-Changer de catégorie - À droite
+Changer de catégorie - Droite
 Modifier la catégorie principale - Gauche
-Modifier la catégorie principale - À droite
+Modifier la catégorie principale - Droite
 Changer de sous-catégorie - Gauche
 Changer de sous-catégorie - Droite
 Transférer vers le stock
@@ -5480,40 +5480,40 @@ Changement rapide d'outil - Emplacement 2
 Changement rapide d'outil - Emplacement 1
 Veuillez charger la dernière sauvegarde où le temps ne s'est pas arrêté et continuer à jouer.
 Pause
-Les raccourcis clavier peuvent être personnalisés dans <color=#a03c3a>Menu (ESC) → Commandes</color> sous <color=#a03c3a>cartographie individuelle</color>.
+Les raccourcis clavier peuvent être personnalisés dans <color=#a03c3a> Menu (ESC) → Commandes </color> sous <color=#a03c3a> mapage individuelle </color>.
 Action spéciale
 Il semblerait qu'un problème de blocage soit survenu à cause d'un bug.
 Une téléportation sera tentée dans 5 secondes.
 Si vous ne le souhaitez pas, veuillez sélectionner « Annuler ».
 Vide.
 Une erreur a été détectée lors de l'enregistrement ou du chargement
-Si vous chargez une sauvegarde antérieure à celle qui est actuellement chargée, il peut arriver que <color=#a03c3a>Les informations relatives à la quête ne se chargent pas correctement</color>.
-Si vous continuez ainsi, des problèmes pourraient survenir, alors veuillez <color=#a03c3a>Essayez de charger à nouveau le même fichier de sauvegarde</color>.
-Si ce message d'avertissement s'affiche toujours, cela signifie que la sauvegarde <color=#a03c3a>qui se trouve déjà dans un état anormal, et vous devrez charger une sauvegarde encore plus ancienne</color>.
+Si vous chargez une sauvegarde antérieure à celle qui est actuellement chargée, il peut arriver que <color=#a03c3a> Les informations relatives à la quête ne se chargent pas correctement </color>.
+Si vous continuez ainsi, des problèmes pourraient survenir, alors veuillez <color=#a03c3a> Essayez de charger à nouveau le même fichier de sauvegarde </color>.
+Si ce message d'avertissement s'affiche toujours, cela signifie que la sauvegarde <color=#a03c3a> se trouve déjà dans un état anormal, et vous devrez charger une sauvegarde encore plus ancienne </color>.
 Veuillez continuer à charger les sauvegardes précédentes jusqu'à ce que cet avertissement ne s'affiche plus.
 Si cet avertissement s'affiche dans des circonstances normales, merci de le signaler via Discord.
 Avertissement
 La liste de souhaits est pleine, il n'a donc pas été possible de l'ajouter automatiquement.
 Le fichier de sauvegarde que vous avez chargé pourrait contenir un bug
-là où le <color=#a03c3a><Exploring the Starlit Cave> ceci</color> ne se déroule pas correctement.
+La progression de la quête <color=#a03c3a> <Exploring the Starlit Cave> </color> ne se déroule pas correctement.
 Si vous continuez à jouer avec cette sauvegarde, le problème risque de persister.
-Nous vous prions de bien vouloir <color=#a03c3a>revenir à une sauvegarde antérieure</color>.
-Veuillez revenir à une sauvegarde où la progression du <color=#a03c3a><Exploring the Starlit Cave></color> La quête se trouve à
-<color=#a03c3a>[Enter the Starlit Cave via the village tunnel.]</color>.
-C'est juste après avoir terminé le <color=#a03c3a><The Path We Forge Together> ceci</color>,
+Nous vous prions de bien vouloir <color=#a03c3a> revenir à une sauvegarde antérieure </color>.
+Veuillez revenir à une sauvegarde où la progression de <color=#a03c3a> <Exploring the Starlit Cave> </color> est valide
+<color=#a03c3a> [Enter the Starlit Cave par le tunnel du village.] </color>.
+C'est juste après avoir terminé <color=#a03c3a> <The Path We Forge Together> </color>,
 là où l'on répare le pont en contrebas du village.
 Ne plus afficher
 Certains bonbons de la liste « Livraison » ne disposent pas de recette ; ils n'ont donc pas pu être ajoutés aux Favoris.
-Veuillez sélectionner votre option préférée <color=#a03c3a>mode de commande au clavier</color>.
-Après avoir sélectionné un mode de commande, vous pouvez également le personnaliser individuellement dans <color=#a03c3a>Menu (ESC) - Commandes</color>.
+Veuillez sélectionner votre option préférée <color=#a03c3a > de commande au clavier </color>.
+Après avoir sélectionné un mode de commande, vous pouvez également le personnaliser individuellement dans <color=#a03c3a> Menu (ESC) - Commandes </color>.
 Modifier le mode de contrôle du clavier
-Il y a <color=#a03c3a>commandes personnalisées</color> dans le mode de commande actuel.
-Si vous modifiez le mode de commande, le <color=#a03c3a>les commandes personnalisées seront réinitialisées</color>.
+Il y a des <color=#a03c3a> commandes personnalisées </color> dans le mode de commande actuel.
+Si vous modifiez le mode de commande, les <color=#a03c3a> commandes personnalisées seront réinitialisées </color>.
 Souhaitez-vous modifier le mode de commande ?
 Erreur de commande
-Le <color=#a03c3a>conflit au niveau des paramètres de contrôle</color> a été détecté.
+Un <color=#a03c3a> conflit au niveau des paramètres de contrôle </color> a été détecté.
 Veuillez modifier vos paramètres avant de continuer.
-Démonter le balai
+Descendre le balai
 Transférer des articles identiques
 Espace de stockage libre
 Aucun article identique n'est disponible pour le transfert.
@@ -5565,7 +5565,7 @@ Le vernissage de la poterie lui a donné un éclat supérieur à celui de n'impo
 Séduite par ces chaussures élégantes, la fée en oublia le pari.
 Si on travaille dur, la chance finira par nous sourire ?
 Qu'est-ce que la fée aurait pris si Pietro avait perdu ?
-N'est-ce pas généralement le poignet, ici ?
+N'est-ce pas généralement les mains, ici ?
 Oh, Virgile ! C'est dégoûtant.
 <Mud Shoes>
 <Life with Mushrooms>
