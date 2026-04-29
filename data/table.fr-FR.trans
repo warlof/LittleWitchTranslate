@@ -128,7 +128,7 @@ Dimanche
 Recette Limitée
 Tout
 Autre
-Portail de Sorcière
+Portail de sorcière
 Mixeur
 Craie de Sorcière
 Sigil de Sorcière
@@ -697,7 +697,7 @@ Collecter après avoir chevauché le nuage de bulles {0} fois
 Augmente la chance de rendement bonus lors de la fabrication
 En 15 secondes après être devenu transparent
 Après l'avoir réveillé avec un outil
-Ajouté à la Liste des Incubables
+Ajouté à la liste des incubables
 Chance de Bonus lors de la Préparation Haute Note
 Nettoyer
 Lire le panneau
@@ -943,7 +943,7 @@ Fléchettes
 Vase Parapluie
 Une fleur qui a gagné son nom car elle est utilisée comme ingrédient de base pour les potions de sorcières. Sa tige robuste peut être utilisée comme corde en cas d'urgence.
 Extrait de Fleur de Sorcière
-Extrait de la Fleur de Sorcière, ce liquide a de légères propriétés cicatrisantes.
+Extrait de Fleur de Sorcière, ce liquide a de légères propriétés cicatrisantes.
 Une plante qui dégage une odeur sucrée comme le miel et porte des fruits à chair rouge.
 La fleur d'un Théier de Raisin Amer. Elle contient le pouvoir de la lune.
 Pollen de Clochette d'Étoile Argentée
@@ -3227,7 +3227,7 @@ Il faudrait recoudre le bras manquant de la poupée. Demande de l'aide à quelqu
 Coudre la poupée
 Acheter un billet pour « La Maison de la sorcière »
 Un aller simple permettant de revenir à la gare des sorcières de la Maison des Sorcières, quel que soit l'endroit d'où l'on parte.
-Réparer la station des sorcières
+Réparer le portail de sorcière
 Vous pouvez utiliser le portail de sorcière restauré.
 La planche en bois ne bouge pas d'un millimètre même avec la chaussette à vent attachée. Y a-t-il un autre moyen de la soulever ?
 Planche surélevée
@@ -3302,12 +3302,12 @@ Enquêtez sur les citrouilles « Honey Pumpkins » qui bloquent la route.
 Préparez une potion pour éliminer les mauvaises herbes tenaces à l'aide des ingrédients disponibles à l'apothicairerie.
 Utilisation {item/BadGrassPotion} pour retirer la petite citrouille Honey.
 Comment s'en débarrasser ? Déplacez-vous dans la forêt.
-Pour soigner la patte de Rubrum, préparez {item/HealingCandy}.
+Soigner la patte de Rubrum avec un {item/HealingCandy}.
 Utilise une potion explosive sur les vignes épineuses géantes !
 Rubrum a dit avoir vu une carte au trésor là où il s'était retrouvé pris dans les toiles d'araignée. Fouille les buissons.
 Procurez-vous de l'herbe d'érable.
 Éliminez les toiles d'araignée avec Maple Herb.
-Allez à la Maison de la Sorcière avec Rubrum.
+Retourner à la Maison de Sorcière avec Rubrum.
 Portez Rubrum, qui a une patte blessée, jusqu'à la Maison de la Sorcière.
 La potion explosive semble efficace. Ramasse le fragment.
 Demande à Aurea ce qu'il en est de ce morceau de liane épineuse géante.
@@ -3325,7 +3325,7 @@ Fixez l'extracteur à la bouteille en verre.
 Faut-il enlever ses chaussures en arrivant à Highlion ? Demandez aux autres
 Retournez à votre place et attendez d'arriver à destination.
 Réparez votre balai à l'Établi dans la Maison de la Sorcière.
-Utilise la plume pour consigner les trois nouveaux objectifs dans le Grimoire.
+Utiliser la plume pour consigner les trois nouveaux objectifs dans le Grimoire.
 Rénovation de la Maison de la Sorcière
 Demandez si quelqu'un peut aider à réparer la Maison de la Sorcière.
 Approvisionnement en matériaux
@@ -3716,7 +3716,7 @@ Trouver un moyen d'éliminer ces lianes géantes et épineuses
 Soigner la jambe de Rubrum
 Découvrez ce dont Rubrum a parlé
 Conduis Rubrum à la maison de la sorcière
-Rendez-vous à la maison de la sorcière avec Rubrum
+Retourner à la maison de la sorcière avec Rubrum
 Ramasse le morceau de liane épineuse
 Obtenir des informations auprès d'Aurea
 Consulter les informations disponibles dans la bibliothèque
@@ -4085,8 +4085,8 @@ Utilisez la {item/PolarisPotion}
 Observer l'effet de {item/PolarisPotion}
 Utilise les dés pour concocter une potion
 Rassembler et traiter les matériaux nécessaires à la fabrication de {item/BadGrassPotion}.
-Découvrir {Common.Theme_GreenForest}
-Flâner dans la {Common.Theme_GreenForest} afin de trouver un moyen d'éliminer ces lianes géantes et épineuses.
+Explorer la {Common.Theme_GreenForest}
+Parcourez la {Common.Theme_GreenForest} afin de trouver un moyen d'éliminer ces lianes géantes et épineuses.
 Utiliser {item/BadGrassPotion} pour retirer la petite citrouille « Little Honey » sur le {Map.GreenForest_Plateau}.
 {item/BadGrassPotion} Brasser
 Consultez le grimoire pour découvrir des plantes, des animaux et des recettes de potions.
@@ -4228,7 +4228,7 @@ Remplissez l'atlas de la {Map.GreenForest} .
 Faites passer l'affection d'un chat que vous appréciez au niveau 1.
 Renforcer l'affection de votre chat
 Utilisez le portail de sorcière
-Utilise la station de la sorcière pour retourner à la maison de la sorcière.
+Utilise le portail de sorcière pour retourner à la maison de la sorcière.
 Choisissez une zone de la Maison de la sorcière à agrandir.
 2ème étage - à gauche
 2ème étage - à droite
@@ -4407,14 +4407,14 @@ Faites passer l'amitié avec Arden au niveau 1
 Essaie de te rapprocher d'Arden de différentes manières.
 Utilisez complètement la durabilité du balai.
 Chevauchons le balai jusqu'à ce que sa durabilité soit complètement épuisée.
-Accomplissons la tâche de recherche de chaque créature au moins une fois.
-Accomplissons la tâche de recherche de {CreatureName.Mongsiri_Name} au moins une fois.
-Accomplissons la tâche de recherche de {CreatureName.BushBug_Name} au moins une fois.
-Réaliser les tâches de recherche pour le grimoire.
-Accomplissons la tâche de recherche de {CreatureName.FurBall_Name} au moins une fois.
-Accomplissons la tâche de recherche de {CreatureName.CloudFlower_Name} au moins une fois.
-Accomplissons la tâche de recherche de {CreatureName.PhantomJellyfish_Name} au moins une fois.
-Accomplissons la tâche de recherche de {CreatureName.WallSticky_Name} au moins une fois.
+Accomplir la tâche de recherche de chaque créature au moins une fois.
+Accomplir la tâche de recherche de {CreatureName.Mongsiri_Name} au moins une fois.
+Accomplir la tâche de recherche de {CreatureName.BushBug_Name} au moins une fois.
+Accomplir les tâches de recherche pour le grimoire.
+Accomplir la tâche de recherche de {CreatureName.FurBall_Name} au moins une fois.
+Accomplir la tâche de recherche de {CreatureName.CloudFlower_Name} au moins une fois.
+Accomplir la tâche de recherche de {CreatureName.PhantomJellyfish_Name} au moins une fois.
+Accomplir la tâche de recherche de {CreatureName.WallSticky_Name} au moins une fois.
 Collecter à l'aide de potions
 Utilise la bonne potion pour récolter des ressources.
 Préparons une {Item.FirecrackerPotion} pour la cérémonie de remise des diplômes.
@@ -4626,8 +4626,8 @@ Aidons les sœurs à créer de nouveaux souvenirs ensemble.
 Grâce à l'atlas qu'Aurea nous a offert, nous pouvons désormais collectionner des cartes.
 Voyageons dans les diverses zones de la Forêt Verte et collectons des cartes.
 À Wisteria, l'affection des chats augmente quand vous les nourrissez ou jouez avec eux. Essayez d'augmenter l'affection d'un chat jusqu'à ce que <color=#800000>Caresser</color> devienne disponible.
-Le Portail de Sorcière est un appareil pratique qui permet un voyage instantané vers la Maison de la Sorcière ou un retour à l'emplacement d'origine.
-Essayez d'utiliser vous-même WitchStation pour revenir.
+Le Portail de sorcière est un appareil pratique qui permet un voyage instantané vers la Maison de la Sorcière ou un retour à l'emplacement d'origine.
+Essayez d'utiliser vous-même le portail de sorcière pour revenir.
 Grâce à la réparation de la Maison de la Sorcière, elle peut maintenant être agrandie encore plus qu'avant.
 Utilisez le Lézard et le Catalogue de la Sorcière pour agrandir l'espace de la maison où vous le souhaitez.
 Les bonbons confectionnés par les sorcières sont souvent amusants ou utiles pour les gens ordinaires.
@@ -4665,7 +4665,7 @@ La Vie d'une Sorcière
 {Common.Ritoring}Le panier de meubles [{aliasedPoolName}]
 Ce panier confère un effet aléatoire [{aliasedPoolName}] recette de mobilier.
 La vie d'une sorcière
-<color=#800000>Collecter</color> les ingrédients nécessaires, <color=#800000>processus</color> après ça, essayez d'en créer une <color=#800000>potion</color>.
+<color=#800000>Collecter</color> les ingrédients nécessaires, <color=#800000>préparer</color> les, puis essayez de fabriquer une <color=#800000>potion</color>.
 Si vous avez des doutes, essayez d'utiliser la <color=#800000>Plume</color> et le <color=#800000>Grimoire</color>.
 Recouvrement avec une attention particulière
 Les animaux vivent généralement dans des <color=#800000>habitats spécifiques</color>.
@@ -4785,7 +4785,7 @@ Village Bulletin <color=#800000>De nouvelles quêtes secondaires seront ajoutée
 Si tu ne sais pas quoi faire, va voir ce dont les villageois ont besoin.
 Même une petite chose peut devenir <color=#800000>une grande aventure</color> en compagnie d'Ellie.
 Boîte aux lettres
-Veuillez lire vos <color=#800000>lettres</color> dans la boîte aux lettres près de la porte de la Maison de la Sorcière.
+Vous trouverez vos <color=#800000>lettres</color> dans la boîte aux lettres près de la porte de la Maison de la Sorcière.
 Les lettres peuvent être accompagnées de <color=#800000>cadeaux inattendus</color>.
 Nourrissez les chats
 Prenez et placez la <color=#800000>nourriture pour chats</color> dans votre inventaire pour nourrir les chats.
@@ -4949,8 +4949,8 @@ Quand l'Amitié d'un villageois augmente, vous recevrez des demandes spéciales 
 En acceptant ces demandes, vous lancez une quête de villageois.
 Favoris
 Vous pouvez ajouter vos <color=#800000>recettes recherchées (potions, bonbons, meubles)</color> à vos favoris pour un accès rapide.
-Vous pouvez ajouter des articles à vos Favoris depuis <color=#800000>la page Recette du Grimoire, la page Thème du Grimoire, le Chaudron de la Sorcière et l'Établi</color>.
-Vous pouvez également sélectionner une recette dans vos Favoris pour modifier la <color=#800000>quantité cible</color>.
+Vous pouvez ajouter des articles à vos favoris depuis <color=#800000>la page Recette du Grimoire, la page Thème du Grimoire, le Chaudron de la Sorcière et l'Établi</color>.
+Vous pouvez également sélectionner une recette dans vos favoris pour modifier la <color=#800000>quantité cible</color>.
 Vous pouvez consulter vos favoris sur des pages classées par étape de fabrication et les organiser comme vous le souhaitez.
 Si le traitement réduit la quantité requise, les chiffres deviennent <color=#007AFF> bleu</color>; une fois tous les éléments rassemblés, ils se transforment en une <color=#800000>coche</color>.
 Vous pouvez consulter les conditions et les objectifs des quêtes des villageois dans le Journal d'aventure.
@@ -5052,7 +5052,7 @@ Tout acheter
 Tout vendre
 Ne pas acheter
 Ne pas vendre
-Mettre en attente pour traitement
+Maintenir pour préparer
 Informations sur l'écologie
 Tout traiter
 Manette connectée.
@@ -5078,7 +5078,7 @@ Volume de la musique d'ambiance
 Volume FX
 Une précision au pixel près
 Étirement
-Appuyer pour déclencher
+Maintenir pour livrer
 Vous n'avez pas assez d'articles à livrer.
 Livraison effectuée
 Client:
@@ -5086,7 +5086,7 @@ Gestion des balais
 Balai de base
 Durabilité
 Aucun article ajouté.
-Je suis désolé, mais je ne peux pas t'aider là-dessus.
+M
 Main
 villageois
 Page
@@ -5094,7 +5094,7 @@ Vous n'avez pas la bonne craie.
 Ou
 * Peut être livré séparément.
 Action indisponible.
-Mise en attente pour réparation
+Maintenir pour réparer
 Anglais
 Langue
 <color=#800000>Les paramètres de langue seront pris en compte après le redémarrage du jeu.</color>
@@ -5366,7 +5366,7 @@ Vous avez ajouté la [{0} recipe] Ajouter aux favoris.
 Vous avez supprimé la [{0} recipe] dans les Favoris.
 Aucun favori n'a été enregistré.
 Nb. à prép.
-Quêtes accomplies
+Terminer la quête
 La liste des favoris est pleine. Impossible d'en ajouter d'autres.
 Vous ne pouvez pas utiliser cet article ici.
 Archives des tutoriels
@@ -5716,12 +5716,12 @@ Tu ne voulais pas aller au village ?
 Tu devrais donc arracher ces énormes lianes épineuses.
 C'est vrai, mais...
 Il semble impossible de se débarrasser de cet énorme truc avec la recette que j'ai pour l'instant.
-La recette de base semble un peu insuffisante.
+C'est vrai que la recette de base semble inadaptée.
 Qu'as-tu prévu ?
-Maintenant que l'[em1]extracteur[/em1] a été réparé, vous pouvez fabriquer des potions à partir de [em1]recettes de base[/em1].
-Si vous faites [em1][lua(GetLocalizedString("Item", "BadGrassPotion_Name"))][/em1], vous pouvez vous débarrasser de [em1][lua(GetLocalizedString("InteractableObject", "LittleHoneyPumkin"))][/em1]...
-Encore un peu... Ouais, donc la forêt...
-Je vais enfin pouvoir accéder aux sites qui étaient bloqués !
+Maintenant que l'[em1]extracteur[/em1] a été réparé, tu peux fabriquer des potions à partir des [em1]recettes de base[/em1].
+En faisant des [em1][lua(GetLocalizedString("Item", "BadGrassPotion_Name"))][/em1], tu pourras te débarrasser des [em1][lua(GetLocalizedString("InteractableObject", "LittleHoneyPumkin"))][/em1]...
+Laisses moi finir... Je disais donc, avec des lieux comme, la forêt...
+Je vais enfin pouvoir accéder aux lieux qui étaient bloqués !
 Regardons à travers la forêt ! Il doit bien y avoir quelque chose !
 C'est exactement ce que je dis.
 Le village se trouve sur la droite.
@@ -6959,7 +6959,7 @@ J'ai fait le tour des lieux.
 Ce chaudron de sorcière portable est mignon.
 Virgile ! C'est fabriqué par le [lua(GetLocalizedString("InteriorPropTheme", "BasementBasic"))]!
 Exactement comme celui de la Maison de la Sorcière.
-Exactement !
+D'accord !
 Mais ça ne veut rien dire. L'atelier « Blue Lightning » a beaucoup de succès.
 C'est vrai, mais...
 Il y a encore quelques traces dessus.
@@ -12215,21 +12215,21 @@ Tu l'as appris à l'école.
 J'ai appris à distinguer pas moins de 17 niveaux de chaleur en cuisine.
 Et alors ?
 Je les ai tous oubliés avant même d'avoir eu l'occasion de m'en servir.
-Mais tu l'as appris [em1][lua(GetLocalizedString("Common", "BusStation"))][/em1] toi aussi. Tu devrais t'en souvenir.
+Mais tu as aussi appris ce qu'était un [em1][lua(GetLocalizedString("Common", "BusStation"))][/em1]. Tu devrais t'en souvenir.
 [em1][lua(GetLocalizedString("Common", "BusStation"))][/em1]... Ça me dit quelque chose...
 Ah, maintenant je m'en souviens. C'est l'appareil de téléportation.
 On dirait un gadget tout droit sorti d'un roman.
-Cela vous redirige vers l'autre [em1][lua(GetLocalizedString("Common", "BusStation"))][/em1] qui y est associé.
+Cela vous redirige vers le [em1][lua(GetLocalizedString("Common", "BusStation"))][/em1] qui y est associé.
 J'ai lu un passage sur la téléportation dans un roman de maman, et j'ai toujours voulu essayer moi-même.
 La téléportation est un sort qui doit être utilisé avec prudence.
 C'est pourquoi il faut un diplôme pour construire un [em1][lua(GetLocalizedString("Common", "BusStation"))][/em1] — afin de garantir la sécurité des voyageurs.
 En bref, ils sont faciles et pratiques à utiliser.
 Mais celui-ci semble être complètement cassé ?
-Si un [em1][lua(GetLocalizedString("Common", "BusStation"))][/em1] s'il est resté inutilisé pendant longtemps, vous devez l'entretenir avant de l'utiliser.
+Si un [em1][lua(GetLocalizedString("Common", "BusStation"))][/em1] est resté inutilisé pendant longtemps, tu dois l'entretenir avant de l'utiliser.
 Mais comment l'entretenir ?
 C'est aussi quelque chose que tu as appris à l'école.
-[em1][lua(GetLocalizedString("Common", "BusStation"))][/em1] La maintenance a été entièrement standardisée.
-Soyez concis.
+La maintenance d'un [em1][lua(GetLocalizedString("Common", "BusStation"))][/em1] a été entièrement standardisée.
+Donne-moi la version courte.
 En construire un, c'est difficile, mais l'entretenir, c'est facile. Il suffit d'avoir le matériel nécessaire.
 D'accord, je vais tout de suite rassembler le matériel et m'y mettre.
 Bon, j'ai noté ça sur la carte aussi.
@@ -12496,12 +12496,12 @@ Vous pouvez désormais utiliser ceci [em1][lua(GetLocalizedString("Common", "Wit
 Bon, c'est fait.
 Je peux utiliser le [em1][lua(GetLocalizedString("Common", "WitchStation"))][/em1] maintenant.
 Oh, c'est magnifique.
-Est-ce un élément de décoration de jardin ? Celui que j'ai vu à l'école était un foyer, si je me souviens bien.
+C'est censé être un ornement de jardin ? Celui que j'ai vu à l'école était un foyer, si je me souviens bien.
 Le design dépend du goût esthétique de son créateur.
 Je trouve que celui-ci est bien plus élégant que le foyer.
 Au fait, pourquoi les a-t-on conçues comme des foyers ?
 Alors pourquoi tu voles sur un balai ?
-Je n'arrive pas vraiment à me faire une idée précise de ce qu'étaient les sorcières autrefois.
+Je n'arrive pas vraiment à me faire une idée précise des goûts qu'avaient les sorcières autrefois.
 Bon, utilisons-le tout de suite.
 Oh, je vois la maison de la sorcière. Elle est tellement jolie.
 Il s'agit donc d'un passage destiné à [em1]retourner[/em1] jusqu'à la maison de la sorcière.
@@ -12509,12 +12509,12 @@ Laisse-toi simplement porter par la magie.
 Mais est-ce que je pourrai me téléporter pour revenir si j'utilise ça ?
 En général, les portails sont [em1]bidirectionnel[/em1]. Ne t'inquiète pas.
 Vous ne pouvez pas l'utiliser pour le moment.
-Ceci [lua(GetLocalizedString("Common", "WitchStation"))] se connecte à  [em1][lua(GetLocalizedString("Map", GetGlobalVariable("$225")))][/em1]. L'utiliser ?
+Ce [lua(GetLocalizedString("Common", "WitchStation"))] se connecte à [em1][lua(GetLocalizedString("Map", GetGlobalVariable("$225")))][/em1]. L'utiliser ?
 D'accord, j'y vais.
 Pas maintenant.
 Durabilité insuffisante. Impossible de l'utiliser pour le moment.
 Il faut d'abord le réparer.
-Il peut être utilisé [lua(UseCount)] plus souvent.
+Il peut encore être utilisé [lua(UseCount)] fois.
 Réparation
 <Repair UI>
 Hein ? La porte est fermée ?
@@ -12581,12 +12581,12 @@ On dirait que le [em1]étage inférieur intérieur[/em1].
 Il semble s'agir d'une carte représentant le [em1]l'ensemble de la structure de la grotte[/em1].
 Zone Interdite
 Ces vestiges me semblent familiers...
-Mais tu l'as appris [em1][lua(GetLocalizedString("Common", "WitchStation"))][/em1] toi aussi. Tu devrais t'en souvenir.
+Mais tu as aussi appris ce qu'était un [em1][lua(GetLocalizedString("Common", "WitchStation"))][/em1]. Tu devrais t'en souvenir.
 [em1][lua(GetLocalizedString("Common", "WitchStation"))][/em1]... Ça me dit quelque chose...
-Cela vous redirige vers l'autre [em1][lua(GetLocalizedString("Common", "WitchStation"))][/em1] qui y est associé.
+Cela vous redirige vers le [em1][lua(GetLocalizedString("Common", "WitchStation"))][/em1] qui y est associé.
 C'est pourquoi il faut un diplôme pour construire un [em1][lua(GetLocalizedString("Common", "WitchStation"))][/em1] — afin de garantir la sécurité des voyageurs.
 Mais celui-ci semble être cassé ?
-Si un [em1][lua(GetLocalizedString("Common", "WitchStation"))][/em1] est resté inutilisé pendant longtemps, vous devez l'entretenir avant de l'utiliser.
+Si un [em1][lua(GetLocalizedString("Common", "WitchStation"))][/em1] est resté inutilisé pendant longtemps, tu dois l'entretenir avant de l'utiliser.
 La maintenance d'un [em1][lua(GetLocalizedString("Common", "WitchStation"))][/em1] est entièrement standardisée.
 En général, cela se règle facilement avec les [em1]matériaux à proximité[/em1].
 D'accord, je vais chercher des matériaux dans les environs pour le réparer.
@@ -19410,33 +19410,33 @@ Il a parlé ?
 C’est un corbeau de sorcière.
 Oh, c’est un corbeau de sorcière.
 La Sorcière revient ! La Sorcière revient !
-C’est la première fois que je viens ici, cependant.
+C’est la première fois que je viens ici, par contre.
 [em1]<shake>La Sorcière revient !</shake>[/em1]
-Pas vraiment un auditeur, hein ?
+Il n'est pas trop du genre à écouter, n'est-ce pas ?
 Biens et services ! <shake>Croa !</shake> Biens et services ! <shake>Catalogue des sorcières !</shake>
 Le catalogue des sorcières !
 J’ai toujours voulu l’essayer.
 Tu dois te diriger vers Highlion, jeune fille.
-Mais je ne peux pas juste mourir de faim avant d’être arrivé au village.
-Et après avoir trouvé le village, j’y resterai un moment avant d’aller à Highlion.
-Offre à durée limitée seulement ! Inscrivez-vous dès maintenant pour un [em1]cadeau[/em1]! <shake>Croa !</shake>
-Essayez le [em1]Catalogue des Sorcières[/em1]! Essayez le catalogue des sorcières !
-En plus, ils distribuent des [em1]cadeaux[/em1] ! Et, c’est juste pendant une [em1]durée limitée[/em1] !
-Colle polyvalente ? Accessoires de cuisine ? Une cuchar à cuchars ?
+Mais je ne vais quand même pas me laisser mourir de faim d'ici à ce que je puisse atteindre le village.
+Et une fois que j'aurai trouvé le village, je devrai y rester un moment avant de pouvoir rejoindre Highlion.
+Offre à durée limitée seulement ! Inscrivez-vous dès maintenant pour un [em1]cadeau[/em1] ! <shake>Croa !</shake>
+Essayez le [em1]Catalogue des Sorcières[/em1] ! Essayez le catalogue des sorcières !
+En plus, ils distribuent des [em1]cadeaux[/em1] ! Et, c’est une offre à [em1]durée limitée[/em1] !
+Colle polyvalente ? Accessoires de cuisine ? Un Spork ?
 Quoi qu’il en soit, j’ai besoin du [em1]Catalogue des Sorcières[/em1].
 Tu peux acheter des [em1]ingrédients[/em1] ou des [em1]recettes de potions[/em1] chez eux.
 Très bien, inscrivons-nous pour l’instant.
-Merci !<shake>Croa !</shake>Merci ! Rendez-vous à l’employé ! <shake>Visitez Employé !</shake>
-<shake>Croa !</shake> [em1]<shake>Visitez Employé !</shake>[/em1]
+Merci ! <shake>Croa !</shake> Merci ! Contacter l’employé ! <shake>Contacter l’employé !</shake>
+<shake>Croa !</shake> [em1]<shake>Contacter l’employé !</shake>[/em1]
 <shake>Croa !</shake> [em1]<shake>Cadeau !</shake>[/em1]
 Je suppose que ça ne ferait pas de mal de rester ici un moment.
-[em1]<shake>Fermé pour la journée !</shake>[/em1]
+[em1]<shake>C'est fermé !</shake>[/em1]
 Si soudainement ?
-Ce n’est pas facile de faire passer le message aux corbeaux de la sorcière de la mère.
+Ce n’est pas si simple de comprendre le message d'un corbeaux de sorcière.
 Hmm, alors je suppose que je devrais continuer à chercher le village.
-On ne sait jamais quand le Catalogue des Sorcières va apparaître.
-Restons sur le plan et trouvons le village.
-Travail terminé ! Travail terminé ! <shake>Fermé pour la journée !</shake>
+On ne sait pas quand le Catalogue des Sorcières pourrait surgir.
+Tenons-nous-en au plan et trouvons ce village.
+Fin de journée ! Fin de journée ! <shake>C'est fermé !</shake>
 Au revoir !
 C’est Diane qui apporte le bonheur.
 Avez-vous des questions ?
@@ -31117,12 +31117,12 @@ Avec cela, nous pourrions peut-être déterminer l’idée exacte [em1]<wave>Esp
 Ils ne sont même pas dans l’Encyclopedie. Comment vas-tu le découvrir ?
 Montrons le fragment à quelqu’un et posons-lui des questions à ce sujet.
 Oh, une personne qui vit dans le coin ne saurait-elle pas quelque chose ?
-Ce n’est pas lourd ?
+Ce n’est pas trop lourd ?
 Ce n’est pas le cas.
 Vraiment. Ne me parle pas maintenant.
 Notre village est un peu plus loin d’ici !
 Mais nous ne pouvons pas passer maintenant à cause des vignes piquantes...
-Allons pour l’instant à la maison de la sorcière et trouvons un moyen.
+Allons jusqu'à la maison de la sorcière pour le moment, et nous trouverons un moyen ensuite.
 Désolé, vous ne pouvez pas aller plus loin.
 Pourquoi le train s’est-il arrêté ?
 Il y a [em1]quelque chose[/em1] sur la voie.
@@ -31250,17 +31250,17 @@ Tu te souviens comment ça marche ?
 L’école me l’a martelé dans la tête. Ça ne devrait pas poser de problème, tant que c’est bien dessiné.
 Virgile, regarde ça !
 Elle a tellement grandi.
-Ce n’était pas si grand il y a un moment.
-Ça doit être une Honey Pumpkin adulte.
-On ferait mieux de s’en débarrasser avant qu’il ne pousse davantage.
-Nous ne sommes pas allés à l’endroit derrière. Et pour y aller, il faut s’en débarrasser.
+Elle n’était pas si grande la dernière fois.
+Ça doit être une Petite Citrouille de Miel adulte.
+On ferait mieux de s’en débarrasser avant qu’elle ne pousse davantage.
+Nous ne sommes pas encore allés voir ce qu'il y a derrière. Et pour y aller, il faut s’en débarrasser.
 Quoi ? Je ne suis même pas jardinier. Pourquoi... ?
-Oh, je suppose qu’on ne peut pas s’empêcher d’aller dans le nouvel endroit.
+Oh, je suppose qu’on ne peut pas s’empêcher d’aller dans ce nouvel endroit.
 Je suppose que je devrais faire [em1][lua(GetLocalizedString("Item", "BadGrassPotion_Name"))][/em1].
-N’oubliez pas de retirer le [em1]cœur[/em1] Si vous voulez éviter de répéter la même chose.
+N’oublie pas de retirer le [em1]cœur[/em1] si tu veux éviter de refaire la même chose.
 C’est simple. Je l’ai déjà fait une fois.
-À ce stade, c’est facile.
-Allons au nouvel endroit maintenant.
+Maintenant, c’est quand même bien plus facile.
+Allons visiter ce nouveau lieu maintenant.
 Comment te sens-tu ?
 <shake>Qu’est-ce que tu veux dire ?</shake>
 Tes molaires pourraient tomber. Détends-toi un peu quand tu parles.
@@ -31310,7 +31310,7 @@ Sinon, Mamie va me gronder.
 D’accord. Laisse-moi faire.
 Je vais me débarrasser de cette énorme vigne piquante.
 Je vais te ramener à ton village. Ne t’inquiète pas.
-Oh, avant ça, je devrais t’inviter [em1]Leg[/em1] Premièrement.
+Oh, avant ça, je devrais d'abord m'occuper de ta [em1]jambe[/em1].
 Rubrum, attends ici un instant.
 Nous devons retourner au train d'ici [em1]demain matin[/em1].
 L'[em1]arbre scintillant[/em1] est au [em1]sommet de la montagne[/em1], alors dépêche-toi si tu veux le voir.
@@ -31388,7 +31388,7 @@ Regarde là-bas. Il y a des lianes suspendues sur la falaise.
 Je vais pouvoir grimper jusqu'au sommet.
 C’est une mauvaise nouvelle.
 On y est presque.
-Waouh... La maison d’une sorcière...
+Waouh... Une maison de sorcière...
 Une [em1]lettre[/em1] !
 Comme c’est gentil de leur part de laisser une lettre derrière eux.
 Voyons voir... Je crois que ça vient du barman dans le train.
@@ -31453,16 +31453,16 @@ J’ai encore des choses à faire.
 Arrête de perdre ton temps.
 Si tu as fini, parlons à [em1]Rubrum[/em1] et pars.
 Il n’y a plus rien à faire !
-Héhi ! Je suis rapide, non ?
+Hi hi ! Je suis rapide, non ?
 Tu es arrivé jusqu’ici en si peu de temps ?
 Allez, Ellie !
 Maison de la Sorcière~ Maison de la Sorcière~
-Tu ne me laisses pas vraiment l’occasion de rattraper le retard.
+Tu ne me laisses même pas le temps de te rattraper.
 Personne ne peut attraper un enfant qui court en courant. Ils bougent comme le vent.
-Comme c’est énergique.
+Il est si énérgique.
 Les enfants de cet âge sont forcément obligés de courir partout où ils sont.
 Est-ce que j’étais comme ça aussi ?
-Oh là là, ta mère n’avait plus de tours quand il s’agissait de toi.
+Oh là là, ta mère ne savait plus où donner de la tête quand il s'agissait de toi.
 oui... Probablement ?
 Tu peux marcher ?
 Oui... !
@@ -31477,7 +31477,7 @@ Je vais t’aider à descendre, ne t’inquiète pas.
 Je vais t’aider à descendre tout de suite.
 [em1][lua(GetLocalizedString("Encyclopedia", "MapleHerb_Name"))][/em1] se trouve sur [em1]Falaises[/em1].
 Comme ça.
-Waouh, Virgile. Il y a quelqu’un coincé dans le [em1]Toile d’araignée[/em1].
+Waouh, Virgile. Il y a quelqu’un coincé dans la [em1]Toile d’araignée[/em1].
 Je crois qu’il a perdu connaissance.
 Est-il même vivant ?
 Je ne sais pas... Euh...
@@ -31497,13 +31497,13 @@ Ne t’inquiète pas. Tu vas t’en sortir.
 Je vais t’aider à descendre.
 Il faut faire attention avec les toiles d’araignée, Ellie.
 Ça a l’air assez solide. Un faux pas, et tu vas t’y retrouver coincé toi-même.
-[em1][lua(GetLocalizedString("Encyclopedia", "MapleHerb_Name"))][/em1] Fonctionne mieux contre les insectes.
-Juste un [em1][lua(GetLocalizedString("Encyclopedia", "MapleHerb_Name"))][/em1] Ça devrait suffire.
+L'[em1][lua(GetLocalizedString("Encyclopedia", "MapleHerb_Name"))][/em1] est efficace contre les insectes.
+Utilise juste une [em1][lua(GetLocalizedString("Encyclopedia", "MapleHerb_Name"))][/em1] Ça devrait faire l'affaire.
 J’ai appris ça [em1][lua(GetLocalizedString("Encyclopedia", "MapleHerb_Name"))][/em1] Continue [em1]Falaises[/em1].
 Je l’apporterai bientôt.
 Oui, reviens vite.
-Si c’est le cas[lua(GetLocalizedString("Encyclopedia", "MapleHerb_Name"))], je l’ai.
-S’accrocher à la toile d’araignée, c’est trop ennuyeux.
+Si c’est des [lua(GetLocalizedString("Encyclopedia", "MapleHerb_Name"))], j'en ai.
+Se retrouver piégé dans une toile d’araignée, c’est vraiment trop gênant.
 J’ai mal aux jambes. Je ne peux plus marcher.
 Pas étonnant que ce gamin courait partout avec autant d’énergie.
 Je te porte alors.
@@ -34012,7 +34012,7 @@ Enlever la petite citrouille miel sur le plateau de la forêt verte
 Utilisez la potion Terminator de Mauvaise Herbe pour retirer la petite citrouille au miel sur le plateau de la Forêt Verte.
 Potion Terminator de Mauvaise Herbe en préparation
 Rassemblez et transformez les matériaux pour fabriquer la potion Terminator de Mauvaise Herbe.
-Un moyen de se débarrasser des énormes lianes piquantes
+Trouver un moyen de se débarrasser des énormes lianes piquantes
 Apportez de l’herbe d’érable
 Un renard sur les toiles d’araignée
 La vérité derrière les géantes lianes épineuses
@@ -34109,11 +34109,11 @@ Qui reviendra ? 4
 Qui reviendra ? 5
 Qui reviendra ? 6
 1x Potion de Nutrition
-Préparez des potions supplémentaires
-Remplissez l’atlas de la Forêt Verte.
-Récupérez la carte de la Forêt Verte
+Préparer des potions supplémentaires
+Remplir l’atlas de la Forêt Verte.
+Récupérer la carte de la Forêt Verte
 Construisez de l’affection avec le chat
-Utilise la Station de la Sorcière
+Utilise le portail de sorcière
 Agrandir la maison
 1x Bonbons Endormis
 1x Soupir Candy
