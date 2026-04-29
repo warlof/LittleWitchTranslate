@@ -640,8 +640,8 @@ Quand il reste moins de 2 pétales
 Quand la fleur est en fleurs et que les pétales ne sont pas tombés
 Atteindre « Super »
 Atteindre « Parfait »
-Bonus Disponible lors de la Préparation Haute Note
-Chance de Haute Note pendant la Préparation Automatique
+Bonus lors d'une prép. avec un score élevé
+Proba. de score élevé lors d'une prép. auto.
 « Belle Récompense »
 Score total
 Avant qu'il ne fuit dans un trou
@@ -18235,22 +18235,22 @@ Oh... Bien sûr...
 La nature est à couper le souffle.
 Tu dois beaucoup aimer la nature.
 Je suppose que tout le monde apprécie la nature, puisqu’elle est si charmante.
-D’accord, je reviens.
+Excusez-moi un instant, je reviens.
 Promenez-vous sous le vaste ciel et ressentez le charme de la nature !
-C’était une fan inconditionnelle de la nature.
+On vient de tomber sur une vraie fanatique de la nature.
 Elle est tellement enthousiaste qu'il est impossible d'avoir une conversation normale avec elle.
 Tu devrais respecter ses centres d'intérêts.
 Je pense que c’est plutôt une obsession à ce niveau.
-Il y a quelque chose qui ne va pas chez elle.
+Il y a quelque chose qui n'est pas normal chez elle.
 Tu penses qu’elle est [em1]maudite[/em1] ou quelque chose comme ça ?
-Une [em1]malédiction[/em1] qui la pousserait à faire sans cesse des louanges sur la nature ?
-Une [em1]malédiction[/em1] lancée par un obsédé de la nature ? Eh bien, peut-être.
+Une [em1]malédiction[/em1] qui la pousserait à faire l'éloge de la nature sans relâche ?
+Une [em1]malédiction[/em1] lancée par un gourou de la nature ? Eh bien, peut-être.
 Beaucoup de sorcières sont excentriques, après tout.
 Bon, faisons un [em1][lua(GetLocalizedString("Item", "UncurseCandy_Name"))][/em1] pour lever la malédiction.
 Oh, mais on ne peut plus utiliser l’outil de préparation pour l'instant.
 Je dois transformer ce qui a été collecté pour faire des bonbons. Comment puis-je faire ?
 Tu as pris plusieurs ingrédients au [em1]laboratoire[/em1] tout à l’heure, n’est-ce pas ?
-Ça suffirait à faire un [em1][lua(GetLocalizedString("Item", "UncurseCandy_Name"))][/em1].
+Ça doit suffir à faire un [em1][lua(GetLocalizedString("Item", "UncurseCandy_Name"))][/em1].
 Et as-tu vu la chose à côté d’eux ?
 À côté d’eux ? Quoi ?
 Il y a une bouteille en verre qui serait parfaite comme [em1][lua(GetLocalizedString("Item", "ExtractorGlassBottle_Name"))][/em1].
@@ -18258,7 +18258,7 @@ Il y en a vraiment !
 Le [em1][lua(GetLocalizedString("Item", "UncurseCandy_Name"))][/em1] peut lever la malédiction... Ça devrait faire partie des recettes de base...
 Et récupérons cette bouteille en verre en guise de récompense.
 Ce serait bien.
-Tu n’as pas fait un[em1][lua(GetLocalizedString("Item", "UncurseCandy_Name"))][/em1]À l’instant ?
+Tu n’as pas fait un [em1][lua(GetLocalizedString("Item", "UncurseCandy_Name"))][/em1] À l’instant ?
 Je suppose que je peux simplement lui donner.
 Bon, maintenant levons la malédiction.
 Commençons d’abord par vérifier la recette [em1]des bonbons qui peuvent lever la malédiction[/em1] dans le [em1]Grimoire[/em1].
@@ -19045,20 +19045,20 @@ Waouh, merci beaucoup. Au diable la nature.
 Je suppose que c’était vraiment une malédiction.
 J’ai rencontré un vieil homme dans la jungle à l’ouest d’ici. Il était apparemment méfiant.
 Je ne pouvais tout simplement pas passer à côté d'une statuette en bois en forme de singe qui soit aussi bien réalisée.
-Après l’avoir acheté, je n’ai pu exprimer que des louanges envers la nature...
-Dès que j’essayais de faire du sarcasme, tout ce qui sortait, c’étaient des louanges envers la nature. Pure torture.
+Après l’avoir acheté, je n’ai pu que proclamer la grandeur de la nature...
+Dès que j’essayais de faire du sarcasme, tout ce qui sortait, c’étaient des éloges sur la nature. Pure torture.
 J’espère que la nature pourrira et mourra.
 Je suis quand même contente que la malédiction ait été facilement levée.
 Oh, merci beaucoup ! Je m’appelle [em1]Aurea[/em1].
 <shake>Depuis combien de temps n’ai-je pas prononcé mon nom...</shake>
 Je m’appelle Ellie. Je suis apprentie sorcière.
-Oh, vous êtes venu dans ce village pour être apprenti ?
-J’étais dans un train, mais je suis descendu un instant et il est parti sans moi...
+Oh, vous êtes venu dans ce village pour devenir apprenti ?
+J’étais dans un train, mais je suis descendu un instant et il est reparti sans moi...
 Oh là là...
 Je voulais entrer dans le village, mais il est bloqué par des vignes piquantes.
 Satanée nature.
-Heureusement, nous avons trouvé une maison de sorcière innocupée à proximité, donc j’y reste.
-Une maison de sorcière vide... Oh oui, il y en a une ici. C’est une bonne chose.
+Heureusement, nous avons trouvé une maison de sorcière inocupée à proximité, donc j’y séjourne quelque temps.
+Une maison vide... Ah oui, il y a bien une maison de sorcière abandonnée par ici. Tant mieux.
 J’avais aussi des affaires à régler au village, mais les vignes m’empêche d'y accéder. Qu'est-ce que la nature peut-être casse pied.
 Je resterai ici un moment, alors dites-moi si vous avez besoin de quoi que ce soit.
 Oh, alors... Est-ce que je peux vous demander un petit service ?
@@ -19066,12 +19066,12 @@ Pas de service, mais une offre à un [em1]prix équitable[/em1].
 Je me suis rendu compte que les outils étaient cassés en essayant d’utiliser le laboratoire de la maison de la sorcière.
 Avez-vous des outils ou des pièces détachées ?
 De quels types d’outils ou de pièces détachées avez-vous besoin ?
-J’ai besoin d’une bouteille en verre pour [em1]l'extracteur[/em1] et d'une [lua(GetLocalizedString("Item", "RoasterHandle_Name"))] pour remonter le [em1]Torréfacteur[/em1].
+J’ai besoin d’une bouteille en verre pour l'[em1]Extracteur[/em1] et d'une [lua(GetLocalizedString("Item", "RoasterHandle_Name"))] pour remonter le [em1]Torréfacteur[/em1].
 Attendez une minute... Je vais vous trouver ça.
 Mais Ellie, est-ce que tu as de l’argent au moins ?
-Oui. Maman m’a donné de l’argent de poche avant de partir.
+Oui. Maman m’a donné un peu d’argent avant de partir.
 Tu penses pouvoir acheter des outils de sorcière avec juste assez d’argent de poche pour acheter un ou deux encas ?
-Bah oui, pourquoi ?
+Bah oui, pourquoi pas ?
 Qu'est-ce qu'on fait si je n’ai pas assez d’argent ?
 Puisque tu as des outils, fabrique et vends des potions ou quelque chose comme ça.
 Tu peux aussi vendre des bonbons maintenant.
@@ -19097,11 +19097,12 @@ Et prenez ceci en bonus. Maintenant vous pouvez me remercier.
 Haha, d’accord, merci.
 De rien, j’attends votre prochaine visite avec impatience.
 Nous pouvons enfin réparer l’Extracteur.
-Mais vas-tu vraiment rester dans ce village ?
-Je devrais le faire jusqu’à ce que le train arrive.
+Mais... tu vas vraiment rester dans ce village ?
+Je vais bien devoir le faire jusqu’à ce que le train revienne.
 Je n’ai pas le choix.
-Non, je veux dire, tu vas vraiment partir quand le train arrive ?
-Je déciderai quand ça viendra.
+Non, je veux dire... tu vas vraiment partir quand le train repassera ?
+A propos de ça...
+Je déciderai le moment venu.
 Réparons d’abord l’Extracteur.
 Quelque chose vous tracasse ?
 Désirez-vous de l’eau ?
@@ -31102,7 +31103,7 @@ Préparons la potion dont nous avons besoin en les utilisant pour l’instant.
 Hein ? Ce n’est pas un [em1]Village[/em1]?
 Regarde là-bas, Ellie ! C’est une [em1]vigne épineuse[/em1] cette fois.
 Et elle est vraiment dense et gigantesque.
-Que dois-je faire avec l’Extracteur ?
+Que dois-je faire pour l’Extracteur ?
 Commence par regarder aux alentours.
 Waouh, c’est vraiment énorme.
 Trop grand pour la "[lua(GetLocalizedString("Item", "BadGrassPotion_Name"))]", je crois.
