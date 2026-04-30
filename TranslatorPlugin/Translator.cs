@@ -83,13 +83,13 @@ namespace TranslatorPlugin
         private static string _timeFormat = "{0:00}:{1:00} <size=8>{2}</size>";
         private static Dictionary<DayOfWeek, string> DayNames = new Dictionary<DayOfWeek, string>()
         {
-            { DayOfWeek.Monday, "Montag" },
-            { DayOfWeek.Tuesday, "Dienstag" },
-            { DayOfWeek.Wednesday, "Mittwoch" },
-            { DayOfWeek.Thursday, "Donnerstag" },
-            { DayOfWeek.Friday, "Freitag" },
-            { DayOfWeek.Saturday, "Samstag" },
-            { DayOfWeek.Sunday, "Sonntag" },
+            { DayOfWeek.Monday, "Lundi" },
+            { DayOfWeek.Tuesday, "Mardi" },
+            { DayOfWeek.Wednesday, "Mercredi" },
+            { DayOfWeek.Thursday, "Jeudi" },
+            { DayOfWeek.Friday, "Vendredi" },
+            { DayOfWeek.Saturday, "Samedi" },
+            { DayOfWeek.Sunday, "Dimanche" },
         };
         public static void UpdateTime(TimeHUDController controller)
         {
