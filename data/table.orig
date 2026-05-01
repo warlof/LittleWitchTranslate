@@ -6825,7 +6825,7 @@ Well, I know I shouldn't read someone's notebook without permission... but I can
 Save the first sentence if you really think so.
 Hehe, let's have a look.
 Meh, I thought I finally discovered something interesting.
-There seems to be something between the last pages?
+There seems to be something between the next pages.
 Hm? Oh! It's an envelope. And it's been processed to endure wear.
 I can feel something inside. I'll tear the top apart...
 Oh no... What a pity. The letters are blurry.
@@ -12110,8 +12110,8 @@ You sure you want me to do that?
 Of course. We're friends, right?
 Looks like the next few lines are about the [em1][lua(GetLocalizedString("Encyclopedia", "MoonFlower_Name"))][/em1], though.
 <shake>What? Really?</shake>
-Let's see here... Bitter Grape Tea Tree...?
-[em1]Bitter Grape Tea Tree[/em1]. That's the [em1]tree we saw at the summit[/em1]! The glowing one!
+Let's see here... Bitter grape tea tree...?
+[em1]Bitter grape tea tree[/em1]. That's the [em1]tree we saw at the summit[/em1]! The glowing one!
 The glow came from the [em1]Bluemoon Butterflies[/em1].
 Hmm, the tea leaves... Blah blah blah... taste like grape... strong sour taste... Oh, here it is.
 Blah blah blah... It is famous for its flowers, the [em1][lua(GetLocalizedString("Encyclopedia", "MoonFlower_Name"))][/em1].
