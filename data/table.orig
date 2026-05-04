@@ -1269,7 +1269,7 @@ The recipe of Moon Oil. It gives off bright moonlight.
 FurBall Rat Fur
 It smells nice and has a unique scent. Note that pollen may make it sneeze.
 Muscular Cupcake
-A cupcake that permanently boosts the consumer's stamina and increases their muscle mass.
+A cupcake that permanently boosts the consumer's Stamina and increases their muscle mass.
 {InteriorPropTheme.BasicTheme} Medium {InteriorPropBasicName.Storage}
 {InteriorPropTheme.BasicTheme} Small {InteriorPropBasicName.Storage}
 {InteriorPropTheme.CozyQuilt} Small {InteriorPropBasicName.Storage}
@@ -20857,7 +20857,7 @@ Leave when the train comes. This place is... not a village anymore.
 Why did the prickly vines started growing all of a sudden?
 There were lots of rumors, but no one actually knew why.
 They started growing all of a sudden without any explanation.
-<shake>That can’t happen!</shake>
+<shake>I won't give up yet!</shake>
 Highlion is boring as hell!
 Virgil! Language!
 The [em1]villagers[/em1] are all gone. Even if the prickly vines are removed, what's the meaning?
@@ -31430,9 +31430,9 @@ Don't worry about that.
 I'm the one who [em1]decided[/em1] to do it. It's what I really wanted to do.
 And this is my [em1]choice[/em1].
 It's no a big deal.
-You can come to the Witch's House anytime you want.
+You can come to the witch's house anytime you want.
 Are you going to stay here?
-Yeah, I think I’ll stay here throughout my apprenticeship.
+Yeah, I think I'll stay here throughout my apprenticeship.
 Really. Let's spend more time together, Rubrum.
 Okay! Let's spend more time together, Ellie!
 Hurry up and go home for now.
@@ -31440,7 +31440,7 @@ Your granny must be worried. I'll find you later.
 Okay! See you in a bit!
 Yeah~
 Woohoo! The [em1][lua(GetLocalizedString("Item", "MoonOil_Name"))][/em1] is ready!
-Let’s go get rid of the prickly vines now!
+Let's go get rid of the prickly vines now!
 Woohoo! The [em1]"[lua(GetLocalizedString("Item", "SunlightPotion_Name"))]"[/em1] is ready!
 Let's go to the tree right away!
 Ellie, the [em1][lua(GetLocalizedString("Item", "MoonOil_Name"))][/em1] is...
@@ -31543,7 +31543,7 @@ If we do that, we will not be able to get back on the [em1]train[/em1].
 That means you will not make it to [em1]Highlion[/em1].
 That again?
 You just like it here better.
-You just don't like the Witch's House in Highlion.
+You just don't like the witch's house in Highlion.
 Stop being childish. You're going to regret it later.
 No, Virgil.
 What I will regret is not doing this right now. I'm sure of it.
