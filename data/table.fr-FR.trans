@@ -197,7 +197,7 @@ Réduit la consommation de fatigue
 Accorde de l'énergie supplémentaire
 Accélère la récupération d'énergie
 Réduit la consommation d'énergie
-Augmente les chances d'obtenir des objets collectés ordinaires rares
+Augmente les chances d'obtenir des objets rares
 Augmente les cadeaux de Ritoring obtenus
 Détecte les Ritorings
 Annule la pénalité de repos obligatoire
@@ -989,7 +989,7 @@ De l'eau avec une lueur rosâtre, contenant le pouvoir de la lune. Elle émet un
 Plume de Phénix
 La plume du phénix immortel. Elle brille en rouge, comme si elle brûlait.
 Poudre de Plume de Phénix
-Poudre faite en brûlant des plumes de phénix. Elle scintille rouge vif en raison de la chaleur et de la magie.
+Poudre faite en brûlant des plumes de phénix. Elle scintille d'un rouge vif en raison de la chaleur et de la magie.
 Potion d'Extermination
 Élimine les mauvaises herbes de votre jardin.
 Cranaple
@@ -1883,40 +1883,40 @@ Petit Appât
 Appât fait pour être parfait pour les <color=#800000>petits</color> poissons. Il est très glissant.
 Appât Doré
 Appât fait pour être parfait pour les poissons <color=#800000>rares</color>. Il scintille quand il capte la lumière.
-{EffectFoodCommon.Food_Perfect} Thé Vert
-{EffectFoodCommon.Food_Perfect} Thé Noir
-{EffectFoodCommon.Food_Perfect} Beignet au Sirop
-{EffectFoodCommon.Food_Perfect} Kebab de Viande
-{EffectFoodCommon.Food_Perfect} Beignet au Chocolat
-{EffectFoodCommon.Food_Perfect} Beignet à la Crème de Noix
-{EffectFoodCommon.Food_Perfect} Ragoût de Côtes Épicé
-{EffectFoodCommon.Food_Perfect} Pain de Bœuf
-{EffectFoodCommon.Food_Perfect} Steak
-{EffectFoodCommon.Food_Perfect} Thé aux Fruits
-{EffectFoodCommon.Food_Perfect} Thé aux Herbes
-{EffectFoodCommon.Food_Delicious} Kebab de Viande
-{EffectFoodCommon.Food_Delicious} Thé Noir
-{EffectFoodCommon.Food_Delicious} Thé Vert
-{EffectFoodCommon.Food_Delicious} Beignet à la Crème de Noix
-{EffectFoodCommon.Food_Delicious} Beignet au Chocolat
-{EffectFoodCommon.Food_Delicious} Beignet au Sirop
-{EffectFoodCommon.Food_Delicious} Ragoût de Côtes Épicé
-{EffectFoodCommon.Food_Delicious} Pain de Bœuf
-{EffectFoodCommon.Food_Delicious} Steak
-{EffectFoodCommon.Food_Delicious} Thé aux Fruits
-{EffectFoodCommon.Food_Delicious} Thé aux Herbes
-{EffectFoodCommon.Food_Normal} Kebab de Viande
+Thé Vert {EffectFoodCommon.Food_Perfect}
+Thé Noir {EffectFoodCommon.Food_Perfect}
+Beignet au Sirop {EffectFoodCommon.Food_Perfect}
+Kebab de Viande {EffectFoodCommon.Food_Perfect}
+Beignet au Chocolat {EffectFoodCommon.Food_Perfect}
+Beignet à la Crème de Noix {EffectFoodCommon.Food_Perfect}
+Ragoût de Côtes Épicé {EffectFoodCommon.Food_Perfect}
+Pain de Bœuf {EffectFoodCommon.Food_Perfect}
+Steak {EffectFoodCommon.Food_Perfect}
+Thé aux Fruits {EffectFoodCommon.Food_Perfect}
+Thé aux Herbes {EffectFoodCommon.Food_Perfect}
+Kebab de Viande {EffectFoodCommon.Food_Delicious}
+Thé Noir {EffectFoodCommon.Food_Delicious}
+Thé Vert {EffectFoodCommon.Food_Delicious}
+Beignet à la Crème de Noix {EffectFoodCommon.Food_Delicious}
+Beignet au Chocolat {EffectFoodCommon.Food_Delicious}
+Beignet au Sirop {EffectFoodCommon.Food_Delicious}
+Ragoût de Côtes Épicé {EffectFoodCommon.Food_Delicious}
+Pain de Bœuf {EffectFoodCommon.Food_Delicious}
+Steak {EffectFoodCommon.Food_Delicious}
+Thé aux Fruits {EffectFoodCommon.Food_Delicious}
+Thé aux Herbes {EffectFoodCommon.Food_Delicious}
+Kebab de Viande {EffectFoodCommon.Food_Normal}
 Thé de Grains de Café
-{EffectFoodCommon.Food_Normal} Thé Noir
-{EffectFoodCommon.Food_Normal} Thé Vert
-{EffectFoodCommon.Food_Normal} Beignet à la Crème de Noix
-{EffectFoodCommon.Food_Normal} Beignet au Chocolat
-{EffectFoodCommon.Food_Normal} Beignet au Sirop
-{EffectFoodCommon.Food_Normal} Ragoût de Côtes Épicé
-{EffectFoodCommon.Food_Normal} Pain de Bœuf
-{EffectFoodCommon.Food_Normal} Steak
-{EffectFoodCommon.Food_Normal} Thé aux Fruits
-{EffectFoodCommon.Food_Normal} Thé aux Herbes
+Thé Noir {EffectFoodCommon.Food_Normal}
+Thé Vert {EffectFoodCommon.Food_Normal}
+Beignet à la Crème de Noix {EffectFoodCommon.Food_Normal}
+Beignet au Chocolat {EffectFoodCommon.Food_Normal}
+Beignet au Sirop {EffectFoodCommon.Food_Normal}
+Ragoût de Côtes Épicé {EffectFoodCommon.Food_Normal}
+Pain de Bœuf {EffectFoodCommon.Food_Normal}
+Steak {EffectFoodCommon.Food_Normal}
+Thé aux Fruits {EffectFoodCommon.Food_Normal}
+Thé aux Herbes {EffectFoodCommon.Food_Normal}
 Une boule de poils spécialement traitée par Enite. Elle a un éclat brillant et semble robuste.
 Boule de Poils de Renard Brumeux Traitée
 Des livres que Clara a empruntés à la bibliothèque.
@@ -3314,7 +3314,7 @@ Se renseigner auprès d'Aurea concernant ce fragment de ronce géante.
 Fouiller les livres de la Maison de la Sorcière pour trouver des informations sur la Fleur de Lune.
 Préparez une potion de soleil.
 Rends-toi au sommet de la montagne avec Rubrum et va chercher des fleurs de lune.
-Utilise une fleur de lune et une plume de phénix pour fabriquer de l'huile de lune.
+Utiliser une fleur de lune et une plume de phénix pour fabriquer de l'huile de lune.
 Utilise l'huile de lune pour te débarrasser des ronces géantes et aider Rubrum à retourner au village.
 Cherche les ronces près du lac.
 Enlève la laitue toxique près du lac.
@@ -3330,10 +3330,10 @@ Rénovation de la Maison de la Sorcière
 Demandez si quelqu'un peut aider à réparer la Maison de la Sorcière.
 Approvisionnement en matériaux
 Procurez-vous le matériel auprès de Kyla.
-Partez à la découverte du village.
+Aller explorer le village.
 Cherche Rubrum dans le village.
-Trouvez le chef du village et allez lui parler.
-Enite a besoin de temps pour réfléchir. Va dormir pour l'instant.
+Trouver le chef du village et aller lui parler.
+Enite a besoin de temps pour réfléchir. Aller dormir pour l'instant.
 Demandez à Enite si elle a pris sa décision.
 Vérifie l'état de la maison de Kyla
 Parle aux villageois pour recueillir des informations sur les ronces.
@@ -3620,53 +3620,53 @@ Remplis la gamelle du chat avec du poisson.
 Demandez conseil à Enite pour savoir où placer la gamelle pour chat.
 Placez la gamelle à nourriture pour chat à l'endroit indiqué par Enite.
 Donner 2x {Item.EnduranceUpCandy} pour rejoindre Arin et célébrer la cérémonie avec elle.
-Réalisez la {Item.WeaknessPotion}.
-Utilisez la {Item.WeaknessPotion} pour lever le sceau sur le livre d'Arin.
+Réaliser la {Item.WeaknessPotion}.
+Utiliser la {Item.WeaknessPotion} pour lever le sceau sur le livre d'Arin.
 Réaliser la {Item.BadGrassPotion}
 Enlevez les ronces géantes et épineuses
-Apportez {Item.MapleHerb_Collect}
+Apporter {Item.MapleHerb_Collect}
 Rescue Rubrum
-Réalisez la {Item.SunlightPotion}
+Réaliser la {Item.SunlightPotion}
 Obtenir {Item.MoonFlower_Collect}
-Réalisez la {Item.MoonTear}
-Réalisez l' {Item.MoonOil}
-Réalisez la {Item.RememberDreamPotion}
-Utilisation {Item.RememberDreamPotion}
-Réalisez la {Item.FirecrackerPotion}
-Réalisez la {Item.GlueCandy}
+Réaliser la {Item.MoonTear}
+Réaliser l'{Item.MoonOil}
+Réaliser la {Item.RememberDreamPotion}
+Utiliser {Item.RememberDreamPotion}
+Réaliser la {Item.FirecrackerPotion}
+Réaliser la {Item.GlueCandy}
 Découvrir {Map.RainbowForest_Basin}
-Réalisez la {Item.ColourfulPotion}
+Réaliser la {Item.ColourfulPotion}
 Enquêter à {Map.GreenForest_Waterfall}
 Enquêter à {Map.GreenForest_Deep}
 Enquêter à {Map.GreenForest_Plateau}
-Utilisation {Item.StickyHandsPotion}
+Utiliser {Item.StickyHandsPotion}
 Livrer la {Item.Branch_Special}
-Obtenez la recette de {Item.WeaknessPotion}
-Réalisez la {Item.WeaknessPotion}
+Obtenir la recette de {Item.WeaknessPotion}
+Réaliser la {Item.WeaknessPotion}
 Livrer la {Item.WeaknessPotion}
 Parlons de {CandyName.NoiseCandy}
 Livrer le {CandyName.NoiseCandy}
 Livrer le {CandyName.UncurseCandy}
-Récupérez le {Item.LittleMandrake_Collect}
+Récupérer le {Item.LittleMandrake_Collect}
 Livrer le {CandyName.BugFreeCandy}
 Livrer le {CandyName.ScratchCandy}
-Préparez le {Item.StarJuice_Silver}
+Préparer le {Item.StarJuice_Silver}
 Livrer le {Item.StarJuice_Silver}
 Livrer le {Item.FlowerBird_Collect}
 Livrer le {CandyName.AntidoteCandy}
-Utilisation {CandyName.AntidoteCandy}
+Utiliser {CandyName.AntidoteCandy}
 Enquêter à {Map.RainbowForest_Basin}
-Visitez {Map.GreenForest_Waterfall}
-Fouillez le lac à {Map.GreenForest_Waterfall}
+Visiter {Map.GreenForest_Waterfall}
+Fouiller le lac à {Map.GreenForest_Waterfall}
 Rechercher {Map.RainbowForest_Basin}
-Réalisez le {CandyName.CurseWatchCandy}
-Donnez le {CandyName.UncurseCandy} à Arden
-Donnez le {CandyName.UncurseCandy}
+Réaliser le {CandyName.CurseWatchCandy}
+Donner le {CandyName.UncurseCandy} à Arden
+Donner le {CandyName.UncurseCandy}
 Livrer le {CandyName.CurseWatchCandy}
-Rassemble le matériel nécessaire pour fabriquer le jouet de Freddie.
+Rassembler le matériel nécessaire pour fabriquer le jouet de Freddie.
 2 {Item.Branch_Special}
 1 {FishName.Murchin}
-Rassemble le matériel pour Kyla.
+Rassembler le matériel pour Kyla.
 6 {Item.Mongsiri_Collect}
 3 {Item.Bellody_Collect}
 3 {Item.Moondelion_Collect}
@@ -3675,31 +3675,31 @@ Rassemble le matériel pour Kyla.
 Demander de l'aide
 Livrer le matériel de réparation
 Réparer la maison de la sorcière
-Jetez un coup d'œil au rez-de-chaussée
-Jetez un coup d'œil au deuxième étage
-Jetez un coup d'œil à l'atelier
-Appuyez sur l'horloge décorative dans la maison
-Parle au lézard
+Jeter un coup d'œil au rez-de-chaussée
+Jeter un coup d'œil au deuxième étage
+Jeter un coup d'œil à l'atelier
+Appuyer sur l'horloge décorative dans la maison
+Parler au lézard
 Aller chercher les meubles au garde-meubles
-Parle à Diane
+Parler à Diane
 Livrer les articles collectés
-Renseignez-vous sur le chat
-Contactez Rubrum
-Retrouvez les traces du chat
-Trouve le chat
-Parle à Freddie
+Se Renseigner sur le chat
+Contacter Rubrum
+Retrouver les traces du chat
+Retrouver le chat
+Parler à Freddie
 Livrer le poisson
-Demandez à Aurea
+Demander à Aurea
 Mets le poisson dans le saladier
 Obtenir l'accord d'Enite
-Placez la gamelle
-Parle au villageois qui vend des meubles
+Placer la gamelle
+Parler au villageois qui vend des meubles
 Fixer le panneau de toit
 Réparer l'ascenseur
 Fixer l'échelle suspendue
 Réparer l'ascenseur en forme de champignon
 Lire la lettre de Freddie
-Donne le poisson à Freddie
+Donner le poisson à Freddie
 Trouver l'arbre qui brille
 Trouver quelque chose de spécial
 Poursuivre le chat blanc
@@ -3724,246 +3724,246 @@ Retourner à votre emplacement
 Parler aux gens
 Réparer le balai
 Mettre à jour le Grimoire
-Découvrez le village
-Retrouvez Rubrum dans le village
-Retrouvez Enite au village
+Trouver le village
+Retrouver Rubrum dans le village
+Retrouver Enite au village
 Dormir dans son lit
-Contactez Enite
+Contacter Enite
 Organiser un dialogue
-Lisez le livre dans la maison de la sorcière
+Liser le livre dans la maison de la sorcière
 Inspecter le terrain de Kyla
-Inspectez à nouveau le terrain de Kyla
-Suivez la ronce
-Rendez-vous à l'endroit où Rubrum a été sauvé
-Résolvez l'énigme du temple
+Inspecter à nouveau le terrain de Kyla
+Suiver la ronce
+Se rendre à l'endroit où Rubrum a été sauvé
+Résoudre l'énigme du temple
 Rechercher le cœur de la ronce
-Retirez le cœur épineux de la ronce
+Retirer le cœur épineux de la ronce
 Redonner vie au haricot magique flétri
-Trouvez un moyen de vous occuper de l'oiseau Gaga
+Trouver un moyen de vous occuper de l'oiseau Gaga
 Sur les traces de la ronce
-Trouvez un moyen de déchiffrer le message
+Trouver un moyen de déchiffrer le message
 Obtenir l'eau sacrée
 Déchiffre le mot
-Remettez la lettre
-Discutez avec Kyla
-Attendez que la maison soit terminée
-Parlez aux villageois
-Parle au Dieu du Chat Blanc
-Attends Roy
-Organisez la fête au village
-Récupérez deux statues
+Remetter la lettre
+Discuter avec Kyla
+Attender que la maison soit terminée
+Parler aux villageois
+Parler au Dieu du Chat Blanc
+Attendre Roy
+Organiser la fête au village
+Récupérer deux statues
 Attendre la fin des travaux de rénovation du temple
 Explorer le temple
 Rechercher l'appareil
-Remettez la boîte à souvenirs à Enite
-Visitez le temple de nuit
-Parle à Kyla devant le temple
+Remettre la boîte à souvenirs à Enite
+Visiter le temple de nuit
+Parler à Kyla devant le temple
 Visiter le temple
-Venez chercher la boîte à souvenirs
+Vener chercher la boîte à souvenirs
 Reconstruire le temple
-Parle au Dieu Chat Noir
+Parler au Dieu Chat Noir
 Trouver des matériaux de maçonnerie
 Livrer le matériel
-Attendez que les briques soient fabriquées
-Suivez les ronces
-Surveillez cette étrange créature
-Trouve un moyen de briser la barrière des sorcières
+Attendre que les briques soient fabriquées
+Suivre les ronces
+Surveiller cette étrange créature
+Trouver un moyen de briser la barrière des sorcières
 Réparer la planche cassée
-Cherche le temple dans la Vallée des Nuages
-Rendez-vous au camping
-Découvrez le camping
-Trouvez un moyen de dissiper la fumée
-Trouvez une clé pour ouvrir la porte
-Récupère la clé auprès de cette étrange créature
-Trouve la poupée
-Utilisez la touche bleue
-Donne la poupée à Honey Bear
-Découvrez d'autres moyens de lever la barrière de la sorcière
-Calme cette étrange créature
-Entrez dans le champignon rouge
-Découvrez Cloud Vally en aval
-Faites le tri dans le désordre
-Trouvez la plaque en bois
-Trouve la poupée de cette étrange créature
-Nettoie la poupée
+Chercher le temple dans la Vallée des Nuages
+Se rendre au camping
+Découvrir le camping
+Trouver un moyen de dissiper la fumée
+Trouver une clé pour ouvrir la porte
+Récupèrer la clé auprès de cette étrange créature
+Trouver la poupée
+Utiliser la touche bleue
+Donner la poupée à Honey Bear
+Découvrer d'autres moyens de lever la barrière de la sorcière
+Calmer cette étrange créature
+Entrer dans le champignon rouge
+Découvrer Cloud Vally en aval
+Faire le tri dans le désordre
+Trouver la plaque en bois
+Trouver la poupée de cette étrange créature
+Nettoyer la poupée
 Livrer la poupée
-Aide-moi à réparer la poupée
-Remettez la poupée nettoyée
-Rendez visite au Dieu Chat Noir
-Faites preuve de sincérité
-Trouvez les feuilles de thé
+Aider à réparer la poupée
+Remettre la poupée nettoyée
+Rendre visite au Dieu Chat Noir
+Faire preuve de sincérité
+Trouver les feuilles de thé
 Livrer les feuilles de thé
 Proposer du thé
 Rembourser la dette de Diane
-Renseigne-toi sur le prochain villageois qui se trouve de l'autre côté du pont
-Renseignez-vous sur la bibliothèque
-Visitez Kyla
+Se renseigner sur le prochain villageois qui se trouve de l'autre côté du pont
+Se renseigner sur la bibliothèque
+Visiter Kyla
 Se procurer le plan
 Livrer le matériel de rénovation
-Aide Kyla à réparer la maison
-Attends
+Aider Kyla à réparer la maison
+Attendre
 Exploiter un filon avec Rex
 Livrer le minerai
-Attendez que la scène soit réparée
-Choisissez la décoration de la scène
-Parle à Arden
-Parle à Alvin
-Préparez des potions pour la fête
+Attendre que la scène soit réparée
+Choisir la décoration de la scène
+Parler à Arden
+Parler à Alvin
+Préparer des potions pour la fête
 Que la fête commence !
-Rencontrez Kyla
-Rencontrez Roy
-Rencontrez Arden
-Rencontrez les habitants de la bibliothèque
-Rencontrez Vinch et Alvin
+Rencontrer Kyla
+Rencontrer Roy
+Rencontrer Arden
+Rencontrer les habitants de la bibliothèque
+Rencontrer Vinch et Alvin
 Que le concert commence
-Sauvegardez le ragoût aux ingrédients aléatoires
-Profitez bien de la soirée ragoût
-Rendez-vous chez Rex
-Vérifiez la scène
+Sauvegarder le ragoût aux ingrédients aléatoires
+Profiter bien de la soirée ragoût
+Se rendre chez Rex
+Vérifier la scène
 Commander la recette de la potion
 Rentre chez toi et va dormir
-Vérifiez votre boîte aux lettres
-Rendez visite au Dieu du Chat Blanc
-Lance des cailloux sur le chariot
-Attendez que le pont soit réparé
-Examinez le pont du village
-Commencez la journée
-Parle à Vinch
-Participez à la réunion des villageois
+Vérifier votre boîte aux lettres
+Rendre visite au Dieu du Chat Blanc
+Lancer des cailloux sur le chariot
+Attendre que le pont soit réparé
+Examiner le pont du village
+Commencer la journée
+Parler à Vinch
+Participer à la réunion des villageois
 Enquêter sur Alvin
-Entrez dans la quincaillerie
+Entrer dans la quincaillerie
 Aller faire un tour à la quincaillerie
-Déplacez la boîte
-Retrouvez la statue perdue
-Rendre la statue
-Rendez-vous près du lac
-Demande à quelqu'un d'autre
-Rendez-vous à l'endroit indiqué par Rubrum
+Déplacer la boîte
+Retrouver la statue perdue
+Se rendre la statue
+Se rendre près du lac
+Demander à quelqu'un d'autre
+Se rendre à l'endroit indiqué par Rubrum
 Rendre la veilleuse
-Vérifiez le poivre
-Découvrez les malédictions
-Demandez aux villageois
-Demande à Aurea où se trouve Arden
-Trouve les objets qu'Arden a jetés
-Donne-le à Arden
+Vérifier le poivre
+Découvrer les malédictions
+Demander aux villageois
+Demander à Aurea où se trouve Arden
+Trouver les objets qu'Arden a jetés
+Donner-le à Arden
 Explorer le jardin d'Arden
-Demande à Arin de déchiffrer
-Relis le cahier
-Trouvez l'emplacement de l'ordinateur portable
-Trouvez un moyen d'escalader les falaises
-Faites germer la graine
-Escaladez les falaises
-Retrouvez Arden
+Demander à Arin de déchiffrer
+Relire le cahier
+Trouver l'emplacement de l'ordinateur portable
+Trouver un moyen d'escalader les falaises
+Faire germer la graine
+Escalader les falaises
+Retrouver Arden
 Réparer le pot
-Semez la graine
+Semer la graine
 Trouver l'emplacement en mémoire
-Apportez la Larme du Dragon
-Creusez la zone suspecte
+Apporter la Larme du Dragon
+Creuser la zone suspecte
 Adieu, guerrier
-Parle au guerrier
-Essayez de faire des ricochets
+Parler au guerrier
+Essayer de faire des ricochets
 À la recherche de la Larme du Dragon
 Ramasser des fruits
-Rendez hommage au guerrier
-Trouvez la Larme du Dragon
-Touchez la zone examinée
-Découvrez « La Larme du Dragon »
-Parle à nouveau au guerrier
-Trouvez le sac
-Rendre le sac
-Prends le thé
-Apportez le thé
-Parle à Arin
-Préparez-vous pour la cérémonie de naissance
+Rendre hommage au guerrier
+Trouver la Larme du Dragon
+Toucher la zone examinée
+Découvrir « La Larme du Dragon »
+Parler à nouveau au guerrier
+Trouver le sac
+Se rendre le sac
+Prendre le thé
+Apporter le thé
+Parler à Arin
+Se Préparer pour la cérémonie de naissance
 Organiser une cérémonie de danse
-Remets la lettre à Arin
+Remettre la lettre à Arin
 Traduire les livres avec Arin
-Organisez une autre cérémonie
-Remets la lettre à Diane
-Rendez visite à Kent et Arin
+Organiser une autre cérémonie
+Remettre la lettre à Diane
+Rendre visite à Kent et Arin
 Lire la lettre de Kent
-Entrez dans l'aile de la bibliothèque
-Explorez l'aile de la bibliothèque
-Demandez à Enite
-Visitez l'intérieur de l'aile de la bibliothèque
-Améliorez le sac
+Entrer dans l'aile de la bibliothèque
+Explorer l'aile de la bibliothèque
+Demander à Enite
+Visiter l'intérieur de l'aile de la bibliothèque
+Améliorer le sac
 Lire des livres avec les villageois
-Mise à jour des outils
-Discutez avec d'autres personnes
-Apportez le matériel de tricot
+Mettre à niveau les outils
+Discuter avec d'autres personnes
+Apporter le matériel de tricot
 Étudier les ingrédients utilisés dans la vinification
 Livrer les ingrédients nécessaires à la vinification
 En savoir plus sur les en-cas à boire
 Invitation à participer à la dégustation de vins
 Trouve la pelle
 À découvrir pendant la journée
-Rendez-vous au temple
-Retrouvez Arin
+Se rendre au temple
+Retrouver Arin
 Examiner l'objet récupéré
 Trouver quelque chose qui a du sens
-Découvrez l'usine à travers une histoire
+Découvrir l'usine à travers une histoire
 Récupérer l'objet
 Donne-le à Arin
 Demande au Dieu du Chat Blanc
-Visitez Arin
-Trouvez les destinataires
+Visiter Arin
+Trouver les destinataires
 Que faire de la lettre dans l'enveloppe rouge ?
 Que faire de la lettre dans l'enveloppe bleue ?
 Gérer la lettre dans l'enveloppe jaune
-Parle à Rex
-Explorez ce lieu hanté
-Explorez à nouveau les lieux
-Jouez à un jeu de déduction avec Rex
-Commencez la partie avec Rex
-Découvrez la vérité qui se cache derrière les fantômes
-Trouvez le romarin
-Procurez-vous du romarin
-Dis-le à Roy
-Lisez le livre
-Parle à Roy
-Découvrez la recette des beignets
-Procurez-vous les ingrédients
-Apportez les ingrédients pour les beignets
-Recevez des récompenses de Roy
-Trouve la pomme d'or
-Montre-le à Rubrum
-Écoutez Kyla nous raconter les coulisses
-Demande à Roy de livrer les articles
+Parler à Rex
+Explorer ce lieu hanté
+Explorer à nouveau les lieux
+Jouer à un jeu de déduction avec Rex
+Commencer la partie avec Rex
+Découvrir la vérité qui se cache derrière les fantômes
+Trouver le romarin
+Se procurer du romarin
+Le dire à Roy
+Lire le livre
+Parler à Roy
+Découvrir la recette des beignets
+Se procurer les ingrédients
+Apporter les ingrédients pour les beignets
+Obtenir des récompenses de Roy
+Trouver la pomme d'or
+Le montrer à Rubrum
+Écouter Kyla nous raconter les coulisses
+Demander à Roy de livrer les articles
 Livrer le sapin avec Roy
-Décidez de la suite
-Observez le chat
-Lisez la lettre
-Apprenez à pêcher
-Procurez-vous le Grimoire des poissons
-Demande encore à Lisa
-Récupère le coton pour la poupée
-Coupez le gâteau
-Écoutez les préférences en matière de brosses à dents
-Procurez-vous tout le matériel nécessaire pour les signets
-Vérifiez l'arbre
-Parle à Enite dans le temple
-Confirmez la livraison des bonbons
-Rends-toi sur les marches situées à côté de la maison d'Enite, comme l'indique la lettre de Rubrum.
-Demande à Kyla si elle peut réparer le jouet du chat.
-Va voir Freddie et demande-lui s'il peut réparer le jouet pour chat.
-Montre le nouveau jouet pour chat à Rubrum.
-Rendez-vous devant la maison d'Enite
-Vérifiez l'article endommagé
-Trouvez le rouge
-Demande à Kyla si elle a besoin d'aide.
-Modifiez la couleur du mobilier depuis l'atelier.
-Demande à Roy pourquoi c'est lui qui construit le pont.
-Récupère 2 couronnes de taupe et donne-les à Roy pour qu'il construise le pont.
+Décider de la suite
+Observer le chat
+Lire la lettre
+Apprendre à pêcher
+Se procurer le Grimoire des poissons
+Demander encore à Lisa
+Récupèrer le coton pour la poupée
+Couper le gâteau
+Écouter les préférences en matière de brosses à dents
+Se procurer tout le matériel nécessaire pour les signets
+Vérifier l'arbre
+Parler à Enite dans le temple
+Confirmer la livraison des bonbons
+Se rendre sur les marches situées à côté de la maison d'Enite, comme l'indique la lettre de Rubrum.
+Demander à Kyla si elle peut réparer le jouet du chat.
+Aller voir Freddie et lui demander s'il peut réparer le jouet pour chat.
+Montrer le nouveau jouet pour chat à Rubrum.
+Se rendre devant la maison d'Enite
+Vérifier l'article endommagé
+Trouver le rouge
+Demander à Kyla si elle a besoin d'aide.
+Modifier la couleur du mobilier depuis l'atelier.
+Demander à Roy pourquoi c'est lui qui construit le pont.
+Récupèrer 2 couronnes de taupe et donne-les à Roy pour qu'il construise le pont.
 Fabriquer un balai
-Demande à Alvin quel est le but de sa lettre.
-Va voir Alvin et demande-lui ce qu'il en est de cette lettre.
-Va voir Aurea et demande-lui de quoi elle a besoin.
-Demandez aux villageois comment peindre les meubles.
-Confiez vos meubles sur mesure à Aurea.
+Demander à Alvin quel est le but de sa lettre.
+Aller voir Alvin et demande-lui ce qu'il en est de cette lettre.
+Aller voir Aurea et demande-lui de quoi elle a besoin.
+Demander aux villageois comment peindre les meubles.
+Confier vos meubles sur mesure à Aurea.
 Personnaliser le mobilier
-Dis à Aurea que tu acceptes la mission de personnalisation des meubles.
+Dire à Aurea que tu acceptes la mission de personnalisation des meubles.
 Donner 2x {CandyName.MuscleUpCandy} pour rejoindre Arin et célébrer la cérémonie avec elle.
-Demande à Arin de traduire le journal du guerrier.
+Demander à Arin de traduire le journal du guerrier.
 Relis le journal du guerrier pour trouver d'autres indices. Prête une attention particulière à l'entrée du 4 mai et aux entrées voisines.
 Cherche l'élastique à cheveux de la Guerrière aux endroits mentionnés dans son journal.
 Il y a quelque chose sur la falaise qui pourrait être l'élastique à cheveux du Guerrier. Essaie de monter là-haut.
@@ -5637,10 +5637,10 @@ Je devrais d'abord ranger ici.
 Charger
 Toute progression non enregistrée sera perdue. Souhaitez-vous charger la dernière sauvegarde ?
 Que dois-je faire ?
-Nous sommes dans le [em1]village[/em1]Enfin !
+Nous avons enfin atteint le [em1]village[/em1] !
 Oui, c'est un village.
-Quel genre de village serait-ce ? J'espère qu'il s'y passera plein de choses sympas.
-Je ne sais pas trop pour les moments sympas, mais on dirait qu'on a quelques soucis.
+Je me demande quel genre de village est-ce que ça peut bien être ? J'espère qu'il s'y passera plein de choses sympas.
+Pour les moments sympas, je ne sais pas trop ce que ça va donner, mais j'ai l'impression qu'on a quelques soucis pour le moment.
 C'est la vie dont j'ai toujours rêvé.
 Dépêchons-nous d'y aller.
 Euh...
@@ -5649,18 +5649,18 @@ Virgile...
 C'est donc dans ce village que tu vas passer trois ans. Ça te plaît ?
 Ça te dit de retourner à Highlion ?
 Mais qu'est-ce qui s'est passé ici ?
-Quels sont [em1]toutes ces ronces[/em1] Qu'est-ce que tu fais ici ?
+Qu'est-ce que [em1]toutes ces ronces[/em1] font ici ?
 Je ne sais même pas quoi dire.
 Je suis tellement contente.
-Allons voir [em1]Rouge[/em1] d'abord.
+Allons voir [em1]Rubrum[/em1] d'abord.
 Et… Il y a quelque chose qui cloche.
-Tout le monde trouverait cela étrange. Pourquoi ces [em1]les plantes grimpantes épineuses ne poussent que sur les maisons[/em1]?
+Tout le monde trouverait cela étrange. Pourquoi ces [em1]plantes épineuses grimpantes ne poussent que sur les maisons[/em1] ?
 Non, ce n'est pas ce que je voulais dire.
-On dirait que [em1]Je suis ici depuis[/em1] avant, pour une raison quelconque.
+J'ai l'impression [em1]d'être déjà venu ici[/em1] dans le passé.
 Est-ce une sorte de cliché et d'allusion sans intérêt ?
-Tu n'as sûrement jamais mis les pieds ici.
-Ils ne viennent pas de si loin juste pour le pique-nique de l'école de sorcellerie.
-Mais quelque chose [em1]ça me semble familier[/em1], vraiment.
+Ça m'étonnerait que tu aies déjà mis les pieds ici.
+Ils ne viennent pas aussi loin pour organiser le pique-nique de l'école de sorcellerie.
+Mais il y a quelque chose [em1]qui me semble familier[/em1], vraiment.
 As-tu rencontré le charpentier volant ?
 Je ne sais pas. On dirait bien que j'ai eu un [em1]rêve[/em1] mais...
 Je ne me souviens de rien.
@@ -5737,7 +5737,7 @@ Elle vit vraiment dans les bois.
 Est-ce que c'est un rêve ?
 C'est plus sombre que je ne le pensais.
 Virgile n'est pas là non plus.
-Youpi ! Le [lua(GetLocalizedString("Item", "MoonTear_Name"))] C'est prêt !
+Youpi ! L'[lua(GetLocalizedString("Item", "MoonTear_Name"))] est prête !
 Il ne me reste plus qu'à retirer le cœur.
 Je dois maintenant trouver le cœur.
 Prêts ?
@@ -6301,7 +6301,7 @@ Pas vraiment. Ça dépasse mes compétences. Je ne sais pas comment faire ça.
 Bon, alors…
 C'est donc le moment pour « The Guide » de briller.
 Virgile ? Tu sais comment fabriquer des briques artisanales ?
-N°
+Non.
 Alors tais-toi, d'accord ? On est en train de discuter d'un sujet important.
 Mais je peux créer quelque chose dans ce genre.
 Il nous suffit de trouver des objets qui s'assemblent bien entre eux pour en faire des briques.
@@ -6323,7 +6323,7 @@ Oui, c'est bien celui que tu m'as fait après avoir vu la couleur de mes yeux.
 Tu as même dit que le pot de fleurs bleu serait joli avec des fleurs jaunes dedans.
 Waouh, c'est vraiment romantique. Qui te l'a offert ?
 Kyla, c'est toi qui l'as fait.
-Hein ?
+Qu'est-ce qu'il y a ?
 Ouah, c'est vraiment...
 Kyla ! Pourquoi tu as oublié ça ?
 Euh, eh bien… C'est-à-dire…
@@ -6375,11 +6375,11 @@ Essayons nous aussi de traverser le pont.
 Ça fait longtemps que je ne me suis pas retrouvé de l'autre côté.
 Qu'est-ce que tu essaies de faire ?
 Enite a raison. Il faut beaucoup d'imagination pour qualifier cet endroit de village.
-Qui dit ça ? C'est quand même un [em1]village[/em1] même s'il n'y a pas de maisons !
-D'accord, mais on ne peut en aucun cas parler de village s'il n'y a même pas [em1]les gens[/em1].
+Comment ça ? Ça reste un [em1]village[/em1], même s'il n'y a plus de maisons !
+D'accord, mais on ne peut pas parler de village s'il n'y a même pas [em1]de gens[/em1].
 Les gens reviendront.
-Comment peux-tu en être si sûr ? C'est ton [em1]pour la première fois[/em1] dans ce village.
-Si tu fais juste le malin...
+Comment peux-tu en être si sûr ? C'est la [em1]la première fois[/em1] que tu viens dans ce village.
+Si tu fais juste la maline...
 Non, j'ai bien entendu ce qu'ils pensaient ! Les villageois veulent revenir !
 Où as-tu entendu ça ? Tu n'as rencontré aucun d'entre eux.
 Ça… Je ne sais pas. Peut-être que je l'ai entendu dans un [em1]rêve[/em1].
@@ -6399,8 +6399,8 @@ Et ils auraient sans doute besoin de six bras.
 Arrête de faire des remarques sarcastiques, Virgile, d'accord ?
 C'est le village où Enite a vécu toute sa vie.
 Les autres doivent l'apprécier autant qu'elle.
-Tu sais, tu viens aussi de rencontrer Enite pour la [em1]pour la première fois[/em1].
-Je le sens, même si c'est la première fois qu'on se voit. Mon cœur était <shake>qui bat si fort</shake>!
+Tu sais, tu viens aussi de rencontrer Enite [em1]pour la première fois[/em1].
+Je le sens, même si c'est la première fois qu'on se voit. Mon cœur s'est <shake>mis à battre si fort</shake>!
 Quoi qu'il en soit, le premier villageois à revenir doit être un [em1]menuisier[/em1].
 Ce n'est pas très spacieux,
 mais c'est beaucoup plus clair.
@@ -6846,7 +6846,7 @@ Quelle qu'en soit la cause, ça ne pouvait rien donner de bon.
 Hmm… C'est bizarre.
 Continuons à chercher du thé.
 J'ai les infos. Apportons-les d'abord à Enite.
-Youpi ! Le [em1][lua(GetLocalizedString("Item", "SunlightPotion_Name"))][/em1] C'est prêt !
+Youpi ! La [em1][lua(GetLocalizedString("Item", "SunlightPotion_Name"))][/em1] est prête !
 Attendre la nuit pour aller au sommet ?
 Quand vous serez prêt, prenez le [em1][lua(GetLocalizedString("Item", "SunlightPotion_Name"))][/em1] vers le [em1]au sommet de la colline dans le [lua(GetLocalizedString("Common", "Common_Theme_GreenForest"))][/em1].
 On monte en montagne maintenant ?
@@ -6855,8 +6855,8 @@ Un seul arbre n'en produit pas autant [lua(GetLocalizedString("Item", "MoonFlowe
 Et tu as déjà fait une collecte il n'y a pas si longtemps.
 Ah, j'en voulais encore un cette fois-ci.
 Je vais juste ramasser ceux qui sont tombés tout à l'heure.
-Bon, allons à la pharmacie maintenant.
-Je devrais faire [em1][lua(GetLocalizedString("Item", "MoonTear_Name"))][/em1].
+Bon, retournons au laboratoire maintenant.
+Je devrais faire de l'[em1][lua(GetLocalizedString("Item", "MoonTear_Name"))][/em1].
 Il ne me reste plus qu'à retirer le cœur.
 Je dois maintenant trouver le cœur.
 On peut s'en servir pour fixer le bras de la poupée.
@@ -8736,7 +8736,7 @@ Mais il y a tellement de choses intéressantes à découvrir par ici.
 Plus on est nombreux à partir à l'aventure, mieux c'est.
 De l'aventure ! Ça a l'air sympa !
 Je suis partant.
-Vraiment ? Vraiment ?
+C'est vrai ? C'est vraiment vrai ?
 Vous pouvez jouer ensemble, mais pas si c'est trop dangereux.
 Bon, d'accord~
 Moi aussi, je veux être ami avec tout le monde.
@@ -9870,7 +9870,7 @@ Hein ? Tu as quelque chose à dire ?
 (La queue du chat se balance lentement d'un côté à l'autre.)
 À en juger par ton air… tu as quelque chose en tête, n'est-ce pas ?
 Si le chat voulait retourner au village, que ferais-tu ?
-Dans...
+Je...
 Je vais lâcher prise.
 Ça me rend triste, mais...
 Je sais que je n'ai pas toujours fait de mon mieux pour toi.
@@ -11793,11 +11793,11 @@ Quoi qu'il en soit, tu ne pourras plus ouvrir cette boîte maintenant.
 Alors, quand est-ce que je peux l'ouvrir ?
 À plus tard.
 Puisque tu as un grand sac, contente-toi de celui-là pour l'instant.
-Ici aussi, il n'y a plus que des ruines.
+Ici aussi, il ne reste que des ruines.
 Ce doit être le panneau d'affichage du village.
 C'est donc là qu'ils affichent toutes leurs tâches ménagères.
 Il regorge également d'histoires passionnantes racontées par d'autres personnes.
-Mais il n'y a rien ici pour le moment.
+On dirait qu'il n'y a rien ici pour l'instant.
 Le château de glace. [em1]Avertissement[/em1]. Ruines.
 Ce sont les ruines d'un château de glace.
 Je voudrais regarder de plus près, mais le passage est bloqué.
@@ -11948,10 +11948,10 @@ Il suffit de trouver le cœur, de préparer la potion et de l'utiliser.
 Allons donc voir [em1]informations[/em1].
 Comment une maison peut-elle être à ce point ravagée par ces plantes grimpantes épineuses ?
 Regarde cette maison.
-La décoration a l'air [em1]magnifique[/em1].
+Je trouve la décoration absolument [em1]magnifique[/em1].
 Qu'est-il arrivé aux gens qui vivaient ici ?
 N'auraient-ils pas pris la fuite pendant que les ronces poussaient ?
-J'espère que c'était le cas...
+J'espère que c'est le cas...
 Si tu ne te débarrasses pas de ces ronces, ça ne sert à rien de reconstruire la maison.
 Maintenant que nous connaissons l'emplacement, posons la question [em1]les autres villageois[/em1].
 Maintenant que le cœur des ronces a été retiré, elles vont bien se rétablir.
@@ -12206,7 +12206,7 @@ Il faut d'abord ouvrir cette porte.
 Il doit y avoir un sigil de sorcière quelque part, comme pour les autres portes de la forêt.
 Commençons par le commencement.
 Je crois avoir déjà vu quelque chose de similaire quelque part.
-Concentrons-nous sur ce que nous faisons pour l'instant.
+Concentrons-nous sur notre mission pour le moment.
 Qu'est-ce que c'est ? Ça ne ressemble pas à une décoration ordinaire...
 Une porte ? Un miroir ?
 Mais on ne peut pas l'ouvrir et son contenu est trouble.
@@ -20277,7 +20277,7 @@ Euh... Et si je ne payais pas ?
 Heureusement, tu n’as pas trahi ma confiance.
 J’avais confiance en toi, Ellie.
 Pourquoi décrocher ? Il y a encore une chose dont tu as besoin.
-Quoi ? Ah, c’est vrai, Diane, j’ai aussi besoin de la recette pour[lua(GetLocalizedString("Item", "SunlightPotion_Name"))].
+Quoi ? Ah, c’est vrai, Diane, j’ai aussi besoin de la recette pour [lua(GetLocalizedString("Item", "SunlightPotion_Name"))].
 Pourquoi... Tu en as besoin ?
 Eh bien... J’ai besoin d’énergie lunaire pour enlever les cœur de ronces...
 Elle doit chasser les Papillons de Lune Azuré.
@@ -20828,62 +20828,62 @@ Hoho. Il fut un temps où on s’asseyait et discutait pendant des heures.
 Je t’écoute. Dis-moi.
 Parle à Rubrum si tu as besoin de thé.
 Je n’en ai pas que je vends.
-Bienvenue, Mlle Sorcière.
-Tu as fait un excellent travail pour aider mon petit-enfant. Merci.
+Bienvenue, Mlle la Sorcière.
+Vous avez fait un excellent travail pour aider mon petit-enfant. Merci.
 Non, c’est moi qui ai reçu de l’aide.
-Beaucoup de sorcières ne semblent pas avoir leur âge...
-D’accord, je vais garder la formalité. Bienvenue à Wisteria, Ellie.
-Je suis[em1]Enite[/em1], chef de ce village.
-Que s’est-il passé dans ce village ? Que sont toutes ces ronces ?
+Beaucoup de sorcières ne font pas leur âge...
+D’accord, je vais vous épargner les formalités. Bienvenue à Wisteria, Ellie.
+Je suis [em1]Enite[/em1], cheffe de ce village.
+Que s’est-il passé dans ce village ? Pourquoi y a-t-il tant de ronces ?
 Je suis Ellie, une apprentie sorcière.
-As-tu fait un tour dans le village ?
+Avez-vous déjà fait un tour dans le village ?
 Oui, j’ai vu les maisons couvertes de ronces.
-Elles ne ressemblaient pas à de simples ronces.
-Au début, ils disaient des choses comme[em1]La punition de Dieu[/em1],[em1]monstre[/em1]ou[em1]Malédiction de la Sorcière[/em1]...
+On ne dirait pas des ronces ordinaires.
+Au début, ils disaient des choses comme [em1]c'est la punition divine[/em1], [em1]c'est un monstre[/em1] ou [em1]c'est la malédiction de la sorcière[/em1]...
 C’est arrivé il y a trois ans.
 Les gens n’avaient nulle part où vivre et ne pouvaient que quitter le village.
 Qu’est-il arrivé aux villageois ?
 Essuie ta bave, Ellie. C’est une histoire sérieuse.
 Personne n’a été blessé.
-Maintenant, seulement[em1]Arden[/em1]et je reste dans le village.
-Ne t’inquiète pas maintenant. Je vais t’aider.
-Merci beaucoup de l’avoir dit.
+Maintenant, il ne reste qu'[em1]Arden[/em1] et moi dans le village.
+Ne vous inquiètez plus. Je vais vous aider.
+Merci beaucoup de dire celà.
 Toutes les maisons sont déjà en ruines et tout le monde est parti.
-Ellie, tu devrais aussi partir maintenant. Il vaut mieux aller à l’endroit où tu comptais aller.
-Je ne te force pas. Tu peux rester au village aussi longtemps que tu veux.
+Ellie, vous devriez aussi partir maintenant. Il vaut mieux aller à l’endroit où vous comptiez vous rendre.
+Je ne vous force pas. Vous pouvez rester au village aussi longtemps que vous le souhaitez.
 Mais il est trop tard maintenant.
-Au lieu d’un village, la glycine actuelle ressemble davantage à un certain[em1]Ruines[/em1]Hébergeant deux personnes âgées réticentes à partir.
-Pars quand le train arrivera. Cet endroit est... Plus un village.
+Au lieu d’un village, la Wisteria d'aujourd'hui n'est plus qu'un [em1]tas de ruines[/em1] abritant deux personnes âgées qui ne veulent pas partir.
+Partez quand le train repassera. Cet endroit n'est... plus un village.
 Pourquoi les ronces ont-elles soudainement commencé à pousser ?
 Il y avait beaucoup de rumeurs, mais personne ne savait vraiment pourquoi.
-Ils ont commencé à pousser soudainement sans aucune explication.
-<shake>Ça ne peut pas arriver !</shake>
+Elles ont commencé à pousser soudainement sans aucune explication.
+<shake>Je n'abandonnerai pas maintenant !</shake>
 Highlion est ennuyeux à mort !
-Virgile ! Langage !
-Le[em1]Villageois[/em1]sont tous disparus. Même si les ronces sont enlevées, que signifie ?
-C’est toujours un[em1]Village[/em1]! Les villageois seront prêts à revenir !
-Même si les ronces disparaissent, pourquoi reviendraient-ils dans un village reculé comme celui-ci ?
+Virgile ! Ton langage !
+Les [em1]villageois[/em1] ont tous fui. Même si les ronces sont enlevées, qu'est-ce que vous voulez faire ?
+C’est toujours un [em1]village[/em1] ! Les villageois finiront par revenir !
+Même si les ronces disparaissaient, pourquoi reviendraient-ils dans un village perdu tel que celui-ci ?
 Tout le monde voudrait revenir !
 Mais Ellie... Les gens sont partis et le temps a passé.
 Non. Ils voudraient vraiment revenir !
-C’est un merveilleux village que tu as développé toute ta vie,[em1]Enite[/em1].
+C’est un merveilleux village que vous avez développé toute votre vie, [em1]Enite[/em1].
 Ces ronces ont soudainement commencé à pousser et ont détruit les maisons une à une.
 En réalité, ce ne sont pas les premières ronces qui poussent dans le village.
 Je vais enlever les ronces et ramener les villageois.
-Le chef du village et le village sont cependant en mauvais état.
-Le village avait autrefois[em1]ronces blanches épineuses[/em1]grandissant à son entrée.
+J'ai bien peur que la cheffe du village et son village ne soient en bien mauvais état, cependant.
+Le village avait autrefois [em1]des ronces blanches[/em1] qui poussaient à son entrée.
 Mais les ronces apparues il y a 3 ans nous semblent complètement étrangères.
 Je sais que les ronces poussent vite, mais elles ne sont pas censées être assez rapides pour blesser qui que ce soit.
-Détends-toi, s’il te plaît. Tout ira bien.
-Oui... Tu as raison mais...
+Détendez-vous, s’il vous plaît. Tout va bien.
+Oui... Vous avez raison mais...
 Je ne pense pas que ceux chassés par les ronces voudront jamais revenir dans ces ruines...
-Je ne laisserai pas ces cas[em1]des ronces bizarres et piquantes[/em1]Prenez le contrôle du village.
-Ouf... On arrête pour aujourd’hui et on continue demain.
-Ne sois pas trop dur[em1]Rubrum[/em1].
-Oui, d’accord. Repose-toi un peu.
-Toi aussi, Enite !
+Je ne laisserai pas ces [em1]étranges ronces[/em1] prendre le contrôle du village.
+Pfiou... Arrêtons-nous là pour aujourd’hui et reparlons-en demain.
+Ne soyez pas trop dur avec [em1]Rubrum[/em1].
+Oui, c'est d’accord. Reposez-vous un peu.
+Vous aussi, Enite !
 Je suis...
-Toi aussi tu as l’air fatigué. Rubrum a l’air d’avoir besoin de repos lui aussi.
+Vous avez l’air fatigué en plus. Rubrum a l’air d’avoir besoin de repos lui aussi.
 Je vais y réfléchir. Reparlons encore[em1]Demain[/em1].
 Oui, à demain !
 De quoi veux-tu parler à Enite ?
@@ -28013,16 +28013,16 @@ La cuisine de Mamie est toujours excellente !
 Theo dit que je ferai un excellent musicien à vent.
 Je vais m’entraîner dur pour que tout le monde apprécie ma performance !
 Merci de m’avoir aidé à rentrer chez moi !
-Ce n’est rien de spécial.
-Oh,[em1]Mamie[/em1]veut te rencontrer.
+Ce n’est rien.
+Oh, [em1]mamie[/em1] veut te rencontrer.
 Mamie ?
-Oui ! C’est la[em1]Chef du village[/em1]!
+Oui ! C’est la [em1]Chef du village[/em1] !
 Oh, pas « est ». Elle l’était. Tu peux la trouver au fond.
 D’accord. J’y vais.
 Oh, Ellie !
 D’accord, prends soin de toi.
 Mais on dirait vraiment que personne n’est dans le village.
-Oui, beaucoup d’entre eux sont partis après le[em1]ronces[/em1]Il a commencé à grandir comme un fou.
+Oui, beaucoup d’entre eux sont partis après que les [em1]ronces[/em1] ont commencé à pousser partout.
 Maintenant, il ne reste plus que la maison d’Arden et la mienne.
 Je vois. Tu dois t’ennuyer.
 Non. Ce n’est pas grave parce que Mamie et Arden sont là ! Il y a aussi plein de choses amusantes dans la forêt.
@@ -28215,7 +28215,7 @@ J’ai entendu un bruit étrange de cliquetis, censé être causé par des araig
 Je déteste les araignées.
 [lua(GetLocalizedString("InteractableObject", "People_Rubrum"))][lua(GetLocalizedString("Choice", "FavorabilityUP_Small"))]
 On dit qu’il y avait toujours plein de monde quand j’étais plus jeune.
-J’aime bien comment ça va maintenant, avec Mamie et Arden. Et Ellie !
+J’aime bien comment c'est maintenant, avec Mamie et Arden. Et Ellie !
 Jouer avec le sable
 Et j’ai fait un château de sable tellement énorme !
 Je suis artisan des châteaux de sable, héhé.
@@ -29656,7 +29656,7 @@ Tu n’avais rien à lui dire ?
 Je chercherai Lisa quand tu restaureras le village.
 Donne-moi juste la broche de sorcière.
 Et tu peux en avoir[lua(GetItemName("SacredWater_Water#Important"))].
-Non, merci. Je vais demander au Dieu Chat Noir pour[lua(GetItemName("SacredWater_Water#Important"))].
+Non, merci. Je vais demander au Dieu Chat Noir pour [lua(GetItemName("SacredWater_Water#Important"))].
 Wai—
 Si vous voulez bien m’excuser !
 Je sens quelque chose de suspect !
@@ -31163,12 +31163,12 @@ Qu’est-ce que ça veut dire ? Ça n'a même pas bougé d'un iota !
 Elle doit être plus solide que la porte secrète du bureau du directeur.
 On dirait que des [em1]fragments[/em1] en sont tombés ?
 À tes pieds.
-C’est tellement beau.
-Oui ! C’est vraiment, vraiment beau !
+C’est tellement magnifique.
+Oui ! C’est vraiment, vraiment magnifique !
 Rubrum, tu peux aller aux ronces et nous attendre là-bas ?
 Nous viendrons dès que la potion sera prête.
 Je t’attendrai devant les ronces.
-Maintenant, il ne nous reste plus qu’à en collecter un peu de [lua(GetLocalizedString("Encyclopedia", "MoonFlower_Name"))] et faire de l'[em1][lua(GetLocalizedString("Item", "MoonOil_Name"))][/em1].
+Maintenant, il ne nous reste plus qu’à collecter quelques [lua(GetLocalizedString("Encyclopedia", "MoonFlower_Name"))] et concocter de l'[em1][lua(GetLocalizedString("Item", "MoonOil_Name"))][/em1].
 Ça va ?
 Oui... Je vais bien.
 Bien, j’ai le[lua(GetLocalizedString("Encyclopedia", "MapleHerb_Name"))].
@@ -31299,8 +31299,8 @@ C’est juste un emballage différent.
 Cette [em1]malle[/em1] m'a l’air très utile.
 Je peux mettre des trucs ici quand j’ai les poches pleines.
 Waouh, c’est magnifique.
-Où vont ces papillons ?
-Ne retourneraient-ils pas d’où ils venaient ?
+Où sont passés tous les papillons ?
+Ne sont-ils pas simplement retournés d’où ils venaient ?
 Mais la fleur...
 Oh, là-bas ! Là-bas !
 Comment va ta jambe ?
@@ -31420,33 +31420,33 @@ Et que l'on nettoie la maison de sorcière.
 Euh, tu es sûr de m'avoir bien entendu ?
 Eh bien. Comme ça je pourrais en profiter pour compléter le Grimoire d'avantage.
 Super. Ils sont collés à l’arbre comme prévu.
-Waouh, il y a plein de brillances [em1]papillons[/em1] !
-On va tous les faire disparaître maintenant, non ?
+Waouh, il y a plein [em1]papillons[/em1] illuminés !
+On va tous les faire s'enfuir, non ?
 Je me sens tellement mal pour eux tout à coup.
 C’est pour le bien de l’arbre. Dépêche-toi de lancer la potion !
-Je suis là. Dépêchons-nous de se débarrasser des ronces agaçantes.
-Tu ne subiras aucune perte à cause de moi, n’est-ce pas... ?
-Ne t’inquiète pas pour ça.
-C’est moi qui [em1]Décidé[/em1] de le faire. C’est ce que je voulais vraiment faire.
-Et voici mon [em1]Choix[/em1].
-Ce n’est pas grave.
-Tu peux venir à la Maison de la Sorcière quand tu veux.
+Je suis là. Dépêchons-nous de nous débarrasser de ces satanées ronces.
+Tu ne risques pas d'être blessé par ma faute, n’est-ce pas... ?
+Ne t’inquiète pas pour moi.
+C’est à moi de prendre [em1]cette décision[/em1]. C’est ce que je veux faire au fond de moi.
+C'est mon [em1]propre choix[/em1].
+Ce n’est rien.
+Tu peux passer à la maison de sorcière quand tu veux.
 Tu vas rester ici ?
-Oui, je pense que je vais rester ici pendant tout mon apprentissage.
+Oui, je pense que je vais rester ici pendant la durée de mon apprentissage.
 Vraiment. Passons plus de temps ensemble, Rubrum.
 D’accord ! Passons plus de temps ensemble, Ellie !
-Dépêche-toi de rentrer chez toi pour l’instant.
+Dépêche-toi de rentrer chez toi pour le moment.
 Ta grand-mère doit s’inquiéter. Je te retrouverai plus tard.
-D’accord ! À tout à l’heure !
+D’accord ! À la prochaine !
 oui~
-Youpi ! Le [em1][lua(GetLocalizedString("Item", "MoonOil_Name"))][/em1] est prêt !
-Allons nous débarrasser des ronces maintenant !
-Youpi ! Le [em1]"[lua(GetLocalizedString("Item", "SunlightPotion_Name"))]"[/em1] est prêt !
+Youpi ! L'[em1][lua(GetLocalizedString("Item", "MoonOil_Name"))][/em1] est prête !
+Allons nous débarrasser de ces ronces maintenant !
+Youpi ! La [em1]"[lua(GetLocalizedString("Item", "SunlightPotion_Name"))]"[/em1] est prête !
 Allons à l’arbre tout de suite !
-Ellie, le [em1][lua(GetLocalizedString("Item", "MoonOil_Name"))][/em1] est...
-Ne t’inquiète pas, je [em1]déjà[/em1] Prends les ingrédients.
+Ellie, l'[em1][lua(GetLocalizedString("Item", "MoonOil_Name"))][/em1] est...
+Ne t’inquiète pas, j'ai [em1]déjà[/em1] les ingrédients.
 Tu les as déjà ?
-Maintenant, trouvons le [em1]"[lua(GetLocalizedString("Encyclopedia", "MoonFlower_Name"))]"[/em1].
+Maintenant, trouvons la [em1]"[lua(GetLocalizedString("Encyclopedia", "MoonFlower_Name"))]"[/em1].
 Tu veux vraiment y aller ? [em1]Maintenant[/em1] ?
 Tu as fini [em1]Tout ce que tu veux faire[/em1] ?
 J’ai encore des choses à faire.
@@ -31534,34 +31534,34 @@ Oui ! Je devrais la ranger et la relire plus tard.
 Ce bureau serait agréable à utiliser comme établi plus tard.
 Mais il n’a aucune utilité pour le moment.
 Ellie, j’espère que tu n’as pas oublié.
-Pour[lua(GetLocalizedString("Item", "MoonOil_Name"))], tu as besoin [em1][lua(GetLocalizedString("Item", "Phoenix_Collect_Name"))][/em1].
+Pour faire de l'[lua(GetLocalizedString("Item", "MoonOil_Name"))], tu as besoin d'une [em1][lua(GetLocalizedString("Item", "Phoenix_Collect_Name"))][/em1].
 Mais il n’y a aucun moyen de trouver un phénix dans le coin.
-Nous avons un [em1][lua(GetLocalizedString("Item", "Phoenix_Collect_Name"))][/em1] Juste ici.
-Tu m’en as tout raconté tout à l’heure.
+Nous avons une [em1][lua(GetLocalizedString("Item", "Phoenix_Collect_Name"))][/em1] juste ici.
+Tu m’en as parlé tout à l’heure.
 Oh, Ellie... Ce n’est pas une bonne idée.
-Si nous faisons cela, nous ne pourrons pas remonter sur le [em1]train[/em1].
-Cela signifie que vous n’y arriverez pas [em1]Highlion[/em1].
+Si nous faisons cela, nous ne pourrons pas reprendre le [em1]train[/em1].
+Cela signifie que tu n'arrivera jamais jusqu'à [em1]Highlion[/em1].
 Encore ça ?
 Tu préfères juste être ici.
 Tu n’aimes tout simplement pas la Maison de la Sorcière à Highlion.
-Arrête d’être enfantine. Tu vas le regretter plus tard.
+Cesses d’être une enfant. Tu finiras par le regretter plus tard.
 Non, Virgile.
 Ce que je regretterai, c’est de ne pas avoir fait ça maintenant. J’en suis sûr.
-Il faut être malin à ce sujet...
+Tu ne pourras pas t'y reprendre à deux fois...
 Beurk.
 Super ! J’ai tous les ingrédients maintenant.
 Ellie, tu es parfois pire qu’Aria.
-Oh, s’il te plaît. Je ne suis pas du tout aussi bonne que ma mère.
+Oh, s’il te plaît. Je ne suis pas du tout aussi doué que ma mère.
 Ce n’était pas un compliment.
-Bon, maintenant faisons [em1]'[lua(GetLocalizedString("Item", "MoonOil_Name"))]'[/em1].
-Arrête de faire le saint !
-Cet endroit te semble amusant, c’est tout.
-Virgile, essaie de ne pas dire des trucs qui me font passer pour un méchant, d’accord ?
-C’est une [em1]<wave>Fin heureuse</wave>[/em1] pour autant que je m’amuse et qu’ils soient heureux, n’est-ce pas ?
+Bon, maintenant occupons-nous de cette [em1]'[lua(GetLocalizedString("Item", "MoonOil_Name"))]'[/em1].
+Arrête de te prendre pour une sainte !
+C'est simplement un terrain de jeu pour toi.
+Virgile, essaie de ne pas dire des trucs qui me font passer pour une méchante, d’accord ?
+C’est une [em1]<wave>fin heureuse</wave>[/em1] après tout tant que je m’amuse et qu’ils sont heureux, tu ne crois pas ?
 Les professeurs vont-ils se fâcher ?
 « Telle mère, telle fille... » C’est ce qu’ils diront.
 Eh bien, c’est super !
-Ce n’est pas un compliment.
+Il ne s'agissait pas d'un compliment.
 Très bien ! Allons au village maintenant !
 Je pense que cette route mène au [em1]village[/em1], mais le [em1][lua(GetLocalizedString("InteractableObject", "LittleHoneyPumkin"))][/em1] gêne.
 Hmm... Voulait [em1][lua(GetLocalizedString("Item", "BadGrassPotion_Name"))][/em1]Travailler ?
@@ -34023,7 +34023,7 @@ Enlever les ronces géantes
 <color=#f08b30>Côté</color>
 Réparer votre balai
 Dessiner avec sa plume
-Commencez l’apprentissage !
+Débuter votre apprentissage !
 Enquêtez sur les ronces chez le charpentier
 Trouvez le cœur de la ronce
 Craft the Moon Tears
