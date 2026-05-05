@@ -2908,7 +2908,7 @@ Un cuisinier qui tient un restaurant. Il est généralement agacé et indiffére
 Une bibliothécaire calme et posée. Elle parle lentement.
 Un boulanger anxieux et un peu pointilleux.
 Le gamin de la boulangerie. Toujours plein d'entrain.
-La chef du village. Une dame âgée au grand cœur qui veille toujours au bien-être de chacun.
+La cheffe du village. Une dame âgée au grand cœur qui veille toujours au bien-être de chacun.
 Un explorateur aventureux. Une personne dynamique et franche, qui passe à l'action.
 Un fleuriste serein, aimable et courtois avec tout le monde.
 Un camionneur au caractère bien trempé qui s'est installé au village après avoir pris sa retraite.
@@ -3331,8 +3331,8 @@ Demandez si quelqu'un peut aider à réparer la Maison de la Sorcière.
 Approvisionnement en matériaux
 Procurez-vous le matériel auprès de Kyla.
 Aller explorer le village.
-Cherche Rubrum dans le village.
-Trouver le chef du village et aller lui parler.
+Chercher Rubrum dans le village.
+Trouver la cheffe du village et aller lui parler.
 Enite a besoin de temps pour réfléchir. Aller dormir pour l'instant.
 Demandez à Enite si elle a pris sa décision.
 Vérifie l'état de la maison de Kyla
@@ -5034,7 +5034,7 @@ Quêtes terminées
 Vous n'avez pas assez d'articles à traiter.
 Quêtes secondaires
 Activité de formation
-Tout déplacer
+Tout stocker
 Votre espace de stockage est plein.
 Description de la quête
 Client
@@ -5125,7 +5125,7 @@ Montant du paiement
 Nombre de tentatives autorisées
 Temps restant
 {hour} et {minute} Je suis désolé, mais je ne peux pas t'aider là-dessus.
-Lieu
+Stocker
 Il n'y a pas de place dans la vitrine.
 De nouveaux défis
 Actualiser le classement du grimoire
@@ -5188,7 +5188,7 @@ Artisanat manuel
 Commencer la fabrication ?
 Aucune recette valable.
 Note d'artisanat
-Réussir
+Terminé
 Recette
 Procédé de traitement
 Difficulté
@@ -5201,7 +5201,7 @@ Tu n'as pas encore obtenu la recette de cette potion.
 {0} fois
 Aucun article n'est disponible à l'achat
 Voiture
-Manuel
+Artisanat manuel
 Vous risquez de perdre des ingrédients si la fabrication échoue.
 Perte de durabilité en mode auto
 Recette classique
@@ -5230,7 +5230,7 @@ L'opération est en cours. Impossible d'abandonner.
 Cette fonction n'est pas disponible pour le moment. Veuillez réessayer une fois le délai de recharge écoulé.
 Plus de tentatives de fuite pour aujourd'hui. Vous allez vous endormir à la place. Confirmer ?
 Gérer le chaudron de la sorcière
-{0} réussir
+{0} avec succès
 Ajouter un article
 Habitat
 Jeter
@@ -5630,15 +5630,15 @@ Où dois-je chercher ?
 Je n'ai pas besoin de dormir.
 Je dois retourner au train.
 Allons d'abord au village.
-Allons d'abord voir le chef du village, puis nous nous reposerons.
+Allons d'abord voir la cheffe du village, puis nous nous reposerons.
 Je ne devrais pas dormir maintenant.
 Je n'ai pas encore sommeil.
 Je devrais d'abord ranger ici.
 Charger
 Toute progression non enregistrée sera perdue. Souhaitez-vous charger la dernière sauvegarde ?
 Que dois-je faire ?
-Nous avons enfin atteint le [em1]village[/em1] !
-Oui, c'est un village.
+Nous avons enfin fini par atteindre le [em1]village[/em1] !
+Effectivement, c'est un village. Quelle brillante déduction.
 Je me demande quel genre de village est-ce que ça peut bien être ? J'espère qu'il s'y passera plein de choses sympas.
 Pour les moments sympas, je ne sais pas trop ce que ça va donner, mais j'ai l'impression qu'on a quelques soucis pour le moment.
 C'est la vie dont j'ai toujours rêvé.
@@ -5647,17 +5647,17 @@ Euh...
 C'est un spectacle plutôt morne.
 Virgile...
 C'est donc dans ce village que tu vas passer trois ans. Ça te plaît ?
-Ça te dit de retourner à Highlion ?
+Tu es sûr de ne pas avoir envie d'aller à Highlion finalement ?
 Mais qu'est-ce qui s'est passé ici ?
 Qu'est-ce que [em1]toutes ces ronces[/em1] font ici ?
 Je ne sais même pas quoi dire.
 Je suis tellement contente.
 Allons voir [em1]Rubrum[/em1] d'abord.
 Et… Il y a quelque chose qui cloche.
-Tout le monde trouverait cela étrange. Pourquoi ces [em1]plantes épineuses grimpantes ne poussent que sur les maisons[/em1] ?
+Tout le monde trouverait cela étrange. Pourquoi ces [em1]plantes grimpantes pleines d'épines ne poussent que sur les maisons[/em1] ?
 Non, ce n'est pas ce que je voulais dire.
 J'ai l'impression [em1]d'être déjà venu ici[/em1] dans le passé.
-Est-ce une sorte de cliché et d'allusion sans intérêt ?
+Oh… un présage ? Tu te mets à jouer les diseuses de bonne aventure, maintenant ?
 Ça m'étonnerait que tu aies déjà mis les pieds ici.
 Ils ne viennent pas aussi loin pour organiser le pique-nique de l'école de sorcellerie.
 Mais il y a quelque chose [em1]qui me semble familier[/em1], vraiment.
@@ -5726,7 +5726,7 @@ Regardons à travers la forêt ! Il doit bien y avoir quelque chose !
 C'est exactement ce que je dis.
 Le village se trouve sur la droite.
 Le village devrait se trouver par ici.
-Allons d'abord rencontrer le chef du village.
+Allons d'abord rencontrer la cheffe du village.
 Allons nous coucher pour aujourd’hui.
 Il doit bien y avoir quelqu'un qui habite ici.
 Alors, ne vaudrait-il pas mieux que tu les laisses tranquilles ?
@@ -5744,7 +5744,7 @@ Prêts ?
 D'accord.
 Bon. C'est parti !
 Bon, j'ai aussi retiré la cage qui protégeait le cœur.
-Concentrons-nous sur ce que nous faisons en ce moment.
+Concentrons-nous sur notre objectif pour le moment.
 J'ai eu une sorte de [em1]rêve bizarre[/em1]. J'en suis sûr.
 Tu n'arrêtes pas de dire ça depuis quelques jours.
 De quel genre de rêve s'agissait-il ?
@@ -6376,32 +6376,32 @@ Essayons nous aussi de traverser le pont.
 Qu'est-ce que tu essaies de faire ?
 Enite a raison. Il faut beaucoup d'imagination pour qualifier cet endroit de village.
 Comment ça ? Ça reste un [em1]village[/em1], même s'il n'y a plus de maisons !
-D'accord, mais on ne peut pas parler de village s'il n'y a même pas [em1]de gens[/em1].
+D'accord, mais on ne peut pas parler de village s'il n'y a même pas [em1]de villageois[/em1].
 Les gens reviendront.
-Comment peux-tu en être si sûr ? C'est la [em1]la première fois[/em1] que tu viens dans ce village.
+Comment peux-tu en être si sûr ? C'est la [em1]première fois[/em1] que tu viens dans ce village.
 Si tu fais juste la maline...
-Non, j'ai bien entendu ce qu'ils pensaient ! Les villageois veulent revenir !
-Où as-tu entendu ça ? Tu n'as rencontré aucun d'entre eux.
+Non, je les ai entendus, j’en suis sûre ! Les villageois veulent revenir !
+D'où tu sors ça ? Tu n'en as jamais rencontré un seul.
 Ça… Je ne sais pas. Peut-être que je l'ai entendu dans un [em1]rêve[/em1].
-Tu es ridicule, alors.
-C'est toi.
+Arrêtes, tu deviens ridicule.
+Si, tu l'es.
 <shake>Non, ce n'est pas vrai !!</shake>
-Qui s'occuperait de réparer les maisons, même si on enlevait les ronces ?
-Il n'y a que deux personnes âgées et un enfant dans le village.
+Qui s'occuperait de réparer les maisons, en admettant qu'on parvienne à enlever les ronces ?
+Il n'y a que deux personnes âgées et un enfant dans tout le village.
 Tu as raison, Virgile.
-Exact.
+Je sais.
 Il nous faut également un [em1]menuisier[/em1] pour réparer les maisons.
-Va dormir un peu.
-Tu trouveras un tel menuisier dans ton rêve.
+Va donc dormir un peu.
+Tu trouveras certainement ton menuisier dans ton rêve.
 Arrête de faire du sarcasme !
-Bon, alors trouve-moi un menuisier capable de voler.
-Et ils auraient sans doute besoin de six bras.
-Arrête de faire des remarques sarcastiques, Virgile, d'accord ?
+Bon, et bien tu n'as plus qu'à trouver un menuisier capable de voler dans ce cas.
+Et je pense qu'il lui faudra aussi trois paires de bras.
+Arrête ton sarcasme, Virgile, tu veux ?
 C'est le village où Enite a vécu toute sa vie.
 Les autres doivent l'apprécier autant qu'elle.
 Tu sais, tu viens aussi de rencontrer Enite [em1]pour la première fois[/em1].
 Je le sens, même si c'est la première fois qu'on se voit. Mon cœur s'est <shake>mis à battre si fort</shake>!
-Quoi qu'il en soit, le premier villageois à revenir doit être un [em1]menuisier[/em1].
+Dans ce cas, le premier villageois à revenir doit être un [em1]menuisier[/em1].
 Ce n'est pas très spacieux,
 mais c'est beaucoup plus clair.
 Maintenant, je peux le décorer comme je veux.
@@ -8263,7 +8263,7 @@ C'est sans doute aussi la faute des ronces.
 Les arbres... peuvent aussi suffoquer.
 Ellie, va par là si tu cherches le [lua(GetLocalizedString("Common", "Common_Theme_StarSeaCave"))].
 Fais attention, d'accord ?
-D'accord, je le ferai.
+D'accord, je vais y aller.
 Rex, tu as entendu ça ? C'est le [lua(GetLocalizedString("Common", "Common_Theme_StarSeaCave"))]!
 Oui ! J'aime bien la sonorité de ce nom. J'irai m'y rendre un jour.
 Hé ! Tu n'as pas entendu tout ce qu'on dit sur le danger que ça représente ?
@@ -11950,7 +11950,7 @@ Comment une maison peut-elle être à ce point ravagée par ces plantes grimpant
 Regarde cette maison.
 Je trouve la décoration absolument [em1]magnifique[/em1].
 Qu'est-il arrivé aux gens qui vivaient ici ?
-N'auraient-ils pas pris la fuite pendant que les ronces poussaient ?
+Est-ce qu'ils n'auraient pas pris la fuite pendant que les ronces poussaient ?
 J'espère que c'est le cas...
 Si tu ne te débarrasses pas de ces ronces, ça ne sert à rien de reconstruire la maison.
 Maintenant que nous connaissons l'emplacement, posons la question [em1]les autres villageois[/em1].
@@ -20815,7 +20815,7 @@ Le temps passe vite quand je fais ça.
 Il y a beaucoup de jolis marque-pages dans la forêt.
 Mettez une poignée de fraises acides des buissons dans la tarte et prenez une grande inspiration.
 Il n’y a pas de recette fixe. Je l’ai apprise en regardant des membres plus âgés de la famille la préparer.
-Le chef du village contrôle le partage d’informations dans le village depuis des générations.
+La cheffe du village contrôle le partage d’informations dans le village depuis des générations.
 Je fais ça depuis si longtemps que j’y suis habitué.
 La brise est tellement confortable ici.
 Heh, et mignon aussi. Il chante magnifiquement.
@@ -20829,17 +20829,17 @@ Je t’écoute. Dis-moi.
 Parle à Rubrum si tu as besoin de thé.
 Je n’en ai pas que je vends.
 Bienvenue, Mlle la Sorcière.
-Vous avez fait un excellent travail pour aider mon petit-enfant. Merci.
+Vous avez fait un excellent travail pour aider mon petit-fils. Merci.
 Non, c’est moi qui ai reçu de l’aide.
 Beaucoup de sorcières ne font pas leur âge...
 D’accord, je vais vous épargner les formalités. Bienvenue à Wisteria, Ellie.
 Je suis [em1]Enite[/em1], cheffe de ce village.
 Que s’est-il passé dans ce village ? Pourquoi y a-t-il tant de ronces ?
-Je suis Ellie, une apprentie sorcière.
+Je m'appelle Ellie, je suis une apprentie sorcière.
 Avez-vous déjà fait un tour dans le village ?
 Oui, j’ai vu les maisons couvertes de ronces.
 On ne dirait pas des ronces ordinaires.
-Au début, ils disaient des choses comme [em1]c'est la punition divine[/em1], [em1]c'est un monstre[/em1] ou [em1]c'est la malédiction de la sorcière[/em1]...
+Au début, les gens disaient des choses comme [em1]c'est la punition divine[/em1], [em1]c'est un monstre[/em1] ou [em1]c'est la malédiction de la sorcière[/em1]...
 C’est arrivé il y a trois ans.
 Les gens n’avaient nulle part où vivre et ne pouvaient que quitter le village.
 Qu’est-il arrivé aux villageois ?
@@ -20858,14 +20858,14 @@ Pourquoi les ronces ont-elles soudainement commencé à pousser ?
 Il y avait beaucoup de rumeurs, mais personne ne savait vraiment pourquoi.
 Elles ont commencé à pousser soudainement sans aucune explication.
 <shake>Je n'abandonnerai pas maintenant !</shake>
-Highlion est ennuyeux à mort !
+Highlion est d'un chiant !
 Virgile ! Ton langage !
 Les [em1]villageois[/em1] ont tous fui. Même si les ronces sont enlevées, qu'est-ce que vous voulez faire ?
 C’est toujours un [em1]village[/em1] ! Les villageois finiront par revenir !
 Même si les ronces disparaissaient, pourquoi reviendraient-ils dans un village perdu tel que celui-ci ?
 Tout le monde voudrait revenir !
 Mais Ellie... Les gens sont partis et le temps a passé.
-Non. Ils voudraient vraiment revenir !
+Non. Ils voudront revenir, j'en suis sûr !
 C’est un merveilleux village que vous avez développé toute votre vie, [em1]Enite[/em1].
 Ces ronces ont soudainement commencé à pousser et ont détruit les maisons une à une.
 En réalité, ce ne sont pas les premières ronces qui poussent dans le village.
@@ -20873,7 +20873,7 @@ Je vais enlever les ronces et ramener les villageois.
 J'ai bien peur que la cheffe du village et son village ne soient en bien mauvais état, cependant.
 Le village avait autrefois [em1]des ronces blanches[/em1] qui poussaient à son entrée.
 Mais les ronces apparues il y a 3 ans nous semblent complètement étrangères.
-Je sais que les ronces poussent vite, mais elles ne sont pas censées être assez rapides pour blesser qui que ce soit.
+Je sais que ces ronces ont poussé vite, mais elles ne sont pas vives au point de blesser qui que ce soit.
 Détendez-vous, s’il vous plaît. Tout va bien.
 Oui... Vous avez raison mais...
 Je ne pense pas que ceux chassés par les ronces voudront jamais revenir dans ces ruines...
@@ -20884,7 +20884,7 @@ Oui, c'est d’accord. Reposez-vous un peu.
 Vous aussi, Enite !
 Je suis...
 Vous avez l’air fatigué en plus. Rubrum a l’air d’avoir besoin de repos lui aussi.
-Je vais y réfléchir. Reparlons encore[em1]Demain[/em1].
+Je vais y réfléchir. Reparlons en [em1]demain[/em1].
 Oui, à demain !
 De quoi veux-tu parler à Enite ?
 Même si c’est un petit village, il a tout ce dont nous avons besoin.
@@ -20896,7 +20896,7 @@ J’ai pris l’habitude de prendre le thé.
 Riz
 Les jeunes ont particulièrement besoin de repas corrects.
 Ne néglige pas les repas juste parce que tu es occupé.
-Chef du village
+Cheffe du village
 Mes parents ont aussi été chefs de village autrefois.
 Quand j’étais jeune, je pensais qu’il y avait beaucoup de choses plus cool que d’être chef de village...
 Il est difficile de prédire où la vie nous mène.
@@ -24329,7 +24329,7 @@ Elle s’appelle Dosca, par hasard ?
 Ah, oui ! Comment tu le sais ?
 Elle est mignonne, gentille, capable... Elle ne ferait que se vanter d’elle toute la journée.
 Elle a dit autre chose aussi.
-Elle a dit que chaque fois que cela arriverait, si jamais elle avait un petit-enfant, elle voulait qu’il porte son nom.
+Elle a dit que chaque fois que cela arriverait, si jamais elle avait un petit-fils, elle voulait qu’il porte son nom.
 Elle ferait de son mieux pour rester en vie afin de voir ce jour.
 Elle n’était pas du genre à dire ce genre de choses, donc ça m’est resté en tête.
 Cela me donne aussi envie d’essayer plus fort.
@@ -28016,17 +28016,17 @@ Merci de m’avoir aidé à rentrer chez moi !
 Ce n’est rien.
 Oh, [em1]mamie[/em1] veut te rencontrer.
 Mamie ?
-Oui ! C’est la [em1]Chef du village[/em1] !
-Oh, pas « est ». Elle l’était. Tu peux la trouver au fond.
+Oui ! C’est la [em1]Cheffe du village[/em1] !
+Oh non, elle ne l'est plus. Tu la trouveras au fond.
 D’accord. J’y vais.
 Oh, Ellie !
 D’accord, prends soin de toi.
-Mais on dirait vraiment que personne n’est dans le village.
-Oui, beaucoup d’entre eux sont partis après que les [em1]ronces[/em1] ont commencé à pousser partout.
+Mais on dirait que le village est complètement désert.
+Oui, beaucoup d’entre eux sont partis lorsque les [em1]ronces[/em1] ont commencé à pousser partout.
 Maintenant, il ne reste plus que la maison d’Arden et la mienne.
 Je vois. Tu dois t’ennuyer.
 Non. Ce n’est pas grave parce que Mamie et Arden sont là ! Il y a aussi plein de choses amusantes dans la forêt.
-Elle était en fait la cheffe du village ?
+Oh, c'est la cheffe du village ?
 Je ne vois pas de quoi tu parles.
 Te souviens-tu de quelque chose à propos de la sorcière qui était ici avant ?
 Elle m’a guéri quand j’étais malade.
@@ -29539,7 +29539,7 @@ C’est aussi là que vous trouverez le[em1]Dernière ronce du village[/em1].
 Enfin, le dernier.
 Quant au chemin vers le[em1][lua(GetLocalizedString("Common", "Common_Theme_StarSeaCave"))][/em1],[em1]Le gamin qui s’occupe du village[/em1]Je vais te guider.
 Gamine ? Tu veux dire Rubrum ?
-[em1]Enite[/em1], le chef du village.
+[em1]Enite[/em1], la cheffe du village.
 Oh ! Je vois, même Enite est une enfant du point de vue du Dieu Chat, haha.
 D’accord ! Je vais demander à Enite. Merci d’être toujours aussi serviable, Dieu Chat Blanc !
 Tu veux me dire quelque chose à propos de la[lua(GetLocalizedString("Common", "Common_Theme_StarSeaCave"))]?
@@ -31166,7 +31166,7 @@ On dirait que des [em1]fragments[/em1] en sont tombés ?
 C’est tellement magnifique.
 Oui ! C’est vraiment, vraiment magnifique !
 Rubrum, tu peux aller aux ronces et nous attendre là-bas ?
-Nous viendrons dès que la potion sera prête.
+Nous t'y rejoindrons dès que la potion sera prête.
 Je t’attendrai devant les ronces.
 Maintenant, il ne nous reste plus qu’à collecter quelques [lua(GetLocalizedString("Encyclopedia", "MoonFlower_Name"))] et concocter de l'[em1][lua(GetLocalizedString("Item", "MoonOil_Name"))][/em1].
 Ça va ?
@@ -31193,7 +31193,7 @@ Tes mains.
 Bon, je pense que c’était tout ?
 C’est propre maintenant. Bien.
 Maintenant, il est temps de ranger la maison.
-Je devrais faire[lua(GetLocalizedString("Item", "MoonOil_Name"))].
+Je devrais faire l'[lua(GetLocalizedString("Item", "MoonOil_Name"))].
 Tu dois faire [em1][lua(GetLocalizedString("Item", "MoonOil_Name"))][/em1] Avant que tu partes.
 Je devrais aller voir Rubrum d’abord.
 Bon, maintenant, sois un peu patiente et reste assise.
@@ -31420,7 +31420,7 @@ Et que l'on nettoie la maison de sorcière.
 Euh, tu es sûr de m'avoir bien entendu ?
 Eh bien. Comme ça je pourrais en profiter pour compléter le Grimoire d'avantage.
 Super. Ils sont collés à l’arbre comme prévu.
-Waouh, il y a plein [em1]papillons[/em1] illuminés !
+Waouh, il y a plein de [em1]papillons[/em1] brillants !
 On va tous les faire s'enfuir, non ?
 Je me sens tellement mal pour eux tout à coup.
 C’est pour le bien de l’arbre. Dépêche-toi de lancer la potion !
@@ -31435,7 +31435,7 @@ Tu vas rester ici ?
 Oui, je pense que je vais rester ici pendant la durée de mon apprentissage.
 Vraiment. Passons plus de temps ensemble, Rubrum.
 D’accord ! Passons plus de temps ensemble, Ellie !
-Dépêche-toi de rentrer chez toi pour le moment.
+Dépêche-toi de rentrer chez toi maintenant.
 Ta grand-mère doit s’inquiéter. Je te retrouverai plus tard.
 D’accord ! À la prochaine !
 oui~
@@ -31535,7 +31535,7 @@ Ce bureau serait agréable à utiliser comme établi plus tard.
 Mais il n’a aucune utilité pour le moment.
 Ellie, j’espère que tu n’as pas oublié.
 Pour faire de l'[lua(GetLocalizedString("Item", "MoonOil_Name"))], tu as besoin d'une [em1][lua(GetLocalizedString("Item", "Phoenix_Collect_Name"))][/em1].
-Mais il n’y a aucun moyen de trouver un phénix dans le coin.
+Mais jamais tu ne trouveras un phénix dans le coin.
 Nous avons une [em1][lua(GetLocalizedString("Item", "Phoenix_Collect_Name"))][/em1] juste ici.
 Tu m’en as parlé tout à l’heure.
 Oh, Ellie... Ce n’est pas une bonne idée.
