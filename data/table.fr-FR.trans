@@ -3334,7 +3334,7 @@ Aller explorer le village.
 Chercher Rubrum dans le village.
 Trouver la cheffe du village et aller lui parler.
 Enite a besoin de temps pour réfléchir. Aller dormir pour l'instant.
-Demandez à Enite si elle a pris sa décision.
+Demander à Enite si elle a pris sa décision.
 Vérifie l'état de la maison de Kyla
 Parle aux villageois pour recueillir des informations sur les ronces.
 Un livre lié aux ronces se trouvait dans la Maison de la Sorcière. Il est temps de le consulter.
@@ -4405,8 +4405,8 @@ Va à la fontaine et trouve un moyen d'utiliser la Goutte d'émotion.
 Offrez une goutte d'émotion à l'esprit.
 Faites passer l'amitié avec Arden au niveau 1
 Essaie de te rapprocher d'Arden de différentes manières.
-Utilisez complètement la durabilité du balai.
-Chevauchons le balai jusqu'à ce que sa durabilité soit complètement épuisée.
+Utiliser complètement la durabilité du balai.
+Chevaucer le balai jusqu'à ce que sa durabilité soit complètement épuisée.
 Accomplir la tâche de recherche de chaque créature au moins une fois.
 Accomplir la tâche de recherche de {CreatureName.Mongsiri_Name} au moins une fois.
 Accomplir la tâche de recherche de {CreatureName.BushBug_Name} au moins une fois.
@@ -4475,7 +4475,7 @@ Utilisez la plume pour consigner les formes de vie que vous rencontrez dans votr
 Si vous souhaitez en savoir plus sur un sujet, le mieux est de commencer par le noter dans le grimoire et d'y consigner les informations que vous avez observées.
 Enregistre la forme de vie que tu souhaites observer et complète ton grimoire.
 Une fois les ronces débroussaillées, vous pourrez enfin entrer dans Wisteria.
-Essaie de parler à tous les villageois.
+Essayer de parler à tous les villageois.
 Avant que le village ne soit envahi par des ronces, il abritait une menuisière nommée Kyla.
 Après avoir discuté avec les villageois restants, décidez de la suite des événements.
 Pour faire revenir les anciens habitants du village, tu dois d'abord détruire les ronces.
@@ -4716,8 +4716,8 @@ Sur la pointe des pieds
 Certaines plantes et certains animaux sont très sensibles ; il faut donc s'en approcher avec précaution.
 En appuyant sur le bouton « Pas de chat », vous vous déplacez plus silencieusement, mais aussi plus lentement.
 Vous pouvez <color=#800000>vendre des bonbons</color> aux commerçants.
-Les commerçants achètent différents <color=#800000>articles</color> et utilise différentes <color=#800000>devises</color>.
-Vous pouvez vendre en utilisant le mot-clé <color=#800000>Boutique</color>, dans le dialogue .
+Les commerçants achètent différents <color=#800000>articles</color> et utilisent différentes <color=#800000>devises</color>.
+Vous pouvez vendre en utilisant le mot-clé <color=#800000>boutique</color>, dans les dialogues.
 Livrer une potion spéciale
 Les marchands achètent des potions supplémentaires en fonction de <color=#800000>règles particulières</color>, en plus des ventes habituelles de potions.
 Livrez les potions demandées pour obtenir <color=#800000>davantage de récompenses</color>.
@@ -5661,8 +5661,8 @@ Oh… un présage ? Tu te mets à jouer les diseuses de bonne aventure, maintena
 Ça m'étonnerait que tu aies déjà mis les pieds ici.
 Ils ne viennent pas aussi loin pour organiser le pique-nique de l'école de sorcellerie.
 Mais il y a quelque chose [em1]qui me semble familier[/em1], vraiment.
-As-tu rencontré le charpentier volant ?
-Je ne sais pas. On dirait bien que j'ai eu un [em1]rêve[/em1] mais...
+Alors, tu as rencontré le charpentier volant ?
+Je ne sais pas. On dirait bien que j'ai fait un [em1]rêve[/em1] mais...
 Je ne me souviens de rien.
 Tu es nerveuse ou quoi, c'est ton premier jour en tant qu'apprentie sorcière ?
 Bien sûr que non.
@@ -5670,11 +5670,11 @@ Alors, es-tu prête à commencer ta première journée en tant qu'apprentie sorc
 Bien sûr !
 Tu sais quoi faire ?
 Je vais d'abord demander à Enite ce qu'elle en pense.
-Même si elle va bien sûr donner son accord, j'attendrai de l'avoir entendu moi-même.
-Nous allons jeter un œil à [em1]maison de menuisier[/em1] et essayer de [em1]se débarrasser des ronces[/em1].
-N'oubliez pas que nous n'avons pas [em1][lua(GetLocalizedString("Item", "Phoenix_Collect_Name"))][/em1] à gauche.
-Tout finira par s'arranger.
-Allons à [em1]Enite[/em1] d'abord.
+Même si je suis persuadé qu'elle va donner son accord, je préfère attendre sa confirmation.
+Nous allons jeter un œil à cette [em1]maison de charpentier[/em1] et essayer de [em1]nous débarrasser de ces ronces[/em1].
+N'oublies pas qu'il ne nous reste plus de [em1][lua(GetLocalizedString("Item", "Phoenix_Collect_Name"))][/em1].
+On finira bien par s'en sortir.
+Allons voir [em1]Enite[/em1] d'abord.
 Essaie de résumer ce que tu as entendu.
 Enite a déclaré avoir [em1]caractéristiques similaires[/em1] sous le nom de « ronce blanche ».
 C'est Rubrum qui l'a dit [em1]ça sent comme [lua(GetLocalizedString("InteractableObject", "LittleHoneyPumkin"))][/em1]. Alors c'est probablement aussi [em1]similaire[/em1] vers le[lua(GetLocalizedString("InteractableObject", "LittleHoneyPumkin"))].
@@ -6390,18 +6390,18 @@ Qui s'occuperait de réparer les maisons, en admettant qu'on parvienne à enleve
 Il n'y a que deux personnes âgées et un enfant dans tout le village.
 Tu as raison, Virgile.
 Je sais.
-Il nous faut également un [em1]menuisier[/em1] pour réparer les maisons.
+Il nous faut également un [em1]charpentier[/em1] pour réparer les maisons.
 Va donc dormir un peu.
-Tu trouveras certainement ton menuisier dans ton rêve.
+Tu trouveras certainement ton charpentier dans tes rêves.
 Arrête de faire du sarcasme !
-Bon, et bien tu n'as plus qu'à trouver un menuisier capable de voler dans ce cas.
+Bon, et bien tu n'as plus qu'à trouver un charpentier capable de voler dans ce cas.
 Et je pense qu'il lui faudra aussi trois paires de bras.
 Arrête ton sarcasme, Virgile, tu veux ?
 C'est le village où Enite a vécu toute sa vie.
 Les autres doivent l'apprécier autant qu'elle.
 Tu sais, tu viens aussi de rencontrer Enite [em1]pour la première fois[/em1].
 Je le sens, même si c'est la première fois qu'on se voit. Mon cœur s'est <shake>mis à battre si fort</shake>!
-Dans ce cas, le premier villageois à revenir doit être un [em1]menuisier[/em1].
+Dans ce cas, le premier villageois à revenir doit être un [em1]charpentier[/em1].
 Ce n'est pas très spacieux,
 mais c'est beaucoup plus clair.
 Maintenant, je peux le décorer comme je veux.
@@ -14056,7 +14056,7 @@ Je t'avais dit que c'était du panais.
 Bon sang de radis !
 Tu ne m'écoutes pas, n'est-ce pas ?
 C'est vrai. Tu dis que c'est du radis.
-Des travaux à faire chez toi ? J'ai l'air d'un menuisier, à tes yeux ?
+Des travaux à faire chez toi ? J'ai l'air d'un charpentier, à tes yeux ?
 Mes outils, c'est un couteau et une spatule. Pas une scie et un marteau.
 Et si je demandais plutôt à Kyla ?
 Bien sûr. Kyla est douée pour ça.
@@ -18946,8 +18946,8 @@ Bon, tu pourrais le faire pour moi ?
 J’utiliserai le fonds pour payer les frais de port de ces lettres.
 [em1]Boîte de commerce de la bourse à pièces d’or[/em1]?
 En gros, ce sont ces endroits où l’on échange des objets inutiles contre des pochettes de pièces d’or.
-Vous pouvez enfin mettre à profit ce qui pourrit dans votre sac à dos.
-En effet, je peux profiter de l’occasion pour organiser mon sac à dos et mon rangement, et même gagner un peu d’argent en même temps.
+Tu vas enfin pouvoir tirer profit de ce qui pourrit dans ton sac à dos.
+En effet, je vais pouvoir en profiter pour organiser mon sac à dos et mes affaires, et même gagner un peu d’argent par la même occasion.
 Aiden aurait éclaté en sanglots s’il avait entendu le mot « organiser » sortir de ta bouche.
 Aurea, j’ai encore besoin des plans de la maison.
 Achète quand tu veux. Hoho.
@@ -19787,120 +19787,120 @@ En général, la liste de livraison se rafraîchit à chaque fois[em1][lua(GetLo
 Bonjour, Diane.
 *Zzz*
 <shake>Diane !!</shake>
-Bonjour ! Ici le[em1]Catalogue des Sorcières[/em1]Cela vous donne les produits les plus abordables et de la meilleure qualité !
-Voici Diane pour vous apporter du bonheur... Oh, c’est toi, Ellie. Bienvenue.
-Je suis désolé, c’était non professionnel de ma part.
+Bonjour ! C'est le [em1]Catalogue des Sorcières[/em1] - celui qui vous dégote des produits à un rapport qualité/prix imbattable !
+Je suis Diane et je viens vous apporter du bonheur... Oh, c’est toi, Ellie. Bienvenue.
+Je suis désolé, ce n’était pas professionnel de ma part.
 Il s’est passé quelque chose ?
 Hmm... Je ne suis pas sûr que ce soit correct de te dire ça, puisqu’on vient juste de se rencontrer.
 Qu’est-ce que c’est ? Peut-être que je peux aider.
-hmm... saviez-vous que vous pouvez aussi vendre des potions dans le catalogue des sorcières ?
+hmm... Saviez-vous que vous pouvez aussi vendre des potions dans le catalogue des sorcières ?
 Ah bon ?
-L’Administration des Sorcières collecte parfois les potions vendues et les utilise plus tard.
+L’Administration des Sorcières achète parfois des potions en gros pour une utilisation à grande échelle.
 Et nous achetons[em1]Potions sur la liste de livraison[/em1]du jour à un[em1]Prix plus élevé[/em1].
 Vous pouvez en sélectionner un parmi trois dans la liste fournie et livrer[em1]en moins de 2 jours[/em1].
 Puisque nous sommes[em1]Acheter à un prix plus élevé[/em1], ne perds pas ça[em1]Belle opportunité[/em1].
 Et il y a aussi le[em1]Visite d’un service spécial d’achat de potions[/em1]!
 Certaines sorcières vendent aussi des potions dans le Catalogue des Sorcières.
-Récemment, il y a eu de fréquentes plaintes concernant de mauvaises potions.
-Confiance dans la qualité des potions du Catalogue des Sorcières. Confiance en l’administration !
+Récemment, il y a eu beaucoup de plaintes concernant des potions de mauvaise qualité.
+Ayez confiance dans la qualité des potions du Catalogue des Sorcières. Ayez confiance en l’administration !
 En conséquence, l’Administration a émis un avis à chaque vendeur du catalogue pour tester les potions suspectes.
-Le problème, c’est que les potions que j’ai obtenues sont liées à la question.
+Le problème, c’est que certaines potions que j’ai obtenues sont aussi concernées.
 Comme tu le sais, Ellie, la qualité des potions dépend aussi de la confiance d’une sorcière.
 Tu ne peux pas le faire toute seule, Diane ?
 J’ai besoin d’une sorcière pour m’accompagner au test, pour la certification.
-J’ai préparé une petite récompense... Un peu[em1]Nubicula Cupcakes[/em1].
-[em1]Nubicula Cupcakes[/em1]!! Ma mère m’en achètera un à la fin de la semaine si j’ai été sage toute une semaine.
+J’ai préparé une petite récompense... Quelques [em1]Cupcakes Nubicula[/em1].
+Des [em1]Cupcakes Nubicula[/em1] !! Ma mère m’en achètera un à la fin de la semaine si j’ai été sage toute une semaine.
 Donc naturellement, j’en ai à peine eu jusqu’à présent...
 Si ça ne vous dérange pas, puis-je vous demander de l’aide ?
 D’accord, je vais aider !
 Merci. Veuillez prendre ceci d’abord.
 Une cage à oiseaux ?!
-Pour tester le plus rapidement possible, j’ai aussi attrapé un[em1][lua(GetLocalizedString("Encyclopedia", "FlowerBird_Name"))][/em1].
-Jetez simplement le[em1][lua(GetLocalizedString("Item", "NutritionPotion_Name"))][/em1]Je t’ai donné à la[em1][lua(GetLocalizedString("Encyclopedia", "FlowerBird_Name"))][/em1].
+Pour tester le plus rapidement possible, j’ai aussi attrapé un [em1][lua(GetLocalizedString("Encyclopedia", "FlowerBird_Name"))][/em1].
+Jetez simplement la [em1][lua(GetLocalizedString("Item", "NutritionPotion_Name"))][/em1] que je vous ai donné sur l'[em1][lua(GetLocalizedString("Encyclopedia", "FlowerBird_Name"))][/em1].
 Ensuite, je note les détails comme la date, la météo, l’heure, la direction du vent, etc.
 Ça donne... une sensation très formelle.
 Aussi, faites-moi savoir si vous faites un mauvais lancer.
-Quand le[em1]Résultats[/em1]Apparaissez, s’il vous plaît[em1]Rassemblez-vous[/em1]et regarde de près.
+Quand les [em1]résultats[/em1] apparaissent, s’il vous plaît, [em1]rassemblez-les[/em1] et regardez attentivement.
 Hmm... On dirait qu’il n’y a plus de place dans ton sac.
 Reviens une fois que tu auras organisé ton sac.
 Je comptais aussi utiliser les potions que j’avais gardées pour l’événement cette fois, mais...
 Puisqu’il s’agit d’un événement organisé par l’administration, il faut éviter les erreurs.
 Bonjour ! Ici le[em1]Catalogue des Sorcières[/em1]Cela vous donne les produits les moins chers à des prix optimaux !
-Voilà[em1]Diane Greenwind[/em1]qui apporte le bonheur. Enchanté !
-Oui, bonjour. Je suis Ellie, apprentie sorcière.
-Oui, enchantée, Ellie !
-Ce que je dois faire aujourd’hui, c’est... Oh, tu es[em1]Inscription[/em1]Pour la première fois !
-Ça a dû être gênant pour toi de ne pas pouvoir utiliser le Catalogue des Sorcières.
-Une minute... D’accord, merci d’avoir attendu.
-Donc, je dois voir le[em1]maître sorcière[/em1]Avant que tu ne t’inscrives. Elle est à l’intérieur ?
+Voilà [em1]Diane Greenwind[/em1] qui apporte le bonheur. Enchanté !
+Oui, bonjour. Je m'appelle Ellie, apprentie sorcière.
+Bien, enchantée, Ellie !
+Ce que je dois faire pour vous aujourd’hui, c’est... Oh, vous vous êtes [em1]inscrite[/em1] pour la première fois !
+Ça a dû être gênant pour vous de ne pas pouvoir utiliser le Catalogue des Sorcières.
+Juste un instant... Bien, merci d’avoir patienté.
+Bien, je dois rencontrer ta [em1]sorcière-supérieure[/em1] avant que tu n'adhères. Elle est à l’intérieur ?
 M...
-Le[em1]<shake>maître sorcière</shake>[/em1]!?
-Oui, j’ai besoin du[em1]Signature de la Maîtresse[/em1]pour t’enregistrer sur le Catalogue des Sorcières.
+Ma [em1]<shake>sorcière-supérieure</shake>[/em1] !?
+Oui, j’ai besoin d'une [em1]signature de ta sorcière-supérieure[/em1] pour que tu puisse adhérer au Catalogue des Sorcières.
 <shake>Oh, c’est... Euh... Je suis...</shake>
 [em1]<shake>Salut Ellie !</shake>[/em1]
-Tu traînes pendant que je suis dehors ? Tu n’as pas oublié de t’inscrire au Catalogue des Sorcières, si ?
-<shake>Euh... Hein ?</shake>Oh non, je n’ai pas oublié. Bien sûr que non.
-Oh, je suppose que la maîtresse sorcière est[em1]Partir[/em1]Maintenant ?
-Tu parles à travers[em1]Ce chapeau[/em1]?
-<shake>Y... Oui !</shake>
-Tais-toi, Ellie. Toi[em1]Chapeau idiot inachevé[/em1]d’un petit coquin.
-Pourquoi tu ne peux même pas faire une chose aussi petite correctement ?
-Je t’ai dit de me prévenir quand l’employé du Catalogue des Sorcières serait venu !
-Je suis désolé, j’allais justement te le dire.
-Oh... D’accord. Alors je suppose qu’Ellie peut juste[em1]Signe[/em1]Au lieu de cela, c’est parce que la Maîtresse Sorcière est là !
-Vous recevrez également un[em1]Don[/em1]Si vous vous inscrivez maintenant.
-Wow ! A[em1]Don[/em1]? Qu’est-ce que c’est ?
-A[em1]Le Balai de la Sorcière[/em1]Ça rend ta vie beaucoup plus facile.
-A[em1]Le Balai de la Sorcière[/em1]! Enfin !
-Vous pouvez simplement signer ici et ici.
-D’accord, une minute...
-Oui, c’est ça. Alors je vais t’expliquer[em1]comment utiliser le Catalogue des Sorcières[/em1]. Voulez-vous l’entendre ?
-Écoute l’explication.
+Tu traînes pendant que je suis de sortie ? Tu n’as pas oublié ton adhésion au Catalogue des Sorcières, j'espère ?
+<shake>Euh... Hein ?</shake> Oh non, je n’ai pas oublié. Bien sûr que non.
+Oh, je suppose que la sorcière-supérieure est [em1]absente[/em1] pour le moment ?
+Vous communiquez à travers [em1]ce chapeau[/em1] ?
+<shake>O... Oui !</shake>
+Tais-toi, Ellie. Espèce de petite sotte, [em1]complètement écervelée[/em1].
+Pourquoi est-ce que tu n'arrives même pas à faire une chose aussi simple correctement ?
+Je t’ai dit de me prévenir lorsque l’employé du Catalogue des Sorcières viendra !
+Je suis désolé, j’allais justement vous le dire.
+Oh... D’accord. Eh bien, je suppose qu’Ellie peut simplement [em1]signer[/em1], puisque la sorcière-supérieure est présente !
+Vous recevrez également un [em1]cadeau[/em1] en vous adhérant maintenant.
+Wow ! Un [em1]cadeau[/em1] ? Qu’est-ce que c’est ?
+Un [em1]Balai de Sorcière[/em1], ça vous facilitera grandement la vie.
+Un [em1]Balai de Sorcière[/em1] ! Enfin !
+Il vous suffit de signer ici et là.
+D’accord, juste un instant...
+Oui, c’est ça. Laissez moi vous expliquer [em1]comment utiliser le Catalogue des Sorcières[/em1]. Voulez-vous ?
+Écouter l’explication.
 Oui, expliquez-moi.
-Chaque matin, un employé du Catalogue des Sorcières viendra. Dans ce cas, ce sera moi.
+Chaque matin, un employé du Catalogue des Sorcières se présentera. Dans votre cas, ce sera moi.
 Je prévois d’être ici de 8h à 18h.
-Tu peux simplement acheter les articles dont tu as besoin chez moi pendant ce temps.
-Nous n’acceptons pas les pièces d’or et n’acceptons que[em1]Pièces Luna[/em1].
-Comment s’appelle ce truc ?[em1]Pièce Luna[/em1]?
-[em1]Pièce Luna[/em1]est la monnaie utilisée dans la société des sorcières.
-On l’appelle Luna Coin parce qu’elle est faite d’un minerai doté du pouvoir de la lune...
-Tu ne le sais pas déjà puisque tu as aussi grandi dans une société de sorcières, Ellie ?
-Je crois que je l’ai appris à l’école... C’est juste que je ne pense pas avoir appelé l’argent autrement dans ma vie.
-Après tout, seules les Luna Coins sont utilisées dans la société des sorcières.
-Mais comment gagner des Luna Coins ?
-Je suppose que tu n’as pas assez de Luna Coins !
-Quoi... ? En gros, oui.
-C’est exactement pour cela que l’Administration des Sorcières gère un service d’achat de bonbons !
-Merci de me le faire savoir à tout moment car nous achetons quel que soit le type.
+Vous pouvez simplement acheter les articles dont vous avez besoin chez moi à ce moment là.
+Nous n’acceptons pas les pièces d’or et n’acceptons que des [em1]pièces Luna[/em1].
+C'est quoi ces trucs ? [em1]Des pièces Luna[/em1] ?
+Les [em1]Pièces Luna[/em1] sont la monnaie utilisée au sein de la commaunuté des sorcières.
+On l’appelle Pièces Luna parce qu’elle est faite d’un minerai doté du pouvoir de la lune...
+Vous ne le saviez pas déjà, dans la mesure où vous avez aussi grandi dans une communauté de sorcières, Ellie ?
+Je crois que je l’ai appris à l’école... C’est juste que je ne pense pas avoir appelé l’argent autrement de toute ma vie.
+Après tout, seules les Pièces Luna sont utilisées au sein de la communauté des sorcières.
+Mais comment gagner des Pièces Luna ?
+Je suppose que tu n’as pas assez de Pièces Luna !
+Quoi... ? En gros, c'est ça.
+C’est exactement la raison pour laquelle l’Administration des Sorcières assure un [em1]service de rachat de sucreries[/em1] !
+Merci de me prévenir à tout moment car nous achetons quel que soit le type.
 Alors, avez-vous d’autres questions ?
 Non, plus maintenant.
-Très bien, alors n’hésite pas à me parler si tu as besoin de quoi que ce soit.
-Oui, vas-y.
+Très bien, alors n’hésitez pas à me solliciter si vous avez besoin de quoi que ce soit.
+Oui, je vous écoute.
 Le cadeau...
-Bon, je te le donne maintenant.
+D'accord, je te le donne tout de suite.
 Waouh, merci !
 Enfin ! Mon propre balai !
-Bonne journée. Voici Diane Greenwind du Catalogue des Sorcières.
+Bonne journée. C'était Diane Greenwind du Catalogue des Sorcières.
 Tu penses que ça s’est bien passé ?
-Oui, on dirait que l’incendie urgent est éteint.
-Comment s’est passée ma[em1]Talent d’acteur[/em1]?
-Toi ? C’est moi qui ai joué le rôle. Tout ce que tu as fait, c’est bégayer.
-Le bégaiement n’était qu’un jeu !
+Oui, on dirait que le brasier est éteint.
+Comment étaient mes [em1]Talent d’actrice[/em1] ?
+Toi ? C’est moi qui ai joué un rôle. Toi, tout ce que tu as fait, c’est bégayer.
+Le bégaiement n’était qu’une comédie !
 Cela pourrait poser problème plus tard.
 Je t’ai dit que je suis doué pour jouer la comédie.
-Non, pas ton faible talent d’acteur mais le fait que tu manques d’un[em1]maître sorcière[/em1].
-Le[em1]maître sorcière[/em1]Doit être à la Maison de la Sorcière. On ne peut pas juste avoir une apprentie sorcière.
+Non, je ne parle pas ton talent d’acteur insignifiant, mais du fait qu'il te manque une [em1]sorcière-supérieure[/em1].
+La [em1]sorcière-supérieure[/em1] doit loger à la maison de la sorcière. On ne peut pas juste avoir une apprentie sorcière.
 Tu ne peux pas continuer à jouer la comédie ?
 Combien de temps cela va-t-il fonctionner ?
-Et il reste encore la question du[em1]Sorcière qui était ici à l’origine[/em1]dans cette Maison de la Sorcière.
+Et il reste encore la question de la [em1]sorcière qui vivait ici à l’origine[/em1] dans cette maison de sorcière.
 Ce serait bien de savoir qui est cette sorcière.
 Demandons aux villageois plus tard.
-Le[em1]Sorcière qui était ici à l’origine[/em1]...
-Ça pourrait aussi être[em1]quelqu’un avec de la malveillance[/em1].
-Laisse-moi monter sur mon balai et aller vendre des potions tout de suite.
-Tu dois aller à Enite.
-Oh, tu as raison, mais il n’y a pas besoin d’être pressé.
-N’écoute pas.
+La [em1]Sorcière qui était ici à l’origine[/em1]...
+Ça pourrait aussi être [em1]quelqu’un de malveillant[/em1].
+Laisse-moi monter sur mon balai et aller vendre des potions maintenant.
+Tu dois aller voir Enite.
+Oh, tu as raison, mais il n’y a pas besoin de se dépêcher.
+Ne pas écouter.
 Je ne pense pas avoir besoin de l’entendre.
 Tu es sûr ?
 Ellie ! Espèce de chapeau en fourrure décousue ! Tu n’y connais rien ! Écoute !
@@ -20543,7 +20543,7 @@ Haha, maintenant tu t’en souviens. Tu te souviens de ce qu’ils font ?
 Ce sont des marionnettes qui obéissent aux ordres, n’est-ce pas ? Des ordres tels que[em1]« Reste sur le balai » ou « reste là à la place du professeur. »[/em1]
 C’est vrai, mais les marionnettes ne se contentent pas d’obéir aux ordres. Elles apprennent des techniques.
 Pour être plus précis, des personnes possédant des compétences remarquables peuvent les insuffler[em1]Aura d’artisan[/em1].
-Par exemple, une marionnette imprégnée de l’aura d’un charpentier exceptionnel peut parfaitement recréer tous les mouvements de ce menuisier.
+Par exemple, une marionnette imprégnée de l’aura d’un charpentier exceptionnel peut parfaitement recréer tous les mouvements de ce charpentier.
 Il est cependant difficile pour les marionnettes de travailler réellement sur le bois. Comme elles ne sont pas plus grandes qu’un poing, elles ont à peine assez de force pour lever une cuillère en bois.
 Donc, vous avez toujours été la meilleure performeuse parce que vous avez appris le travail du bois en observant les marionnettes ?
 Exact. Et il était laborieux d’infuser l’aura de toutes les charpentiers sorcières dans la marionnette d’un atelier de sorcières.
@@ -20802,9 +20802,9 @@ Hmm... Température modérée, vent doux et faible humidité...
 Parfait. Heureusement, les potions ici semblent normales.
 Ça s’est bien passé, non ?
 Oui. On peut se détendre un peu maintenant, car au moins l’un d’eux est normal.
-C’est la récompense que je t’ai promise, un[em1]Nubicula Cupcake[/em1].
-J’ai demandé cela comme test cette fois, mais j’espère que vous l’avez compris[/em1]utiliser des potions pour collecter[em1]Ça rend les choses beaucoup plus faciles.
-On dit que la Maison de la Sorcière, qui fournit le plus de potions chaque année, en consomme aussi le plus.
+C’est la récompense que je t’ai promise, un [em1]Cupcake Nubicula[/em1].
+Je vous ai demandé de faire un test, mais j’espère que vous avez compris [em1]qu'utiliser des potions pour collecter[/em1] rend les choses beaucoup plus faciles.
+On dit que ce sont les maisons de sorcière qui fournissent le plus de potions chaque année, ce qui signifie que les sorcières en consomment aussi beaucoup.
 Bonne journée, Ellie.
 Des conseils sur l’utilisation des potions se trouvent dans le [em1]Grimoire[/em1].
 Bienvenue. Le soleil est aussi agréable que d’habitude.
@@ -21178,8 +21178,8 @@ La maison à la[em1]En haut à gauche[/em1]du côté de la fontaine centrale du 
 Faisons comme ça : si tu te débarrasses des ronces, je contacterai Kyla.
 Merci, je compte sur toi.
 Alors, qui devrions-nous prendre en premier ?
-Y avait-il un[em1]menuisier[/em1]Au village ?
-Pour réparer des maisons, je pense que la première personne dont nous avons besoin est un[em1]menuisier[/em1].
+Y avait-il un [em1]charpentier[/em1] au village ?
+Pour réparer des maisons, je pense que la première personne dont nous avons besoin est un[em1]charpentier[/em1].
 Il vaudrait mieux enlever les ronces de[em1]Kyla[/em1]La maison d’abord.
 Bonjour, Ellie. Tu as bien dormi ?
 Bon, commençons.
@@ -22558,7 +22558,7 @@ Non, je ne le suis pas.
 Tu ne t’es pas récemment inscrite dans le catalogue des sorcières sous le nom d’Ellie Blueriver à cette maison de la sorcière ?
 Euh... Oui, je l’ai fait.
 Alors, où est Ellie Blueriver ?
-En fait, je suis Ellie Blueriver.
+En fait, je m'appelle Ellie Blueriver.
 Alors pourquoi as-tu menti ?
 Parce que tu avais l’air louche, je...
 Tu peux me faire confiance.
@@ -23153,7 +23153,7 @@ Ce sera inutile si la maison est déjà terminée.
 Je ferai de mon mieux pour en faire un bon !
 Bonjour. Tu es Kyla, n’est-ce pas ?
 Oh, je suppose que c’est vous la sorcière qui a aidé Enite. Mes salutations, madame.
-Je suis Ellie, apprentie sorcière. Tu n’as pas besoin d’être si formelle.
+Je m'appelle Ellie, apprentie sorcière. Tu n’as pas besoin d’être si formelle.
 Vraiment ? Alors je parlerai tranquillement.
 Je veux dire, les sorcières sont souvent plus âgées qu’elles n’en ont l’air.
 J’ai aussi l’âge que j’en ai l’air.
@@ -23562,7 +23562,7 @@ Et c’est amusant à rassembler[em1][lua(GetLocalizedString("Item", "LittleMand
 J’ai essayé avec la canne à pêche de Freddie.
 Freddie dit qu’il faut un bon sens... Je n’en ai pas encore la force de l’être.
 J’ai entendu parler d’un poisson super puissant appelé[em1][lua(GetLocalizedString("Item", "Fish_Stone_Name"))][/em1]. J’espère pouvoir en attraper un. Hahaha.
-Toute ma famille est soit menuisier, soit forgeron, donc je n’ai jamais envisagé un troisième emploi.
+Tous le monde dans ma famille est soit charpentier, soit forgeron, donc je n’ai jamais envisagé un autre métier.
 Mais mon petit frère fait exception.
 Il me demande toujours de lui fabriquer des bureaux et des chaises. Il n’a jamais essayé de le faire lui-même.
 Cependant, un jour, il est soudainement devenu poète. Nous aimons tous les deux boire, et en buvant, il a inventé des paroles pour le morceau que je fredonnais. Hahaha !
@@ -24468,7 +24468,7 @@ C’était un village où forgerons, charpentiers et potiers se rassemblaient po
 C’est pour ça que j’ai pu voir beaucoup d’autres emplois que ce que fait ma famille.
 Quel merveilleux village. Je veux le voir de mes propres yeux.
 Oui, il se réveillait avant le lever du soleil, et était rempli de toutes sortes de sons tout au long de la journée.
-Il y avait un atelier de menuisier juste à côté de la forge familiale, donc j’ai naturellement appris à travailler le bois.
+Il y avait un atelier de charpentier juste à côté de la forge familiale, donc j’ai naturellement appris à travailler le bois.
 J’adore en gros tout travail qui implique de fabriquer des choses à la main. Hahaha.
 Mon père dit toujours que je devrais me concentrer sur un seul métier, cependant.
 As-tu envisagé un autre emploi, alors ?
@@ -25238,7 +25238,7 @@ Allons le trouver à la[lua(GetLocalizedString("Map", "GreenForest_Waterfall"))]
 Bien sûr, puisque personne ne peut t’arrêter quand tu es curieux.
 Bonjour... êtes-vous Freddie ?
 Qu’est-ce qui se passe... Qui êtes-vous ?
-Je suis Ellie Blueriver.
+Je m'appelle Ellie Blueriver.
 Êtes-vous Freddie ? J’ai reçu une lettre de votre part me demandant de venir, alors me voilà.
 Je ne m’attendais pas vraiment à ce que tu viennes.
 Ellie agit vite. Tu verras.
@@ -34122,18 +34122,18 @@ Nouvel emplacement, nouveaux Bonbons 4
 Nouvel emplacement, Nouveaux Bonbons 5
 Nouvel emplacement, nouveaux Bonbons 6
 Se lier d’amitié avec Arden
-Utilise le balai
+Utiliser le balai
 Terminons la tâche de recherche de Squishychub une fois.
 Étudier la Forêt Verte
 Terminons la tâche de recherche de FurBall Rat une fois.
 Étudiez la vallée des nuages
 Terminons la tâche de recherche de Phantom Jellyfish une fois.
 Étudiez la grotte étoilée
-Utilisez une potion dans la Forêt Verte 1
-Utilisez une potion dans la Forêt Verte 2
-Utilisez une potion dans la vallée des nuages 2
+Utiliser une potion dans la Forêt Verte 1
+Utiliser une potion dans la Forêt Verte 2
+Utiliser une potion dans la vallée des nuages 2
 Utiliser une potion dans la Vallée des Nuages 1
-Utilisez une potion dans la grotte étoilée 1
+Utiliser une potion dans la grotte étoilée 1
 Terminons la tâche de recherche de Bush Bug une fois.
 Étudier davantage la Forêt Verte
 Terminons la tâche de recherche de Cloudbloom une fois.
@@ -34288,3 +34288,6 @@ Demandez aux habitants du village et à l’extérieur d’écrire des lettres p
 Allez au cœur de la ronce Épine dans la Forêt Verte et obtenez la rose bleue.
 On se déplace à l’endroit où se trouvait le cœur de Thornvine dans la Forêt Verte.
 Acte 3 : Une lettre parfumée à la glycine
+J'avais prévu d'utiliser les potions mises de côté pour l'occasion, comme d'habitude, mais...
+Comme cet événement est organisé par l'administration, je ne peux pas me permettre qu'il y ait le moindre accroc.
+Utiliser la plume pour dessiner et recueillir des informations, puis utiliser la potion appropriée pour obtenir les matériaux récoltés.
