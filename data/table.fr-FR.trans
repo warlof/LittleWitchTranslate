@@ -149,8 +149,8 @@ Jouet pour Chat
 Mobilier
 Amitié
 Tempérament
-Objet collecté ordinaire
-Objet collecté rare
+Objet ordinaire
+Objet rare
 Objet traité
 Ritoring
 Fabriquer du Mobilier
@@ -329,7 +329,7 @@ Quittent leur étang pour se dorer au soleil les jours ensoleillés. Leur visage
 Fait leur nid dans les buissons. Ils ont des ailes remarquablement grandes pour un si petit corps.
 Un oiseau commun trouvé dans la Forêt Verte.
 Un papillon qui émet une douce lueur bleue en absorbant la lumière de la lune.
-Ils sont connus pour n'avoir qu'un seul œil. Leurs pattes arrières sont toujours prêtes à s'échapper des prédateurs.
+Elles sont connus pour n'avoir qu'un seul œil. Leurs pattes arrières sont toujours prêtes à s'échapper des prédateurs.
 Ils n'aiment pas être touchés, donc ils ont tendance à s'éloigner des gens.
 Il se nourrit de plantes de type « citrouille ». Il se cache souvent parmi les ronces de citrouille avec une forte capacité régénérative.
 Produit un son de clochette en se déplaçant. La légende dit qu'une sorcière qui déteste les araignées les a maudits pour qu'ils émettent ces sons dans l'espoir d'être alertée de la présence d'araignées à proximité.
@@ -578,7 +578,7 @@ Collecter {0}.
 Collecter en utilisant la potion appropriée.
 Collecter sans utiliser la potion appropriée.
 Collecter depuis {0}.
-Collecter dans {0}.
+Collecter de {0}.
 lorsqu'il est posé
 lorsqu'il est en vol
 Collecter en 2 tentatives
@@ -1053,7 +1053,7 @@ Craie Rouge de Sorcière
 Plume de Pompom Séchée
 Une plume de Pompom séchée. Elle semble encore plus robuste qu'avant le séchage.
 Une potion contenant les effets de la lune. Elle est un peu plus légère que l'Huile de Lune.
-Eau Sacrée
+Eau bénite
 De l'eau qui brille en bleu clair. Elle a un léger parfum de fleurs.
 Fibres de Terrier Citrouille
 Fourrure jaune extrêmement douce. Son éclat est éblouissant.
@@ -2140,7 +2140,7 @@ Une boîte remplie de Fragments de Rose fabriqués par Alvin.
 Chaque pétale est sculpté comme s'il était vivant, comme une rose fraîchement épanouie.
 Bourse de Luna
 Vous ne saurez pas combien de Luna se trouvent à l'intérieur jusqu'à ce que vous l'ouvriez. Elle peut également être vendue à un prix équitable dans le magasin.
-Bourse de d'Or
+Bourse d'Or
 Vous ne saurez pas combien d'or se trouvent à l'intérieur jusqu'à ce que vous l'ouvriez. Elle peut également être vendue à un prix équitable dans le magasin.
 Goutte d'Émotion
 Un distillat pur d'émotion qui s'est solidifié. On ne peut le trouver que dans les endroits où les cœurs sont fortement connectés.
@@ -2627,7 +2627,7 @@ Dépose 10 objets collectés ou matériaux en surplus, et tu recevras une bourse
 —Aurea
 À la propriétaire de la Maison de la Sorcière,
 Tes activités reprenant pleinement, nous souhaitons t'offrir notre soutien. À partir de demain, un <color=#800000>Boîte d'échange des bourse de Luna</color> sera installé dans ton jardin.
-Place tout objet collecté ou matériau en surplus à l'intérieur. Pour chaque 10 objets déposés, tu recevras 1 bourse de Luna.
+Place tout objet collecté ou matériau en surplus à l'intérieur. Tous les 10 objets déposés, tu recevras 1 bourse de Luna.
 Nous espérons que cela te sera utile. Le Catalogue des Sorcières continuera à t'assister de tout cœur.
 —Département du Catalogue des Sorcières
 Ellie, j'ai laissé une autre gamelle pour les chats en bas du village.
@@ -2755,7 +2755,7 @@ Vous avez déjà eu votre compte ?
 Je n'en ai pas besoin.
 {0} vous coûtera {1}. C'est bon ?
 Ça vous coûtera {0}. Vous le voulez ?
-Bonne lecture.
+Bon appétit.
 Combien en vendez-vous ?
 Je peux probablement te donner {1} pour {0}.
 Je peux te donner {0}.
@@ -2767,7 +2767,7 @@ C'est à toi de décider.
 Ça ne me sert à rien.
 Combien en achetez-vous ?
 Hmm, {0} fera... {1}. Ça vous convient ?
-1 sera {0}.
+1 vous coûtera {0}.
 Ne vous inquiétez pas, tout est d'excellente qualité.
 {0} fera... {1}. Ça vous convient ?
 Les bonnes choses méritent d'être payées à leur juste prix.
@@ -3136,7 +3136,7 @@ Roy était autrefois un villageois. Quel genre de personne est-il ?
 Reconstruire la Maison de Roy
 Reconstruis la maison de Roy pour lui !
 Construire des maisons pour les villageois
-Livrer les Bonbons de Diane
+Livrer les bonbons de Diane
 {count} Luna(s)
 La monnaie couramment utilisée au sein de la communauté des sorcières. Une lune est gravée sur les pièces d'argent.
 Le cours de potions était obligatoire à l'École des sorcières. J'aimais bien concocter des potions, mais suivre des recettes toutes faites, c'était ennuyeux. Je n'avais même plus le droit de faire ça après avoir suivi ma propre méthode et provoqué une petite explosion...
@@ -3324,7 +3324,7 @@ Dissipez la malédiction d'Aurea et obtenez la fiole en verre pour l'Extracteur
 Fixer la bouteille en verre sur l'extracteur.
 Faut-il enlever ses chaussures en arrivant à Highlion ? Demandez aux autres
 Retournez à votre place et attendez d'arriver à destination.
-Réparez votre balai à l'Établi dans la Maison de la Sorcière.
+Réparer votre balai à l'Établi dans la Maison de Sorcière.
 Utiliser la plume pour consigner les trois nouveaux objectifs dans le Grimoire.
 Rénovation de la Maison de la Sorcière
 Demandez si quelqu'un peut aider à réparer la Maison de la Sorcière.
@@ -3335,24 +3335,24 @@ Chercher Rubrum dans le village.
 Trouver la cheffe du village et aller lui parler.
 Enite a besoin de temps pour réfléchir. Aller dormir pour l'instant.
 Demander à Enite si elle a pris sa décision.
-Vérifie l'état de la maison de Kyla
+Vérifier l'état de la maison de Kyla
 Parle aux villageois pour recueillir des informations sur les ronces.
 Un livre lié aux ronces se trouvait dans la Maison de la Sorcière. Il est temps de le consulter.
-Vérifie à nouveau l'état de la maison de Kyla
-Suivez les ronces qui rampent au sol.
+Vérifier à nouveau l'état de la maison de Kyla
+Suivre les ronces qui rampent au sol.
 Vous ne pouvez pas aller là où mènent les traces des ronces car le chemin est coupé. Trouvez un moyen de passer.
-Suivez les traces de la ronce.
+Suivre les traces de la ronce.
 Y a-t-il un moyen d'éviter le terrible Oiseau Gaga ?
-Suivez à nouveau les ronces.
-Rendez-vous à l'endroit où Rubrum a été sauvé.
-Résolvez l'énigme et actionnez le levier.
-Ouvre le grand portail du jardin et trouve le cœur de la ronce.
-Retirez le cœur épineux de la ronce.
-Demande à Diane comment déchiffrer l'ancienne langue des sorcières.
-Bois la potion « Amélioration de l'intelligence » et lis le mot.
-Demande à Diane où trouver de l'eau sacrée.
-Préparez des « Larmes de lune ».
-Retirez le cœur épineux de la ronce à l'aide de « Moon Tears ».
+Suivre à nouveau les ronces.
+Se rendre à l'endroit où Rubrum a été sauvé.
+Résoudre l'énigme et actionnez le levier.
+Ouvrir le grand portail du jardin et trouve le cœur de la ronce.
+Retirer le cœur épineux de la ronce.
+Demander à Diane comment déchiffrer l'ancienne langue des sorcières.
+Boir la potion « Amélioration de l'intelligence » et lis le mot.
+Demander à Diane où trouver de l'eau bénite.
+Préparer des « Larmes de lune ».
+Retirer le cœur épineux de la ronce à l'aide de « Moon Tears ».
 Conversation avec Enite
 Parle d'abord à Enite.
 Remettez la lettre à Aurea
@@ -3521,7 +3521,7 @@ Trouvez l'Enite « Forget-me-not » dont il est question.
 On dit que cette fleur pousse sur l'énorme champignon qui s'effondre à Cloud Vally Downstream.
 Donne le myosotis rouge à Enite.
 Prie au temple et offre du thé au myosotis au Dieu Chat Noir.
-Rembourse Diane pour l'eau sacrée achetée à crédit.
+Rembourse Diane pour l'eau bénite achetée à crédit.
 Utilise la potion de lumière du soleil au sommet de la montagne de la Forêt Verte pour obtenir des fleurs de lune.
 Dis à Enite que le cœur a été retiré, et parle-lui du villageois qui va revenir.
 Enite a dit que Roy te cherchait. Va trouver Roy et renseigne-toi sur la bibliothèque.
@@ -3729,7 +3729,7 @@ Retrouver Rubrum dans le village
 Retrouver Enite au village
 Dormir dans son lit
 Contacter Enite
-Organiser un dialogue
+Mener des entretiens
 Liser le livre dans la maison de la sorcière
 Inspecter le terrain de Kyla
 Inspecter à nouveau le terrain de Kyla
@@ -3742,7 +3742,7 @@ Redonner vie au haricot magique flétri
 Trouver un moyen de vous occuper de l'oiseau Gaga
 Sur les traces de la ronce
 Trouver un moyen de déchiffrer le message
-Obtenir l'eau sacrée
+Obtenir l'eau bénite
 Déchiffre le mot
 Remetter la lettre
 Discuter avec Kyla
@@ -4203,7 +4203,7 @@ Donne à Enite le bol que Théo a vidé.
 Parle à nouveau à Théo
 Parle à nouveau à Théo.
 Va chez Arden et renseigne-toi sur la nourriture.
-Discutez du thé avec Rubrum.
+Discuter du thé avec Rubrum.
 Rendez-vous dans l'habitat de Honey Bear.
 Prends des nouvelles de Honey Bear
 Montre à Kyla les plans du château pour chat de Bjorn.
@@ -4479,10 +4479,10 @@ Essayer de parler à tous les villageois.
 Avant que le village ne soit envahi par des ronces, il abritait une menuisière nommée Kyla.
 Après avoir discuté avec les villageois restants, décidez de la suite des événements.
 Pour faire revenir les anciens habitants du village, tu dois d'abord détruire les ronces.
-Explorez Green Forest, trouvez le cœur de la ronce et détruisez-le pour résoudre le problème.
-Lance-toi dans l'aventure pour sauver le village !
+Explorer Green Forest, trouver le cœur de la ronce et le détruire pour résoudre le problème.
+Se lancer dans l'aventure pour sauver le village !
 Pour éliminer complètement les ronces, il te faut une potion imprégnée de la puissance lunaire.
-Renseigne-toi sur la recette de la potion, rassemble les ingrédients et utilise-la pour éliminer les ronces.
+Se renseigner sur la recette de la potion, rassembler les ingrédients et l'utiliser pour éliminer les ronces.
 Le charpentier, qui sait construire des maisons, est indispensable à la reconstruction du village.
 Écris une lettre à Kyla, l'ancienne charpentière du village.
 Kyla est de retour à Wisteria.
@@ -4615,7 +4615,7 @@ On dirait qu'Enite cherche un poisson en particulier.
 Apporte-lui le poisson qu'elle veut avant la fin de la journée.
 Vinch semble chercher quelque chose.
 Arden, le dragon cuisinier, a son mot à dire sur la nourriture.
-Allons le trouver et entendre ce que c'est.
+Aller le trouver et écouter ce qu'il a à dire.
 On dirait que Kyla cherche quelque chose.
 Grâce à la remise en état du pont qui mène au village, davantage d'habitants peuvent désormais s'y installer.
 Nous nous préparons à accueillir le premier résident qui s'installera en contrebas du village.
@@ -4780,10 +4780,10 @@ Vous pouvez entrer dans l'eau et vous y baigner dans la zone délimitée par les
 Décore la maison de la sorcière
 Vous pouvez décorer l'intérieur de la Maison de la sorcière comme bon vous semble.
 <color=#800000>Actionnez la cloche de décoration située près de l'entrée</color> de la Maison de la Sorcière pour commencer à décorer.
-Village Bulletin
-Village Bulletin <color=#800000>De nouvelles quêtes secondaires seront ajoutées chaque matin</color> au bulletin du village.
+Panneau d'affichage
+<color=#800000>De nouvelles quêtes secondaires seront ajoutées chaque matin</color> au panneau d'affichage du village.
 Si tu ne sais pas quoi faire, va voir ce dont les villageois ont besoin.
-Même une petite chose peut devenir <color=#800000>une grande aventure</color> en compagnie d'Ellie.
+Même une chose insignifiante peut devenir <color=#800000>une grande aventure</color> en compagnie d'Ellie.
 Boîte aux lettres
 Vous trouverez vos <color=#800000>lettres</color> dans la boîte aux lettres près de la porte de la Maison de la Sorcière.
 Les lettres peuvent être accompagnées de <color=#800000>cadeaux inattendus</color>.
@@ -5676,20 +5676,20 @@ N'oublies pas qu'il ne nous reste plus de [em1][lua(GetLocalizedString("Item", "
 On trouvera bien un moyen.
 Allons voir [em1]Enite[/em1] d'abord.
 Essaie de résumer ce que tu as entendu.
-Enite a déclaré avoir [em1]caractéristiques similaires[/em1] sous le nom de « ronce blanche ».
-C'est Rubrum qui l'a dit [em1]ça sent comme [lua(GetLocalizedString("InteractableObject", "LittleHoneyPumkin"))][/em1]. Alors c'est probablement aussi [em1]similaire[/em1] vers le[lua(GetLocalizedString("InteractableObject", "LittleHoneyPumkin"))].
+Enite a déclaré que ça présentait des [em1]caractéristiques similaires[/em1] à l'espèce des « ronce blanche ».
+Rubrum a dit que [em1]ça sentait comme la [lua(GetLocalizedString("InteractableObject", "LittleHoneyPumkin"))][/em1]. Alors c'est probablement aussi [em1]similaire[/em1] à la [lua(GetLocalizedString("InteractableObject", "LittleHoneyPumkin"))].
 Arden... ne m'a rien dit de particulier.
-Il a dit que c'était «[em1]la malveillance de quelqu'un[/em1]« ».
+Il a dit que c'était «[em1]la malveillance de quelqu'un[/em1]».
 Il suffit de voir une plante grimpante épineuse capable de détruire et de ravager une maison pour en venir à cette conclusion.
-Il semble qu'Arden pense que c'est le [em1]le travail d'une sorcière[/em1].
+On dirait qu'Arden pense que c'est le [em1]le travail d'une sorcière[/em1].
 Une malédiction de sorcière ? Dans le monde d'aujourd'hui ? C'est une façon de penser dépassée.
-Il ne le penserait pas s'il était allé à Lucerine Ortu.
+Il ne penserait pas ça s'il était allé à Lucerine Ortu.
 Mais les sorcières d'autrefois sont toujours là.
-Hé, on trouvera le coupable plus tard et on verra bien [em1]La maison de Kyla[/em1] pour l'instant.
+Hé, on cherchera le coupable plus tard, occupons-nous plutôt de [em1]la maison de Kyla[/em1] pour l'instant.
 En résumé, les ronces du village sont un mélange de [em1]caractéristiques de plusieurs plantes[/em1].
 Bon. Je crois que j'ai demandé à tout le monde.
-Je crois avoir vu quelque chose en rapport avec la ronce sur le [em1]étagère de sorcière[/em1] au rez-de-chaussée.
-Allons aussi jeter un œil à la [em1]La maison de la sorcière[/em1] comme l'a dit Arden.
+Je crois avoir vu quelque chose en rapport avec la ronce sur l'[em1]étagère de sorcière[/em1] au rez-de-chaussée.
+Allons aussi jeter un œil à la [em1]la maison de la sorcière[/em1] comme l'a suggéré Arden.
 Allons voir.
 Ouah, il fait vraiment noir.
 Si tu as peur, on peut retourner au train.
@@ -5953,10 +5953,10 @@ Si on suspendait le Gaga Bird la tête en bas, il ferait un bruit comme ça.
 Attends, celui-là n'est pas suspendu la tête en bas, pourtant.
 Après tout, les Gaga Birds sont connus pour être complètement fous...
 Peut-être que pour l'oiseau, c'est la tête en bas.
-Le [em1]traces de ronce[/em1] continuer vers le [em1]forêt[/em1] sous le Gaga Bird.
+Les [em1]traces de ronce[/em1] sous le Gaga Bird continuent vers la [em1]forêt[/em1].
 C'est un vrai Gaga Bird.
 <shake>Tu crois qu'on va s'en sortir… ?</shake>
-C'est possible, à condition de s'en accommoder [em1]un bruit horrible[/em1].
+C'est possible, à condition de s'accommoder [em1]de se bruit horrible[/em1].
 Je ne pense pas que je fermerai l'œil dans le train.
 Je me demande s'il y a un endroit où je pourrais dormir ce soir.
 Qu'est-ce que tu penses du sol ? La terre et les cailloux devraient former un lit bien douillet.
@@ -5980,7 +5980,7 @@ Ce n'est pas si grave ! Ça n'a fait que réduire un peu sa résistance.
 Moi non plus, je ne l'ai presque pas utilisé...
 Eh bien, que peut-on attendre d'un cadeau gratuit ?
 Je crois qu'il y avait un bon établi au laboratoire. Je peux le réparer là-bas.
-Tout ce qu'il me faut, c'est un [em1][lua(GetLocalizedString("Item", "Branch_Name"))][/em1] ou un [em1][lua(GetLocalizedString("Item", "Mud_Name"))][/em1].
+Tout ce qu'il me faut, c'est une [em1][lua(GetLocalizedString("Item", "Branch_Name"))][/em1] ou de la [em1][lua(GetLocalizedString("Item", "Mud_Name"))][/em1].
 J'ai enfin atteint le niveau le plus élevé !
 Qu'est-ce qu'un [lua(GetLocalizedString("EncyclopediaAchievement", "Benefit_Collection"))]?
 Ne te fais pas trop d'illusions.
@@ -7589,7 +7589,7 @@ C'est peut-être sa façon d'exprimer sa gratitude.
 Si elle voulait m'offrir du miel, elle aurait dû le mettre dans un pot ! Comment suis-je censé le manger s'il m'en met partout sur le visage ?
 Ah bon ? On me l'a vraiment donné ?
 Peut-être voulait-il te donner du miel.
-Merci ! Je vais m'en régaler !
+Merci ! Je vais me régaler !
 Ah, ça s'est enfin arrêté.
 Nous pouvons emprunter cette voie dès maintenant.
 Allons-nous rencontrer d'autres créatures étranges plus loin ?
@@ -8246,13 +8246,13 @@ Je suppose que c'était un [em1][lua(GetLocalizedString("Common", "Ritoring"))][
 Bon, un [em1][lua(GetLocalizedString("Common", "Ritoring"))][/em1]. On en voit rarement.
 On sait très peu de choses à leur sujet, même les sorcières n'en savent pas grand-chose.
 Je m'en souviens maintenant… Il y avait ce gamin — Ralph, c'est ça ? — qui portait toujours deux broches en forme de trèfle.
-Ce n'étaient apparemment pas des trèfles ordinaires... Ils étaient faits de [em1][lua(GetLocalizedString("Item", "RitoringPouch_Name"))][/em1]p.
+Ce n'étaient apparemment pas des trèfles ordinaires... Ils étaient faits de [em1][lua(GetLocalizedString("Item", "RitoringPouch_Name"))][/em1]s.
 Je ne m'attendais pas à ce que tu sois aussi perspicace.
 Après tout, Ralph était unique. Il avait toujours plein de collections sur lui.
 Il s'en vantait même, affirmant que ces objets lui porteraient chance.
-Peut-être bien. Certains pensent que [em1][lua(GetLocalizedString("Item", "RitoringPouch_Name"))][/em1]... portent chance.
+Peut-être bien. Certains pensent que les [em1][lua(GetLocalizedString("Item", "RitoringPouch_Name"))][/em1] portent chance.
 Vraiment ? Ces gens doivent donc vouloir les collectionner, alors ?
-Bien sûr. Pour eux, [em1][lua(GetLocalizedString("Item", "RitoringPouch_Name"))][/em1]Ce sont des objets de collection.
+Bien sûr. Pour eux, les [em1][lua(GetLocalizedString("Item", "RitoringPouch_Name"))][/em1] sont des objets de collection.
 C'est décidé ! Je vais en chercher davantage.
 Comme je m'y attendais, cet endroit est lui aussi envahi par des ronces.
 Ceci [em1]glycine[/em1] s'est fanée.
@@ -10142,7 +10142,7 @@ Tout allait un peu trop bien avant.
 Je ne plaisante pas, Virgile !
 Et maintenant, qu'est-ce qu'on fait ?
 Peut-être avez-vous besoin de plus de « Larmes de la Lune » ?
-Où pourrais-je bien trouver toutes les fleurs de lune et l'eau sacrée...
+Où pourrais-je bien trouver toutes les fleurs de lune et l'eau bénite...
 Et l'huile Moon Oil que tu as utilisée au début.
 Et la plume de phénix, alors ? Et peut-être avons-nous besoin de « plumes » de phénix...
 N'y a-t-il pas d'autre moyen...
@@ -10242,7 +10242,7 @@ S'il n'y a rien, je ne pourrai pas faire un seau entier de Larmes de la Lune !
 Faites preuve de prudence dans vos recherches.
 Comme tu l'as dit, Lisa n'a rien dit de positif à propos de Tanis.
 T'inquiète pas. Je fais toujours attention.
-Sérieusement ?
+Sans déconner ?
 Qu'est-ce que c'est ? Une cloche ?
 Pourquoi y aurait-il une cloche ?
 En général, on sonne une cloche pour donner un signal.
@@ -11730,30 +11730,30 @@ Je n'arrive plus à lire. Je ne vais pas pouvoir finir ce livre aujourd'hui.
 Pourquoi pas ? Finis de le lire.
 La lecture me tue. Qui s'occuperait d'arracher ces ronces si je venais à mourir ?
 Ce n'est pas parce qu'on passe beaucoup de temps à lire un livre qu'on en meurt pour autant.
-Hum, je veux dire que la fille d'Aria pourrait mourir.
+Hum, réflexion faite, la fille d'Aria pourrait en mourir.
 Regarde ce livre. On dirait qu’il fait plus de mille pages. N’importe qui serait épuisé après l’avoir lu en entier.
 « La première rosée du printemps, un papillon de la lune rouge, la quatrième aube de l'été... »
 On ne va pas s'attarder là-dessus. Résume-le simplement.
 « ... Mélangez bien et ajoutez les graines de la plante de votre choix pour obtenir une nouvelle plante. »
-C'est un [em1]méthode permettant de combiner les caractéristiques de la plante[/em1]!
+C'est une [em1]méthode permettant de combiner les caractéristiques de plusieurs plantes[/em1]!
 Les ronces du village étaient une [em1]combinaison[/em1] créé de cette manière.
 Il semblerait bien.
 Bon, alors…
-Attends, [em1]Pourquoi ce livre se trouve-t-il ici ?[/em1] ?
-«[em1]La malveillance de quelqu'un[/em1]« ? »
+Attends, [em1]pourquoi ce livre se trouve-t-il ici[/em1] ?
+«[em1]La malveillance de quelqu'un[/em1] » ?
 Bien sûr, ce livre n'est pas rare.
-C'est un livre que tout le monde [em1]une sorcière passionnée par les plantes[/em1] aurait.
-Ce n'est qu'un [em1]possibilité[/em1].
+C'est un livre que n'importe quelle [em1]sorcière passionnée par les plantes[/em1] aurait.
+Il ne s'agit là que d'une [em1]possibilité[/em1].
 Je veux dire [em1]les deux[/em1].
-Il me faut juste un autre livre sur [em1]ronces[/em1].
-Mais il y a une question plus urgente [em1]question[/em1].
-Pour refaire le tour de la maison de Kyla.
+Il me faut juste un autre livre sur les [em1]ronces[/em1].
+Mais il y a un sujet plus [em1]important[/em1].
+Allons refaire le tour de la maison de Kyla.
 Et le livre ? Tu ne vas plus le lire ?
 Vas-y mollo avec moi. Je vais vomir si je lis encore un seul mot.
 Mais je crois que tu as presque mis le doigt sur des détails importants.
 Quoi ? Vraiment ?
-D'après les informations que nous avons recueillies, il semble s'agir d'une combinaison de [em1][lua(GetLocalizedString("InteractableObject", "LittleHoneyPumkin"))][/em1] et [em1]ronce blanche[/em1].
-Ce doit être le sac qui [em1]Arden[/em1] dont je parlais.
+D'après les informations que nous avons recueillies, il semble s'agir d'une combinaison de [em1][lua(GetLocalizedString("InteractableObject", "LittleHoneyPumkin"))][/em1] et de [em1]ronce blanche[/em1].
+Ce doit être le sac dont parlait [em1]Arden[/em1].
 Allons-y.
 Je vois un sac qui a été laissé ici.
 Les gens ici sont négligents.
@@ -11945,38 +11945,38 @@ Parlons encore un peu avec les villageois.
 Allons chercher le [em1]La maison de la sorcière[/em1].
 Je crois qu'il y avait un [em1]livre consacré à la ronce[/em1].
 Il suffit de trouver le cœur, de préparer la potion et de l'utiliser.
-Allons donc voir [em1]informations[/em1].
+Allons donc trouver [em1]des informations[/em1].
 Comment une maison peut-elle être à ce point ravagée par ces plantes grimpantes épineuses ?
 Regarde cette maison.
 Je trouve la décoration absolument [em1]magnifique[/em1].
 Qu'est-il arrivé aux gens qui vivaient ici ?
 Est-ce qu'ils n'auraient pas pris la fuite pendant que les ronces poussaient ?
 J'espère que c'est le cas...
-Si tu ne te débarrasses pas de ces ronces, ça ne sert à rien de reconstruire la maison.
-Maintenant que nous connaissons l'emplacement, posons la question [em1]les autres villageois[/em1].
+Si on ne se débarrasses pas de ces ronces, ça ne sert à rien de reconstruire la maison.
+Maintenant que nous connaissons l'emplacement, interrogeons [em1]les autres villageois[/em1].
 Maintenant que le cœur des ronces a été retiré, elles vont bien se rétablir.
-Mais comment comptez-vous vous débarrasser du cœur ?
+Mais comment comptes-tu te débarrasser du cœur ?
 Le pouvoir de la lune devrait affaiblir le cœur, puisqu'il est semblable à la ronce blanche.
-Est-ce que c'est [lua(GetLocalizedString("Item", "MoonOil_Name"))] Encore ? Où vas-tu trouver [lua(GetLocalizedString("Item", "Phoenix_Collect_Name"))]?
+Tu veux encore utiliser de l'[lua(GetLocalizedString("Item", "MoonOil_Name"))] ? Où vas-tu trouver une [lua(GetLocalizedString("Item", "Phoenix_Collect_Name"))]?
 Allons simplement acheter un autre billet de train.
-Oh, nous avons [lua(GetLocalizedString("Encyclopedia", "MoonFlower_Name"))]... mais [lua(GetLocalizedString("Item", "Phoenix_Collect_Name"))] c'est là le problème.
+Oh, nous avons des [lua(GetLocalizedString("Encyclopedia", "MoonFlower_Name"))]... mais le problème, c'est la [lua(GetLocalizedString("Item", "Phoenix_Collect_Name"))].
 Je n'ai pas autant d'argent !
-Que faisons-nous ? Diane va-t-elle le vendre ?
-En parlant de la lune… Tu as trouvé un mot la dernière fois, n'est-ce pas ?
+Que faisons-nous ? Est-ce que Diane en vend ?
+En parlant de la lune… Tu as trouvé une note la dernière fois, n'est-ce pas ?
 Oh ! Ce mot écrit dans une ancienne langue de sorcières !
-Soit ils le vendraient à un prix élevé, soit ils ne le proposeraient pas.
+Soit elle le vend à un prix élevé, soit elle n'en propose pas.
 Je me demande s'il existe une autre potion qui tire son pouvoir de la lune...
 Maintenant que j'y repense, ça ressemblait bien à une recette !
 Et si on commençait par le décoder ?
 Bonne idée ! Commençons par décoder ça.
 Je suppose que Diane peut le lire !
-Et ça servirait à préparer la... comment-on-appelle-déjà cette potion de Moon pour retirer le cœur épineux de la ronce.
+Et ça servirait à préparer la... comment-on-appelle-déjà cette potion de lune pour détruire le cœur de la ronce.
 On le saurait si on ne s'endormait pas en classe comme toi.
 Moi non plus, je ne me suis pas endormi !
-Regarde ça. Ça ressemble vraiment à une ronce et ça a la couleur d'un [lua(GetLocalizedString("InteractableObject", "LittleHoneyPumkin"))].
-Cela signifie donc que les villageois n'ont pas pu se débarrasser de cette plante grimpante épineuse parce que...
-Parce qu'on ne peut s'en débarrasser qu'en détruisant le [em1]cœur[/em1] tout comme [lua(GetLocalizedString("InteractableObject", "LittleHoneyPumkin"))].
-Vous pouvez vous débarrasser des ronces si vous en trouvez [em1]leur essence[/em1].
+Regarde ça. Ça ressemble vraiment à une ronce et ça a la couleur d'une [lua(GetLocalizedString("InteractableObject", "LittleHoneyPumkin"))].
+Cela signifie donc que les villageois n'ont pas pu se débarrasser de ces ronces parce que...
+Parce qu'on ne peut s'en débarrasser qu'en détruisant le [em1]cœur[/em1] tout comme une [lua(GetLocalizedString("InteractableObject", "LittleHoneyPumkin"))].
+On peut se débarrasser des ronces en trouvant le [em1]cœur[/em1].
 Comme il s'agit d'une plante, la ronce et le cœur doivent être liés d'une manière ou d'une autre.
 Les ronces envahissent les abords du village.
 Si nous suivons cette piste, nous trouverons le cœur du problème.
@@ -13662,7 +13662,7 @@ Pour être honnête, ce n'était pas une représentation très sophistiquée. J'
 Cependant, cet acteur savait ce qu'il devait faire sur scène.
 C'était une pièce originale, mais son interprétation parfaite surpassait toutes les pièces célèbres que j'avais vues.
 Ça a été une véritable révélation pour moi. Je me suis dit que je pouvais lui créer une scène sans précédent.
-(Revoir l'article précédent ?)
+(Revoir la dernière conversation ?)
 À propos de la musique
 Magasin de bric-à-brac
 Balais
@@ -13698,7 +13698,7 @@ C'est pour toi.
 Avez-vous quelque chose à dire ?
 Dis-le.
 Je suis un [em1]dragon[/em1].
-Je suis aussi un [em1]cuisiner[/em1].
+Je suis aussi un [em1]cuisinier[/em1].
 Je ne l'aurais pas su si tu ne me l'avais pas dit.
 Alors, que veux-tu savoir de plus ?
 Eh bien, [em1]pourquoi[/em1] Est-ce qu'un dragon travaille comme cuisinier ?
@@ -13709,10 +13709,10 @@ Je suppose que ce n'était pas si important que ça.
 Il ne semble pas que ce soit le cas.
 Comment saurais-je que j'ai oublié ?
 Parce que tu es un [em1]dragon[/em1].
-Et aussi un [em1]cuisiner[/em1].
+Et aussi un [em1]cuisinier[/em1].
 Eh bien, bien sûr.
 Quel est le problème ?
-Le problème, c'est que tu [em1]oublié[/em1].
+Le problème, c'est que tu as [em1]oublié[/em1].
 [lua(GetLocalizedString("InteractableObject", "People_Arden"))][lua(GetLocalizedString("Choice", "FavorabilityUP_Large"))]
 Tu détestes les sorcières ?
 Oui.
@@ -13890,15 +13890,15 @@ Je ne sais pas ce qu'il en est de cette histoire.
 Je n'en ai jamais entendu parler.
 Hé, t'es une sorcière.
 Oui, je m'appelle Ellie, je suis apprentie sorcière.
-Je suis [em1]Arden[/em1], le [em1]dragon[/em1] et un [em1]cuisiner[/em1].
+Je suis [em1]Arden[/em1], le [em1]dragon[/em1] et un [em1]cuisinier[/em1].
 Tu as aidé Rubrum ? Tu es vraiment gentil.
 De rien.
 Tu comptes rester ici quelque temps ?
 Dis-moi si tu as faim.
 Mais ce n'est pas gratuit.
 D'accord, bien sûr.
-C'est pour aider Rubrum.
-Celui-là est gratuit. Prends-le.
+C'est pour avoir aider Rubrum.
+C'est gratuit pour cette fois. Prends.
 C'est le dernier qui reste.
 ... Pourquoi tu me regardes comme ça ?
 Ah, je suis désolé. C'est la première fois que je vois un dragon de mes propres yeux.
@@ -13925,10 +13925,10 @@ Demande à quelqu'un d'autre.
 Les ronces du village ?
 Oui, au cas où tu saurais quelque chose.
 Eh bien, je ne sais pas grand-chose sur la ronce.
-J'ai juste l'impression que [em1]malveillance[/em1] l'a rempli.
-[em1]Malveillance[/em1] ?
+J'ai juste l'impression qu'elle est emplie de [em1]malveillance[/em1].
+De la [em1]malveillance[/em1] ?
 [em1]Des ronces qui ne demandent qu'à détruire les maisons[/em1] ? C'est tellement contre nature.
-Si ce n'est pas celui de quelqu'un [em1]malveillance[/em1], qu'est-ce que ce serait ?
+Si ça ne vient pas de quelqu'un de [em1]malveillant[/em1], qu'est-ce que ce serait ?
 Y a-t-il quelqu'un qui serait capable de faire une chose aussi horrible ?
 Je ne sais pas. Eh bien…
 Hé, je ne sais pas trop. Je n'en sais rien.
@@ -13939,7 +13939,7 @@ Mais en seras-tu capable ?
 Bien sûr. Je vais redonner au village son aspect d'antan.
 Il faut avoir une sacrée confiance en soi.
 Tu as trouvé le sac ?
-Oui, c'est par ici.
+Oui, le voici.
 Ah, merci. Ça m'a fait du bien.
 Qu'y a-t-il dedans ?
 Hmm, ça t'intrigue, n'est-ce pas ? C'est ma recette secrète.
@@ -14270,7 +14270,7 @@ Je dois donc l'avoir perdu ici, au village.
 Ah, merci. Je ne peux pas m'en passer.
 Mais bon, je peux enfin faire [lua(GetLocalizedString("EffectFoodCommon", "BeefBread_Name"))] encore une fois.
 Viens me voir si tu as faim.
-J'ai perdu un [em1]sachet contenant les ingrédients[/em1].
+J'ai perdu un [em1]sac contenant les ingrédients[/em1].
 Je crois que je l'ai égaré quelque part [em1]près de l'eau[/em1]. Pourrais-tu essayer de le trouver pour moi ?
 Je me souviens l'avoir ramené au village.
 J'ai mal à la gorge après avoir craché trop de feu.
@@ -14635,7 +14635,7 @@ C’était une blague ?
 Pas du tout.
 Beurk... Je vais y aller alors.
 Si tu veux quelque chose de sucré, va chercher quelqu’un d’autre, pas moi.
-Je ne suis pas le seul à cuisiner[em1]Alimentation[/em1]au village.
+Je ne suis pas le seul à faire [em1]à manger[/em1] au village.
 En surface, il semble être un vieil homme bien soigné.
 Mais je ressens en lui une certaine amertume.
 Je ne pense pas qu’il ait eu une vie paisible.
@@ -14651,7 +14651,7 @@ Oui.
 Tu n’as jamais entendu parler d’un mythe ou d’un conte populaire ?
 Moi, c’est certain, mais je ne m’en souviens pas.
 Je ne suis pas le seul à[em1]vit dans le village depuis longtemps[/em1].
-Pourquoi traînes-tu ?
+Qu'est-ce qui t'ammène ?
 Ça va. Je n’ai pas besoin de ton aide.
 Arden ! Ils disent que tu as du mal avec le menu de la fête ?
 Qui sont « ils » ?
@@ -15431,7 +15431,7 @@ Tu m’as déjà causé pas mal de problèmes, tu sais ?
 Eh bien... Je m’excuse.
 Je plaisante. Je ferai comme tu as dit.
 Whoa... Ça fait une éternité que je ne suis pas venu ici. Mentir toute la journée me rendait fou.
-Ne te pousse pas trop.
+Ne force pas trop.
 D’accord, d’accord, mais je me sens bien aujourd’hui, Arden. Pas de souci.
 Et les brises aujourd’hui sont confortables. Je suis content que nous soyons sortis ensemble.
 Dis, Arden, tu te souviens de ce que j’ai dit avant ? Le[em1]« Ne m’oublie jamais »[/em1]truc.
@@ -15681,19 +15681,19 @@ Mais c’est quoi cette histoire de « ne jamais lécher le poivre » ? Ce n’e
 On va devoir aller lui demander.
 Arden, je suis venu après avoir vu ton flyer !
 Le flyer était étonnamment... accueillant. L’avez-vous écrit vous-même ?
-Pas vraiment. J’ai juste trouvé une pile de vieux qui traînaient partout.
+Pas vraiment. J’ai juste trouvé une vieille pile qui traînait.
 Je me suis dit que comme il y a un nouveau venu en ville, je t’en enverrais un.
-Oh... Alors ça veut dire que tu ne vends pas vraiment ça[em1]« Nourriture utile »[/em1]Le flyer mentionné ?
-Bien sûr que oui. Si je distribue des flyers, je ferais mieux d’être prêt.
-Je faisais ces plats quand le village était plein d’ouvriers... mais avec tout le monde parti, il n’y a plus de raison de le faire.
-Tu es une sorcière, et tu as les mains pleines avec toutes sortes de choses. La nourriture t’aidera.
-Ces repas sont[em1]Préparé avec un soin particulier[/em1]. Ils te donneront[em1]différents types de boosts[/em1].
+Oh... Alors ça veut dire que tu ne vends plus cette [em1]« Nourriture utile »[/em1] mentionnée dans le flyer ?
+Bien sûr que si. Si je distribue des flyers, je ferais mieux d’être prêt.
+Je faisais ces plats quand le village était plein d’ouvriers... mais maintenant que tout le monde a fui, il n’y a plus de raison de le faire.
+Tu es une sorcière, et tu es déjà très occupée avec toutes sortes de choses. La nourriture t’aidera.
+Ces repas sont [em1]préparés avec un soin particulier[/em1]. Ils te donneront [em1]différents types d'améliorations[/em1].
 Pas gratuitement, bien sûr.
 Je vois. Et c’est quoi ce truc de « ne jamais lécher le poivre » ?
 Oh, et le thé de Rubrum peut aussi aider. Tu devrais passer.
-Quant au poivre... C’est simple. La nourriture est meilleure avec une main lourde. C’est tout.
+Quant au poivre... C’est simple. La nourriture est meilleure quand on a la main lourde. C’est tout.
 Hah, c’est... une réponse assez décevante.
-Hmph. Tu t’occupes vraiment des petites choses.
+Hmph. Tu te précoupes vraiment des détails.
 Quoi ? Encore ?
 Mais Arden, tu es ici depuis plus longtemps que quiconque.
 Tu dois te souvenir de quelque chose.
@@ -16136,7 +16136,7 @@ Waouh, Virgile me donne un indice aujourd’hui avant même que je ne demande. L
 Parce que je ne veux pas que ce type qui ressemble à une pomme de terre me porte.
 Veuillez vous taire... Vous êtes dans une bibliothèque.
 Je n’ai pas besoin d’aide... pour l’instant.
-J’apprécie ton attention... mais ne te pousse pas trop, s’il te plaît.
+J’apprécie ton attention... mais ne force pas trop, s’il te plaît.
 Donner la plante à Arin pour qu’elle fasse un marque-page ?
 Arin ! Je t’ai apporté quelque chose de génial.
 Rex n’est pas encore là ?
@@ -18310,7 +18310,7 @@ Courage. Prouve l’innocence de mon poivre.
 Je n’ai pas d’articles à disposition pour l’instant.
 Passez quand vous voulez.
 Vendre
-Commerce avec[lua(GetLocalizedString("Common", "NormalCollect"))]
+Échanger des [lua(GetLocalizedString("Common", "NormalCollect"))]
 [em1][lua(GetLocalizedString("Common", "NormalCollect"))][/em1]et[em1][lua(GetLocalizedString("Common", "NormalCollect_Unique"))][/em1]Ont de nombreux usages.
 Mais c’est difficile d’avoir toujours tout ce dont on a besoin sur soi, tu ne trouves pas ?
 Je peux y aller[em1][lua(GetLocalizedString("Common", "NormalCollect"))][/em1]ou[em1][lua(GetLocalizedString("Common", "NormalCollect_Unique"))][/em1]Prêt si vous voulez les échanger.
@@ -18448,11 +18448,11 @@ Je savais que tu pouvais le faire.
 J’offre un service d’achat de bonbons similaire à celui de l’Association des Sorcières.
 Viens me voir si tu veux gagner des pièces d’or.
 À partir de maintenant, vous pouvez livrer des bonbons.
-En général, la liste de livraison se rafraîchit à chaque fois[em1][lua(GetLocalizedString("Common", "Monday"))][/em1]et[em1][lua(GetLocalizedString("Common", "Thursday"))][/em1], mais comme c’est ton premier jour, je vais faire une exception et le rafraîchir maintenant.
+En général, la liste de livraison se rafraîchit tous les [em1][lua(GetLocalizedString("Common", "Monday"))][/em1] et [em1][lua(GetLocalizedString("Common", "Thursday"))][/em1], mais comme c’est ton premier jour, je vais faire une exception et l'actualiser maintenant.
 Il suivra le planning habituel à partir de la prochaine fois.
-Veuillez noter que l’ordre qui apparaît aujourd’hui doit être complété avant le prochain jour de rafrafrahissement, au plus tard celui-ci[em1][lua(GetLocalizedString("Common", GetGlobalVariable("$711")))][/em1].
+Veuillez noter que la commande qui apparaît aujourd’hui doit être complétée avant la prochaine actualisation, [em1][lua(GetLocalizedString("Common", GetGlobalVariable("$711")))][/em1] au plus tard, pour celui-ci.
 Si vous faites et livrez bien des bonbons, vous aurez la chance de livrer des bonbons plus avancés et en plus grande quantité. J’attends votre bon travail avec impatience.
-Les listes de livraison se rafrachissent à chaque fois[em1][lua(GetLocalizedString("Common", "Monday"))][/em1]et[em1][lua(GetLocalizedString("Common", "Thursday"))][/em1].
+Les listes de livraison se rafrachissent tous les [em1][lua(GetLocalizedString("Common", "Monday"))][/em1] et [em1][lua(GetLocalizedString("Common", "Thursday"))][/em1].
 <Calling Delivery service>
 Voulez-vous utiliser le service de livraison ?
 Honorer cette commande de livraison ?
@@ -18471,7 +18471,7 @@ Si vous ne pouvez pas venir, ou souhaitez changer de commande, vous pouvez l’a
 Mais vous êtes arrivé à la[em1]Limite de livraison[/em1]de ce thème de bonbons. Je ne peux plus livrer.
 La livraison est terminée.
 Choisissez une autre livraison.
-Dois-je noter les éléments à livrer dans le[em1][lua(GetLocalizedString("UI", "Wishlist_Name"))][/em1] ?
+Dois-je noter les éléments à livrer dans la [em1][lua(GetLocalizedString("UI", "Wishlist_Name"))][/em1] ?
 Très bien, je les ai notés dans le[em1][lua(GetLocalizedString("UI", "Wishlist_Name"))][/em1].
 Vérifiez les salutations spéciales
 Ellie, tu as été occupée ces derniers temps ? C’est agréable de discuter après tout ce temps.
@@ -18485,7 +18485,7 @@ Il y a des changements dans les commandes de livraison. Regardez-les.
 Vous avez encore une commande de livraison inachevée.
 Désolé... La commande est expirée et ne peut pas être terminée.
 Regardez les nouvelles commandes de livraison.
-Les listes de livraison qui apparaissent aujourd’hui peuvent être complétées avant cela[em1][lua(GetLocalizedString("Common", GetGlobalVariable("$711")))][/em1].
+Les listes de livraison qui apparaissent aujourd’hui sont à compléter avant [em1][lua(GetLocalizedString("Common", GetGlobalVariable("$711")))][/em1].
 Notez que tout le contenu actuel sera supprimé lors du prochain rafraîchissement.
 [em1]Livraisons de bonbons[/em1]Rafraîchissements dès aujourd’hui.
 Aurea, j’ai besoin de plus de plans de maisons.
@@ -18497,7 +18497,7 @@ Hehe, tu ne sais pas ? La lecture dans les pensées est une compétence essentie
 Pour les commerçants, l’information est la clé du succès.
 D’accord, ils sont maintenant disponibles. Vous pouvez les acheter à tout moment.
 C’est troublant de voir que les marchands sont parfois bien informés...
-Que souhaitez-vous discuter avec Aurea ?
+De quoi voulez-vous discuter avec Aurea ?
 Argent et bonheur
 Certaines personnes peuvent acheter le bonheur avec de l’argent, d’autres non.
 Alors ne vous préoccupez pas de l’argent que vous possédez. Vous pouvez être heureuse quoi qu’il arrive.
@@ -19000,24 +19000,24 @@ Bien sûr, qu’est-ce que c’est ?
 Comme vous pouvez le voir, Wisteria n’est pas le meilleur endroit pour faire du shopping...
 Je vais bientôt arranger ça !
 Oui, mais ce n’est pas ce que je voulais dire.
-Cependant, il y a une bonne sorcière ici, et je veux en tirer parti.
-Y a-t-il une telle sorcière ici ?
-C’est ce que je dis. Je ne peux même pas en voir un d’ici.
-Je suis sûr d’avoir l’œil pour les gens et les choses.
-Alors Ellie, je veux te confier un peu de travail. Qu’en penses-tu ?
-Naturellement, vous recevrez aussi un salaire correct, car les bonnes choses méritent de bons prix.
-Vraiment ? Tu veux dire moi ?
-Vraiment ? Tu veux dire elle ?
+Il se trouve qu'il y a une bonne sorcière ici, et je souhaiterais en tirer parti.
+Ah bon, il y a une sorcière comme ça ici ?
+On est d'accord. Je ne peux même pas en voir une de là où je suis.
+J'en suis certaine. J'ai l’œil pour les gens et les choses.
+Alors Ellie, je voudrais te confier un peu de travail. Qu’est-ce que tu en dis ?
+Naturellement, tu recevras aussi une paye correcte, car les bonnes choses méritent de bons prix.
+Vraiment ? Tu parles de moi ?
+Vraiment ? Tu parles d'elle ?
 Oui. Le travail sera généralement[em1]Potion[/em1]Artisanat ou[em1]Rassemblement des formes de vie[/em1].
-Bien sûr que j’aime !
-Naturellement, je vais aussi examiner correctement la qualité des produits.
+Bien sûr que ça m'intéresse !
+Naturellement, je vérifierai aussi attentivement la qualité des produits.
 Après tout, seuls de bons produits peuvent atteindre de bons prix.
 Écoute bien, Ellie. Ça veut dire de mauvais prix pour de mauvais produits.
-Comme le disait le Chapeau parlant. Donc...
-C’est Virgile. Un chapeau qui mérite un mauvais prix, je suppose.
+Comme l'a dit le chapeau qui parle. Alors...
+C’est Virgile. Un chapeau qui mérite un mauvais prix, si tu veux mon avis.
 Je compte sur vous alors, Ellie et Virgile.
 D’accord, on va travailler dur.
-Comme je ne suis pas une sorcière, je veux juste[em1]Bonbons[/em1]comestible même pour les non-sorciers.
+Comme je ne suis pas une sorcière, je veux juste des [em1]bonbons[/em1] comestibles même pour les prophanes.
 J’achète toujours toutes sortes de bonbons. Viens me voir quand tu veux.
 Oui, d’accord.
 Alors, puis-je parler du travail tout de suite ?
@@ -19607,15 +19607,15 @@ Hors de[em1][lua(GetLocalizedString("Item", "NutritionPotion_Name"))][/em1].
 Oh là là. Je peux t’en donner plus, mais s’il te plaît, garde ça.
 Mon stock n’est pas infini.
 Diane, peux-tu lire ce qui est écrit sur cette note ?
-Un mot ? Voyons voir.
+Une note ? Voyons voir.
 Hmm... C’est une langue ancienne des sorcières.
-Tu vois ? Tu es le seul à t’être endormi en classe.
+Tu vois ? Tu es la seule à t’être endormi en classe.
 Hmm... La Lune est...
-Moon... ?
-Moon est...
+La lune... ?
+La lune est...
 Je ne peux que lire jusqu’ici.
 J’ai oublié tout ce que j’ai appris à l’école.
-J’ai tout oublié car ça fait un moment que je ne l’ai pas appris et je ne l’ai pas utilisé non plus.
+J’ai tout oublié car ça fait un moment que je l’ai appris et je ne l’ai pas du tout pratiqué.
 C’est parce que Diane a obtenu son diplôme il y a longtemps. Quelle est ton excuse ?
 Ça ne fait pas si longtemps que j’ai eu mon diplôme non plus...
 Alors, y a-t-il un moyen de décoder la langue ancienne des sorcières ?
@@ -19625,16 +19625,16 @@ Donc, il doit y avoir des connaissances sur la langue des sorcières anciennes d
 Vous ne manquez pas de connaissances mais d’intelligence pour les utiliser.
 Ça fait un peu mal.
 La vérité fait mal.
-C’est pourquoi je recommande le[em1][lua(GetLocalizedString("Item", "IntUpPotion_Name"))][/em1].
-[em1][lua(GetLocalizedString("Item", "IntUpPotion_Name"))][/em1]!
+C’est pourquoi je recommande la [em1][lua(GetLocalizedString("Item", "IntUpPotion_Name"))][/em1].
+[em1][lua(GetLocalizedString("Item", "IntUpPotion_Name"))][/em1] !
 Cela augmente votre niveau d’intelligence, comme la mémoire, la déduction et le langage.
-[em1]Déchiffrement[/em1]La langue des sorcières anciennes sera facile avec une meilleure mémoire et déduction.
+[em1]Déchiffrer[/em1] la langue anciennes des sorcières sera facile avec une meilleure mémoire et déduction.
 On dirait un trafiquant de drogue.
 C’est réel. Je n’utilise que les recettes approuvées par l’Association des Potions de Sorcières.
 Attention cependant, une utilisation prolongée peut entraîner des séquelles mineures telles que des maux de tête, des vomissements et un déclin intellectuel.
 Ça ne semble pas mineur...
-Ne vous inquiétez pas, il n’y aura aucun problème si vous ne l’utilisez qu’une ou deux fois.
-Je vais ajouter la recette pour[em1][lua(GetLocalizedString("Item", "IntUpPotion_Name"))][/em1]. N’hésitez pas à l’acheter si vous en avez besoin.
+Ne vous inquiétez pas, il n’y aura aucun problème si vous ne l’utilisez qu’une fois ou deux.
+Je vais ajouter la recette pour [em1][lua(GetLocalizedString("Item", "IntUpPotion_Name"))][/em1]. N’hésitez pas à l’acheter si vous en avez besoin.
 Attends, j’ai oublié le[em1][lua(GetLocalizedString("Item", "UnreadableMemo_Name"))][/em1].
 Tu as dit que tu ne dormais pas beaucoup ces derniers temps ?
 Parce que tu as fait un rêve ?
@@ -19720,21 +19720,21 @@ Dommage que le Catalogue des Sorcières ne vend que des recettes approuvées par
 Exactement.<shake>Pourquoi diable</shake>Il n’y a pas d’association de sorcières pour les donuts ?
 C’est dommage. Ça aurait vraiment été utile si ça existait !
 Je pense que c’est en partie une question de préférence personnelle, mais... Oui.
-Ellie, ça t’intéresse[em1]gagner une grosse somme d’argent[/em1] ?
+Ellie, ça t’intéresse de [em1]gagner une grosse somme d’argent[/em1] ?
 Gagner une grosse somme d’argent ?
 Bien sûr que je le suis !
 Hé, ce n’est pas une phrase typique pour commencer une fraude ?
 Maintenant que tu le dis...
-Ce n’est pas ce que tu penses... Ce que je veux dire, c’est, tu veux gagner plus d’argent...
+Ce n’est pas ce que tu penses... Ce que je veux dire, c’est, est-ce que tu veux gagner plus d’argent...
 C’est... aussi un discours typique d’un escroc...
 Ne me dis pas...
 Je veux dire de l’argent propre...
 Eh bien... Laisse-moi reformuler.
 Hum...
 Ellie ! Nous proposons un service qui n’a pas encore été listé dans le catalogue des sorcières. Ça t’intéresse ?
-Êtes-vous sûr que c’est un service juridique ?
-C’est un[em1]Juridique et officiel[/em1]service qui aide à livrer des bonbons spécifiés par l’Administration des Sorcières.
-On appelle cela « service de livraison de bonbons en visite » !
+Êtes-vous sûr que c’est un service légal ?
+C’est un service [em1]légal et officiel[/em1] qui aide à livrer des bonbons spécifiés par l’Administration des Sorcières.
+On appelle cela « service de livraison de bonbons à domicile » !
 Livraison de bonbons ?
 Mais l’Association n’achète-t-elle pas des bonbons tout le temps ?
 Le service de livraison de bonbons fournira une liste fixe. Soumettez les articles listés et l’Association les achètera à des prix plus élevés.
@@ -19761,29 +19761,29 @@ Nous achetons maintenant ces bonbons.
 J’ai vérifié les bonbons que tu as livrés.
 La qualité est bien meilleure que ce à quoi je m’attendais.
 Tu mérites vraiment ton honneur !
-Moi aussi, c’est certain.
+C’est certain.
 Cela signifie que vous avez réussi le test.
 Super !!
-Ensuite, je vous expliquerai la livraison des bonbons[em1]Règles[/em1].
-La liste de livraison de bonbons[em1]Mise à jour[/em1]chaque[em1][lua(GetLocalizedString("Common", "Monday"))][/em1]et[em1][lua(GetLocalizedString("Common", "Thursday"))][/em1].
-Vous pouvez livrer à tout moment avant le prochain jour de rafraîchissement.
-Mais notez que si vous ne livrez pas avant le prochain jour de rafraîchissement, cette commande deviendra indisponible.
+Alors, je vais vous expliquer les [em1]conditions[/em1] de livraison des bonbons.
+La liste de livraison est [em1]mise à jour[/em1] chaque [em1][lua(GetLocalizedString("Common", "Monday"))][/em1] et [em1][lua(GetLocalizedString("Common", "Thursday"))][/em1].
+Vous pouvez livrer à tout moment avant le prochain jour d'actualisation.
+Mais notez que si vous ne livrez pas avant la prochain actualisation, cette commande deviendra indisponible.
 Au début, vous n’aurez qu’une seule liste à la fois.
 Ensuite, je préparerai la liste pour que vous puissiez commencer par la prochaine mise à jour.
 Merci mille fois.
 Prends ton temps. Pas besoin de se presser.
 Oh, et il y a une chose de plus.
-J’espère que tu pourrais aller trouver le marchand d’humains dans ce village.
-Tu veux dire Aurea ?
+J’espèrais que tu pourrais aller voir le marchand dans ce village.
+Tu parle d'Aurea ?
 Si c’est le nom de la personne qui achète des bonbons dans le village, oui.
 Pourquoi veux-tu Aurea ?
-La plupart des marchands de la société humaine achètent aussi des friandises,
+La plupart des marchands de la communauté humaine achètent aussi des friandises.
 Et ils suivent généralement aussi les règles de la communauté des sorcières.
-Puisque vous avez réussi le test, vous pouvez aussi livrer des confiseries dans la société humaine.
-D’accord, je vais demander à Aurea à ce sujet.
+Puisque vous avez réussi le test, vous pouvez aussi livrer des confiseries à la communauté humaine.
+D’accord, j'irais parler à Aurea de ça.
 Mais le nombre de listes et de bonbons nécessaires augmentera à mesure que vous terminerez plus de commandes, alors continuez comme ça.
 Tu as réussi le test, donc tu pourras livrer des bonbons à partir de maintenant.
-En général, la liste de livraison se rafraîchit à chaque fois[em1][lua(GetLocalizedString("Common", "Monday"))][/em1]et[em1][lua(GetLocalizedString("Common", "Thursday"))][/em1], mais cette fois, je vais faire une exception et la rafraîchir aujourd’hui.
+En général, la liste de livraison s'actualise tous les [em1][lua(GetLocalizedString("Common", "Monday"))][/em1] et [em1][lua(GetLocalizedString("Common", "Thursday"))][/em1], mais cette fois, je vais faire une exception et l'actualiser aujourd’hui.
 Bonjour, Diane.
 *Zzz*
 <shake>Diane !!</shake>
@@ -19910,16 +19910,16 @@ Vous voulez livrer les bonbons de la commande choisie ?
 Voici le service de livraison de bonbons de l’Administration des Sorcières.
 Voulez-vous honorer cette commande de livraison ?
 Même si c’est ton choix, tu ferais mieux de vérifier à nouveau.
-Merci pour votre coopération. La date limite est[em1][lua(GetLocalizedString("Common",  GetGlobalVariable("$711")))][/em1].
+Merci pour votre coopération. La date limite est [em1][lua(GetLocalizedString("Common",  GetGlobalVariable("$711")))][/em1].
 Réfléchissez bien avant de décider.
 Merci pour votre coopération. Potions livrées.
 [em1]Annuler[/em1]le commandement de livraison ?
 Reviens quand tu veux.
-C’est une commande de livraison que vous avez choisie.
+C’est une commande de livraison que vous ne choisissez pas.
 Assurez-vous de livrer avant la date limite, sinon vous échouerez.
 Il suffit de livrer tous les biens requis par la commande de livraison avant[em1]Ceci[lua(GetLocalizedString("Common",  GetGlobalVariable("$711")))][/em1].
 Si vous n’y arrivez pas, ou souhaitez passer à une autre commande par livraison, vous pouvez le faire[em1]annuler[/em1].
-Vous êtes arrivé à la[em1]Limite de livraison[/em1]de ce thème de bonbons. Je ne peux plus livrer.
+Vous êtes arrivé à la [em1]limite de livraison[/em1] de ce thème de bonbons. Vous ne pouvez pas en livrer d'avantage.
 Livraison terminée. Impossible à sélectionner.
 Veuillez choisir une autre livraison.
 Diane, peut-on agrandir l’atelier souterrain ?
@@ -19963,7 +19963,7 @@ J’ai remarqué que vous avez une commande de livraison ratée.
 Malheureusement, vous ne pouvez pas honorer les commandes de livraison expirées.
 La bonne nouvelle, c’est que vous avez toujours de nouveaux ordres parmi lesquels choisir.
 Oubliez simplement les ordres ratés et vérifiez les nouveaux.
-Les listes de livraison qui apparaissent aujourd’hui dureront jusqu’à présent[em1][lua(GetLocalizedString("Common", GetGlobalVariable("$711")))][/em1].
+Les listes de livraison qui apparaissent aujourd’hui dureront jusqu’à [em1][lua(GetLocalizedString("Common", GetGlobalVariable("$711")))][/em1].
 Je suis bien conscient de la[em1]Jus Scintillant[/em1].
 Est-ce que vous vendez ?[em1]Recettes[/em1]Et aussi ?
 Bien sûr.[em1]Recettes[/em1]sont également en stock.
@@ -20099,7 +20099,7 @@ Et, bien sûr, j’ai aussi été diplômée de l’École des Sorcières.
 Quand j’étais à l’école, je rêvais de la remise des diplômes. Maintenant, je veux juste remonter le temps.
 [lua(GetLocalizedString("InteractableObject", "People_Diane"))][lua(GetLocalizedString("Choice", "FavorabilityUP_Small"))]
 Cette monnaie est très recherchée car seules quelques sorcières peuvent la traiter.
-Un matériau spécial, la Pierre Lunaire, a été utilisé dans la moulage, la rendant exceptionnellement magnifique.
+Un matériau spécial, la Pierre Lunaire, a été utilisé dans sa conception, la rendant exceptionnellement magnifique.
 Si possible, j’aimerais en avoir plus.
 Le Balai de la Sorcière
 Ayant été un habitué de l’Administration des Sorcières, il était naturel de s’y familiariser.
@@ -20150,7 +20150,7 @@ Je vous tiendrai au courant lorsqu'elle sera restaurée.
 Merci. Marché conclu.
 Continuez à travailler aujourd’hui !
 [lua(GetLocalizedString("InteractableObject", "People_Diane"))][lua(GetLocalizedString("Choice", "FavorabilityUP_Large"))]
-Diane, vendrais-tu un ingrédient appelé[em1]Eau sacrée[/em1] ?
+Diane, vendrais-tu un ingrédient appelé [em1]Eau bénite[/em1] ?
 Oui, je l’ai. Je devrais l’inscrire dans le catalogue si tu en as besoin ?
 Oui, s’il te plaît, fais-le.
 D’accord, mais c’est[em1]un peu[/em1]cher. Ça va ?
@@ -20172,7 +20172,7 @@ Ils vous feraient promettre de donner quelque chose de plus grand.
 Pour la ramasser...
 C’est un peu flippant...
 J’ai pris la décision.
-Je vais te donner l’eau sacrée[em1]à crédit[/em1].
+Je vais te faire l’eau bénite [em1]à crédit[/em1].
 Elle est de seconde zone.
 La première classe n’est-elle pas souvent disponible ici ?
 Je ne sais pas de quoi tu parles...
@@ -20758,7 +20758,7 @@ Euh... Cela veut dire que vous regarderez aussi la cérémonie ?
 Eh bien, puisque le livre mentionne spécifiquement « la première cérémonie de remise des diplômes », je suppose que cela a un rapport avec les sorcières.
 C’est... intriguant.
 Très bien alors ! Une fois que tout sera prêt, je te tiendrai au courant, Diane !
-Le département du catalogue des sorcières a annoncé qu’ils allaient installer un[em1]Boîte d’échange de bourses de Luna[/em1]...
+Le département du catalogue des sorcières a annoncé qu’ils allaient installer une [em1]boîte d’échange de bourses de Luna[/em1]...
 Ça va me faire gagner des Luna facilement !
 Tu devrais gagner de l’argent honnêtement, jeune fille.
 Je vais utiliser la boîte alors !
@@ -20948,7 +20948,7 @@ J’aime à la fois préparer et manger.
 Mais mes dents sont devenues beaucoup plus faibles qu’avant, donc je ne peux pas bien manger des aliments durs.
 C’est pourquoi les fruits tendres comme[em1][lua(GetItemName("DangleMango"))][/em1]sont sympas ces temps-ci.
 N’oublie pas de bien manger.
-Ta santé passe avant tout, ne te pousse pas trop.
+Ta santé passe avant tout, ne force pas trop.
 Tu parles de Lisa ? C’était une personne très gentille.
 Il n’y a probablement personne ici qui n’ait pas reçu d’aide de Lisa.
 Mais elle a soudainement disparu.
@@ -20963,15 +20963,15 @@ Je vois. Merci de m’avoir prévenu.
 Il est parti après que le village soit devenu comme ça.
 Vinch est un peintre qui vivait autrefois dans la maison située dans la partie haute du village.
 Quand ils sont apparus, nous avons fait de gros efforts pour nous en débarrasser.
-J’ai essayé une hache et aussi mis le feu à la personne, mais c’était inutile.
-Quoi qu’on fasse, ils se régénéraient en un rien de temps.
-Qui ressemble à[em1]ronces blanches épineuses[/em1].
-Exactement. Mais les ronces blanches épineuses disparaissent quand il y a un[em1]Pleine lune[/em1].
+J’ai essayé une hache et y ai aussi mis le feu, mais c’était inutile.
+Quoi qu’on fasse, elles se régénéraient en un rien de temps.
+Elles ressemblent à des [em1]ronces blanches[/em1].
+Exactement. Mais les ronces blanches épineuses disparaissent lorsqu'il y a une [em1]Pleine lune[/em1].
 Alors que ces ronces ne le font pas.
 Aussi puissante que des ronces blanches épineuses, mais pas effrayée par la lumière de la lune ? C’est étrange.
 Nous le pensions aussi.
 Ce n’est pas grave. Tu es déjà d’une grande aide.
-Je crois que c’est la providence de la nature que s’il y a des forces, il y en a aussi[em1]Faiblesses[/em1].
+Je crois que ça fait partie des lois de la nature, toutes choses possèdent ses forces et ses [em1]faiblesses[/em1].
 C’est tout ce que je sais. Je suis désolé de ne pas avoir pu beaucoup aider.
 Eh bien... Je n’ai rien d’autre à te dire.
 Essaie aussi de demander à d’autres personnes.
@@ -21165,30 +21165,30 @@ Depuis que le village est devenu ce que vous voyez aujourd’hui, le facteur a c
 J’y ai réfléchi hier.
 Mais je n’en suis toujours pas sûr.
 Les villageois... !
-Je ne comprends pas pourquoi tu es plus confiant que moi alors que j’ai vécu toute ma vie dans ce village.
-Malgré tout, j’ai décidé d’y croire[em1]Vision heureuse[/em1].
-Si vous[em1]Enlève les ronces[/em1], je vais[em1]Contact[/em1]l’ancien résident de cette maison.
+Je ne comprends pas pourquoi tu es plus confiante que moi alors que j’ai vécu toute ma vie dans ce village.
+Malgré tout, j’ai décidé de croire dans [em1]cette vision heureuse[/em1].
+Si vous [em1]enlevez les ronces[/em1], je prendrais [em1]contact[/em1] avec l’ancien résident de cette maison.
 Mais si ce résident refuse...
 Ne t’inquiète pas, ça n’arrivera pas.
 Ellie, tu es tellement gentille.
 Tout ira bien. Ne t’inquiète pas.
 Oui... Oui, je suppose.
 Oui, tu veux dire qu’ils voudraient revenir, non ?
-La maison à la[em1]En haut à gauche[/em1]du côté de la fontaine centrale du village appartient à[em1]Kyla[/em1], qui est charpentier.
+La maison [em1]en haut à gauche[/em1] près de la fontaine centrale du village appartient à [em1]Kyla[/em1], qui est charpentier.
 Faisons comme ça : si tu te débarrasses des ronces, je contacterai Kyla.
 Merci, je compte sur toi.
 Alors, qui devrions-nous prendre en premier ?
 Y avait-il un [em1]charpentier[/em1] au village ?
-Pour réparer des maisons, je pense que la première personne dont nous avons besoin est un[em1]charpentier[/em1].
-Il vaudrait mieux enlever les ronces de[em1]Kyla[/em1]La maison d’abord.
+Pour réparer des maisons, je pense que la première personne dont nous avons besoin est un [em1]charpentier[/em1].
+Il vaudrait mieux d’abord enlever les ronces de la maison de [em1]Kyla[/em1].
 Bonjour, Ellie. Tu as bien dormi ?
 Bon, commençons.
-Gardez à l’esprit que nous n’avons pas[em1]Informations[/em1], et nous n’en avons pas non plus[em1]Plume de phénix[/em1].
-La première chose à faire est de[em1]Collecter des informations[/em1].
-Regardons autour[em1]La maison de Kyla[/em1]Une fois et récupérer[em1]Informations[/em1].
-Pensons à la plume de phénix plus tard.
+Gardes à l’esprit que nous n’avons pas [em1]d'informations[/em1], et nous n’avons pas non plus de [em1]Plume de phénix[/em1].
+La première chose à faire est de [em1]collecter des informations[/em1].
+Regardons déjà autour de [em1]la maison de Kyla[/em1] et récupérons des [em1]Informations[/em1].
+Nous nous occuperons de la plume de phénix plus tard.
 Ah, oui, prends ça avec toi.
-C’est le[em1]Carte du village[/em1].
+C’est la [em1]Carte du village[/em1].
 Merci beaucoup.
 Tellement de choses ont changé à cause des ronces.
 Mais maintenant que tu es là, Ellie, il y a de l’espoir.
@@ -22360,7 +22360,7 @@ Pas vraiment.
 Ma mère faisait les tartes les plus merveilleuses.
 Comme je voulais plus, je l’ai regardée par-dessus son épaule et je l’ai copiée. C’est probablement comme ça que tout a commencé.
 J’ai aussi mangé trois gâteaux aux fruits que papa a cuits d’un coup.
-Le rubrum a beaucoup grandi avant que je m’en rende compte, et il est devenu un petit gourmand à la tarte aussi.
+Rubrum a grandi plus vite que je ne m’en suis rendu compte, et il est aussi devenu un petit gourmand.
 Peut-être que Rubrum apprendra aussi à faire des tartes un jour.
 Quand je vivais en ville, je travaillais dans un magasin de vêtements.
 Des vêtements élégants m’éblouissaient quand je marchais dans des rues inconnues.
@@ -28119,22 +28119,22 @@ Veux-tu entendre parler du délicieux thé dans la forêt encore une fois ?
 Non, ça va.
 Je ne sais rien d’autre que ça.
 La ronce du village n’est pas très bonne.
-Pas très bien ?
-C’est amer, épicé et[em1]Pas bon[/em1]. Ça sent aussi le poisson.
+Pas très bonne ?
+C’est amer, épicé et [em1]Pas bon[/em1]. Ça sent aussi le poisson.
 Tu l’as mangé ?
 Oui, j’ai fait du thé avec.
-J’ai enlevé les épines, asséché la ronce au soleil, et la rôti. C’était beaucoup de travail.
-Oh, je m’en souvenais. Ça avait un goût similaire à[em1]Cette chose[/em1].
+J’ai enlevé les épines, fait séché la ronce au soleil, puis je l'ai fait griller. Ça m'a demandé beaucoup de travail.
+Oh, je m’en souviens. Ça avait un goût similaire à [em1]cette chose[/em1].
 Je suppose que tu bois tout comme du thé.
-Ça avait un goût similaire à[em1]ronce blanche épineuse[/em1]et[em1][lua(GetLocalizedString("InteractableObject", "LittleHoneyPumkin"))][/em1]dans la forêt.
-Hmm, si c’est le cas[em1]Goût similaire[/em1], pouvez-vous le voir comme[em1]Race similaire[/em1] ?
+Ça avait un goût similaire à des [em1]ronces blanches épineuses[/em1] avec des [em1][lua(GetLocalizedString("InteractableObject", "LittleHoneyPumkin"))][/em1] de la forêt.
+Hmm, ça a un [em1]goût similaire[/em1], est-ce qu'on pourrait la voir comme une [em1]espèce cousine[/em1] ?
 Merci. C’est probablement une information utile.
 Il y a tellement d’ingrédients délicieux pour le thé dans la forêt.
 J’aime la pomme buisson parce qu’elle est sucrée. Et Mamie dit que le thé à la fleur d’oiseau sent bon.
 Je vais aussi te préparer un délicieux thé, Ellie.
 D’accord, j’ai hâte.
 Tu as essayé ça aussi ?
-White Prickly Vine a un bon parfum.
+Les ronces blanches sentent bon.
 Bon, viens prendre un thé la prochaine fois.
 Bonjour, Ellie. J’ai quelque chose à te montrer.
 J’ai construit un très grand château.
@@ -28870,9 +28870,9 @@ Salut, Rubrum !
 Salut, Ellie !
 Arden m’a envoyé ici.
 Tu fais du thé ?
-Oui, le dos de Mamie me fait mal, alors je le fais à sa place.
+Oui, Mamie a mal au dos, alors je le fais à sa place.
 Ellie, tu en veux aussi ?
-Mamie dit que chaque thé[em1]a ses propres effets[/em1], et qu’ils sont bons pour la santé.
+Mamie dit que chaque thé [em1]a ses propres effets[/em1], et qu’ils sont bons pour la santé.
 Dis-moi quand tu en veux.
 Je vais te servir une tasse !
 Je me demande quelle variété de thé je dois préparer.
@@ -28994,9 +28994,9 @@ Waouh, c’est tellement intéressant, je pensais que ceux-ci servaient seulemen
 C’est la première fois que je vois quelqu’un les utiliser dans la peinture.
 C’est beaucoup de travail, difficile, et pas toujours réussi.
 Mais je pense toujours que je dois continuer.
-Si tu te sens fatigué, ne te force pas. Fais attention à ne pas te blesser.
+Si tu te sens fatigué, ne force pas. Fais attention à ne pas te blesser.
 Ça va. J’aurais dû le faire seul.
-Collecter des matériaux n’est pas si simple, n’est-ce pas ? Ne te pousse pas trop.
+Collecter des matériaux n’est pas si simple, n’est-ce pas ? Ne force pas trop.
 Il suffit de dire à Roy de livrer la marchandise.
 C’est tout ce dont j’avais besoin. Merci.
 La qualité est parfaite pour la peinture.
@@ -30029,31 +30029,31 @@ Penses-tu être devenu plus intelligent ?
 Que veux-tu dire par devenir plus intelligent ?
 La potion est définitivement efficace.
 La langue ancienne des sorcières est simple.
-Un[lua(GetLocalizedString("Encyclopedia", "MoonFlower_Name"))]et une tasse de[lua(GetLocalizedString("Item", "SacredWater_Water_Name"))].
-Ajoutez l’eau sacrée au jus de[lua(GetLocalizedString("Encyclopedia", "MoonFlower_Name"))]et fais-le bouillir en remuant dans le sens des aiguilles d’une montre à feu doux jusqu’à ce qu’il bouille.
-Attends, il y a encore de l’écriture.
-Euh... a été fait... parce qu’il était difficile à gérer[lua(GetLocalizedString("Item", "MoonOil_Name"))]...?
-Je suppose que le médicament commence à s’estomper.
+Une [lua(GetLocalizedString("Encyclopedia", "MoonFlower_Name"))] et une tasse d'[lua(GetLocalizedString("Item", "SacredWater_Water_Name"))].
+Ajouter l’eau bénite au jus de [lua(GetLocalizedString("Encyclopedia", "MoonFlower_Name"))] et le faire bouillir en remuant dans le sens des aiguilles d’une montre à feu doux.
+Attends, il y a encore quelque chose.
+Euh... a été fait... parce qu’il était difficile à gérer de l'[lua(GetLocalizedString("Item", "MoonOil_Name"))]...?
+Je suppose que la potion commence à s’estomper.
 Mais j’ai quand même eu l’information importante.
 Je ne peux plus lire.
-Mais l’eau sacrée... ? Où peut-on trouver ça ?
+Mais l’eau bénite... ? Où peut-on trouver ça ?
 Normalement, on peut l’obtenir dans des endroits comme les sanctuaires, mais je pense qu’il faut l’acheter chez Diane ici.
-Bien, puisque nous avons[lua(GetLocalizedString("Encyclopedia", "MoonFlower_Name"))], faisons-le tout de suite une fois que nous aurons l’eau sacrée.
+Bien, puisque nous avons des [lua(GetLocalizedString("Encyclopedia", "MoonFlower_Name"))], faisons-la tout de suite une fois que nous aurons l’eau bénite.
 Euh, je ne sais pas quel genre de texte c’est.
 Tu l’as appris à l’école. C’est écrit dans la [em1]langue ancienne des sorcières[/em1].
-Qu’en penses-tu ? Tu es devenu un peu plus intelligent ?
+Alors ? Tu es devenue un peu plus intelligente ?
 La Terre est plate.
 Si c’est rond, comment les personnes en dessous ou sur les côtés peuvent-elles rester debout ?
 C’est parce que la Terre attire les objets au-dessus d’elle.
 Et la raison pour laquelle une telle force apparaît est...
-Ne soyez pas ridicule et lisez la note quand ça marche.
-Même si je ne suis pas sûr que tu sois vraiment devenu intelligent...
+Ne sois pas ridicule et lis la note tant que ça marche.
+Même si je ne suis pas sûr que tu sois vraiment devenue intelligente...
 Trouvons la note et lisons ce qu’elle dit.
-Et je ne savais pas qu’il y avait un[em1]Recette[/em1]ce qui donne[em1]3 bouteilles[/em1]de cette potion.
-Très bien,[lua(GetLocalizedString("Item", "IntUpPotion_Name"))]est prêt.
-J’ai l’impression d’être déjà plus intelligent !
+Et je ne savais pas qu’il y avait une [em1]recette[/em1] qui donne [em1]3 bouteilles[/em1]de cette potion.
+Parfait, la [lua(GetLocalizedString("Item", "IntUpPotion_Name"))] est prête.
+J’ai l’impression d’être déjà plus intelligente !
 Maintenant, je suppose qu’il est temps de la boire.
-[lua(GetLocalizedString("Item", "RememberDreamPotion_Name"))]est prêt !
+La [lua(GetLocalizedString("Item", "RememberDreamPotion_Name"))] est prêt !
 Même si ça sent le jus de raisins non mûrs...
 Je dois le boire.
 Tu as été très occupé ces derniers temps ? On dirait que ça fait un moment qu’on ne s’est pas parlé.
@@ -30187,7 +30187,7 @@ Qu’en penses-tu ? Rien d’excitant, hein ?
 Je le savais déjà, mais je pense que tu travailles trop, Clala.
 Au contraire, je continue à travailler parce que je deviens anxieux si je me repose.
 Si ma routine s’effondre, toute ma journée est un désordre. Hehe.
-Mais ne te pousse pas trop, Clala.
+Mais ne force pas trop, Clala.
 Qu’est-ce que c’est ? Tu t’inquiètes pour moi ? Tu es trop mignonne, Ellie.
 Ne change pas de sujet ! Je m’inquiète vraiment pour toi !
 D’accord, merci de l’avoir dit. Ne t’inquiète pas. Je suis toujours plein d’énergie.
@@ -34024,7 +34024,7 @@ Enlever les ronces géantes
 Réparer votre balai
 Dessiner avec sa plume
 Débuter votre apprentissage !
-Enquêtez sur les ronces chez le charpentier
+Enquêter sur les ronces chez le charpentier
 Trouvez le cœur de la ronce
 Craft the Moon Tears
 Concocter la potion de la Lune... Blah Blah
@@ -34293,3 +34293,9 @@ Comme cet événement est organisé par l'administration, je ne peux pas me perm
 Utiliser la plume pour dessiner et recueillir des informations, puis utiliser la potion appropriée pour obtenir les matériaux récoltés.
 Je voudrais rester ici pour toujours.
 Il n'y a aucune demande pour l'instant.
+C'est très gentil à vous.
+Je voulais juste en manger plus, alors j'ai commencé à imiter ce que je voyais par-dessus son épaule. Je suppose que c'est comme ça que tout a débuté.
+As-tu déjà manger un steak ?
+Je t'ai envoyé un steak que j'ai fait grillé.
+Cela te donnera de la force.
+Si vous fabriquez et livrez correctement, vous aurez la possibilité de fournir des potions plus sophistiquées et en plus grande quantité. J'attends avec impatience le fruit de votre travail.
