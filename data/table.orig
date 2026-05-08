@@ -3136,7 +3136,7 @@ Roy used to be a villager. What kind of person is him?
 Rebuild Roy’s House
 Rebuild Roy's house for him!
 Build Houses for the Villagers
-Deliver Diane’s Candy
+Deliver Diane’s Candies
 {count} Luna Coin(s)
 The currency commonly used in the witch society. A moon is embossed on the silver coins.
 Potion class was a required course at the School for Witches. Crafting was fun, but using set recipes was boring. I wasn't allowed to do even that after I did things my own way and caused a small explosion...
@@ -5689,7 +5689,7 @@ Heh, let's find the culprit later and think about [em1]Kyla's house[/em1] for no
 In summary, the prickly vines in the village are a combination of the [em1]characteristics of several plants[/em1].
 Alright. I think I've asked everyone.
 I think I might have seen something related to the prickly vine on the [em1]witch bookshelf[/em1] on the first floor.
-Let’s also go look through the [em1]Witch's House[/em1] like Arden said.
+Let’s also go look through the [em1]witch's house[/em1] like Arden said.
 Let's go check.
 Wow, it's so dark.
 If you're scared, we can go back to the train.
@@ -8253,7 +8253,7 @@ He even boasted about it, saying that those items would bring him good luck.
 Maybe they would. Some believe that [em1][lua(GetLocalizedString("Item", "RitoringPouch_Name"))][/em1]s bring good luck.
 Really? Those people must want to collect them then?
 Sure. For them, [em1][lua(GetLocalizedString("Item", "RitoringPouch_Name"))][/em1]s are collectibles.
-It's decided! I'm gonna find more of it.
+Okay! I'll loof for more.
 As I expected, this place is also overrun by prickly vines.
 This [em1]wisteria tree[/em1] has withered.
 It was a huge tree in my memory, but look at it now...
@@ -11730,7 +11730,7 @@ I can't read anymore. I can't finish reading this today.
 Why not? Finish reading it.
 Reading is killing me. Who would get rid of the prickly vines if I die?
 People don’t die just because they read a book for a long time.
-Hmm, I mean Aria’s daughter might die.
+Hmm, I mean Aria's daughter might die.
 Look at this book. It looks like there's more than a thousand pages. Anyone would die after finishing reading this.
 "The first dew of spring, a red moon butterfly, the fourth dawn of summer..."
 It's not like we're going to make this. Just summarize it.
@@ -11747,7 +11747,7 @@ It's merely a [em1]possibility[/em1].
 I mean [em1]both of them[/em1].
 I just need another book on [em1]prickly vines[/em1].
 But there's a more urgent [em1]matter[/em1].
-To look through Kyla’s house again.
+To look through Kyla's house again.
 What about the book? You're not going to read anymore?
 Easy on me. I'll throw up if I read one more word.
 But I think you've almost reached some important details.
@@ -11965,17 +11965,17 @@ What do we do? Will Diane sell it?
 Speaking of the moon... You picked up a note last time, didn’t you?
 Oh! The note written in ancient witch language!
 They would sell it for a high price, or not carry it.
-I wonder if there’s another potion with the power of the moon...
+I wonder if there's another potion with the power of the moon...
 Now that I think about it, it looked like a recipe!
 How about decoding it first?
 Good idea! Let's decode that first.
 I suppose Diane can read it!
-And it would be making moon’s... what-do-you-call-it potion to remove the prickly vine core.
+And it would be making moon's... what-do-you-call-it potion to remove the prickly vine core.
 One would know if one didn't fall asleep in class like you.
 I didn’t fall asleep either!
 Look at this. It definitely looks like a prickly vine and has the color of a [lua(GetLocalizedString("InteractableObject", "LittleHoneyPumkin"))].
 Then that means the villagers couldn’t get rid of this prickly vine because...
-Because you can’t get rid of it unless you destroy the [em1]core[/em1] just like [lua(GetLocalizedString("InteractableObject", "LittleHoneyPumkin"))].
+Because you can't get rid of it unless you destroy the [em1]core[/em1] just like [lua(GetLocalizedString("InteractableObject", "LittleHoneyPumkin"))].
 You can get rid of the prickly vines if you find [em1]their core[/em1].
 Since it's a plant, the prickly vine and the core must be connected in some way.
 The prickly vines are spreading outside of the village.
@@ -13932,7 +13932,7 @@ If it’s not someone’s [em1]malice[/em1], what would it be?
 Is there someone who would do such a terrible thing?
 I don't know. Well...
 Heh, I'm not sure. I don't know anything.
-How about searching through the [em1]Witch's House[/em1] at least?
+How about searching through the [em1]witch's house[/em1] at least?
 Hey you. Did you promise to get rid of these prickly vines?
 Yes, that’s right.
 But will you be able to do it?
@@ -18451,7 +18451,7 @@ From now on, you can deliver candies.
 Usually, the delivery list refreshes every [em1][lua(GetLocalizedString("Common", "Monday"))][/em1] and [em1][lua(GetLocalizedString("Common", "Thursday"))][/em1], but since it's your first day, I'll make an exception and refresh it now.
 It will follow the regular schedule from the next time.
 Please note that the order that spawns today should be completed before the next refresh day, no later than this [em1][lua(GetLocalizedString("Common", GetGlobalVariable("$711")))][/em1].
-If you make and deliver candies well, you will get the chance to deliver more advanced candies and in larger quantity. I look forward to your good work.
+If you make and deliver potions well, you will get the chance to deliver more advanced potions and in larger quantity. I look forward to your good work.
 The delivery lists refresh every [em1][lua(GetLocalizedString("Common", "Monday"))][/em1] and [em1][lua(GetLocalizedString("Common", "Thursday"))][/em1].
 <Calling Delivery service>
 Do you want to use the Delivery service?
@@ -18487,7 +18487,7 @@ Sorry... The order has expired and cannot be completed.
 Check out the new Delivery orders.
 The delivery lists that spawn today can be completed before this [em1][lua(GetLocalizedString("Common", GetGlobalVariable("$711")))][/em1].
 Note that all current content will be removed upon the next refresh.
-[em1]Candy Deliverys[/em1] refresh today.
+[em1]Candy deliveries[/em1] refresh today.
 Aurea, I need more house blueprints.
 No problem, I have all the blueprints you need.
 Ah, since you put it that way, can I buy multiple at once?
@@ -19630,7 +19630,7 @@ That's why I recommend the [em1][lua(GetLocalizedString("Item", "IntUpPotion_Nam
 It raises your level of intelligence, like memory, deduction, and language.
 [em1]Deciphering[/em1] ancient witch language’ll be easy with better memory and deduction.
 Sounds like a drug peddler.
-This is real. I only use the recipes approved by the Witch Potion Association.
+This is real. I only sell the recipes approved by the Witch Potion Association.
 Careful though, long-term usage can cause minor sequela such as headache, vomiting and intellectual decline.
 They don't sound minor...
 Don't worry because there will be no problem at all if you use it once or twice only.
@@ -19734,10 +19734,10 @@ Ahem...
 Ellie! We're offering a service that's yet to be listed in the Witches' Catalogue. Are you interested?
 Are you sure it's a legal service?
 It's a [em1]legal and official[/em1] service that helps deliver candies specified by the Witch Administration.
-It is called "visiting candy delivery service"!
+Known as "visiting candy delivery"!
 Candy delivery?
 But isn't the Association purchasing candies all the time?
-The candy delivery service will provide a fixed list. Submit the listed items and the Association will buy them at higher prices.
+The candy purchase service will provide a fixed list. Submit the listed candies and the Association will buy them at higher prices.
 Since the prices are higher than daily purchase, the service is quite popular.
 Sounds pretty nice, huh?
 Most Witch's Houses are participating.
@@ -19751,25 +19751,25 @@ And I didn't win this honor with rock paper scissors.
 You won it with talents, last-minute cramming and by chance.
 The witch's broom test was a good example...
 Ahhhh!
-But I always got full score in potion making.
+But I always got full score in crafting.
 Then there's no problem!
 I'll give you a test list then.
-Make all the candies on the list and you pass.
+Make all the candies on the list successfully and you pass.
 Show me what you're capable of, magna cum laude graduate.
 Are you here to deliver candies?
 We're now purchasing this candy.
 I've checked the candies you delivered.
-The quality is far better than I expected.
+And the candy quality is far better than I expected.
 You really deserve your honor!
 I certainly do.
 That means you've passed the test.
 Great!!
 Then, I'll brief you about the candy delivery [em1]rules[/em1].
-The candy delivery list [em1]refreshes[/em1] every [em1][lua(GetLocalizedString("Common", "Monday"))][/em1] and [em1][lua(GetLocalizedString("Common", "Thursday"))][/em1].
+The potion delivery list [em1]refreshes[/em1] every [em1][lua(GetLocalizedString("Common", "Monday"))][/em1] and [em1][lua(GetLocalizedString("Common", "Thursday"))][/em1].
 You can deliver any time before the next refresh day.
 But note that if you fail to deliver before the next refresh day, this order will become unavailable.
 In the beginning, you'll only get one list at a time.
-Then, I'll prepare the list so that you can start from the next update.
+Then, I’ll get the list ready so that you can start from tomorrow.
 Thanks a million.
 Take your time. No need to hurry.
 Oh, and there's one more thing.
@@ -19781,7 +19781,7 @@ Most merchants of the human society also purchase candies,
 and they usually follow the rules of the witch society too.
 Since you've passed the test, you can deliver candies in the human society too.
 Okay, I'll ask Aurea about it.
-but the number of lists and candies required will increase as you complete more orders, so keep up the good work.
+The number of lists and items required will increase as you complete more orders, so keep up the good work.
 You've passed the test, so you can deliver candies from now on.
 Usually, the delivery list refreshes every [em1][lua(GetLocalizedString("Common", "Monday"))][/em1] and [em1][lua(GetLocalizedString("Common", "Thursday"))][/em1], but this time, I'll make an exception and refresh it today.
 Hello, Diane.
@@ -19907,17 +19907,17 @@ Ellie! You unstitched fur hat! You're clueless about all this! Listen!
 Listen carefully!
 Okay, okay! I'll listen!
 You want to deliver the candies of the selected order?
-This is Witch Administration's Candy Delivery service.
-Do you want to fulfill this Delivery order?
+This is Witch Administration's candy delivery service.
+Do you want to fulfill this delivery order?
 Although it's your own choice, you'd better double-check it.
 Thank you for your cooperation. The deadline is [em1][lua(GetLocalizedString("Common",  GetGlobalVariable("$711")))][/em1].
 Please think carefully before you decide.
 Thank you for your cooperation. Potions delivered.
 [em1]Cancel[/em1] the Delivery order?
 Come back anytime.
-This is a Delivery order you chose.
+This isn't a delivery order you chose.
 Make sure you deliver before the deadline, or you will fail.
-Just deliver all goods required by the Delivery order before [em1]this [lua(GetLocalizedString("Common",  GetGlobalVariable("$711")))][/em1].
+Just deliver all goods required by the delivery order before [em1]this [lua(GetLocalizedString("Common",  GetGlobalVariable("$711")))][/em1].
 If you can't manage, or wish to switch to another Delivery order, you can [em1]cancel[/em1].
 You've reached the [em1]delivery limit[/em1] of this candy theme. Cannot deliver anymore.
 Delivery completed. Cannot be selected.
@@ -19958,7 +19958,7 @@ But I haven't heard that term for a while since I graduated.
 And I've never made it outside school.
 Have a great party!
 Satisfaction guaranteed with superfast service! Adding it right now!
-Check the refreshed Delivery orders and chose one to fulfill.
+Check the refreshed delivery orders and choose one to fulfill.
 I noticed that you have a failed Delivery order.
 Unfortunately, you cannot fulfill expired Delivery orders.
 The good news is, you always get new orders to choose from.
@@ -21188,7 +21188,7 @@ The first thing to do is to [em1]collect information[/em1].
 Let’s look around [em1]Kyla’s house[/em1] once and collect [em1]information[/em1].
 Let's think about the phoenix feather later.
 Oh, right, take this with you.
-It’s the [em1]village map[/em1].
+It's the [em1]village map[/em1].
 Thank you very much.
 So much has changed due to the prickly vines.
 But now that you're here, Ellie, there is hope.
@@ -28130,7 +28130,7 @@ It tasted similar to [em1]White Prickly Vine[/em1] and [em1][lua(GetLocalizedStr
 Hmm, if it [em1]tastes similar[/em1], can you see it as [em1]similar breed[/em1]?
 Thanks. That's probably a useful piece of intel.
 There are so many delicious tea ingredients in the forest.
-I like bush apple because it’s sweet. And Granny says the Birdflower tea smells good.
+I like bush apple because it's sweet. And Granny says the Birdflower tea smells good.
 I'll also make some delicious tea for you, Ellie.
 Okay, I'll look forward to it.
 You tried that too?
@@ -28874,7 +28874,7 @@ Yeah, Granny's back's hurting, so I'm doing it in her place.
 Ellie, would you like some too?
 Granny says that each tea [em1]has its own effects[/em1], and that they're good for your health.
 Let me know whenever you want to have some.
-I’ll pour you a cup!
+I'll pour you some!
 I'm worried about which tea leaf to brew.
 I'm making fresh flower tea.
 I don't have any tea brewed yet.
@@ -34293,3 +34293,9 @@ Since the event is organized by the Administration, I can't afford to let anythi
 Use the quill pen to draw and gather information, then use the right potion to obtain gathered materials.
 I actually want to stick to this place only.
 There's no request at the moment.
+It's very kind of you.
+I just wanted to eat more, so I started copying what I’d seen over her shoulder. I suppose that’s how it all began
+Have you ever had any steak?
+I've got you one of the streaks I roasted.
+It will give you strength.
+If you craft and deliver well, you will get the chance to deliver more advanced potions and in larger quantity. I look forward to your good work.
