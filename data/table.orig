@@ -12007,11 +12007,11 @@ There are so many books on plants.
 I guess the previous resident was a witch who studied plants.
 I should store any books I get in here.
 Take the weight off the hook?
-Witches’ Catalogue Visiting Hours [em1]8:00 AM to 6:00 PM[/em1]
+Witches' Catalogue Visiting Hours [em1]8:00 AM to 6:00 PM[/em1]
 [lua(GetLocalizedString("KeywordAndDelivery", "Delivery_DeliveryPotionDiane_Title"))] [em1][lua(GetLocalizedString("Common", "Monday"))][/em1], [em1][lua(GetLocalizedString("Common", "Thursday"))][/em1]
 Witches' Catalogue Visiting Hours [em1]ALWAYS[/em1]
 Deliver Candy [em1][lua(GetLocalizedString("Common", "Monday"))][/em1], [em1][lua(GetLocalizedString("Common", "Thursday"))][/em1]
-Peddler Visit Hours [em1]8:00 AM to 6:00 PM[/em1]
+Peddler Visiting Hours [em1]8:00 AM to 6:00 PM[/em1]
 [lua(GetLocalizedString("KeywordAndDelivery", "Delivery_DeliveryPotionAurea_Title"))] [em1][lua(GetLocalizedString("Common", "Monday"))][/em1], [em1][lua(GetLocalizedString("Common", "Thursday"))][/em1]
 It’s a shovel.
 Let’s take the shovel first.
@@ -18987,7 +18987,7 @@ So, never give up on this village.
 Okay, don't worry. I'll never give it up no matter what happens.
 You sound reliable.
 By the way, did you happen to bring the thing you promised last time?
-You mean yacon melon, don't you?
+Are you talking about yacon melon?
 No!
 You promised the [lua(GetLocalizedString("Item", "RoasterHandle_Name"))] for the Roaster.
 I’m kidding. Of course I brought it.
@@ -18995,7 +18995,7 @@ But since this guy broke his leg...
 I don’t think I can bring proper products for a while.
 Oh really? I feel sorry for him.
 Thank you for your concern. But don't worry. It will get better soon.
-The things on sale would be trivial things. Instead, I have a good offer for both of us. Do you want to hear it?
+I don't have any great item in stock, but I do have a good offer for both of us. Do you want to hear it?
 Sure, what is it?
 As you can see, Wisteria is not the best place to shop...
 I'll make it better soon!
@@ -19787,13 +19787,13 @@ Usually, the delivery list refreshes every [em1][lua(GetLocalizedString("Common"
 Hello, Diane.
 *Zzz*
 <shake>Diane!!!</shake>
-Hello! This is the [em1]Witches’ Catalogue[/em1] that gives you the most inexpensive products of the best quality!
+Hello! This is the [em1]Witches' Catalogue[/em1] that gives you the most inexpensive products of the best quality!
 This is Diane to bring you happiness... Oh, it’s you, Ellie. Welcome.
 I’m sorry, that was unprofessional of me.
 Did something happen?
 Hmm... I'm not sure if it's okay to tell you this, since we just met.
 What is it? Maybe I can help.
-hmm… did you know that you can also sell potions via the Witches' Catalogue?
+Hmm… did you know that you can also sell potions via the Witches' Catalogue?
 Oh, really?
 The Witch Administration sometimes bulk buy potions for massive use.
 And we buy [em1]potions on the delivery list[/em1] of the day at a [em1]higher price[/em1].
@@ -19870,7 +19870,7 @@ After all, only Luna Coins are used in the witch society.
 But how do I earn Luna Coins?
 I guess you don’t have enough Luna Coins!
 What...? Basically yes.
-That's exactly why the Witch Administration is running a [em1]candy purchasing service[/em1]!
+That's exactly why the Witch Administration is running a [em1]candy purchase service[/em1]!
 Please let me know at any time since we purchase regardless of the type.
 So do you have any more questions?
 No, not anymore.
@@ -20119,7 +20119,7 @@ Wow, that’s impressive.
 It is, isn't it? The Witch Administration is the department that employs the largest number of witches.
 And it's the only building where indoor flights are allowed.
 Wow, being able to ride a broom inside a building really sounds fun!
-Not when a flying encyclopedia knocks you out while you're blinded by the peanut butter from a flying sandwich that lands on your face.
+Not if a flying encyclopedia knocks you out while you're blinded by the peanut butter from a flying sandwich that lands on your face.
 It sounds like there's a lot of stuff flying.
 Be wary of the flying encyclopedia. This is what we say all the time.
 It's very heavy, and don't let your guard down even if you evade the first, because the second and third might be on the way.
@@ -20128,10 +20128,10 @@ Do books fly around at the School for Witches too?
 No, I just don't like reading.
 I like it because it's peaceful here.
 It makes me want to just come here.
-Do you go to other Witch's Houses?
+Do you go to other Witch's Houses too?
 Hmm, I think I normally go to three or four places a day.
 Wow, it must be hard for you.
-Other Witch's Houses are battlefields.
+Other witch's houses are battlefields.
 You must be fast and accurate in handling the orders that are rushing in.
 It must be tiring.
 Does this village happen to have any bakeries?
@@ -27142,7 +27142,7 @@ The nobles are usually demanding. It's a proof that you know your stuff!
 Please stop. I'm getting really awkward.
 Anyway, now that I've got all the materials, I can start working.
 Is there anything else I can help with?
-I’m good.
+No, I‘m good.
 I wish I can see how the Countess's flower basket looks.
 I'm afraid you may not see the finished product.
 I plan to finish it this midnight and have it delivered at once, so that the flowers will still be fresh.
@@ -34291,3 +34291,5 @@ Act 3: A Wisteria-Scented Letter
 I planned to use potions set aside for the event, just like before, but...
 Since the event is organized by the Administration, I can't afford to let anything go wrong.
 Use the quill pen to draw and gather information, then use the right potion to obtain gathered materials.
+I actually want to stick to this place only.
+There's no request at the moment.
