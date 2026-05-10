@@ -5373,7 +5373,7 @@ Tutorial Archive
 This tutorial has not been completed yet.
 You can review it later in the Tutorial Archive once completed.
 Update Favorites
-his item is registered in your Favorites.
+This item is registered in your Favorites.
 Do you want to update your Favorites with this result?
 Required Material Types
 Bonus Potion Drop Rate on High Score
@@ -12010,7 +12010,7 @@ Take the weight off the hook?
 Witches' Catalogue Visiting Hours [em1]8:00 AM to 6:00 PM[/em1]
 [lua(GetLocalizedString("KeywordAndDelivery", "Delivery_DeliveryPotionDiane_Title"))] [em1][lua(GetLocalizedString("Common", "Monday"))][/em1], [em1][lua(GetLocalizedString("Common", "Thursday"))][/em1]
 Witches' Catalogue Visiting Hours [em1]ALWAYS[/em1]
-Deliver Candy [em1][lua(GetLocalizedString("Common", "Monday"))][/em1], [em1][lua(GetLocalizedString("Common", "Thursday"))][/em1]
+Deliver Diane’s Candy [em1][lua(GetLocalizedString("Common", "Monday"))][/em1], [em1][lua(GetLocalizedString("Common", "Thursday"))][/em1]
 Peddler Visiting Hours [em1]8:00 AM to 6:00 PM[/em1]
 [lua(GetLocalizedString("KeywordAndDelivery", "Delivery_DeliveryPotionAurea_Title"))] [em1][lua(GetLocalizedString("Common", "Monday"))][/em1], [em1][lua(GetLocalizedString("Common", "Thursday"))][/em1]
 It’s a shovel.
@@ -12197,13 +12197,13 @@ Oh! The place where I saved Rubrum! I think I saw a blue sigil there!
 There is something behind it... Let's go and see.
 Let's go to the place where I saved Rubrum.
 But I don't think I've ever seen anything like that while walking around the forest... Oh wait.
-Something’s left here... A chalk?
+Something's left here... A chalk?
 I don't think there was any blue sigil around here.
 Hmm... I may have seen one, but I 'm not sure...
 Did someone make it to protect the core?
 So far, it seems to be the case.
 We need to open this door first.
-There must be a witch sigil somewhere like the other doors in the forest.
+There must be a witch sigil nearby, just like with the other doors in the forest.
 First things first.
 I think I've seen something similar to this somewhere.
 Let's concentrate on what we're doing for now.
@@ -14261,7 +14261,7 @@ I don’t have money for the stew.
 Actually, it's difficult unless [em1]you can't hear it at all[/em1].
 Well, you are a [em1]witch[/em1] after all. I thought you would have come up with something before asking me.
 Okay then.
-It's [lua(GetLocalizedString("EffectFoodCommon", "BeefStew_Name"))], and it costs 40 gold coins. Are you going to eat it?
+One [lua(GetLocalizedString("EffectFoodCommon", "BeefStew_Name"))] costs 40 Gold Coins. Is that okay?
 There’s something I need in that bag.
 Please bring it back to me if you find it.
 Give Arden the bag?
@@ -18454,8 +18454,8 @@ Please note that the order that spawns today should be completed before the next
 If you make and deliver potions well, you will get the chance to deliver more advanced potions and in larger quantity. I look forward to your good work.
 The delivery lists refresh every [em1][lua(GetLocalizedString("Common", "Monday"))][/em1] and [em1][lua(GetLocalizedString("Common", "Thursday"))][/em1].
 <Calling Delivery service>
-Do you want to use the Delivery service?
-Fulfill this Delivery order?
+Do you want to use the delivery service?
+Fulfill this delivery order?
 Oh, you chose this one.
 OK, remember to deliver before [lua(GetLocalizedString("Common",  GetGlobalVariable("$711")))].
 Take your time.
@@ -18464,9 +18464,9 @@ You want to cancel this Delivery order?
 Looking forward to working with you again.
 If you need anything, just ask.
 The harder you work to make and deliver candies, the more candies you can deliver. Hang in there.
-These are the Delivery orders you chose.
+These are the delivery orders you chose.
 An overdue means a failure. Be careful.
-The goods on this Delivery order need to be delivered before [lua(GetLocalizedString("Common",  GetGlobalVariable("$711")))].
+The goods on this delivery order need to be delivered before [lua(GetLocalizedString("Common",  GetGlobalVariable("$711")))].
 If you can't make it, or wish to switch to another order, you can cancel it.
 But you've reached the [em1]delivery limit[/em1] of this candy theme. Cannot deliver anymore.
 The delivery has been completed.
@@ -20155,7 +20155,7 @@ Yes, I have it. Should I put it in the Catalogue if you need one?
 Yes, please do that.
 Alright, but it's [em1]a little[/em1] expensive. Is that okay?
 <shake>How expensive...?</shake>
-It costs 1500 Luna Coins.
+It costs 150 Luna Coins.
 That’s too expensive!
 I can't help it because it's a precious ingredient.
 Can you... sell on credit...?
