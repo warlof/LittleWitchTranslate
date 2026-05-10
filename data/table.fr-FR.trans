@@ -219,7 +219,7 @@ Fleur de Sorcière
 Si vous voyez un buisson qui bouge, essayez de le secouer. Ils ne sont pas difficiles à rassembler une fois repérés.
 Carotte Splash
 4ème
-Il est rapide à s'échapper vers les cimes des arbres s'il est alarmé, alors soyez particulièrement prudent en vous approchant de lui.
+Elle se faufile jusqu'à la cime des arbres s'il est effrayé, alors soyez particulièrement prudent en vous approchant d'elle.
 1. Mettre <color=#800000>{RawCount_1}</color>x <color=#66AF00>{Raw_1}</color> dans un {Tool_1}
 2. Mettre <color=#800000>{RawCount_2}</color>x <color=#66AF00>{Raw_2}</color> dans un {Tool_2}
 3. Mettre le feu à <color=#800000>{FireSetting}</color>.
@@ -340,7 +340,7 @@ Cette fleur argentée en forme de cloche produit également un son doux comme ce
 Une herbe rouge qui s'enracine dans les falaises. Aussi appelée Herbe des Lâches, car les enfants cueillent l'herbe pour montrer leur bravoure.
 Elle doit être arrachée avec soin, pour ne pas abîmer ses racines.
 Ils adorent se faire frotter le ventre. La bulle ferme qu'ils crachent quand ils sont heureux est utilisée comme ingrédient.
-Il crie quand il se sent menacé. Bien que moins mortel que celui d'un adulte, le cri met quand même le corps à rude épreuve s'il est entendu continuellement.
+Elle crie quand elle se sent menacé. Bien que moins mortel que celui d'un adulte, le cri met quand même le corps à rude épreuve s'il est entendu continuellement.
 Saisissez sa tige et tirez légèrement pour l'arracher du sol.
 Les bourgeons ne fleurissent que la nuit en émettant de la lumière. Le pollen doit être collecté dans les bourgeons lorsqu'ils fleurissent.
 Contrairement aux plantes qui poussent dans la terre, ses racines sont très étalées, alors essayez de le tirer en le secouant de gauche à droite plutôt que de le tirer droit vers le haut.
@@ -5374,7 +5374,7 @@ Ce tutoriel n'est pas encore terminé.
 Une fois terminé, vous pourrez le consulter ultérieurement dans les archives des tutoriels.
 Mettre à jour les favoris
 Cet article est enregistré dans vos favoris.
-Voulez-vous mettre à jour vos Favoris avec ce résultat ?
+Voulez-vous actualiser la liste ?
 Types de matériaux requis
 Taux d'apparition des potions bonus en cas de meilleur score
 Taux d'apparition des bonbons bonus en cas de meilleur score
@@ -5737,7 +5737,7 @@ Elle vit vraiment dans les bois.
 Est-ce que c'est un rêve ?
 C'est plus sombre que je ne le pensais.
 Virgile n'est pas là non plus.
-Youpi ! L'[lua(GetLocalizedString("Item", "MoonTear_Name"))] est prête !
+Youpi ! La [lua(GetLocalizedString("Item", "MoonTear_Name"))] est prête !
 Il ne me reste plus qu'à retirer le cœur.
 Je dois maintenant trouver le cœur.
 Prêts ?
@@ -5941,11 +5941,11 @@ Ah... Virgile. Ne me regarde pas comme ça. Ça me donne la chair de poule.
 Trouve un moyen de passer malgré ce bruyant Gaga Bird.
 Hmm… Qu'est-ce qu'on fait ?
 <shake>[em1]Va-t'en !!![/em1]</shake>
-Super, ce n'est pas grave.
-C'est un peu cruel pour Gaga Bird, non ?
-Tu veux dire que ce truc est cruel avec moi.
+Super, ça n'était pas si compliqué.
+C'était un peu cruel pour ce pauvre Gaga Bird, non ?
+Tu veux rire, ce truc était cruel avec moi.
 J'ai raté le train à cause de cet oiseau.
-Ce n'est pas comme si c'était à cause de cet oiseau que tu as raté le train...
+Ce n'est pas à cause de cet oiseau que tu as raté le train...
 Dépêchons-nous de trouver le [em1]Cœur de ronce[/em1].
 C'est quoi ce bruit ?
 <shake>C'est trop bruyant !</shake>
@@ -5982,7 +5982,7 @@ Eh bien, que peut-on attendre d'un cadeau gratuit ?
 Je crois qu'il y avait un bon établi au laboratoire. Je peux le réparer là-bas.
 Tout ce qu'il me faut, c'est une [em1][lua(GetLocalizedString("Item", "Branch_Name"))][/em1] ou de la [em1][lua(GetLocalizedString("Item", "Mud_Name"))][/em1].
 J'ai enfin atteint le niveau le plus élevé !
-Qu'est-ce qu'un [lua(GetLocalizedString("EncyclopediaAchievement", "Benefit_Collection"))]?
+Je me demande ce que sera la [lua(GetLocalizedString("EncyclopediaAchievement", "Benefit_Collection"))] ?
 Ne te fais pas trop d'illusions.
 Demandons à Diane.
 Et si on consultait le Catalogue des sorcières ?
@@ -12010,7 +12010,7 @@ Retirer le poids de l'hameçon ?
 Horaires de visite du Catalogue des sorcières [em1]de 8 h à 18 h[/em1]
 [lua(GetLocalizedString("KeywordAndDelivery", "Delivery_DeliveryPotionDiane_Title"))] [em1][lua(GetLocalizedString("Common", "Monday"))][/em1], [em1][lua(GetLocalizedString("Common", "Thursday"))][/em1]
 Horaires de visite du Catalogue des sorcières [em1]TOUJOURS[/em1]
-Distribuer des bonbons [em1][lua(GetLocalizedString("Common", "Monday"))][/em1], [em1][lua(GetLocalizedString("Common", "Thursday"))][/em1]
+Distribuer des bonbons les [em1][lua(GetLocalizedString("Common", "Monday"))][/em1] et [em1][lua(GetLocalizedString("Common", "Thursday"))][/em1]
 Horaires de visite des marchands ambulants [em1]de 8 h à 18 h[/em1]
 [lua(GetLocalizedString("KeywordAndDelivery", "Delivery_DeliveryPotionAurea_Title"))] [em1][lua(GetLocalizedString("Common", "Monday"))][/em1], [em1][lua(GetLocalizedString("Common", "Thursday"))][/em1]
 C'est une pelle.
@@ -12191,8 +12191,8 @@ Pourquoi y a-t-il quelque chose comme ça ici ?
 Je pense qu'ils essayaient de bloquer quelque chose.
 Dans un endroit comme celui-ci ? Bloquer qui ? Ou quoi ?
 En observant la façon dont les tiges épineuses sont reliées entre elles, je pense que le cœur se trouve à l'intérieur.
-Il y avait quelque chose de similaire chez moi.
-Hmm... Blue...
+Il y avait quelque chose de similaire à la maison.
+Hmm... bleu...
 Oh ! L'endroit où j'ai sauvé Rubrum ! Je crois avoir aperçu un sigil bleu là-bas !
 Il y a quelque chose là-bas… Allons voir.
 Allons là où j'ai sauvé Rubrum.
@@ -12203,7 +12203,7 @@ Hmm... J'en ai peut-être vu un, mais je ne suis pas sûr...
 Est-ce que quelqu'un l'a fabriqué pour protéger le cœur ?
 Pour l'instant, cela semble être le cas.
 Il faut d'abord ouvrir cette porte.
-Il doit y avoir un sigil de sorcière quelque part, comme pour les autres portes de la forêt.
+Il doit y avoir un sigil de sorcière pas loin, comme pour les autres portes de la forêt.
 Commençons par le commencement.
 Je crois avoir déjà vu quelque chose de similaire quelque part.
 Concentrons-nous sur notre mission pour le moment.
@@ -13886,7 +13886,7 @@ Ces derniers temps, grâce à vous, il semble que nous ayons davantage de client
 Je pense donc à préparer davantage de plats et à augmenter la [em1]stock[/em1].
 Et j'ai préparé quelques plats avec [em1]soin supplémentaire[/em1]. Vous le saurez dès que vous les goûterez.
 Tu es venu.
-Je ne sais pas ce qu'il en est de cette histoire.
+Je ne sais pas de quoi il retourne.
 Je n'en ai jamais entendu parler.
 Hé, t'es une sorcière.
 Oui, je m'appelle Ellie, je suis apprentie sorcière.
@@ -14251,17 +14251,17 @@ Rendre la veilleuse à Arden ?
 Ce n'était pas là quand je suis allé le chercher, mais on ne sait jamais.
 Je l'ai trouvé près de l'arbre à thé « Bitter Grape ».
 Mieux vaut éviter cet oiseau fou.
-Attends, est-ce qu'il existe un [em1]potion[/em1] ?
-Il faut vraiment que je parvienne à joindre quelqu'un.
-Hmm… Prends-en un peu [lua(GetLocalizedString("EffectFoodCommon", "BeefStew_Name"))] pendant que je réfléchis.
+Attends, est-ce qu'il existe une [em1]potion[/em1] ?
+Il faut vraiment que je parvienne à passer.
+Hmm… Prends un peu de [lua(GetLocalizedString("EffectFoodCommon", "BeefStew_Name"))] pendant que je réfléchis.
 Waouh, ça a l'air délicieux.
 [em1]40 pièces d'or[/em1].
-Tu as dit que tu devais surmonter un [lua(GetLocalizedString("Encyclopedia", "Gaga_Name"))], n'est-ce pas ?
+Tu as dit que tu devais te débarrasser d'un [lua(GetLocalizedString("Encyclopedia", "Gaga_Name"))], n'est-ce pas ?
 Je n'ai pas les moyens de m'offrir ce ragoût.
-En fait, c'est difficile, à moins que [em1]on ne l'entend pas du tout[/em1].
-Eh bien, tu es un [em1]sorcière[/em1] Après tout. Je pensais que tu aurais trouvé une solution avant de me demander.
+En fait, c'est plutôt délicat, à moins de [em1]ne pas l'entendre du tout[/em1].
+Mais bon, tu es une [em1]sorcière[/em1] après tout. Je pensais que tu aurais trouvé une solution avant de venir me demander.
 Très bien, alors.
-C'est [lua(GetLocalizedString("EffectFoodCommon", "BeefStew_Name"))], et ça coûte 40 pièces d'or. Tu vas le manger ?
+Il te faut un [lua(GetLocalizedString("EffectFoodCommon", "BeefStew_Name"))], et ça coûte 40 pièces d'or. Ça te convient ?
 Il y a quelque chose dont j'ai besoin dans ce sac.
 Si vous le trouvez, merci de me le rapporter.
 Donner le sac à Arden ?
@@ -18455,18 +18455,18 @@ Si vous faites et livrez bien des bonbons, vous aurez la chance de livrer des bo
 Les listes de livraison se rafrachissent tous les [em1][lua(GetLocalizedString("Common", "Monday"))][/em1] et [em1][lua(GetLocalizedString("Common", "Thursday"))][/em1].
 <Calling Delivery service>
 Voulez-vous utiliser le service de livraison ?
-Honorer cette commande de livraison ?
+Honorer cette commande ?
 Oh, tu as choisi celui-ci.
-OK, n’oubliez pas de livrer avant[lua(GetLocalizedString("Common",  GetGlobalVariable("$711")))].
+OK, n’oubliez pas de livrer avant [lua(GetLocalizedString("Common",  GetGlobalVariable("$711")))].
 Prends ton temps.
 Merci. Potions livrées.
 Vous voulez annuler cette commande de livraison ?
 J’ai hâte de retravailler avec vous.
 Si tu as besoin de quoi que ce soit, demande-le.
 Plus tu travailles dur pour fabriquer et livrer des bonbons, plus tu peux livrer de bonbons. Tiens bon.
-Voici les commandes de livraison que vous avez choisies.
+Voici les commandes à livrer que vous avez choisies.
 Un retard signifie un échec. Fais attention.
-Les marchandises figurant sur cet ordre de livraison doivent être livrées avant[lua(GetLocalizedString("Common",  GetGlobalVariable("$711")))].
+Les marchandises figurant sur ce bon de livraison doivent être livrées avant [lua(GetLocalizedString("Common",  GetGlobalVariable("$711")))].
 Si vous ne pouvez pas venir, ou souhaitez changer de commande, vous pouvez l’annuler.
 Mais vous êtes arrivé à la[em1]Limite de livraison[/em1]de ce thème de bonbons. Je ne peux plus livrer.
 La livraison est terminée.
@@ -18487,7 +18487,7 @@ Désolé... La commande est expirée et ne peut pas être terminée.
 Regardez les nouvelles commandes de livraison.
 Les listes de livraison qui apparaissent aujourd’hui sont à compléter avant [em1][lua(GetLocalizedString("Common", GetGlobalVariable("$711")))][/em1].
 Notez que tout le contenu actuel sera supprimé lors du prochain rafraîchissement.
-[em1]Livraisons de bonbons[/em1]Rafraîchissements dès aujourd’hui.
+La [em1]livraisons de bonbons[/em1] s'actualise aujourd’hui.
 Aurea, j’ai besoin de plus de plans de maisons.
 Pas de problème, j’ai tous les plans dont tu as besoin.
 Ah, puisque tu le dis comme ça, puis-je en acheter plusieurs en même temps ?
@@ -19438,8 +19438,8 @@ On ne sait pas quand le Catalogue des Sorcières pourrait surgir.
 Tenons-nous-en au plan et trouvons ce village.
 Fin de journée ! Fin de journée ! <shake>C'est fermé !</shake>
 Au revoir !
-C’est Diane qui apporte le bonheur.
-Avez-vous des questions ?
+Je m'appelle Diane, et je vous apporte le bonheur.
+As-tu des questions ?
 Mon objectif est de finir le travail à l’heure.
 C’est la première fois que je l’entends.
 Veux-tu réparer la Maison de la Sorcière ?
@@ -20150,41 +20150,41 @@ Je vous tiendrai au courant lorsqu'elle sera restaurée.
 Merci. Marché conclu.
 Continuez à travailler aujourd’hui !
 [lua(GetLocalizedString("InteractableObject", "People_Diane"))][lua(GetLocalizedString("Choice", "FavorabilityUP_Large"))]
-Diane, vendrais-tu un ingrédient appelé [em1]Eau bénite[/em1] ?
-Oui, je l’ai. Je devrais l’inscrire dans le catalogue si tu en as besoin ?
-Oui, s’il te plaît, fais-le.
-D’accord, mais c’est[em1]un peu[/em1]cher. Ça va ?
-<shake>Combien de prix... ?</shake>
-Elle coûte 1500 Luna.
-C’est trop cher !
-Je n’y peux rien car c’est un ingrédient précieux.
-Peux-tu... vendre à crédit... ?
-Vendre à crédit, c’est un peu...
-J’ai vraiment besoin de cet ingrédient maintenant. S’il te plaît !
-Je te rembourserai sûrement... La maîtresse sorcière sera aussi la garantie.
-[em1]Caution[/em1]ce n’est pas possible mais[em1]garantie[/em1]est possible.
-Une minute. Laisse-moi réfléchir.
-<shake>Le ferait-elle... ?</shake>
-Dans des moments comme celui-ci, les marchands de troisième classe refusent.
-Les modèles de seconde classe acceptent simplement.
-Et la première classe ?
-Ils vous feraient promettre de donner quelque chose de plus grand.
-Pour la ramasser...
+Diane, est-ce que tu vendrais par hasard un ingrédient appelé [em1]eau bénite[/em1] ?
+Oui, j'en ai. Tu veux que je l’ajoute au catalogue ?
+Oui, s’il te plaît.
+D’accord, mais c’est [em1]un peu[/em1] cher. Ça ira ?
+<shake>On parle de combien... ?</shake>
+150 Luna.
+C’est beaucoup trop cher !
+Je n’y peux rien, c'est un ingrédient très précieux.
+Pourrais-tu... me le faire à crédit... ?
+Te le faire à crédit, eh bien...
+J’ai vraiment besoin de cet ingrédient maintenant. Je t'en prie !
+Je te rembourserai, je te le promets... La sorcière-supérieure se portera aussi garante.
+Se porter [em1]caution[/em1], ce n'est pas possible - se porter [em1]garante[/em1], en revanche, oui.
+Un instant. Laisse-moi réfléchir.
+<shake>Est-ce qu'elle va accepter... ?</shake>
+Dans ce genre de situation, les marchands de pacotille refusent.
+Ceux de seconde zone acceptent simplement.
+Et les marchands de renom ?
+Eux, ils te feront miser quelque chose de bien plus important.
+Pour se faire un bon pactole…
 C’est un peu flippant...
-J’ai pris la décision.
-Je vais te faire l’eau bénite [em1]à crédit[/em1].
+J’ai pris ma décision.
+Je te la laisse [em1]à crédit[/em1].
 Elle est de seconde zone.
-La première classe n’est-elle pas souvent disponible ici ?
-Je ne sais pas de quoi tu parles...
+Ça m'étonnerait qu'on croise des marchands de renom par ici.
+Je ne vois pas de quoi tu parles...
 Ne t’en fais pas.
-Alors, tu me le donnes vraiment à crédit ?
-Oui, d’habitude je ne le fais pas, mais Ellie est ma cliente précieuse.
-Comme c’est une urgence, je vais te le donner à crédit cette fois.
-Mais notez que je le fais parce que je vous fais confiance et que la maîtresse sorcière est la garant...
+Alors, tu me le fais vraiment à crédit ?
+Oui, d’habitude je ne le fais pas, mais Ellie, tu es ma cliente la plus précieuse.
+Comme c’est pour une urgence, je vais exceptionnellement te la faire à crédit.
+Mais note que je le fais uniquement parce que je te fais confiance et que la sorcière-supérieure se porte garante...
 Je ne fais que « garantir ».
-... est garanti. S’il te plaît, ne trahis pas ma confiance.
-Bien sûr ! Je vais bien rembourser. Ne t’inquiète pas.
-D’accord, compris ! Merci pour votre affaire.
+... c'est garanti. S’il te plaît, ne trahis pas ma confiance.
+Bien sûr ! Je vais te rembourser. Ne t’inquiète pas.
+Très bien ! Merci de ta confiance.
 <wave>Ellie~</wave>Bonjour !
 J’ai quelque chose d’important aujourd’hui !
 Quelque chose d’important... Qu’est-ce que c’est ?
