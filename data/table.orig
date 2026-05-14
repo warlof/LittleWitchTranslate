@@ -3136,12 +3136,12 @@ Roy used to be a villager. What kind of person is him?
 Rebuild Roy’s House
 Rebuild Roy's house for him!
 Build Houses for the Villagers
-Deliver Diane’s Candies
+Delivering Diane’s Candies
 {count} Luna Coin(s)
 The currency commonly used in the witch society. A moon is embossed on the silver coins.
 Potion class was a required course at the School for Witches. Crafting was fun, but using set recipes was boring. I wasn't allowed to do even that after I did things my own way and caused a small explosion...
 {count} Gold Coins
-Deliver Aurea’s Candies
+Delivering Aurea’s Candies
 The standard currency.
 Withered Beansprout
 A beansprout that normally grows tall and strong.
@@ -5559,7 +5559,7 @@ Pietro smashed the mud with a hammer and grinded down the rest with sandpaper.
 After shining them, the shoes sparkled even more than before. The customer was satisfied and left.
 The fairy, who was so annoyed, transformed into a beggar this time and went to see Pietro himself.
 Pietro was surprised on seeing the third customer's shoes.
-Looking closely, what he thought were muddy shoes, was just feet covered in a lot of mud.
+Looking closely, what he thought were muddy shoes were just feet covered in a lot of mud.
 Pietro, after much thought, baked the mud into pottery.
 Glazing the pottery made it shine brighter than any other shoe.
 Enchanted by the elegant shoes, the fairy forgot about the bet.
@@ -11712,7 +11712,7 @@ I wonder what he sells.
 Let's come back on time.
 I hope it’s something delicious.
 I need the potion to remove this.
-I found it! It’s the prickly vine core.
+I found it! It's the prickly vine core.
 But it's covered by something... What's that?
 A gigantic bird cage?
 Bird cage is a tool to lock up something.
@@ -11720,7 +11720,7 @@ It’s a tool to lock up birds. I know that much.
 Now it looks like it is being used to protect the prickly vine core, though.
 Hmm, what if we use the potion without removing the bird cage?
 It's not a normal bird cage. We must remove it.
-Look! The sigil on the ground is the same color as the chalk I got from solving the puzzle earlier.
+Look—this pattern on the floor is the same color as the chalk we saw when we solved that puzzle earlier.
 They must have hidden the key to the bird cage there.
 Good. I guess we can open it now.
 Let’s draw the sigil again and open the bird cage.
@@ -11930,7 +11930,7 @@ Dream Plants for Witch Garden
 White Prickly Vine: Only moonlight kills this prickly vine. Perfect for fences.
 Oh, the latch came off! It just opens!
 I knew it.
-Now let’s pray that there is a prickly vine core behind this.
+Now let's pray that there is a prickly vine core behind this.
 Or something fun.
 This must be the house of [em1]Kyla[/em1].
 It's in the same condition as the other houses.
@@ -13882,9 +13882,9 @@ Like the people of Wisteria. And me, right?
 ...Hmph.
 Come again if you're hungry.
 I’m not open for business now.
-Lately, thanks to you, it seems we’ve been getting more customers.
-So I’m thinking of making more food and increasing the [em1]stock[/em1].
-And I made some dishes with [em1]extra care[/em1]. You’ll know when you taste them.
+Thanks to you, the restaurant's been having more customers.
+To feed everyone, I plan to cook more food and increase my [em1]stock[/em1].
+I've put [em1]extra efforts[/em1] in some of the dishes. Try them and you'll see.
 You came.
 I don't know about that story.
 I’ve never heard of it.
@@ -14125,7 +14125,7 @@ I’ll be fine if I’m careful.
 Come to think of it, can't you just breathe fire into the streetlamps and light them?
 I'm sure I can.
 Then it's settled.
-But there’s nothing to burn in the streetlamps.
+But there's nothing to burn in the streetlamps.
 And each only has a small glass bottle in it. There's no room for [em1]Firewood[/em1].
 I thought so too.
 But the streetlamps would melt away if you light [em1]Hot Flames[/em1] in them.
@@ -14160,7 +14160,7 @@ Black, like pepper, is also fine.
 But [em1]silver[/em1] is better.
 Why do you like the color silver so much?
 Not too sure. Can't remember. But why the question about color?
-I’m asking around to decide the color of the light coming from the streetlamps.
+I'm asking around to decide the color of the light coming from the streetlamps.
 Ah, right.
 I don't really mind either way, but if I have to choose, it'd be silver.
 I've got it right here.
@@ -14299,7 +14299,7 @@ So why don't you go get it from Rubrum?
 Then you'll teach me how to breathe fire?
 Sure. But there's no guarantee you'll be able to do it.
 I’d sell my [em1]soul[/em1] if I could breathe fire.
-I told her to come in the [em1]morning[/em1].
+I said I would go in the [em1]morning[/em1].
 Alright... Grind this well and...
 It worked!
 It's strange to have such a bad taste when there isn't any smell.
@@ -18466,7 +18466,7 @@ If you need anything, just ask.
 The harder you work to make and deliver candies, the more candies you can deliver. Hang in there.
 These are the delivery orders you chose.
 An overdue means a failure. Be careful.
-The goods on this delivery order need to be delivered before [lua(GetLocalizedString("Common",  GetGlobalVariable("$711")))].
+The goods on this delivery order need to be delivered before [lua(GetLocalizedString("Common", GetGlobalVariable("$711")))].
 If you can't make it, or wish to switch to another order, you can cancel it.
 But you've reached the [em1]delivery limit[/em1] of this candy theme. Cannot deliver anymore.
 The delivery has been completed.
@@ -18481,7 +18481,7 @@ It's nothing. I was a model student.
 I basically offer the same services as the witch society.
 Except that I have different items on my purchase lists and I trade in Gold Coins.
 Then, I'll get ready, so that you can start your delivery from tomorrow.
-There're changes to the Delivery orders. Check them out.
+There're changes to the delivery orders. Check them out.
 You've still got an unfinished Delivery order.
 Sorry... The order has expired and cannot be completed.
 Check out the new Delivery orders.
@@ -21150,7 +21150,7 @@ Okay, Ellie. I think we can achieve anything as long as you're here!
 Then, are you going to contact Kyla now?
 Yes, I wrote the letter in advance.
 Let me send the letter then.
-You would? Thank you. The peddler also happens to be at the village during [em1]daytime[/em1], so please hand it to him.
+You would? Thank you. The peddler also happens to be at the village during [em1]daytime[/em1], so please hand it to her.
 Okay. Oh, and can I send my letter as well?
 Of course. Can I ask what you wrote?
 "I want to see you soon."
@@ -21652,7 +21652,7 @@ It just struck me that I've only ever made [lua(GetLocalizedString("Item", "Star
 Are you sure you want to waver over the colors first?
 Can't the color be changed?
 How about asking Diane?
-Enite! I got you something that’ll light the streetlamps.
+Enite! I got you something that'll light the streetlamps.
 Oh, what's it?
 It’s [em1]Twinkle-Twinkle Juice[/em1].
 It's a potion that makes your body glow. It'll light up the streetlamps if put inside.
@@ -23167,7 +23167,7 @@ Enite told me that an apprentice witch had come to the village and wanted me bac
 What do you say then?
 I only managed to come back because of your generous help.
 Thank you for coming back too.
-Whoa, it’s the flying carpenter.
+Whoa, it's the flying carpenter.
 Sorry if I let you down, but I can't fly.
 This is my friend, the talking witch hat named Virgil.
 Nice to meet you, Virgil.
@@ -23186,7 +23186,7 @@ I can work here more comfortably than anywhere else.
 I might need your help, Ms. Witch.
 Let me know at anytime.
 Sure. Everyone missed you.
-Don't you need house blueprints?
+Don't you need House Blueprints?
 Usually, I do.
 But this is my own house, so it's okay.
 You need one to build houses for others, then?
@@ -28099,14 +28099,14 @@ No, I don't.
 Oh, okay.
 What color do you want the [em1]streetlamps[/em1] to glow in, Rubrum?
 I’d love it if the streetlamps glowed [em1]yellow[/em1] like [em1]fireflies[/em1]!
-You’re going to light the streetlamps?
+You're going to light the streetlamps?
 Yeah, I’m gonna give it a shot.
 Yay, now I can play at night, too!
 I wouldn’t do that if I were you.
 As the maker of the streetlamps, I can tell you that they won't be as bright as before.
 So you should still be careful walking around during the night.
-So what color do you want the streetlamps to glow with?
-I... I want them to be sparkling [em1]yellow[/em1]!
+So what color do you want the streetlamps to glow in?
+I... I want them to be [em1]yellow[/em1] and flicker!
 Alright, I’ll give it a go.
 Ritoring?
 You've never seen one?
@@ -34299,3 +34299,106 @@ Have you ever had any steak?
 I've got you one of the streaks I roasted.
 It will give you strength.
 If you craft and deliver well, you will get the chance to deliver more advanced potions and in larger quantity. I look forward to your good work.
+Virgil, [em1]something weird and squashy[/em1] is trying to eat my letter.
+Are my eyes playing tricks on me?
+You have my words: They aren't.
+Which means... there's indeed a squashy thingy eating my [em1]letter[/eml]?
+At least that's what I see.
+<shake>You thief! Leave my letter alone!</shake>
+Huh? Wait, that's me?!
+It transformed?!
+But it's not moving.
+It's an opening then! Let's catch it!
+How did it assume my appearance?
+And the blobs it ejected maintain their shape even if I touch them...
+And they make my hands sticky.
+Well, it looked different from its usual form, but I guess I recognize it.
+You do?
+Something that transforms, shoots blobs when fleeing,
+gathers items, and has a squashy body. Only one creature meets all these descriptions.
+You've learned about it at school. You should know it.
+I-is it a [em1]Mimic Jelly[/em1]?!
+But [em1]Mimic Jellies[/em1] are an endangered species illegal to collect.
+If it was a Mimic Jelly, my letter is lost for good.
+I don't think that's the case. There's no rule against taking a Mimic Jelly's collection.
+Once a Mimic Jelly gets an item, it carries the item around forever.
+We should make it throw the items up. It's good for the Mimic Jelly too.
+That's interesting. I shall lend it a hand then.
+Read the [em1]letter[/em1] first.
+Hi, Ellie! It's Rubrum writing.
+You've helped me a lot lately! So I'm writing this letter to thank you!
+You've treated my injuries, taken me back to the village, and brought me lots of good luck ever since!
+In return, I've baked you a [em1]pie[/em1]. It's not much, but hope you like it!
+PS: Do tell me if the pie was good when you've had it!
+Wow, it's a letter from Rubrum!
+He wants to know wheter the pie was good. He's so adorable.
+Pay him a visit later.
+I will. Where's the pie then? The pie Rubrum gifted me...
+...Virgil, is it just me, or is there no pie?
+You've had my words. Your eyes are functioning normally.
+If the pie's missing, I can only think of one explanation.
+It's not my letter that the Mimic Jelly has taken. It's my [em1]pie[/em1]?!
+<shake>Wh-what do I do?!</shake>
+One way to get a Mimic Jelly's collection is to pop its blobs.
+But I tried with my hands and failed.
+Just approach a blob [em1]on your broom[/em1] and break it.
+What? Why a [em1]broom[/em1] all of a sudden? Will that work?
+The magic in brooms is said to be effective against those blobs.
+The mechanics I don't understand, though.
+Come on, so you are also clueless.
+I do know how to break the blobs.
+Right, right, you're amazing.
+Anyway, all I need to do is to [em1]run into a blob on my broom[/em1]?
+Very well, let's do this. <shake>Just you wait, you thief!!!</shake>
+It must have gone this way...
+The Mimic Jelly should be ahead.
+Thank goodness, it didn't lose us.
+Alright, let's catch it.
+Shouldn't you go visit Rubrum?
+I need to catch that troublemaker and get the pie back, or it would be unfair for Rubrum.
+The Mimic Jelly is right ahead.
+Well, it makes sense.
+But are you sure? Mimic Jellies are said to be fast.
+Humph, I am well capable of riding a broom!
+Are you? Go ahead then. There's no proof that you will succeed though.
+I should go after it on my [em1]broom[/em1]. Is that right?
+Yes, the items will fall out once you break the blobs.
+Very well, I'll get [em1]Rubrum's pie[/em1] as quickly as possible and go meet him.
+Break the blobs
+Break 5 blobs from the Mimic Jelly
+Or Find Mimic Jelly and take back Rubrum's Little Pie
+Before it flees, Mimic Jelly would shoot blobs that contain various items.
+Break 5 blobs and get the items.
+Go meet Rubrum, who said they had something to say.
+Ellie, come over here! How was the pie?
+Actually, I was quite worried, because a spirit seems to be wandering around stealing things.
+A spirit? Stealing things?
+Oh, does that spirit happen to have [em1]a stange look and a squashy body[/em1]?
+You've seen it? Granny says it has been living in Wisteria since forever.
+But it stopped showing up after we got the [em1]prickly vine[/em1] problem, and she was worried.
+They say it has reappeared and is roaming around.
+And it seems to look different from before, so please be careful.
+Okay. By the way, that thing's called a Mimic Jelly.
+Mimic Jelly? Is that the spirit's name? Hehe, what a cute name.
+But if you've met it, does that mean you lost the pie?
+I didn't! Belive it or not, I'm a great broom rider!
+Right, she somehow managed to take the pie back.
+I MANAGED to take the pie back, period!
+Glad to hear that! After all, I've put much effort that pie.
+And I'm so glad to receive it. Thank you, Rubrum.
+You're welcome! Take care, Ellie!
+Virgil, you heard that? [em1]"It stopped showing up after we got the prickly vine problem."[/em1]
+Come to think of it, back at school they said that Mimic Jellies were translucent, but this one...
+That's it. It feels similar to prickly vine cores, but why?
+Mimic Jellies have an insatiable curiosity.
+This one may have come into contact with a prickly vine core, which changed its appearance?
+That explains why it doesn't match what I was taught at school.
+Prickly vine cores must be really powerful if they do such a trick.
+That's right. But will I run into it again?
+Probably, if you keep wandering around?
+I shall try my best to break the blobs whenever I find it!
+For the wellbeing of that Mimic Jelly,
+Huh, for the items, you mean.
+It's not like that~ I'm doing this for the jelly's wellbeing, hehe.
+It's gonna be even more fun from now on.
+Why not?
