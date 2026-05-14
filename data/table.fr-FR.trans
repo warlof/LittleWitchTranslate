@@ -51,7 +51,7 @@ Ce mignon chat écaille de tortue est un grand mangeur. Il semble avoir la bouch
 Peanut
 Le premier chat à apparaître dans le quartier. Il semble être sociable, mais une fois que vous le connaissez, vous réaliserez qu'il ne prend tout simplement pas la peine de s'éloigner lorsque les gens s'approchent. Il doit néanmoins être assez décontracté car il s'entend bien avec les autres chats.
 Un chat charmant avec un pelage blanc comme neige. Curieux et audacieux, il semble apprécier les humains. Son charme peut probablement séduire aussi bien les humains que les chats.
-Silver
+Argent
 À propos de Silver
 Candy
 Probablement le chat le plus vivant et énergique du quartier, et le seul chat aperçu dans chaque partie du village. Il se promène peut-être tout le temps, même quand personne d'autre n'est présent.
@@ -1055,10 +1055,10 @@ Une plume de Pompom séchée. Elle semble encore plus robuste qu'avant le sécha
 Une potion contenant les effets de la lune. Elle est un peu plus légère que l'Huile de Lune.
 Eau bénite
 De l'eau qui brille en bleu clair. Elle a un léger parfum de fleurs.
-Fibres de Terrier Citrouille
+Touffes de Terrier Citrouille
 Fourrure jaune extrêmement douce. Son éclat est éblouissant.
 On dirait un matériau destiné à des vêtements de luxe.
-Fibres de Terrier Citrouille Brûlée
+Touffes de Terrier Citrouille Brûlée
 L'éclat n'est plus là.
 On a l'impression que ça pourrait se désintégrer en poussière d'un simple toucher.
 La recette de la Potion d'Amélioration de l'Intellect. Bien qu'elle améliore les capacités intellectuelles, il faut se méfier des effets secondaires.
@@ -2749,7 +2749,7 @@ Combien voulez-vous en vendre ?
 Vous vendez {0} pour le prix de {1}. Voulez-vous continuer ?
 Cet article peut être vendu pour {0}. Voulez-vous continuer ?
 On ne peut pas faire grand-chose quand on est fauché.
-Enregistrez vos bagages.
+Vérifies ton sac.
 Je n'en ai plus pour l'instant.
 Vous avez déjà eu votre compte ?
 Je n'en ai pas besoin.
@@ -3146,8 +3146,8 @@ La devise par défaut.
 Pousse de haricot flétrie
 Un germe de haricot qui pousse généralement haut et vigoureux.
 Un oiseau complètement fou. Il émet un bruit insupportable qu'aucune personne sensée ne peut supporter.
-[em1]{1}Non {0}[/em1]
-{1}Non {0}
+[em1]{1}x {0}[/em1]
+{1}x {0}
 Un temple dédié à deux dieux félins. En ruines à cause des ronces.
 Temple en ruines
 Une pierre mystérieuse transmise de génération en génération par les chefs de Wisteria. Le léger murmure de magie qu'elle dégage laisse penser qu'il ne s'agit pas d'une pierre ordinaire.
@@ -3354,11 +3354,11 @@ Demander à Diane où trouver de l'eau bénite.
 Préparer des « Larmes de lune ».
 Retirer le cœur épineux de la ronce à l'aide de « Moon Tears ».
 Conversation avec Enite
-Parle d'abord à Enite.
+Parler d'abord à Enite.
 Remettez la lettre à Aurea
 Aurea peut t'aider à remettre la lettre à Kyla. Remets la lettre à Aurea dès qu'elle arrive.
 Conversation avec Kyla
-Attends Kyla et parle-lui lorsqu'elle arrivera au village.
+Attendre Kyla et lui parler lorsqu'elle arrivera au village.
 Attendre que la maison soit reconstruite
 Attends que la maison soit reconstruite, puis va parler à Kyla.
 Demandez aussi à d'autres personnes.
@@ -3419,13 +3419,13 @@ Apportez les bonbons qui permettront de lever la malédiction.
 Améliorez le sac via Aurea.
 Modernisez vos outils de travail grâce à Diane.
 Réparez votre balai à l'Établi situé dans le sous-sol de la Maison de la Sorcière.
-Demandez à Enite ce qu'il en est.
-Demande à Arden ce qui s'est passé.
-Demandez aux villageois quelle couleur ils souhaitent pour les lampadaires.
-Parle à Diane pour découvrir comment changer la couleur du jus Twinkle-Twinkle.
-Préparez le jus « Twinkle-Twinkle ».
-Donne à Enite le jus « Twinkle-Twinkle » prêt à l'emploi et les perles pour les lampadaires.
-Va chercher les derniers ingrédients pour la tarte d'Enite.
+Demander à Enite ce qu'il en est.
+Demander à Arden ce qui s'est passé.
+Demander aux villageois quelle couleur ils souhaitent pour les lampadaires.
+Parler à Diane pour découvrir comment changer la couleur du jus Twinkle-Twinkle.
+Préparer le jus « Twinkle-Twinkle ».
+Donnr à Enite le jus « Twinkle-Twinkle » prêt à l'emploi et les perles pour les lampadaires.
+Aller chercher les derniers ingrédients pour la tarte d'Enite.
 3 Clochettes Étoilées
 2 Fleurs d'oiseaux
 Allons apporter la tarte d'Enit à Rosie.
@@ -3452,7 +3452,7 @@ Donne les ingrédients que tu as rassemblés à Arden.
 Demandez autour de vous quelles sont les collations qui se marient bien avec les nouveaux vins d'Arden.
 Demandez à Kyla, quand elle est au travail, si elle pourrait organiser une dégustation de vins.
 Demande à Arden où est passé son sac.
-Rendez-vous chez Arden demain matin pour en savoir plus.
+Se rendre chez Arden demain matin pour en savoir plus.
 Demande à Kyla si elle rencontre des difficultés pour effectuer des réparations dans sa maison.
 Demande à Rubrum de te raconter la légende de la pomme d'or.
 Partez à la recherche des pommes d'or disséminées dans la Forêt Verte. Si vous avez des questions, adressez-vous à Rubrum.
@@ -4484,9 +4484,9 @@ Se lancer dans l'aventure pour sauver le village !
 Pour éliminer complètement les ronces, il te faut une potion imprégnée de la puissance lunaire.
 Se renseigner sur la recette de la potion, rassembler les ingrédients et l'utiliser pour éliminer les ronces.
 Le charpentier, qui sait construire des maisons, est indispensable à la reconstruction du village.
-Écris une lettre à Kyla, l'ancienne charpentière du village.
+Écrire une lettre à Kyla, l'ancienne charpentière du village.
 Kyla est de retour à Wisteria.
-Discutez de la manière de reconstruire les maisons du village et de planifier l'avenir.
+Discuter de la manière de reconstruire les maisons du village et de planifier l'avenir.
 Tu fais des rêves étranges toutes les nuits, mais tu te réveilles sans t'en souvenir.
 Trouvez un moyen de vous souvenir de vos rêves et de résoudre le mystère.
 Préparez-vous à accueillir les villageois qui souhaitent revenir au village.
@@ -5087,9 +5087,9 @@ Balai de base
 Durabilité
 Aucun article ajouté.
 M
-Main
+Principale
 villageois
-Page
+Secondaire
 Vous n'avez pas la bonne craie.
 Ou
 * Peut être livré séparément.
@@ -5284,7 +5284,7 @@ Acte 4
 Acte 5
 Nouveau contenu
 En cours
-Sommaire
+Résumé
 Déroulement de l'histoire
 Récompenses de quêtes
 Objectifs
@@ -5549,7 +5549,7 @@ La fée s'approcha de Pietro et lui dit :
 « Je peux. »
 « Faisons un pari. Si tu cires les chaussures des trois prochains clients à la perfection, tu auras droit à un vœu. »
 D'accord.
-Puis la fée a versé de l'eau sur la route principale du village à l'insu de Pietro, la rendant boueuse.
+Puis la fée a versa de l'eau sur la route principale du village à l'insu de Pietro, la rendant boueuse.
 Le premier client est entré avec des chaussures couvertes de boue, car il avait marché dans la boue.
 Pietro a habilement enlevé la boue à l'aide d'une brosse, puis a fait briller les chaussures en appliquant du cirage.
 Les chaussures sont devenues propres et brillantes en un clin d'œil. Le premier client était satisfait et est reparti.
@@ -5567,8 +5567,8 @@ Si on travaille dur, la chance finira par nous sourire ?
 Qu'est-ce que la fée aurait pris si Pietro avait perdu ?
 N'est-ce pas généralement les mains, ici ?
 Oh, Virgile ! C'est dégoûtant.
-<Mud Shoes>
-<Life with Mushrooms>
+<Les chaussures boueuses>
+<Vivre avec des champignons>
 Préface
 Ouvrez le livre à une page au hasard
 Épilogue
@@ -5912,10 +5912,10 @@ C'est un spectacle très suspect et peu naturel.
 Résolvons d'abord cette énigme.
 C'est pour Kyla, n'est-ce pas ?
 Bien sûr. Pas besoin de le répéter.
-On dirait un [em1]Balançoire[/em1] et un [em1]poids[/em1]...?
-Qui l'a fait ?
+On dirait des [em1]balances[/em1] et des [em1]poids[/em1]...?
+Qui a bien pu faire ça ?
 Ça ressemble à quelque chose qu'on a vu dans la forêt...
-Il a grossi !
+C'est gigantesque !
 J'ai l'impression qu'il y a quelque chose qui cloche.
 Regarde autour de toi.
 Ouah, ça a marché !
@@ -9621,7 +9621,7 @@ Hum… Réfléchissons-y.
 Réécoutez ces histoires
 De qui devrais-je entendre à nouveau l'histoire ?
 Écouter à nouveau les autres ? Montrer quelqu'un du doigt ? Ou... demander un indice à Virgile ?
-Demande un indice à Virgil
+Demande un indice à Virgile
 Virgile, tu as des conseils ?
 Ce drapeau n'est pas apparu comme par magie parmi ces quatre-là.
 [em1]Celui qui l'a reçu en premier[/em1] Il a dû se procurer le drapeau auprès de quelqu'un qui n'appartient pas à ce groupe.
@@ -11724,7 +11724,7 @@ Regarde ! Le symbole au sol est de la même couleur que la craie que j'ai obtenu
 Ils ont dû cacher la clé de la cage à oiseaux là-bas.
 Bien. Je suppose qu'on peut l'ouvrir maintenant.
 Redessinons le sigil et ouvrons la cage à oiseaux.
-Utilisation [em1][em1][lua(GetLocalizedString("Item", "MoonTear_Name"))][/em1][/em1] ?
+Utiliser la [em1][em1][lua(GetLocalizedString("Item", "MoonTear_Name"))][/em1][/em1] ?
 [em1]Éliminer les ronces[/em1]!
 Je n'arrive plus à lire. Je ne vais pas pouvoir finir ce livre aujourd'hui.
 Pourquoi pas ? Finis de le lire.
@@ -11928,7 +11928,7 @@ Grimoire ludique des plantes « sorcières »
 Goblin Cup : un champignon noir et brillant en forme de coupe. Buvez la rosée pour un sommeil éternel.
 Les plantes de rêve pour un jardin de sorcière
 ronce blanche : Seul le clair de lune peut la détruire. Idéale pour les clôtures.
-Oh, le loquet s'est détaché ! Ça s'ouvre tout seul !
+Oh, le cadenas s'est détaché ! Ça s'ouvre tout seul !
 Je m'en doutais.
 Prions maintenant pour qu'il y ait un cœur de ronce épineux derrière tout ça.
 Ou quelque chose d'amusant.
@@ -13882,9 +13882,9 @@ Comme les habitants de Wisteria. Et moi aussi, n'est-ce pas ?
 ...Hum.
 Revenez si vous avez faim.
 Je ne suis pas ouvert pour le moment.
-Ces derniers temps, grâce à vous, il semble que nous ayons davantage de clients.
-Je pense donc à préparer davantage de plats et à augmenter la [em1]stock[/em1].
-Et j'ai préparé quelques plats avec [em1]soin supplémentaire[/em1]. Vous le saurez dès que vous les goûterez.
+Grâce à toi, le restaurant a vu sa clientèle augmenter.
+Je pense donc à préparer davantage de plats et à augmenter mon [em1]stock[/em1].
+J'ai préparé quelques plats [em1]supplémentaires[/em1]. Gouttes les, tu m'en diras des nouvelles.
 Tu es venu.
 Je ne sais pas de quoi il retourne.
 Je n'en ai jamais entendu parler.
@@ -14112,12 +14112,12 @@ Roy ?
 J'ai entendu dire qu'il tenait un magasin de fleurs dans le village.
 Il ne venait pas très souvent au restaurant, et je ne l'ai guère croisé ailleurs.
 Je ne le connais donc pas très bien.
-Le [em1]boîte brûlée[/em1] au village. C'était toi ?
+La [em1]boîte brûlée[/em1] au village. C'était toi ?
 Comment ça s'est passé ?
 J'allumais la bougie avec mon souffle...
-...mais un [em1]toux[/em1] m'a envahi.
+...mais une [em1]toux[/em1] m'a envahi.
 Et voilà, c'était fini.
-Pourquoi ne pas simplement utiliser un [em1]match[/em1] ?
+Pourquoi ne pas simplement utiliser une [em1]allumette[/em1] ?
 Comment veux-tu que j'utilise un truc aussi minuscule ?
 Il me suffit juste de souffler dessus.
 Si tu procèdes ainsi, tu vas mettre le feu à toutes les maisons de ce village.
@@ -14126,27 +14126,27 @@ En y réfléchissant bien, tu ne pourrais pas simplement cracher du feu sur les 
 Je suis sûr que je peux.
 Alors, c'est décidé.
 Mais il n'y a rien à brûler dans les lampadaires.
-Et chacune ne contient qu'une petite bouteille en verre. Il n'y a pas de place pour [em1]Bois de chauffage[/em1].
+Et chacune ne contient qu'une petite bouteille en verre. Il n'y a pas de place pour du [em1]bois de chauffage[/em1].
 C'est ce que je pensais aussi.
-Mais les lampadaires fondraient si tu allumais [em1]Flammes ardentes[/em1] en eux.
-Il vous faut [em1]Flammes froides[/em1] pour ça.
-[em1]Flammes froides[/em1] qui ne nécessitent pas de carburant...
+Mais les lampadaires vont fondre si j'utilise une [em1]flamme ardente[/em1] dessus.
+J'ai besoin d'une [em1]flammes froides[/em1] pour ça.
+Une [em1]flamme froide[/em1] qui ne nécessitent pas de carburant...
 Pourquoi, tu penses être à la hauteur de la tâche ?
 C'est assez difficile.
 Ouais, avant que tu ne finisses par mettre le feu à toutes les boîtes de ce village.
 Bon, vas-y, essaie donc.
 Bon, qu'est-ce qu'on fait maintenant...
 Je ne sais pas. Hmm... [em1]Flammes froides[/em1]...
-Et si on utilisait [em1][lua(GetLocalizedString("Item", "SunlightPotion_Name"))][/em1] ?
+Et si on utilisait une [em1][lua(GetLocalizedString("Item", "SunlightPotion_Name"))][/em1] ?
 Une lumière aussi vive finirait par t'aveugler.
 Quelque chose de plus doux… avec une couleur plus jolie… <bounce>Et voilà !</bounce>
-<rainb>Twinkle-Twinkle Juice !</rainb>
-Oh, ce n'est pas tous les jours qu'on a une bonne idée...
+<rainb>Du jus de Twinkle-Twinkle !</rainb>
+Oh, ce n'est pas tous les jours que tu as une bonne idée...
 J'ai besoin de [em1]Recette du jus Twinkle-Twinkle[/em1].
 [em1]<wave>Pour le bien de ce village</wave>[/em1]!
-Mais enfin, tu veux juste boire ça [em1]foutaises[/em1].
-Il dispose d'un [em1]lueur douce[/em1], c'est [em1]froid au toucher[/em1], c'est parfait ! Bien sûr, ça a un goût un peu [em1]doux[/em1], mais ce n'est qu'un bonus.
-[em1]Jus Twinkle-Twinkle[/em1] Ça devrait faire l'affaire !
+Oh arrête, tu veux juste boire cette [em1]cochonerie[/em1].
+Il dispose d'une [em1]lueur douce[/em1], c'est [em1]froid au toucher[/em1], c'est parfait ! Bien sûr, ça a un goût un peu [em1]doux[/em1], mais ce n'est qu'un bonus.
+[em1]Jus Twinkle-Twinkle[/em1] ça devrait faire l'affaire !
 C'est le lampadaire du village, alors va demander aux villageois.
 D'accord ! Décidons après leur avoir demandé [em1]leurs couleurs préférées[/em1].
 Euh, vu qu'ils vont être installés sur les lampadaires du village, ce serait un peu ennuyeux d'en faire de simples lampadaires.
@@ -17591,8 +17591,8 @@ Dehors[time <font="Astronomicon SDF">z</font>], composé uniquement de[desire <f
 Ça ne devrait pas être trop difficile.
 On a juste besoin de quelqu’un pour faire un[em1]Plat froid et savoureux[/em1].
 Informations sur papier
-Cela peut prouver que quelqu’un est un[witch <font="Astronomicon SDF">></font>], et montre qu’ils ont le[power <font="Astronomicon SDF">U</font>].
-Enregistrez votre[history <font="Astronomicon SDF">§</font>]sur quelque chose et le mettre dans le feu[truth <font="Astronomicon SDF">Y</font>].
+Cela peut prouver que quelqu’un est un [witch <font="Astronomicon SDF">></font>], et montre qu’ils ont le [power <font="Astronomicon SDF">U</font>].
+Enregistrez votre [history <font="Astronomicon SDF">§</font>] sur quelque chose et le mettre dans le feu [truth <font="Astronomicon SDF">Y</font>].
 Je devrais demander à Arin de la traduire d’abord.
 Cela fait référence au certificat.[em1]Arin[/em1]Je vais le préparer.
 I... Je veux y réfléchir.
@@ -18349,13 +18349,13 @@ C’était quoi déjà ? La chose qui avait un goût affreux.
 Ce n’est pas vraiment un souvenir que j’aimerais revoir, mais...
 Je devrais demander à Diane si je peux avoir une recette.
 Attends, j’ai oublié[em1][lua(GetLocalizedString("Item", "Arden'sCursePepper_Name"))][/em1].
-J’ai une faveur à demander aujourd’hui.
+J’ai une faveur à te demander aujourd’hui.
 Waouh, merci.
 Oui ? Qu’y a-t-il ? Dis-moi.
 Peux-tu apporter cette lettre à Kyla ?
-Même si je ne le fais pas d’habitude gratuitement...
-Je vais y voir un paiement pour avoir enlevé les ronces.
-Je suppose que je reverrai Kyla après longtemps.
+Bien que généralement je ne fasse pas ça gratuitement...
+Je considérerai ça comme une compensation pour m'avoir débarrassé de ces ronces.
+Je suppose que je vais enfin revoir Kyla après si longtemps.
 Où est Kyla maintenant ?
 Je pense que Kyla a toujours voulu revenir.
 La dernière fois que j’ai eu des nouvelles, elle aidait à l’ancienne forge où elle travaillait, et elle ne s’est jamais installée ailleurs.
@@ -18448,14 +18448,14 @@ Je savais que tu pouvais le faire.
 J’offre un service d’achat de bonbons similaire à celui de l’Association des Sorcières.
 Viens me voir si tu veux gagner des pièces d’or.
 À partir de maintenant, vous pouvez livrer des bonbons.
-En général, la liste de livraison se rafraîchit tous les [em1][lua(GetLocalizedString("Common", "Monday"))][/em1] et [em1][lua(GetLocalizedString("Common", "Thursday"))][/em1], mais comme c’est ton premier jour, je vais faire une exception et l'actualiser maintenant.
+En général, la liste de livraison change tous les [em1][lua(GetLocalizedString("Common", "Monday"))][/em1] et [em1][lua(GetLocalizedString("Common", "Thursday"))][/em1], mais comme c’est ton premier jour, je vais faire une exception et l'actualiser maintenant.
 Il suivra le planning habituel à partir de la prochaine fois.
-Veuillez noter que la commande qui apparaît aujourd’hui doit être complétée avant la prochaine actualisation, [em1][lua(GetLocalizedString("Common", GetGlobalVariable("$711")))][/em1] au plus tard, pour celui-ci.
+Veuillez noter que la commande qui apparaît aujourd’hui doit être complétée avant le prochian roulement, [em1][lua(GetLocalizedString("Common", GetGlobalVariable("$711")))][/em1] au plus tard, pour celui-ci.
 Si vous faites et livrez bien des bonbons, vous aurez la chance de livrer des bonbons plus avancés et en plus grande quantité. J’attends votre bon travail avec impatience.
-Les listes de livraison se rafrachissent tous les [em1][lua(GetLocalizedString("Common", "Monday"))][/em1] et [em1][lua(GetLocalizedString("Common", "Thursday"))][/em1].
+Les commandes se rafrachissent tous les [em1][lua(GetLocalizedString("Common", "Monday"))][/em1] et [em1][lua(GetLocalizedString("Common", "Thursday"))][/em1].
 <Calling Delivery service>
 Voulez-vous utiliser le service de livraison ?
-Honorer cette commande ?
+Voulez-vous honorer cette commande ?
 Oh, tu as choisi celui-ci.
 OK, n’oubliez pas de livrer avant [lua(GetLocalizedString("Common",  GetGlobalVariable("$711")))].
 Prends ton temps.
@@ -18464,14 +18464,14 @@ Vous voulez annuler cette commande de livraison ?
 J’ai hâte de retravailler avec vous.
 Si tu as besoin de quoi que ce soit, demande-le.
 Plus tu travailles dur pour fabriquer et livrer des bonbons, plus tu peux livrer de bonbons. Tiens bon.
-Voici les commandes à livrer que vous avez choisies.
-Un retard signifie un échec. Fais attention.
+Voici la commande que vous avez choisie.
+Un retard entraînera un échec. Fais attention.
 Les marchandises figurant sur ce bon de livraison doivent être livrées avant [lua(GetLocalizedString("Common",  GetGlobalVariable("$711")))].
 Si vous ne pouvez pas venir, ou souhaitez changer de commande, vous pouvez l’annuler.
 Mais vous êtes arrivé à la[em1]Limite de livraison[/em1]de ce thème de bonbons. Je ne peux plus livrer.
 La livraison est terminée.
 Choisissez une autre livraison.
-Dois-je noter les éléments à livrer dans la [em1][lua(GetLocalizedString("UI", "Wishlist_Name"))][/em1] ?
+Dois-je ajouter les éléments à livrer à la [em1][lua(GetLocalizedString("UI", "Wishlist_Name"))][/em1] ?
 Très bien, je les ai notés dans le[em1][lua(GetLocalizedString("UI", "Wishlist_Name"))][/em1].
 Vérifiez les salutations spéciales
 Ellie, tu as été occupée ces derniers temps ? C’est agréable de discuter après tout ce temps.
@@ -18481,13 +18481,13 @@ Ce n’est rien. J’étais un élève modèle.
 J’offre en gros les mêmes services que la communauté des sorcières.
 Sauf que j’ai différents articles sur mes listes d’achats et j’échange des pièces d’or.
 Ensuite, je vais me préparer, pour que tu puisses commencer ta livraison dès demain.
-Il y a des changements dans les commandes de livraison. Regardez-les.
+Il y a du changement dans les commandes. N'hésitez pas à les consulter.
 Vous avez encore une commande de livraison inachevée.
 Désolé... La commande est expirée et ne peut pas être terminée.
-Regardez les nouvelles commandes de livraison.
-Les listes de livraison qui apparaissent aujourd’hui sont à compléter avant [em1][lua(GetLocalizedString("Common", GetGlobalVariable("$711")))][/em1].
-Notez que tout le contenu actuel sera supprimé lors du prochain rafraîchissement.
-La [em1]livraisons de bonbons[/em1] s'actualise aujourd’hui.
+Regardez les nouvelles commandes.
+Les commandes qui apparaissent aujourd’hui sont à compléter avant [em1][lua(GetLocalizedString("Common", GetGlobalVariable("$711")))][/em1].
+Notez que tout le contenu actuel sera supprimé lors du prochain roulement.
+Les [em1]commandes[/em1] sont mises à jour aujourd’hui.
 Aurea, j’ai besoin de plus de plans de maisons.
 Pas de problème, j’ai tous les plans dont tu as besoin.
 Ah, puisque tu le dis comme ça, puis-je en acheter plusieurs en même temps ?
@@ -19023,12 +19023,12 @@ Oui, d’accord.
 Alors, puis-je parler du travail tout de suite ?
 Comme je ne suis pas une sorcière, je ne vendrai que le[em1]Bonbons[/em1]Qui peut être utilisé par des non-sorciers.
 Livraison de potions à jour à chaque fois[em1]Lundi[/em1]et[em1]Jeudi[/em1].
-Après avoir accepté une commande de livraison, vous devez livrer les potions avant la suivante[em1]Journée de rafraîchissement[/em1].
-Par exemple, les commandes de livraison acceptées le lundi doivent être terminées au plus tard le mercredi, et celles acceptées le jeudi doivent être terminées au plus tard le dimanche.
+Après avoir accepté une commande de livraison, vous devez livrer les potions avant le prochaine [em1]roulement[/em1].
+Par exemple, les commandes acceptées le lundi doivent être terminées au plus tard le mercredi, et celles acceptées le jeudi doivent être terminées au plus tard le dimanche.
 J’ai plus de temps que prévu.
 L’artisanat prend du temps, après tout.
 Je fais toujours des achats. Viens vendre des potions quand tu veux.
-Mais les potions dans les commandes de livraison peuvent coûter plus cher, alors réfléchissez à deux fois.
+Mais les potions dans les commandes peuvent coûter plus cher, alors réfléchissez à deux fois.
 Mais tu dois livrer une fois que tu[em1]Promis[/em1].
 C’est parce que[em1]Trust[/em1]est important.
 Alors, puis-je demander un service tout de suite ?
@@ -19693,7 +19693,7 @@ On dirait que ta maîtresse sorcière a un sacré tempérament.
 Si vous le souhaitez, vous pouvez aussi mettre le nom de quelqu’un d’autre.
 <shake>T... Alors...</shake>
 <shake>Aria... et Ellie. Juste 1. Pour la fête du village...</shake>
-J’aime bien[em1][lua(GetLocalizedString("Item", "DangleMango_Name"))]Sherbet[/em1]. C’est rafraîchissant et ce serait un excellent mariage.
+J’aime bien la [em1][lua(GetLocalizedString("Item", "DangleMango_Name"))] Sherbet[/em1]. C’est rafraîchissant et ce serait un excellent mariage.
 Oh... Un verre de[em1]Vin doux[/em1]Après le travail, un dessert est le meilleur.
 Un coin de paradis pour récompenser une dure journée de travail !
 Je pense comprendre ce que ça fait, c’est moi quand je mange un cupcake Nubicula.
@@ -19766,8 +19766,8 @@ Cela signifie que vous avez réussi le test.
 Super !!
 Alors, je vais vous expliquer les [em1]conditions[/em1] de livraison des bonbons.
 La liste de livraison est [em1]mise à jour[/em1] chaque [em1][lua(GetLocalizedString("Common", "Monday"))][/em1] et [em1][lua(GetLocalizedString("Common", "Thursday"))][/em1].
-Vous pouvez livrer à tout moment avant le prochain jour d'actualisation.
-Mais notez que si vous ne livrez pas avant la prochain actualisation, cette commande deviendra indisponible.
+Vous pouvez livrer à tout moment avant le prochain roulement.
+Mais notez que si vous ne livrez pas avant le prochain roulement, cette commande deviendra indisponible.
 Au début, vous n’aurez qu’une seule liste à la fois.
 Ensuite, je préparerai la liste pour que vous puissiez commencer par la prochaine mise à jour.
 Merci mille fois.
@@ -19783,7 +19783,7 @@ Puisque vous avez réussi le test, vous pouvez aussi livrer des confiseries à l
 D’accord, j'irais parler à Aurea de ça.
 Mais le nombre de listes et de bonbons nécessaires augmentera à mesure que vous terminerez plus de commandes, alors continuez comme ça.
 Tu as réussi le test, donc tu pourras livrer des bonbons à partir de maintenant.
-En général, la liste de livraison s'actualise tous les [em1][lua(GetLocalizedString("Common", "Monday"))][/em1] et [em1][lua(GetLocalizedString("Common", "Thursday"))][/em1], mais cette fois, je vais faire une exception et l'actualiser aujourd’hui.
+En général, la liste des commandes se rafraîchit tous les [em1][lua(GetLocalizedString("Common", "Monday"))][/em1] et [em1][lua(GetLocalizedString("Common", "Thursday"))][/em1], mais cette fois, je vais faire une exception et l'actualiser aujourd’hui.
 Bonjour, Diane.
 *Zzz*
 <shake>Diane !!</shake>
@@ -19908,17 +19908,17 @@ Sois attentive !
 D’accord, d’accord ! Je vais écouter !
 Vous voulez livrer les bonbons de la commande choisie ?
 Voici le service de livraison de bonbons de l’Administration des Sorcières.
-Voulez-vous honorer cette commande de livraison ?
+Voulez-vous honorer cette commande ?
 Même si c’est ton choix, tu ferais mieux de vérifier à nouveau.
 Merci pour votre coopération. La date limite est [em1][lua(GetLocalizedString("Common",  GetGlobalVariable("$711")))][/em1].
-Réfléchissez bien avant de décider.
+Réfléchissez bien avant de prendre votre décision.
 Merci pour votre coopération. Potions livrées.
-[em1]Annuler[/em1]le commandement de livraison ?
+[em1]Annuler[/em1] la commande ?
 Reviens quand tu veux.
-C’est une commande de livraison que vous ne choisissez pas.
-Assurez-vous de livrer avant la date limite, sinon vous échouerez.
-Il suffit de livrer tous les biens requis par la commande de livraison avant[em1]Ceci[lua(GetLocalizedString("Common",  GetGlobalVariable("$711")))][/em1].
-Si vous n’y arrivez pas, ou souhaitez passer à une autre commande par livraison, vous pouvez le faire[em1]annuler[/em1].
+Voici la commande que vous avez choisie d'honorer.
+Assurez-vous de la livrer avant la date limite, sinon vous échouerez.
+Il suffit de livrer tous les biens requis par la commande avant [em1]ce [lua(GetLocalizedString("Common",  GetGlobalVariable("$711")))][/em1].
+Si vous n’y arrivez pas, ou souhaitez honorer une autre commande, vous pouvez l'[em1]annuler[/em1].
 Vous êtes arrivé à la [em1]limite de livraison[/em1] de ce thème de bonbons. Vous ne pouvez pas en livrer d'avantage.
 Livraison terminée. Impossible à sélectionner.
 Veuillez choisir une autre livraison.
@@ -19958,119 +19958,119 @@ Mais je n’ai pas entendu ce terme depuis un moment, depuis que j’ai obtenu m
 Et je n’ai jamais réussi à sortir de l’école.
 Bonne fête !
 Satisfaction garantie par un service ultra-rapide ! Je l’ajoute tout de suite !
-Vérifiez les commandes de livraison rafraîchies et choisissez-en une à honorer.
-J’ai remarqué que vous avez une commande de livraison ratée.
-Malheureusement, vous ne pouvez pas honorer les commandes de livraison expirées.
-La bonne nouvelle, c’est que vous avez toujours de nouveaux ordres parmi lesquels choisir.
+Regarde les nouvelles commandes et choisis-en une à honorer.
+J’ai remarqué que vous avez une commande ratée.
+Malheureusement, vous ne pouvez pas honorer les commandes expirées.
+La bonne nouvelle, c’est que vous avez toujours de nouvelles commandes parmi lesquelles faire votre choix.
 Oubliez simplement les ordres ratés et vérifiez les nouveaux.
-Les listes de livraison qui apparaissent aujourd’hui dureront jusqu’à [em1][lua(GetLocalizedString("Common", GetGlobalVariable("$711")))][/em1].
-Je suis bien conscient de la[em1]Jus Scintillant[/em1].
-Est-ce que vous vendez ?[em1]Recettes[/em1]Et aussi ?
-Bien sûr.[em1]Recettes[/em1]sont également en stock.
+Les commandes qui apparaissent aujourd’hui dureront jusqu’à [em1][lua(GetLocalizedString("Common", GetGlobalVariable("$711")))][/em1].
+Je sais qu'il y a du [em1]jus scintillant[/em1].
+Est-ce que vous vendez aussi [em1]des recettes[/em1] ?
+Bien sûr. J'ai également des [em1]recettes[/em1] en stock.
 Veuillez consulter le catalogue des sorcières.
-Oh, et tu peux recevoir des cadeaux si tu achètes le[lua(GetLocalizedString("Item", "StarJuice"))]Recette maintenant.
-Si tu vas acheter la recette, je t’apporterai les cadeaux tout de suite.
+Oh, et tu peux recevoir des cadeaux si tu achètes la recette de [lua(GetLocalizedString("Item", "StarJuice"))] maintenant.
+Si tu achètes la recette, je t’apporte les cadeaux tout de suite.
 Des cadeaux ?
-Oui, c’est une tendance récente dans la communauté des sorcières à utiliser[lua(GetLocalizedString("Item", "StarJuice"))]pour l’éclairage décoratif.
-Witches' Catalogue saisit l’occasion de lancer une recette « acheter une recette, obtenir[em1][lua(GetLocalizedString("Item", "ColoredBeads_Name"))][/em1]s for free"
-Ajoutez le[lua(GetLocalizedString("Item", "StarJuice"))]vous fabriquez en un[lua(GetLocalizedString("Item", "ColoredBeads_Name"))], et elle émettra une lumière de la couleur correspondante.
+Oui, c’est une tendance récente dans la communauté des sorcières utilisant du [lua(GetLocalizedString("Item", "StarJuice"))] pour l’éclairage décoratif.
+Le catalogue des sorcières en a profité pour lancer une recette « acheter une recette, obtenez une [em1][lua(GetLocalizedString("Item", "ColoredBeads_Name"))][/em1] gratuite"
+Incorporez le [lua(GetLocalizedString("Item", "StarJuice"))] dans la [lua(GetLocalizedString("Item", "ColoredBeads_Name"))], et elle émettra une lumière de la couleur correspondante.
 Waouh, c’est exactement ce que je cherchais !
-Les cadeaux sont jaunes, roses ou argentés[lua(GetLocalizedString("Item", "ColoredBeads_Name"))]s.
+Les cadeaux sont des [lua(GetLocalizedString("Item", "ColoredBeads_Name"))] jaunes, roses ou argentées.
 Quelle couleur veux-tu ?
-Tu es libre[lua(GetLocalizedString("Item", "ColoredBeads_Name"))]s. Voilà.
+Voici ta [lua(GetLocalizedString("Item", "ColoredBeads_Name"))] offerte. Voilà.
 Rose
 Mais l’argent n’est-il pas sa couleur innée ?
 Oui, mais cet argent est plus brillant que l’argenté inné.
-Je crois que vous avez déjà acheté un[lua(GetLocalizedString("Item", "StarJuice"))]Recette ?
+Je crois que vous avez déjà acheté la recette du [lua(GetLocalizedString("Item", "StarJuice"))] ?
 Oui, mais je me demande comment je peux changer la couleur.
 Oups, désolé, j’ai failli oublier de te donner le cadeau.
-Laisse-moi prendre le[em1][lua(GetLocalizedString("Item", "BrokenIncubator_Name"))][/em1].
+Laisse-moi prendre le [em1][lua(GetLocalizedString("Item", "BrokenIncubator_Name"))][/em1].
 Diane, tu pourrais vérifier ça pour moi ?
-Oh, c’est un[lua(GetLocalizedString("Common", "Incubator"))].
+Oh, c’est un [lua(GetLocalizedString("Common", "Incubator"))].
 Attends, c’est... !
 Qu’est-ce qu’il y a ?
-Exactement[lua(GetLocalizedString("Common", "Incubator"))]est un modèle rappelé il y a longtemps à cause d’un défaut fatal !
+Exactement [lua(GetLocalizedString("Common", "Incubator"))] est un modèle rappelé il y a longtemps à cause d’un défaut fatal !
 Pourquoi n’as-tu pas postulé au Witches' Catalogue plus tôt ?
 Je vais vous en donner un de remplacement tout de suite !
 Eh bien... Quel est le défaut fatal ?
 Il semble que ni toi ni la maîtresse ne l’ayez vécu, Ellie.
 Euh... Devrais-je en parler à quelqu’un qui n’a jamais vécu ça d’un événement aussi effrayant...
 C-c’est si grave que ça... ?
-Ellie, sais-tu ce qu’un[lua(GetLocalizedString("Common", "Incubator"))]C’est pour ?
+Ellie, sais-tu ce qu’un [lua(GetLocalizedString("Common", "Incubator"))] c’est pour ?
 Euh, non.
-[lua(GetLocalizedString("Common", "Incubator"))]est un outil avancé réservé aux sorcières qui ont maîtrisé la collection.
-Si vous l’utilisez, vous pouvez obtenir[em1]Beaucoup d’ingrédients[/em1]hors de[em1]Juste quelques objets rassemblés[/em1].
+[lua(GetLocalizedString("Common", "Incubator"))] est un outil avancé réservé aux sorcières qui ont maîtrisé la collection.
+Si vous l’utilisez, vous pouvez obtenir [em1]Beaucoup d’ingrédients[/em1] hors de [em1]Juste quelques objets rassemblés[/em1].
 Cela signifie-t-il que seules les sorcières vétéranes peuvent l’utiliser, tandis que les apprenties sorcières ne le peuvent pas ?
 Non! Ellie, tu as le [em1]Grimoire[/em1] émis par l’École des Sorcières, n’est-ce pas ?
 Seules les plantes et animaux avec un niveau suffisant de [em1]complétion du Grimoire régionale[/em1] peut être utilisé dans[lua(GetLocalizedString("Common", "Incubator"))].
 Ce qui signifie que vous pouvez devenir habile à utiliser le [lua(GetLocalizedString("Common", "Incubator"))] si vous travaillez dur pour mener à bien les recherches du Grimoire.
 Wow, ça va m’épargner la difficulté de collecter des objets dans la nature.
 Exactement. C’est particulièrement apprécié par les sorcières qui en ont besoin[em1]voyager beaucoup en collectant des objets[/em1].
-Et tu peux placer[em1]Multiple[/em1][lua(GetLocalizedString("Common", "Incubator"))]s dans votre[em1]Atelier[/em1].
-Je vais enregistrer le nouveau modèle dans le[em1]Catalogue des Sorcières[/em1]pour toi cette fois.
+Et tu peux placer [em1]Multiple[/em1] [lua(GetLocalizedString("Common", "Incubator"))]s dans votre [em1]atelier[/em1].
+Je vais enregistrer le nouveau modèle dans le [em1]Catalogue des Sorcières[/em1] pour toi cette fois.
 Waouh, merci, Diane !
 Alors, quel est donc le défaut fatal ?
 Soupir... J’essayais de te distraire parce que je ne voulais pas parler de ce qui était effrayant.
-Comme je viens de le dire, tu peux y aller[em1]Matériaux[/em1]Si tu mets[em1]Objets collectés[/em1]dans le[lua(GetLocalizedString("Common", "Incubator"))].
-Bien sûr, il faut[em1]Un moment[/em1]pour qu’il traite les articles.
-Mais pour ce qui est de ça[lua(GetLocalizedString("Common", "Incubator"))]modèle que tu as apporté...
+Comme je viens de le dire, tu peux y aller [em1]Matériaux[/em1] si tu mets [em1]Objets collectés[/em1] dans le [lua(GetLocalizedString("Common", "Incubator"))].
+Bien sûr, il faut [em1]Un moment[/em1] pour qu’il traite les articles.
+Mais pour ce qui est de ça [lua(GetLocalizedString("Common", "Incubator"))] modèle que tu as apporté...
 Une sorcière y avait un jour ajouté des objets collectés. Le lendemain, lorsqu’elle alla à l’atelier pour vérifier cela, elle trouva...
 Trouvé quoi... !
 Une casserole pleine de fritures salées !
-Ils disent que la sorcière était une chercheuse en aliments frits. Elle est entrée dans le[lua(GetLocalizedString("Common", "Incubator"))]atelier par erreur, et a causé l’accident.
+Ils disent que la sorcière était une chercheuse en aliments frits. Elle est entrée dans le [lua(GetLocalizedString("Common", "Incubator"))] atelier par erreur, et a causé l’accident.
 Ce serait bien si les objets collectés devenaient sucrés, mais tout ce qui est mis dans cet incubateur devient salé... N’est-ce pas effrayant ?!
 Je ne pense pas que ce soit le but...
-Le nouveau[lua(GetLocalizedString("Common", "Incubator"))]Ça ne va pas mal tourner, hein ?
+Le nouveau [lua(GetLocalizedString("Common", "Incubator"))] Ça ne va pas mal tourner, hein ?
 Hum, bien sûr. Après tout, le catalogue des sorcières a renforcé la supervision de la qualité des produits depuis.
 Vous pouvez l’utiliser avec confiance.
 Waouh, merci mille fois !
 Hein... Mais une casserole de frites ne semble pas si effrayante.
-Imaginez simplement des matériaux tels que[lua(GetLocalizedString("Item", "Phoenix_Collect_Name"))]frit dans l’huile.
+Imaginez simplement des matériaux tels que [lua(GetLocalizedString("Item", "Phoenix_Collect_Name"))] frit dans l’huile.
 Catalogue des sorcières, toujours à votre service.
 Je n’ai aucune demande pour l’instant.
 N’hésitez pas à me parler de tout ce que vous voulez.
 Veuillez utiliser le Witches' Catalogue pour soumettre des bonbons.
 J’attends votre prochaine visite avec impatience.
 [lua(GetLocalizedString("Common", "EncyclopediaRank"))]
-Tu as vraiment travaillé dur pour le[lua(GetLocalizedString("Common", "EncyclopediaRank"))], n’est-ce pas ?
+Tu as vraiment travaillé dur pour le [lua(GetLocalizedString("Common", "EncyclopediaRank"))], n’est-ce pas ?
 C’est une récompense de l’École des Sorcières.
 Je vais aussi vérifier les autres pages.
 Il ne semble rien y avoir d’autre.
-Viens à moi une fois que tu auras élevé ton[lua(GetLocalizedString("Common", "EncyclopediaRank"))].
+Viens à moi une fois que tu auras élevé ton [lua(GetLocalizedString("Common", "EncyclopediaRank"))].
 Il n’y a aucune récompense que vous puissiez recevoir pour l’instant.
 N’oublie pas de me faire savoir lorsque ton [lua(GetLocalizedString("Common", "EncyclopediaRank"))] aura atteint un plus haut niveau, car tu recevras une récompense.
-Le[em1][lua(GetLocalizedString("Common", "LimitedRecipe"))][/em1]Tu as demandé est ici.
+Voici la [em1][lua(GetLocalizedString("Common", "LimitedRecipe"))][/em1] que tu m'as demandé.
 Venez voir encore une fois.
-Il n’y a pas d’enregistrement[em1][lua(GetLocalizedString("Common", "LimitedRecipe"))][/em1].
+Il n’y a pas d’enregistrement [em1][lua(GetLocalizedString("Common", "LimitedRecipe"))][/em1].
 Merci de commander des articles généraux via le catalogue des sorcières.
 J’ai quelque chose à te montrer !
 D’accord, j’arrive.
 Waouh, c’est quoi ça à côté de toi ?
 C’est pour ça que je t’ai appelée ici, Ellie.
-Voici le[em1]Catalogue des Sorcières[/em1].
+Voici le [em1]Catalogue des Sorcières[/em1].
 Enfin !
 Dorénavant, vous pouvez utiliser le Catalogue des Sorcières.
-Ça marche[em1]Comme avant[/em1]. Il n’y a pas de raison de s’inquiéter.
+Ça marche [em1]Comme avant[/em1]. Il n’y a pas de raison de s’inquiéter.
 Ah, donc tu ne viendras plus, Diane ?
 Pas exactement.
-Je vais laisser le[em1]Appelez la cloche[/em1]À côté de la boîte aux lettres, alors n’hésitez pas à l’utiliser quand vous avez besoin de moi.
+Je vais laisser le [em1]Appelez la cloche[/em1] À côté de la boîte aux lettres, alors n’hésitez pas à l’utiliser quand vous avez besoin de moi.
 Je peux t’appeler quand je veux te voir ?
 Bien sûr ! Utiliser la sonnette facilite les allers-retours, donc ce n’est pas un problème du tout !
 Hmm... Mais je préférerais que tu ne m’appelles pas trop souvent.
 D’accord, compris.
-Au fait, maintenant que vous avez le Catalogue des Sorcières, vous pouvez[em1]Achetez des outils de travail[/em1].
+Au fait, maintenant que vous avez le Catalogue des Sorcières, vous pouvez [em1]Achetez des outils de travail[/em1].
 Les outils de travail sont également achetés dans le Catalogue des Sorcières.
 Je devrais y aller.
 Appelle-moi quand tu as besoin de moi.
 D’accord, à la prochaine.
-Aussi, vous pourriez vouloir acheter[em1]Meilleurs outils de travail[/em1]...
+Aussi, vous pourriez vouloir acheter [em1]Meilleurs outils de travail[/em1]...
 Meilleurs outils de travail ! Je les veux !
 Je suis désolé, pas maintenant.
 Hein... pourquoi pas ?
 Vous pourrez acheter des outils de travail une fois que vous aurez le Catalogue des Sorcières.
 Quoi ? Je n’utilise pas le vrai Catalogue des Sorcières ?
 Le Catalogue des Sorcières fait à l’origine référence à un « catalogue » physique, composé de papiers et d’une plume.
-Ce que vous utilisez maintenant, c’est le[em1]service fourni par le Catalogue des Sorcières[/em1], abrégé en « Catalogue des sorcières ».
+Ce que vous utilisez maintenant, c’est le [em1]service fourni par le Catalogue des Sorcières[/em1], abrégé en « Catalogue des sorcières ».
 Puisque les vrais catalogues des sorcières sont souvent en pénurie...
 Ainsi, pour les nouvelles sorcières rejoignant la Maison de la Sorcière ou lorsque le catalogue est en rupture de stock, le personnel fournira personnellement les services.
 Je suis ici parce que le catalogue est constamment en rupture de stock ici.
@@ -20078,7 +20078,7 @@ Donc, le personnel du Catalogue des Sorcières n’est pas vraiment responsable 
 Tu as raison. Le véritable prestataire de services est le « Witches' Catalogue ».
 Alors, quand le Catalogue des Sorcières sera-t-il officiellement publié ?
 Comme je l’ai dit, il y a toujours peu de ressources...
-Sois juste patient. Je vais les encourager à le faire[em1]Réapprovisionnez le stock[/em1].
+Sois juste patient. Je vais les encourager à le faire [em1]Réapprovisionnez le stock[/em1].
 Une fois prêt, je vous tiendrai au courant immédiatement.
 Mais quel rapport cela a-t-il avec les outils de travail ?
 Parce que lorsque le Catalogue des Sorcières sera officiellement publié, je pourrai facilement le parcourir.
@@ -20091,7 +20091,7 @@ Exact
 Je ne peux plus s’étendre.
 Vous voulez agrandir l’atelier ?
 Ensuite, les matériaux suivants sont nécessaires.
-[Deliver]
+[Livrer]
 Merci. Je vais commencer l’extension tout de suite.
 Fais-moi signe si tu as besoin de quoi que ce soit.
 De quoi aimeriez-vous parler avec Diane ?
@@ -21005,29 +21005,29 @@ Je ne me souviens pas si j’ai déjà réparé la Maison de la Sorcière.
 D’accord, merci. Je vais demander à Kyla.
 Ne vaudrait-il pas mieux laisser une tâche aussi importante à Kyla ?
 Enite, la boîte avec les bougies à l’entrée du village s’est consumée.
-Ce n’est pas grave. Je pensais à le remplacer.
+Ce n’est pas grave. Je vais la remplacer.
 Mais pourquoi tu laisses les bougies là comme ça ?
-A[em1]Gardien du feu[/em1] ?
-C’est[em1]quelqu’un qui s’occupe des flammes[/em1]Surtout au village[em1]Des incendies de forêt.[/em1]
-C’est un peu gênant, mais j’ai bien peur que tant que le[em1]Gardien du feu[/em1]Retour, c’est la seule solution.
+Un [em1]veilleur[/em1] ?
+C’est [em1]quelqu’un qui s’occupe du feu[/em1] au sein d'un village, en particulier [em1]des incendies de forêt.[/em1]
+C’est un peu gênant, mais j’ai bien peur que tant que le [em1]veilleur[/em1] n'est pas revenu, c’est la seule solution.
 Alors les bougies sont tombées toutes seules ?
-Non... En général, c’est[em1]Arden[/em1].
+Non... En général, c’est [em1]Arden[/em1].
 Hein ? Arden ?
 Je pense qu’il vaut mieux que tu lui demandes toi-même.
 Je ne pense pas qu’il soit sûr de continuer à utiliser des bougies comme ça.
 Mais il fait nuit sombre et personne n’allume les lampadaires pour nous. Alors c’est tout ce que nous pouvons faire.
 Alors j’essaierai d’allumer les lampadaires pour toi.
 Tu ferais ça ?
-Bien sûr, je ne serai pas aussi professionnel qu’un Gardien du Feu, mais je peux essayer.
+Bien sûr, je ne serai pas aussi professionnel qu’un veilleur, mais je peux essayer.
 Ce serait super.
 Laisse-moi faire !
-Depuis que le[em1]Gardien du feu[/em1]On a quitté le village, on ne pouvait pas utiliser les lampadaires.
+On ne peut plus utiliser les lampadaires, depuis que le [em1]veilleur[/em1] a quitté le village.
 Nous nous sommes donc relayés pour allumer des bougies afin d’éclairer les routes quand il faisait nuit.
 Alors je te laisse faire.
-D’abord, je devrais aller voir[em1]Arden.[/em1]
+D’abord, je devrais aller voir [em1]Arden[/em1].
 Je dois découvrir ce qui s’est passé.
 [em1]Une boîte brûlée[/em1] ?
-N’y avait-il pas un[em1]bougie[/em1]placé au-dessus ? Que s’est-il passé ?
+N’y avait-il pas une [em1]bougie[/em1] placée dessus ? Que s’est-il passé ?
 Soit la bougie est tombée, soit quelqu’un a fait une erreur en l’allumant.
 C’est ce qui arrive quand on pose une bougie sur une boîte en bois.
 Pourquoi l’auraient-ils laissé comme ça ? Ce n’est pas sûr !
@@ -21036,11 +21036,11 @@ Même moi je le sais.
 Maintenant, Arden ne brûlera plus aucune boîte.
 C’est dangereux de laisser ça comme ça. Je dois faire quelque chose.
 Donc voici le[em1]Boîte brûlée[/em1]Enite en a parlé.
-De quelle couleur veux-tu le[em1]Lampadaires[/em1]pour briller, Enite ?
+De quelle couleur veux-tu voir les [em1]lampadaires[/em1] briller, Enite ?
 J’aimerais qu’elles brillent d’une jolie couleur rose.
 Je ne suis pas sûr... Je veux juste que les gens se promènent la nuit sans se blesser.
 Mais si vous deviez choisir, quelle couleur préféreriez-vous ?
-Hmm, voyons voir. Si je devais choisir, j’aimerais que ce soit le cas[em1]rose[/em1].
+Hmm, voyons voir. Si je devais choisir, j’aimerais qu'ils soient [em1]rose[/em1].
 Rose ?
 Qu’est-ce qui ne va pas ? C’est trop étrange ?
 Non, juste inattendu.
@@ -21142,26 +21142,26 @@ Il y a quelque chose que j’aimerais vous dire.
 Kyla n’a pas encore commencé à réparer la fontaine.
 Parle-en à Enite[em1]après-demain[/em1].
 Enite ! On s’est débarrassés des ronces !
-Je l’ai vu ! En effet... Tu l’as vraiment fait.
-Grâce à toi et aux autres villageois. Tu m’as parlé de leurs caractéristiques !
+J'ai vu ça ! En effet... Tu y es parvenu.
+Grâce à toi et aux autres villageois. Vous m’avez fourni les caractéristiques !
 Pourtant, c’est toi qui l’as fait ! Bravo, Ellie !
-Rappelons maintenant les villageois et ramenons le village à la normale.
+Reprenons contact avec les villageois et ramenons le village à la vie.
 D’accord, Ellie. Je pense qu’on peut tout accomplir tant que tu es là !
 Alors, tu vas contacter Kyla maintenant ?
-Oui, j’ai écrit la lettre à l’avance.
+Oui, j’ai préparé la lettre à l’avance.
 Laisse-moi envoyer la lettre alors.
-Tu le ferais ? Merci. Le marchand ambulant se trouve aussi au village le [em1]Jour[/em1], alors s’il te plaît, donne-le-lui.
+Vraiment ? Merci. La marchand se trouve justement au village pendant la [em1]journée[/em1], alors remettez-la-lui, s'il vous plaît.
 D’accord. Oh, et puis-je aussi envoyer ma lettre ?
 Bien sûr. Puis-je te demander ce que tu as écrit ?
-« Je veux te voir bientôt. »
-« Je t’attends. »
-« Tu es toujours le bienvenu. »
-J’ai écrit que je voulais la voir bientôt.
-J’ai écrit que tout le monde attendait.
+« J'espère te voir bientôt. »
+« Je t’attends avec impatience. »
+« Tu es toujours la bienvenue. »
+J’ai écrit que j'espérais la voir bientôt.
+J’ai écrit que tout le monde l'attendait.
 J’ai écrit qu’elle était toujours la bienvenue.
 Kyla serait heureuse aussi. Alors, je te laisse faire.
 D’accord, ne t’inquiète pas.
-Depuis que le village est devenu ce que vous voyez aujourd’hui, le facteur a cessé de venir, mais vous pouviez le donner au marchand ambulant à la place.
+Depuis que le village est devenu ce qu'il est aujourd’hui, le facteur a cessé de passer, mais tu peux la remettre au marchand ambulant à la place.
 J’y ai réfléchi hier.
 Mais je n’en suis toujours pas sûr.
 Les villageois... !
@@ -21587,7 +21587,7 @@ Tu as choisi une si jolie couleur.
 Au fil de mes années, j’ai toujours pensé que ce village était magnifique...
 ... Mais aujourd’hui, c’est tout simplement éblouissant. Merci.
 Maintenant, Arden ne brûlera plus de boîtes, n’est-ce pas ?
-C’est ça. Grâce à toi, nous serons en sécurité la nuit jusqu’au retour du Gardien du Feu.
+C’est ça. Grâce à toi, nous serons en sécurité la nuit jusqu’au retour du veilleur.
 Tu as traversé beaucoup de mal pour nous.
 Tu as tout vu ?
 Je me souviens de la première fois où mes parents m’ont emmenée au temple.
@@ -21633,38 +21633,38 @@ Je choisirai Rubrum une fois que j’aurai récupéré quelques articles chez mo
 Le concert ferait mieux d’avoir lieu[em1]le soir[/em1].
 Devrais-je passer du temps avec Enite jusqu’à la tombée de la nuit ?
 Des goûts assez variés.
-Enite aime[em1]rose[/em1], Arden aime[em1]argent[/em1], et Rubrum aime[em1]jaune[/em1]...
+Enite aime le [em1]rose[/em1], Arden aime l'[em1]argent[/em1], et Rubrum aime le [em1]jaune[/em1]...
 Quelle couleur veux-tu, Virgile ?
 [em1]Turquoise[/em1], tout comme mes yeux brillants.
 Ellie, quelle couleur aimes-tu ?
 Hmm, voyons voir...
-J’aime bien Enite’s[em1]rose[/em1].
+J’aime bien le [em1]rose[/em1] comme Enite.
 C’est mignon et chic.
-J’aime bien Arden’s[em1]argent[/em1].
-J’aime bien Rubrum’s[em1]jaune[/em1].
+J’aime bien l'[em1]argent[/em1] comme Arden.
+J’aime bien le [em1]jaune[/em1] comme Rubrum.
 Oh, maintenant que j’y pense...
 L’argent est probablement le mieux pour vraiment illuminer la nuit.
 Un jaune doux irait le mieux à ce village.
 D’abord, prenons le[em1]Recette[/em1].
 Va voir[em1]Diane[/em1]. Elle pourrait le vendre.
 Je pourrais aussi lui en donner un tout prêt.
-Je viens de réaliser que je n’ai jamais fait que des[lua(GetLocalizedString("Item", "StarJuice"))]d’une seule couleur.
-Êtes-vous sûr de vouloir d’abord vaciller sur les couleurs ?
+Je viens de réaliser que je n’ai jamais fait que des [lua(GetLocalizedString("Item", "StarJuice"))] d’une seule couleur.
+Tu es sûr de vouloir faire changer les couleurs ?
 La couleur ne peut-elle pas être changée ?
 Et si tu demandais à Diane ?
 Enite ! Je t’ai pris quelque chose qui allumera les lampadaires.
 Oh, quoi ?
-C’est[em1]Jus Scintillant[/em1].
+C’est du [em1]Jus Scintillant[/em1].
 C’est une potion qui fait rayonner ton corps. Elle allumera les lampadaires si elle est mise à l’intérieur.
 Attends une seconde, ma chérie.
-La lumière est un peu faible, mais on peut s’en débrouiller jusqu’au retour du Gardien du Feu.
+La lumière est un peu faible, mais ça devrait faire l'affaire jusqu’au retour du veilleur.
 C’est la nuit ?
 (Dois-je donner le Jus Étincelant-Scintillant à Enite ?)
 Comment va l’éclairage des lampadaires, Ellie ?
 Ne te surmène pas maintenant. Ta santé doit être ta priorité absolue.
 Ce serait super si tu pouvais faire ça pour nous.
-Utilisation[lua(GetLocalizedString("Item", "StarJuice"))]La nuit peut t’aider à mieux voir.
-Trouver[em1][lua(GetLocalizedString("Item", "StarJuice"))][/em1]et[em1][lua(GetLocalizedString("Item", "ColoredBeads_Name"))][/em1].
+Utiliser du [lua(GetLocalizedString("Item", "StarJuice"))] la nuit peut t’aider à mieux voir.
+Trouver [em1][lua(GetLocalizedString("Item", "StarJuice"))][/em1] et [em1][lua(GetLocalizedString("Item", "ColoredBeads_Name"))][/em1].
 Les réparations du temple sont terminées. Nous pouvons maintenant demander à la[em1]Dieu Chat Noir[/em1]pour de l’aide.
 Nous devons revenir pendant le[em1]Jour[/em1].
 Enite ! Le cœur de ronce dans la [lua(GetLocalizedString("Common", "Common_Theme_RainbowForest"))] ont aussi été éradiqués !
@@ -23156,26 +23156,26 @@ Oh, je suppose que c’est vous la sorcière qui a aidé Enite. Mes salutations,
 Je m'appelle Ellie, apprentie sorcière. Tu n’as pas besoin d’être si formelle.
 Vraiment ? Alors je parlerai tranquillement.
 Je veux dire, les sorcières sont souvent plus âgées qu’elles n’en ont l’air.
-J’ai aussi l’âge que j’en ai l’air.
+J'ai exactement l'âge que j'ai l'air d'avoir.
 Tu es revenu si vite.
-C’est parce qu’il y a une sorcière qui veut me voir vite.
+C’est parce qu’il y a une sorcière qui est pressée de me voir.
 J’ai joui en un éclair car tout le monde attendait.
 Si je suis le bienvenu à tout moment, je le suis aussi aujourd’hui, non ?
-J’avais vraiment hâte de te voir.
+J’avais vraiment hâte de te rencontrer.
 Bien sûr. Tu es le bienvenu quand tu veux.
 Enite m’a dit qu’une apprentie sorcière était venue au village et voulait que je revienne.
 Qu’en dis-tu alors ?
 Je n’ai pu revenir que grâce à votre généreuse aide.
-Merci d’être revenu aussi.
+Merci d’être revenu alors.
 Whoa, c’est le charpentier volant.
-Désolé si je t’ai déçu, mais je ne peux pas prendre l’avion.
+Désolé de te décevoir, mais je ne peux pas voler.
 Voici mon ami, le chapeau de sorcière parlant nommé Virgile.
 Enchanté, Virgile.
 Tu n’as pas besoin de me remercier, charpentier qui ne sait pas voler.
 Désormais, il faudra autant balancer votre marteau que battre des ailes.
 Haha, ne t’inquiète pas. Mes bras sont plus forts qu’ils n’en ont l’air.
 Tu répares ta maison ?
-J’en fabrique un nouveau plutôt que de réparer.
+J’en fabrique plutôt une nouvelle.
 Cela pourrait prendre du temps.
 Waouh, je peux venir regarder ?
 Bien sûr. Viens quand tu veux.
@@ -23190,9 +23190,9 @@ Tu n’as pas besoin de plans de maison ?
 D’habitude, oui.
 Mais c’est ma propre maison, donc ça va.
 Tu en as besoin pour construire des maisons pour les autres, alors ?
-Oui. Pour construire une maison, j’ai besoin d’un[em1]Plan directeur de la maison[/em1]et[em1]Matériaux de fondation[/em1].
-Le[em1]Plan directeur[/em1]Peut être acheté en parlant à[em1]Aurea[/em1].
-[em1]Matériaux de fondation[/em1]On peut les trouver dans la forêt. Ceux que l’on trouve dans la forêt d’ici sont plutôt bons.
+Oui. Pour construire une maison, j’ai besoin d’un [em1]plan de construction[/em1] et de [em1]matériaux de fondation[/em1].
+Le [em1]plan de construction[/em1] peut être acheté en parlant à [em1]Aurea[/em1].
+Les [em1]matériaux de fondation[/em1] peuvent être trouver dans la forêt. Ceux que l’on trouve dans cette forêt sont plutôt bons.
 Combien de temps te faut-il pour construire une maison, Kyla ?
 Je vais commencer à construire demain et ça devrait prendre environ une journée.
 Hé ! Tu ne travailles pas !
@@ -23378,7 +23378,7 @@ Chocolat noir
 À venir, le troisième verre de vin.
 Exactement[em1]vin amer[/em1]était préparé avec fermentation[lua(GetLocalizedString("Encyclopedia", "PlopRadish_Name"))]Feuilles.
 Avec quel plat va le mieux[em1]vin amer[/em1] ?
-Exactement[em1]Vin profondément aromatique[/em1]il est préférable de l’associer à un[em1]Salade rafraîchissante[/em1].
+Exactement [em1]Vin profondément aromatique[/em1] il est préférable de l’associer à une [em1]Salade rafraîchissante[/em1].
 [em1]Vin doux[/em1]et[em1]un dessert à la saveur légèrement amère[/em1]Travailler mieux ensemble.
 [em1]Vin amer[/em1]associé à[em1]Snacks salés à boire[/em1]ça fera sûrement dire « oh ! » n’importe qui !
 Pff, je suis bourré...
@@ -23611,7 +23611,7 @@ Même si elle n’arrêtait pas de se plaindre, elle a tellement bu aujourd’hu
 Oh, bienvenue. Tu es là pour regarder les meubles ?
 Je vends principalement des lits, chaises, bibliothèques et autres[em1]Mobilier grand[/em1].
 Et je les vendrai selon les critères spécifiques[em1]Thèmes[/em1].
-Les thèmes[em1]Changez tous les jours[/em1], alors assurez-vous de passer souvent.
+Les thèmes [em1]changent tous les jours[/em1], alors assurez-vous de passer souvent.
 Si vous voulez vraiment des meubles d’un certain thème, faites-le moi savoir. Les meubles que je vends pour le prochain[em1]3 jours[/em1]ce sera uniquement sur ce thème.
 Eh bien, n’oubliez pas de passer souvent !
 Hum, oui. Je connais quelques rumeurs et blagues parmi les villageois.
@@ -24420,7 +24420,7 @@ Oui, je suis resté en ville assez longtemps.
 Tu connais Highlion ?
 Absolument. C’était l’endroit où j’allais à l’origine.
 Ah bon ? J’étais à Highlion avant de venir ici.
-Comment s’est passée Highlion ?
+Comment s’était à Highlion ?
 Il était facile d’obtenir des matériaux, et beaucoup de gens y allaient faire leurs achats.
 Beaucoup de gens aimaient la décoration sophistiquée.
 Beaucoup de personnes étranges m’ont demandé d’ajouter des fleurs, ou des sculptures de lions pour la décoration, et ce n’était même pas dans un jardin.
@@ -28097,16 +28097,16 @@ Fascinant.
 Tu sais quelque chose à ce sujet ?
 Non, je ne le sais pas.
 Oh, d’accord.
-De quelle couleur veux-tu le[em1]Lampadaires[/em1]pour briller, Rubrum ?
+De quelle couleur veux-tu voir [em1]les lampadaires[/em1] briller, Rubrum ?
 J’adorerais que les lampadaires brillent[em1]jaune[/em1]Comme[em1]Lucioles[/em1]!
 Tu vas allumer les lampadaires ?
 Oui, je vais essayer.
 Youpi, maintenant je peux aussi jouer la nuit !
 Je ne ferais pas ça à ta place.
 En tant que fabricant des lampadaires, je peux vous dire qu’ils ne seront plus aussi lumineux qu’avant.
-Donc il faut quand même faire attention à marcher la nuit.
+Donc il faudra quand même faire attention où tu marche la nuit.
 Alors, de quelle couleur veux-tu que les lampadaires brillent ?
-I... Je veux qu’ils soient étincelants[em1]jaune[/em1]!
+Je... Je veux qu’ils soient [em1]jaune[/em1] et qu'ils scintillent !
 D’accord, je vais essayer.
 Rétorment ?
 Tu n’en as jamais vu ?
@@ -34025,10 +34025,10 @@ Réparer votre balai
 Dessiner avec sa plume
 Débuter votre apprentissage !
 Enquêter sur les ronces chez le charpentier
-Trouvez le cœur de la ronce
+Trouver le cœur de la ronce
 Craft the Moon Tears
 Concocter la potion de la Lune... Blah Blah
-Envoie une lettre à Kyla
+Envoyer une lettre à Kyla
 Un charpentier volant
 Utilise la Potion de Souvenir de Rêves
 Fabriquez la potion de souvenir des rêves
@@ -34117,7 +34117,7 @@ Utiliser un portail de sorcière
 Agrandir la maison
 1x Bonbons Endormis
 1x Soupir Candy
-Préparez des bonbons supplémentaires
+Préparer des bonbons supplémentaires
 Nouvel emplacement, nouveaux Bonbons 4
 Nouvel emplacement, Nouveaux Bonbons 5
 Nouvel emplacement, nouveaux Bonbons 6
@@ -34299,3 +34299,106 @@ As-tu déjà manger un steak ?
 Je t'ai envoyé un steak que j'ai fait grillé.
 Cela te donnera de la force.
 Si vous fabriquez et livrez correctement, vous aurez la possibilité de fournir des potions plus sophistiquées et en plus grande quantité. J'attends avec impatience le fruit de votre travail.
+Virgil, [em1]un truc bizarre et mou[/em1] essaie de manger ma lettre.
+Est-ce que mes yeux me jouent des tours ?
+Je te donne ma parole : ce n'est pas le cas.
+Ce qui veut dire... qu'il y a effectivement un truc bizarre et mou en train de manger ma [em1]lettre[/em1] ?
+En tous cas, c'est ce que je constate.
+<shake>Espèce de voleur ! Ne touche pas à ma lettre !</shake>
+Hein ? Attends... c'est moi ?!
+Elle s'est transformée ?!
+Mais elle ne bouge pas.
+C'est donc une occasion à saisir ! Profitons-en !
+Comment a-t-elle pris mon apparence ?
+Et les gouttes qu'elle a projetées gardent leur forme même quand je les touche...
+Et elles collent à mes mains.
+Eh bien, ça semble différent de ce que j'ai déjà vu, mais je crois que je sais ce que c'est.
+Ah bon ?
+Quelque chose qui se transforme, projette des gouttes lorsqu'elle prend la fuite,
+ramasse des objets et possède un corps mou. Il n'existe qu'une seule créature qui réponde à toutes ces caractéristiques.
+Tu as vu ça à l'école. Tu devrais la connaître.
+Est-ce que... c'est une [em1]Méduse mimétique[/em1] ?!
+Mais les [em1]Méduses mimétiques[/em1] sont une espèce menacée dont la capture est interdite.
+Si c'était effectivement une Méduse mimétique, ma lettre est perdue à jamais.
+Je ne pense pas que ce soit le cas. Il n'y a pas de règle qui interdise de reprendre ce qui a été pris par une Méduse mimétique.
+Une fois qu'une méduse mimétique a récupéré un objet, elle le garde pour toujours.
+On devrait faire en sorte qu'elle le laisse. C'est aussi une bonne chose pour la méduse mimétique.
+C'est intéressant. Je vais donc lui donner un coup de main.
+Lis d'abord la [em1]lettre[/em1].
+Salut Ellie ! C'est Rubrum.
+Tu m'as beaucoup aidé dernièrement ! Alors je t'écris cette lettre pour te remercier !
+Tu as soigné mes blessures, m'as ramené au village et m'as porté chance depuis !
+En échange, je t'ai préparé une [em1]tarte[/em1]. Ce n'est pas grand-chose, mais j'espère que ça te plaira !
+P.S. : N'oublie pas de me dire si la tarte était bonne quand tu l'auras goûtée !
+Wow, c'est une lettre de Rubrum !
+Il veut savoir si la tarte était bonne. Il est tellement mignon.
+Passe le voir plus tard.
+D'accord. Mais Où est la tarte ? La tarte que Rubrum m'a offerte...
+...Virgil, c'est moi ou il n'y a pas de tarte ?
+Tu as ma parole. Tes yeux fonctionnent normalement.
+Si la tarte a disparu, je ne vois qu'une seule explication.
+Ce n'est pas ma lettre que la Méduse mimétique a pris. C'est ma [em1]tarte[/em1] ?!
+<shake>Qu'est-ce que... qu'est-ce que je peux faire ?!</shake>
+Un moyen de récupérer ce qu'une Méduse mimétique a pris est de faire éclater ses gouttes.
+Mais j'ai essayé avec mes mains et j'ai échoué.
+Il suffit d'approcher une goutte [em1]de ton balai[/em1] et de l'éclater.
+Quoi ? Pourquoi un [em1]balai[/em1] tout d'un coup ? Est-ce que ça va marcher ?
+On dit que la magie des balais est efficace contre ces gouttes.
+Mais je ne comprends pas le fonctionnement.
+Pas possible, alors toi aussi il y a des choses que tu ne connais pas ?
+Je sais comment éclater ces gouttes.
+Oui, oui, tu es génial.
+Bref, il me suffit juste d'[em1]approcher une goutte de mon balai[/em1] ?
+Très bien, allons-y. <shake>Attends un peu, espèce de voleur !!!</shake>
+Elle a dû passer par ici...
+La méduse mimétique doit être plus loin.
+Heureusement, elle ne nous a pas semé.
+Parfait, rattrapons-la.
+Tu ne devrais pas aller voir Rubrum ?
+Je dois attraper ce fauteur de troubles et récupérer la tarte, sinon ce serait injuste pour Rubrum.
+La méduse mimétique est juste devant.
+Eh bien, au moins ça tient la route.
+Mais tu es sûr de toi ? Les méduses mimétiques sont connues pour être rapides.
+Bah, je suis tout à fait capable de monter sur un balai !
+Ah bon ? Dépêche-toi dans ce cas. Mais rien ne garantit que tu vas y arriver.
+Je dois la rattraper avec mon [em1]balaie[/em1]. C'est bien ça ?
+Oui, les objets tomberont dès que tu auras éclaté les gouttes.
+Très bien, je vais récupérer [em1]la tarte de Rubrum[/em1] aussi vite que possible et j'irai le voir.
+Éclater les gouttes
+Éclater 5 gouttes de Méduse mimétique
+Où retrouve la Méduse mimétique et récupérer la tarte de Rubrum
+Avant de s'enfuir, la Méduse mimétique a projeté des gouttes qui contiennent divers objets.
+Éclater 5 gouttes et récupérer les objets.
+Aller retrouver Rubrum qui dit avoir quelque chose à raconter.
+Ellie, viens par ici ! Comment était la tarte ?
+En fait, j'étais plutôt inquiet, car on dirait qu'un fantôme rôde dans les parages et vole des objets.
+Un fantôme ? Voler des objets ?
+Oh, est-ce que ce fantôme aurait par hasard [em1]un air bizarre et un corps tout mou[/em1] ?
+Tu l'as vu ? Mamie dit qu'il a toujours vécu à Wisteria.
+Mais il a cessé d'apparaître lorsqu'on a eu ce problème avec les [em1]ronces épineuses[/em1], et cela l'inquiétait.
+Il paraît qu'il est réapparu et qu'il rôde dans le coin.
+Et il a l'air différent, alors sois prudente s'il te plaît.
+D'accord. En passant, cette chose s'appelle une Méduse mimétique.
+Une méduse mimétique ? Est-ce que c'est le nom du fantôme ? Hehe, quel nom mignon.
+Mais si tu l'as déjà rencontré, est-ce que ça veut dire que tu as perdu la tarte ?
+Mais non ! Crois-le ou non, je suis une as du balai !
+C'est vrai, elle a réussi je ne sais par quel miracle, à récupérer la tarte.
+J'AI RÉUSSI à récupérer la tarte, un point c'est tout !
+Je suis ravi de l'entendre ! Après tout, j'ai mis beaucoup d'énergie dans cette tarte.
+Et je suis très heureuse de l'avoir reçu. Merci beaucoup, Rubrum.
+De rien ! Prends soin de toi, Ellie !
+Virgile, tu as entendu ça ? [em1]"Il a cessé d'apparaître lorsqu'on a eu ce problème avec les ronces épineuses."[/em1]
+Maintenant que j'y pense, à l'école, on nous avait dit que les méduses mimétiques étaient translucides, mais celle-là...
+C'est ça ! Ça ressemble à la texture des cœurs de ronce, mais pourquoi ?
+Les méduses mimétiques ont une curiosité intarissable.
+Celle-ci a peut-être été en contact avec un cœur de ronce, ce qui aurait modifié son aspect ?
+Cela explique pourquoi cela ne correspond pas à ce qu'on m'a enseigné à l'école.
+Les cœurs de ronce doivent être vraiment puissants s'ils peuvent réaliser ce genre de chose.
+C'est vrai. Mais est-ce que je vais y être confronté à nouveau ?
+Peut-être, si tu continues à traîner dans le coin ?
+Je ferai de mon mieux pour éclater les bulles dès que j'en verrai !
+Pour le bien-être de cette méduse mimétique,
+Euh, tu parles des objets, c'est ça ?
+Ce n'est pas ça~ Je fais ça pour le bien-être de la méduse mimétique, hé hé.
+Ça va être encore plus sympa à partir de maintenant.
+Pourquoi ça ?
