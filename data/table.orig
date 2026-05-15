@@ -5754,7 +5754,7 @@ It must be an ordinary silly dream then.
 No! I mean something’s strange.
 Isn't it because the bed has changed?
 Something... Something feels strange.
-Maybe so. But I’m getting some kind of [em1]feeling that it's important[/em1].
+Maybe so. But I'm getting some kind of [em1]feeling that it's important[/em1].
 I should try asking other people too.
 Rubrum?
 Hey Ellie!
@@ -6752,6 +6752,7 @@ Different as in, the main character is a bit lacking in some aspects?
 This is my story.
 It’s not about some chosen warrior from your typical fairy tale.
 And so you’ve decided to be the heroine of this tale as old as time?
+Exactly
 It’s so I can make everyone happy.
 "O Witch, help those in your reach," is how it goes, right?
 After all, the heroine always goes on fun adventures.
@@ -13711,7 +13712,7 @@ How would I know when I have forgotten?
 Because you're a [em1]dragon[/em1].
 And also a [em1]cook[/em1].
 Well, of course.
-What’s the problem?
+What's the problem?
 The problem is that you [em1]forgot[/em1].
 [lua(GetLocalizedString("InteractableObject", "People_Arden"))][lua(GetLocalizedString("Choice", "FavorabilityUP_Large"))]
 Do you hate witches?
@@ -14236,9 +14237,9 @@ Oh, where was it?
 Rubrum found it first, but he forgot to bring it back to you.
 Good work.
 But how'd you end up taking a night light all the way to the lake?
-Just ‘cause.
-Again with that "just ‘cause"
-I’ve always visited the lake from time to time for no specific reason. That's all.
+Just 'cause.
+Again with that "just 'cause."
+I've always visited the lake from time to time for no specific reason. That's all.
 The urge just comes up sometimes.
 And when it does, I go and gaze out on the lake for a while.
 A fond memory, perhaps?
@@ -14249,7 +14250,7 @@ Bring it back to me if you find it.
 Sure thing, let me know when you’re available.
 Return the night light to Arden?
 It wasn't there when I went to look for it, but you never know.
-I found it near the Bitter Grape Tea Tree.
+I found it near the bitter grape tea tree.
 It’s best to avoid that crazy bird.
 Wait, is there such a [em1]potion[/em1]?
 I really need to get through.
@@ -14351,9 +14352,9 @@ Treasure!
 I want to say that I will give you one if you take care of the curse, but I don't know where it is now.
 At that time, all kinds of people came to visit. Maybe there were witches too.
 What are you curious about?
-Because of passion for Wisteria flowers.
-Your passion for Wisteria flowers?
-No, I don’t know whose passion it was.
+Because of passion for wisteria flowers.
+Your passion for wisteria flowers?
+No, I don't know whose passion it was.
 You don't know whose passion it was, yet you remember the passion?
 Wisteria flowers have strong vitality. Thus the passion.
 I wonder who it was...
@@ -14397,7 +14398,7 @@ I've been unable to sleep, and I think it's because of this new pepper.
 The color is reddish and it has a subtle, sweet taste.
 I've always slept well when my night light is with me.
 It must be some kind of curse.
-Yes, it’s [em1][lua(GetLocalizedString("Item", "UncurseCandy_Name"))][/em1].
+Yes, it's [em1][lua(GetLocalizedString("Item", "UncurseCandy_Name"))][/em1].
 I asked you to remove the pepper's curse.
 I checked with Aurea and also tried using [em1][lua(GetLocalizedString("Item", "CurseWatchCandy_Name"))][/em1], but there was no curse in the pepper.
 They say the reason for such color and taste of pepper is because it’s red pepper.
@@ -15615,6 +15616,8 @@ It says... "[em1]eternal[/em1] owner of this restaurant."
 There's Vinch's signature.
 Arden, do you know the [em1]cats[/em1] that sometimes come to the village?
 Cats? You mean those small animals that walk on four legs?
+Huh? Aren't cats cute?
+Humph, cute, bute annoying.
 Yup, the ones that have a nose and ears, and go "meow."
 This explanation is unasked for... Of course I know those annoying creatures.
 So, you don't like cats, Arden.
@@ -18460,7 +18463,7 @@ Oh, you chose this one.
 OK, remember to deliver before [lua(GetLocalizedString("Common",  GetGlobalVariable("$711")))].
 Take your time.
 Thank you. Potions delivered.
-You want to cancel this Delivery order?
+You want to cancel this delivery order?
 Looking forward to working with you again.
 If you need anything, just ask.
 The harder you work to make and deliver candies, the more candies you can deliver. Hang in there.
@@ -20945,8 +20948,8 @@ Ah, I suddenly remember. A painting I saw by chance.
 [em1][lua(GetItemName("Basic_PictureFrame_NightView_MatSquareM"))][/em1] looks exactly like the scenery from that time.
 Looking at that painting... I couldn't help but remember walking through the city at night.
 I enjoy both making and eating.
-But my teeth have become much weaker than before, so I can't eat hard food well.
-That's why soft fruits like [em1][lua(GetItemName("DangleMango"))][/em1] are nice these days.
+But my teeth have grown too weak for hard food.
+That's why I prefer soft fruits like [em1][lua(GetItemName("DangleMango"))][/em1] these days.
 Don't forget to eat well.
 Your health comes first, don't push yourself too hard.
 Are you talking about Lisa? She was a very nice person.
@@ -21023,7 +21026,7 @@ It’d be great.
 Leave it to me!
 Ever since the [em1]Firekeeper[/em1] left the village, we couldn't use the streetlamps.
 So we took turns lighting candles to illuminate the roads when it got dark.
-Then I’ll leave it to you.
+Then I'll leave it to you.
 First, I should go see [em1]Arden.[/em1]
 I have to find out what happened.
 [em1]A burned box[/em1]?
@@ -21072,7 +21075,7 @@ Enite! Whose house is the one south of Kyla's?
 Ellie, you're working so hard, even though Kyla has just come back.
 Seeing that Kyla likes it, I want to make sure the other villagers return soon.
 Yes, I understand.
-The house south of Kyla’s belongs to [em1]Roy[/em1].
+The house south of Kyla's belongs to [em1]Roy[/em1].
 Roy!
 He was a very kind and upright young man that ran a flower shop.
 A flower shop! Must be pretty.
@@ -22483,7 +22486,7 @@ Turns out that it's true...
 Although it still remains elsewhere, I’m here now.
 I'll get rid of all the prickly vines and bring the villagers back again.
 Ellie, you're so reliable.
-I’ve already brought Kyla back.
+I've already brought Kyla back.
 I want to see a lively village soon.
 I'm also looking forward to it.
 So, since you answered all my questions, I should give you a prize.
@@ -22562,6 +22565,7 @@ Actually, I’m Ellie Blueriver.
 So why did you lie?
 Because you looked suspicious, I just...
 You can trust me.
+In that case...
 Ellie, who are you talking to again?
 Oh, a... a witch or whatever from the Exchange Department.
 Is that a talking hat?
@@ -22573,7 +22577,7 @@ Villagers?
 The master witch seems to know well about us.
 I know a little bit.
 Since I left everything related to the Witch's House to Ellie, you can talk to her.
-Right, I'm in charge of the Witch's House now.
+Right, I'm in charge of the witch's house now.
 Alright, got it. I’ll do that for today.
 But what will we be talking about?
 Don't worry, I will only ask some simple questions.
@@ -23743,7 +23747,7 @@ Hya Hya! I was wondering what you were going to say.
 Of course I'll help. I was going to ask you the same thing.
 Is there something I can help you with when you build the house?
 In order to begin, I need a [em1]House Blueprint[/em1] and [em1]foundation materials[/em1].
-Talk to [em1]Aurea[/em1] for the blueprints. She’ll sell it to you.
+Talk to [em1]Aurea[/em1] for the Blueprints. She’ll sell it to you.
 [em1]Foundation Materials[/em1] can easily be found in the forest.
 So, if I bring the [em1]Blueprint[/em1] and the [em1]Foundation Materials[/em1], we can build Roy's house?
 Yes. You can deliver a little at a time, so just let me know when you bring any.
@@ -23870,6 +23874,7 @@ Right? Although he sells other kinds of liquor, they're nowhere near as good as 
 I encouraged him to keep making it when I went to buy [lua(GetLocalizedString("EffectFoodCommon", "BeefBread_Name"))].
 So I've been trying to persuade him, but he just won't listen.
 Is this wine really so good?
+Ah... I want more of it already.
 That's a given, it tastes marvelous!
 Ah... Just thinking about it is making me crave it.
 The thought of wine makes my arms run too weak to hammer.
@@ -28182,7 +28187,7 @@ It looks like a piece of treasure hidden by pirates.
 What’s that?
 It's supposed to be a special silver lamp without any wicks or candles.
 You've seen it somewhere?
-It’s Arden’s, right?
+It's Arden's, right?
 I picked it up near the lake and I was gonna give it to him.
 But I discovered a new tea leaf on the way and I completely forgot about it!
 Where was it?
@@ -28204,8 +28209,8 @@ Okay! Don’t forget to teach me how to breathe fire too!
 Woah!!! Wow! How? How?
 Arden agreed to teach me.
 Me too! Me too! Teach me too! I want to breathe fire too!
-I’ll learn from Arden and teach you.
-Okay! Promise you’ll teach me!
+I'll learn from Arden and teach you.
+Okay! Promise you'll teach me!
 I forgot to give him the tea.
 What to discuss with Rubrum?
 Spider
@@ -28261,9 +28266,9 @@ But apparently, there aren’t many books like that. Most of them are just books
 I’ve tried it.
 But I’ve never caught a fish. Freddy says I’m not strong enough.
 That’s why I want to try catching [em1][lua(GetLocalizedString("Item", "Fish_Cantsee_Name"))][/em1], but I always miss it...
-I’m drying the tea leaves instead of my grandmother.
-Lately, I’ve been making tea leaves out of [em1][lua(GetLocalizedString("Item", "MapleHerb_Collect_Name"))][/em1].
-Citrus scent is trending these days, or so Aurea told me.
+I'm drying tea leaves in Granny's stead.
+I’ve been making tea leaves out of [em1][lua(GetLocalizedString("Item", "MapleHerb_Collect_Name"))][/em1].
+Citrus flavor is trending these days, or so Aurea told me.
 A good cup of tea is a synonym of happiness.
 If only there were plenty of interesting things going on every day.
 Are you going to the peak now?
@@ -29407,7 +29412,7 @@ You kept forgetting even if I begged you until now...
 I'm not sure what's going on, but don't worry. I'll remember everything from now on.
 Please tell me now.
 My dignity as a god...
-Who are you, and why do you appear in my dreams?
+Who are you, and why did you appear in my dream?
 Yes... okay. I’ll tell you.
 Thank you so much for saving Rubrum. And you did a great job removing the White Prickly Vine.
 You reconstructed the village and brought one villager back, which is Kyla the carpenter. Well done.
@@ -29460,7 +29465,7 @@ Precisely. You reacted the same way the first time we met in your sleep.
 I've lost count of how many times I've been in this dream.
 Even back then, when you didn't know about Rubrum, Enite, Arden, or the village at all.
 You've aided a village, its people, and a God, none of whom you've met before, without hesitation.
-But why are you doing this? Why are you willing do help?
+But why are you doing this? Why are you willing to help?
 Happiness
 I wish people around me can become happy.
 If others are happy, I'm happy.
@@ -34402,3 +34407,4 @@ Huh, for the items, you mean.
 It's not like that~ I'm doing this for the jelly's wellbeing, hehe.
 It's gonna be even more fun from now on.
 Why not?
+Huh? Why [lua(GetLocalizedString("EffectFoodCommon", "BeefBread_Name"))]?
