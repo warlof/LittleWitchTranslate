@@ -89,10 +89,10 @@ J'ai des affaires à régler en ce moment. À plus tard.
 Espace de stockage insuffisant dans le sac à dos.
 et Ellie semblent s'être <color=#800000>un peu</color> rapprochées.
 et Ellie semblent s'être <color=#800000>beaucoup rapprochées</color> après la conversation.
-et Ellie semblent avoir plus de choses <color=#800000>{Common.Keyword_Basic_AboutYou}</color> à partager maintenant !
+et Ellie semblent avoir plus d'<color=#800000>{Common.Keyword_Basic_AboutYou}</color> à partager maintenant !
 est nécessaire.
 , apportez-le ici.
-et Ellie semblent avoir plus de choses <color=#800000>{Common.Keyword_Basic_ChitChat}</color> à partager maintenant !
+et Ellie semblent avoir plus de sujets de <color=#800000>{Common.Keyword_Basic_ChitChat}</color> à partager maintenant !
 Forêt Verte
 Vallée des Nuages
 Grotte Étoilée
@@ -789,7 +789,7 @@ Au Revoir
 Lisa
 Petit Lézard Goutte d'Eau
 Lézard de Coin
-Petit Lézard Glycine
+Petit Lézard Wisteria
 Potion Herbe Forte
 Potion Fertile
 Potion Brillance
@@ -922,7 +922,7 @@ Statue
 Couronne de Glands
 Articles Généraux
 Décoration Murale
-Pot de Glycine Précieux
+Pot de Wisteria Précieux
 Boîte à Chat
 Bouquet de Pensées
 Rose Bleue sous Cloche de Verre
@@ -1135,7 +1135,7 @@ Un liquide avec un parfum concentré de printemps. Si on l'approche du nez, le c
 Plan de la Fleuriste
 Le plan de la fleuriste nécessaire pour construire la maison de Roy.
 Carte Dessinée à la Main par Rubrum
-Une carte dessinée par Rubrum. Il a dit qu'il a laissé la veilleuse quelque part en cueillant des feuilles de thé bébé à proximité.
+Une carte dessinée par Rubrum. Il a dit qu'il a laissé la veilleuse quelque part en cueillant de jeunes feuilles de thé à proximité.
 Tranche de Tarte Géante d'Enite
 Une tranche de la tarte géante spéciale qu'Enite a faite pour célébrer la restauration du village et accueillir les résidents qui reviennent. La manger vous remplit de bonheur, et vous pouvez presque voir des feux d'artifice exploser de façon spectaculaire.
 Recette : Potion Cache-Oreilles
@@ -1155,7 +1155,7 @@ Balai de Sorcière Basique
 Balai de Sorcière
 Un petit serpent avec un corps élastique. Il peut rebondir haut.
 Pierre de Prière
-Une pierre mystérieuse transmise aux générations de chefs Glycine. C'est un rocher grossier, mais il y a de la beauté dans sa myriade de couleurs. Le léger bourdonnement de magie qu'il dégage laisse penser que ce n'est peut-être pas un rocher ordinaire.
+Une pierre mystérieuse transmise aux générations de chefs Wisteria. C'est un rocher grossier, mais il y a de la beauté dans sa myriade de couleurs. Le léger bourdonnement de magie qu'il dégage laisse penser que ce n'est peut-être pas un rocher ordinaire.
 Boîte à Souvenirs
 Une boîte solidement verrouillée. Vieille et rayée.
 Table Plateau en Bois
@@ -1221,7 +1221,7 @@ Un accessoire que Roy a mis tout son cœur à fabriquer pour que tout le monde p
 Pile de Livres de Lisa
 Une pile de livres que Lisa a remise à la Communauté des Sorcières pour traduction. Doit être traduite avant d'être lue.
 Une bouteille de vin doux décorée d'un délicat nœud. A l'air beau dans la décoration même si vous n'aimez pas boire.
-Pomme Dorée
+Pomme d'or
 Votre souhait pourrait se réaliser après avoir rassemblé 3 exemplaires de cet objet légendaire.
 Beignet Ordinaire
 Un beignet bien cuit rempli de crème sucrée.
@@ -2631,7 +2631,7 @@ Place tout objet collecté ou matériau en surplus à l'intérieur. Tous les 10 
 Nous espérons que cela te sera utile. Le Catalogue des Sorcières continuera à t'assister de tout cœur.
 —Département du Catalogue des Sorcières
 Ellie, j'ai laissé une autre gamelle pour les chats en bas du village.
-Descends au-delà de la glycine fanée et tu la trouveras. Prends bien soin des chats.
+Descends au-delà de la Wisteria fanée et tu la trouveras. Prends bien soin des chats.
 Du temps que je ne sais pas gérer
 Quand je suis ma routine, le travail se termine parfois trop vite.
 Préparer les ingrédients, cuire, même nettoyer — quand tout se termine trop proprement, il me reste un grand vide de temps.
@@ -3243,7 +3243,7 @@ Lettres à des destinataires inconnus
 Lettres de Brad, l'ancien bibliothécaire. On ignore à qui elles sont adressées.
 Pour qui seraient ces lettres ?
 Le chat du village
-Demandez aux villageois ce qu'ils pensent des chats qui errent dans le village.
+Demander aux villageois ce qu'ils pensent des chats qui errent dans le village.
 Comment peindre des meubles
 Apprenons comment redonner une nouvelle couleur à nos meubles.
 Comment escalader la falaise
@@ -3286,8 +3286,8 @@ L'esprit de la fontaine
 Découvrez comment la fontaine va changer.
 L'esprit de la scène
 Découvrez comment la scène va évoluer.
-L'esprit de la glycine
-Voyez comment la glycine va évoluer.
+L'esprit de la Wisteria
+Voyez comment la Wisteria va évoluer.
 Fleurs en pleine floraison
 Cherche l'arbre illuminé que l'on aperçoit depuis le train.
 Revenez sur vos pas.
@@ -3361,20 +3361,20 @@ Conversation avec Kyla
 Attendre Kyla et lui parler lorsqu'elle arrivera au village.
 Attendre que la maison soit reconstruite
 Attends que la maison soit reconstruite, puis va parler à Kyla.
-Demandez aussi à d'autres personnes.
+Demander aussi à d'autres personnes.
 Achetez la recette de la potion « Souvenirs de rêve » auprès de Diane.
 Prépare la potion de souvenir de rêve pour te remémorer cet étrange rêve.
 Bois la potion de rappel des rêves une fois préparée.
-Va dormir et découvre ce qu'il en est de ce rêve.
+Aller dormir et découvrir ce qu'il en est de ce rêve.
 Fabriquer une potion d'amélioration de l'intelligence
 On t'a enseigné cette langue à l'école, mais tu n'arrives pas à t'en souvenir. Essaie de faire travailler ton esprit pour t'en souvenir.
 Potion pour stimuler l'intelligence
 Bois la potion qui stimule l'intelligence et déchiffre la note.
 Lire la note de service
 Vous vous sentez plus malin. À vous de déchiffrer la note de service.
-Parlez à Enite.
-Parle à Kyla.
-Parle à Aurea et achète le plan.
+Parler à Enite.
+Parler à Kyla.
+Parler à Aurea et achèter le plan.
 Apporte le matériel de la boutique de fleurs à Kyla.
 Parle à Kyla pour savoir comment réparer la fontaine.
 Préparez les ingrédients
@@ -3400,14 +3400,14 @@ Rendons le sac d'Arden.
 Trouve Rubrum et va chercher le thé qu'Arden a demandé.
 Apporte le thé à Arden.
 Tout a une histoire
-Arden a raconté qu'il était allé se promener près du lac, dans la fraîcheur du matin. {Map.GreenForest}. Cherchez la veilleuse là-bas.
-Demandez à ceux qui se promènent souvent dans la forêt.
-Regardez la carte dessinée à la main par Rubrum et trouvez où se trouve la lumière nocturne.
-Rendons la lampe d'Arden.
+Arden a raconté qu'il était allé se promener près du lac, dans la fraîcheur du matin de la {Map.GreenForest}. Chercher la veilleuse là-bas.
+Demander à ceux qui se promènent souvent dans la forêt.
+Regarder la carte dessinée à la main par Rubrum et trouvez où se trouve la lumière nocturne.
+Rendre la lampe à Arden.
 Qui a maudit le Dragon ?
 Demandez à Aurea d'où provient ce poivre.
 Procurez-vous la recette du Bonbon détecteur de malédiction et préparez-le.
-Donne à Arden le bonbon qui lève les malédictions.
+Donner à Arden le bonbon qui lève les malédictions.
 Écoutons l'histoire derrière la malédiction d'Arden.
 Ne te souviens pas de moi, cher dragon
 Demandez aux villageois ce qu'ils savent d'Arden.
@@ -3445,7 +3445,7 @@ Après avoir prié au temple pendant la nuit, adresse-toi au Dieu du Chat Blanc.
 Récupérez les objets chargés d'affection que vous remettent les villageois.
 Donne le matériel à Kyla.
 Passe voir Kyla une fois que les briques auront été posées.
-Attends Roy, qui emménage ici
+Attendre que Roy emménage
 Demande à Arden s'il peut à nouveau vendre du vin Sparkler.
 Demandez aux villageois quels ingrédients peuvent servir à fabriquer de nouvelles boissons alcoolisées.
 Donne les ingrédients que tu as rassemblés à Arden.
@@ -3462,7 +3462,7 @@ Demande à Roy pourquoi il y a une odeur de brûlé dans le magasin de fleurs.
 Cherchez quelqu'un qui sait faire de délicieux beignets.
 Donne à Roy les ingrédients qui améliorent le goût des beignets.
 Attends que Roy ait fini de faire ses beignets.
-Demande à Kyla des informations sur la potion du courage.
+Demander à Kyla des informations sur la potion du courage.
 Trouve deux plants de mandragore pour Kyla.
 Va voir Kyla, Roy et Aurea, qui prétendent vendre des meubles.
 Va livrer les arbres chez Vinch avec Roy.
@@ -3472,7 +3472,7 @@ Récupérez des graines de fleurs des vœux.
 Prie le Dieu du Chat Noir et interroge-le sur les objets qui sont particulièrement importants.
 Découvrez les plantes qui racontent l'histoire de Wisteria.
 Donne à Arin la plante pour fabriquer des marque-pages.
-Demande au Dieu du Chat Blanc en quoi les pétales de glycine sont si particuliers pour cette plante.
+Demande au Dieu du Chat Blanc en quoi les pétales de Wisteria sont si particuliers pour cette plante.
 Va voir Roy quand il travaille au magasin de fleurs et parle-lui de la demande de Vinch.
 Parlez à Aurea
 Parle à Kyla pour savoir comment réparer la scène.
@@ -3501,7 +3501,7 @@ Attends que la maison soit reconstruite.
 Parlez à Aurea et achetez le plan.
 Trouve cette étrange créature jaune pour laquelle tu as réparé une poupée.
 La trace de la ronce descend dans le {Map.RainbowForest_BlueMushroom}. Suivez ce lien et jetez-y un œil.
-Prenez le sentier qui passe au-dessus du village.
+Prendre le sentier qui passe au-dessus du village.
 Commence par réparer la maison de la sorcière.
 Le sentier tracé par les ronces s'enfonce dans la nouvelle forêt. Suis-le.
 Traverse le pont et ramasse la craie de sorcière.
@@ -4129,25 +4129,25 @@ traduisez le chapitre 6 — [Problème Persistant]
 Lis la dernière ligne du livre
 Parle aux villageois de l'entrepôt.
 Partez à la recherche des villageois disparus.
-On raconte qu'Enite passait de longs moments à contempler le glycine.
+On raconte qu'Enite passait de longs moments à contempler le Wisteria.
 Venez rendre visite à Lisa, la déesse au chat blanc.
 Cherche la lettre laissée par le barman.
 Demande à Enite de te parler de la lettre du barman.
 Cherche la lettre du barman au Gaga Bird's Nest.
 Le nid se trouve quelque part entre la cascade et la forêt. Cherchez des endroits où poussent de vastes champs de fleurs violettes lumineuses.
-Sème la graine de glycine dans la Forêt Verte, là où se trouvait autrefois le tronc épineux de la ronce.
+Sème la graine de Wisteria dans la Forêt Verte, là où se trouvait autrefois le tronc épineux de la ronce.
 Demande à Arin ce qu'il en est du drapeau.
 Demande à Vinch ce qu'il en est du drapeau.
 Demande à Alvin ce qu'il en est du drapeau.
 Demande à Rex ce qu'il en est du drapeau.
 Demande à nouveau à Arin ce qu'il en est du drapeau.
 Le deuxième jour, va parler à Alvin et récupère le drapeau.
-Semez la graine de glycine dans la Vallée des Nuages, là où se trouvait autrefois le cœur de la ronce.
+Semez la graine de Wisteria dans la Vallée des Nuages, là où se trouvait autrefois le cœur de la ronce.
 Demande conseil au Dieu du Chat Blanc.
 Suivez la recette et fabriquez l'objet à l'établi de la Maison de la Sorcière.
 Parle aux villageois et rassemble les ingrédients nécessaires à la potion.
 Prépare une potion qui renferme ton vœu.
-Semez les graines de glycine dans la {Map.StarSeaCave} là où se trouvait autrefois le cœur de la ronce.
+Semez les graines de Wisteria dans la {Map.StarSeaCave} là où se trouvait autrefois le cœur de la ronce.
 Tu as semé toutes les graines. Parle au Dieu Chat Blanc.
 Parle à Enite pour qu'elle invite les autres.
 Invitez une personne qui n'habite pas au village à la fête.
@@ -4243,7 +4243,7 @@ Examiner la {Map.StarSeaCave}
 Recherchez Enite
 Cherchez la lettre du barman
 Trouvez le nid de Gaga Bird
-Plantez la graine de glycine
+Plantez la graine de Wisteria
 Suivez la recette et lancez-vous
 Réalisez la {item/WishPotion}
 Invitez tout le monde
@@ -4435,11 +4435,11 @@ Il semblerait qu'on puisse fabriquer un coussin en forme de chat.
 Il semblerait qu'on puisse fabriquer un jouet pour chat suspendu.
 Il semblerait qu'il soit possible de fabriquer une roue d'exercice pour chat.
 Une fois la quête terminée : [Kyla House Moving Finished]
-Un jour après avoir terminé la quête « Arden Villager » : [Prologue: Everything Is Here for a Reason]
-Un jour après avoir terminé la quête « Arden Villager » : [Acte 1, Partie 1: They Who Cursed a Dragon]
-Un jour après avoir terminé la quête « Arden Villager » : [Acte 1, Partie 2: The Person in a Dragon's Memory]
+Un jour après avoir terminé la quête « Arden le villageois » : [Prologue: Tout est là pour une raison]
+Un jour après avoir terminé la quête « Arden le villageois » : [Acte 1, Partie 1: Ceux qui ont maudit le dragon]
+Un jour après avoir terminé la quête « Arden le villageois » : [Acte 1, Partie 2: La personne dans les souvenirs du dragon]
 Une fois la quête terminée : [Everyone's Stage]
-Un jour après avoir terminé la quête « Arden Villager » : [Act 2: A Cursed Promise]
+Un jour après avoir terminé la quête « Arden le villageois » : [Act 2: A Cursed Promise]
 Arden a perdu sa veilleuse, qui lui tenait toujours compagnie la nuit.
 Ellie aide Arden à retrouver sa veilleuse, alors qu'il a du mal à s'endormir.
 Arden pense que le poivre qu'il a acheté est maudit.
@@ -4488,7 +4488,7 @@ Le charpentier, qui sait construire des maisons, est indispensable à la reconst
 Kyla est de retour à Wisteria.
 Discuter de la manière de reconstruire les maisons du village et de planifier l'avenir.
 Tu fais des rêves étranges toutes les nuits, mais tu te réveilles sans t'en souvenir.
-Trouvez un moyen de vous souvenir de vos rêves et de résoudre le mystère.
+Trouver un moyen de vous souvenir de vos rêves et de résoudre le mystère.
 Préparez-vous à accueillir les villageois qui souhaitent revenir au village.
 Kyla construit des maisons pour eux – allons l'aider !
 Enite évoque avec nostalgie la fontaine qui, autrefois, embellissait le centre du village.
@@ -4594,7 +4594,7 @@ Fabriquez une potion « Larmes de la Lune » pour retirer le cœur de la ronce.
 L'attitude du Dieu Chat Blanc face à votre exploration de la {Map.StarSeaCave} semble louche.
 Renseigne-toi sur leurs véritables intentions avant de restaurer complètement le village.
 Tous les villageois sont de retour.
-Pour conclure la restauration du village, redonnez vie à la glycine du village.
+Pour conclure la restauration du village, redonnez vie à la Wisteria du village.
 Qu'est-ce que cette chaleur dans mon cœur quand je me rapproche des villageois ?
 Je devrais essayer de me renseigner.
 Quand j'ai demandé à Roy s'il avait remis les fleurs du temple à son professeur, il semblait distrait, presque hébété.
@@ -4644,7 +4644,7 @@ Un jour après avoir terminé la quête de Theo Villager : [Acte 1: Pranks]
 Un jour après avoir terminé la quête de Theo Villager : [Acte 2: The Encounter]
 Après avoir terminé la quête : [Who will come back ? 6]
 Arden est le chef bourru qui est resté à Wisteria.
-Offrez des cadeaux à Arden ou engagez différentes conversations pour renforcer votre amitié.
+Offrir des cadeaux à Arden ou engager différentes conversations pour renforcer votre amitié.
 Tu as obtenu un balai.
 Le chevaucher et l'utiliser jusqu'à ce que sa durabilité soit complètement épuisée.
 {Map.GreenForest} abrite de nombreuses espèces animales.
@@ -5749,14 +5749,14 @@ J'ai eu une sorte de [em1]rêve bizarre[/em1]. J'en suis sûr.
 Tu n'arrêtes pas de dire ça depuis quelques jours.
 De quel genre de rêve s'agissait-il ?
 C'est là le problème.
-Je ne me souviens pas de ce dont rêvais.
+Je ne me souviens pas de ce dont j'ai rêvé.
 Ce doit donc être un rêve tout bête, comme ça.
 Non ! Je veux dire qu'il y a quelque chose d'étrange.
 N'est-ce pas parce que le lit a changé ?
 Il y a quelque chose... Je trouve ça bizarre.
 Peut-être. Mais j'ai l'impression que... [em1]avoir le sentiment que c'est important[/em1].
 Je devrais aussi demander à d'autres personnes.
-Rouge ?
+Rubrum ?
 Salut Ellie !
 Je vais essayer de deviner cette fois-ci.
 La maison de Roy est terminée, n'est-ce pas ?
@@ -5879,7 +5879,7 @@ Bon… Même si j'ai envie de chercher ailleurs…
 avec le [em1]pont[/em1] Dans cet état, je ne peux aller nulle part.
 Tu as raison. Mieux vaut s'occuper de ce qu'on a sous la main plutôt que d'essayer de réparer le pont.
 C'est décidé ! Le prochain villageois sera celui qui habitait cette maison au sud de celle de Kyla.
-Tout d'abord, parlons de [em1]Enite[/em1].
+Tout d'abord, parlons à [em1]Enite[/em1].
 C'est un jeu d'enfant pour quelqu'un comme Ellie Blueriver !
 Parlons-en à Kyla, alors.
 Super. Il est enfin temps de partir à l'aventure.
@@ -6743,7 +6743,7 @@ Je dois aussi en parler à Kyla.
 Parlez à [em1]Diane[/em1] d'abord.
 Virgile !
 Attends, laisse-moi deviner.
-Hein ? Devine quoi ?
+Hein ? Deviner quoi ?
 Une déesse vêtue de blanc est-elle venue te dire que tu étais le guerrier élu ?
 Euh, en quelque sorte...
 C'est tellement original...
@@ -6752,7 +6752,8 @@ Différent dans le sens où le personnage principal a quelques lacunes à certai
 Voici mon histoire.
 Il ne s'agit pas d'un guerrier élu issu d'un conte de fées classique.
 Tu as donc décidé d'incarner l'héroïne de ce conte aussi vieux que le monde ?
-C'est pour que tout le monde soit content.
+Tout à fait
+C'est pour que tout le monde soit heureux.
 « Ô sorcière, viens en aide à ceux qui sont à ta portée », c'est bien ça, non ?
 Après tout, l'héroïne vit toujours des aventures passionnantes.
 En plus, c'est pour que je puisse obtenir mon diplôme et devenir une vraie sorcière.
@@ -7623,7 +7624,7 @@ Ouah... C'est vraiment gentil de ta part. Merci, Enite !
 Et si on allait chercher [em1]Kyla[/em1] d'abord ?
 Bon, cette fois, on se lance pour de bon !
 <wave>C'est parti !</wave>
-Virgile ! Il y a un [em1]combien[/em1]!
+Virgile ! Il y a un [em1]chat[/em1] !
 Est-ce qu'il est venu me voir ?
 Je ne crois pas. Il se trouve juste devant la maison.
 Tu es sûr ? Regarde encore. Ce n'est rien d'autre que l'expression « Allons jouer ! »
@@ -7637,7 +7638,7 @@ Quelqu'un donne à manger aux chats de temps en temps, mais c'est tout.
 D'emblée, ce chat ne ressemblait pas du tout aux villageois.
 Cela ne rend-il pas le fait de s'y habituer d'autant plus remarquable ?
 Quoi qu'il en soit, on a au moins découvert que quelqu'un s'était occupé de ces chats jusqu'à récemment.
-Le [em1]personne[/em1] Rubrum ? Un homme d'âge mûr qu'il ne connaît pas ?
+La [em1]personne[/em1] dont a parlé Rubrum ? Un homme d'âge mûr qu'il ne connaît pas ?
 C'est vrai, Rubrum a dit qu'il avait vu cet homme à l'entrée du temple, au nord du village.
 Alors, ça te dit d'y jeter un œil ?
 Je ne pense pas que ce soit une bonne idée de l'attendre là-bas. Il se peut qu'il ne vienne jamais.
@@ -7740,16 +7741,16 @@ Ton obstination est impressionnante, Ellie.
 Hum. Mais j'ai un chat devant ma porte !
 Ellie, tu n'as jamais eu de chat. Tu ne les connais pas.
 Les chats sont attirés par les pouvoirs magiques.
-Je suis juste venu jeter un coup d'œil, après avoir découvert que la Maison de la Sorcière, inoccupée depuis longtemps, était désormais habitée par une nouvelle sorcière.
-Mais je suis aussi une sorcière. J'ai des pouvoirs magiques. Ça ne devrait pas m'attirer aussi ?
+Il passe simplement jeter un coup d'œil, après avoir découvert que la Maison de Sorcière, inoccupée depuis si longtemps, était habitée par une nouvelle sorcière.
+Mais je suis aussi une sorcière. J'ai des pouvoirs magiques. Ça ne devrait pas l'attirer aussi ?
 Ou bien le pouvoir magique d'une apprentie sorcière est-il trop faible ?
 Je n'en ai aucune idée. Je n'ai jamais eu affaire à des chats.
 Le fait que je ne connaisse pas les chats est tout à fait normal, puisque les apprentis sorciers n'ont pas d'animaux de compagnie.
 Tu aurais pu en avoir un si tes tuteurs t'avaient laissé faire… mais Aiden a catégoriquement refusé.
 On n'y peut rien. Papa est terriblement allergique aux poils d'animaux.
 Mais je peux enfin prendre les devants, maintenant qu'un chat se trouve devant ma porte.
-Je vais réessayer... <shake>Kitty !</shake>
-C'est parti...
+Je vais réessayer... <shake>Minouminou !</shake>
+Il est parti...
 C'est bien typique des chats.
 Il était venu me voir, mais il ne m'a pas laissé le caresser.
 N'est-ce pas un peu exagéré ?
@@ -8255,7 +8256,7 @@ Vraiment ? Ces gens doivent donc vouloir les collectionner, alors ?
 Bien sûr. Pour eux, les [em1][lua(GetLocalizedString("Item", "RitoringPouch_Name"))][/em1] sont des objets de collection.
 C'est décidé ! Je vais en chercher davantage.
 Comme je m'y attendais, cet endroit est lui aussi envahi par des ronces.
-Ceci [em1]glycine[/em1] s'est fanée.
+Ceci [em1]Wisteria[/em1] s'est fanée.
 Dans mes souvenirs, c'était un arbre immense, mais regardez-le maintenant...
 Bon sang, même les arbres avaient été abîmés avant que je m'en rende compte ?
 Quelle triste fin pour un arbre qui a été le témoin de l'histoire.
@@ -8500,7 +8501,7 @@ Bon, je passe mon tour, alors.
 À ce propos, Enite n'avait-elle pas dit qu'elle sortait prendre l'air ? Où est-elle ?
 Je crois l'avoir vue se diriger vers le [em1]grand arbre[/em1] Tout à l'heure... Allons jeter un coup d'œil.
 Qu'est-ce que tout le monde fait ici ?
-Ce glycine… Tout le monde en parle ces derniers temps.
+Ce Wisteria… Tout le monde en parle ces derniers temps.
 Nous essayons de trouver un moyen de le sauver.
 Ça va être difficile.
 Il est encore en vie… mais à peine.
@@ -8520,7 +8521,7 @@ Alors, de quoi devrais-je m'occuper ?
 Ellie, tu as travaillé si dur ces derniers temps. Cette fois-ci, profite simplement de la fête.
 Bien.
 C'est agréable de se reposer, mais… je trouve que c'est un peu trop calme à mon goût.
-Réfléchissez ensuite à la manière de sauvegarder le [em1]glycine[/em1].
+Réfléchissez ensuite à la manière de sauvegarder le [em1]Wisteria[/em1].
 C'est très ancien. Aucune des potions que tu connais ne suffira.
 ...Regardons ça encore une fois pour voir si on peut trouver une solution.
 Qu'est-ce qui ne va pas, Enite ?
@@ -8556,7 +8557,7 @@ C'est là que se trouvait autrefois le cœur épineux de la ronce.
 Et l'endroit le plus animé et le plus vivant de la forêt.
 On dirait presque que les arbres respirent ici.
 Et les fleurs… elles sont si gaies.
-Notre objectif aujourd'hui est simple : sauver le glycine du village.
+Notre objectif aujourd'hui est simple : sauver le Wisteria du village.
 Le Dieu du Chat Blanc m'a montré la voie.
 Tout d'abord, nous plantons la graine et la lettre offertes par le Dieu Chat Blanc.
 Puis, utilisez la petite pelle pour enfouir la graine et le drapeau dans le sol.
@@ -8898,9 +8899,9 @@ Nous avons préparé un cadeau pour Ellie, qui a rendu possible une journée com
 Pour moi ?
 On a l'impression de ne jamais t'avoir offert un vrai cadeau.
 Je t'en prie, accepte ceci.
-Qu'est-ce que c'est que ça… ? Un glycine ?
+Qu'est-ce que c'est que ça… ? Un Wisteria ?
 C'est vrai.
-C'est un glycine qui a commencé à dépérir après que le village eut été envahi par des ronces.
+C'est un Wisteria qui a commencé à dépérir après que le village eut été envahi par des ronces.
 Cette petite pousse est devenue pour moi un symbole d'espoir.
 Tout comme toi, Ellie.
 C'est pour ça que je veux que tu l'aies.
@@ -9564,11 +9565,11 @@ Il n'y a donc aucun mal à réunir tout le monde.
 Une fois qu'on les aura tous réunis au même endroit, on trouvera bien une solution.
 <shake>Tout le monde, rassemblez-vous !!</shake>
 Qu'est-ce qui se passe ?
-Il paraît que ça concerne la glycine du village et le drapeau du défilé.
+Il paraît que ça concerne la Wisteria du village et le drapeau du défilé.
 Ah, c'est ce dont tu m'as parlé tout à l'heure. Tu ne l'as toujours pas trouvé ?
 Oui, c'est vrai. C'est pour ça que j'ai convoqué tout le monde ici.
 Je vais vous expliquer.
-Pour réparer le glycine de la ville, il nous faut le drapeau qui a servi lors du défilé.
+Pour réparer le Wisteria de la ville, il nous faut le drapeau qui a servi lors du défilé.
 Mais quand j'ai demandé autour de moi, personne ne semblait savoir où c'était. C'est pour ça que je vous ai tous réunis ici.
 Arin, pourrais-tu commencer par décrire le drapeau ? [em1]en détail[/em1] ?
 Je l'ai emprunté à [em1]Roi[/em1].
@@ -10644,7 +10645,7 @@ Ils t'appréciaient à l'époque. Et ils t'apprécient toujours aujourd'hui.
 Même aujourd’hui, alors que les ronces semblent être le fruit de ton travail, ils continuent de croire en toi.
 Lisa, voici [em1]votre jardin[/em1]. La forêt, les bâtiments, le village et ses habitants.
 Quoi… ?
-Oui. [em1]Glycine[/em1].
+Oui. [em1]Wisteria[/em1].
 Voici le magnifique jardin éternel dont tu t'occupes depuis cent ans.
 Depuis cent ans, je...
 Oui. Tu n'as pas gâché ta vie.
@@ -11768,7 +11769,7 @@ Qu'est-ce que c'est ?
 C'est un roman d'amour. Ou un roman policier.
 Tu devrais aller à [em1]Highlion[/em1].
 Quel dommage.
-Ouest - Forêt verte, Nord - Maison de la sorcière, Est - Glycine
+Ouest - Forêt verte, Nord - Maison de la sorcière, Est - Wisteria
 Le village se trouve à [em1]est[/em1] d'ici.
 Je suppose qu'il y a bien du monde qui habite par ici.
 Je veux aller au village.
@@ -11822,7 +11823,7 @@ Mais non ! Le Dieu-Chat demandait de l'aide !
 Quoi qu'il en soit, ce ne doit pas être un Dieu très respecté.
 Il n'y a aucun signe indiquant que des travaux d'entretien aient été effectués.
 Je suppose... Peut-être y a-t-il plus à cette histoire ?
-Glycine.
+Wisteria.
 Le village est juste devant.
 Temple du Dieu-Chat.
 D'après le panneau, il aurait dû y avoir une route...
@@ -14169,7 +14170,7 @@ D'accord. Tu veux savoir [em1]comment cracher du feu[/em1]C'est ça ?
 Je n'en étais pas tout à fait sûr moi-même, alors j'ai réfléchi à la question étape par étape pour te l'expliquer.
 D'accord !
 Tout d'abord, [em1]inspirer[/em1].
-Ensuite, faites chauffer la partie la plus interne [em1]dent cramoisie[/em1].
+Ensuite, faites chauffer la partie interne de la [em1]dent cramoisie[/em1].
 D'accord… ?
 Puis pressez la [em1]bourse[/em1] dans la gorge pour faire sortir le liquide.
 Je vais t'expliquer étape par étape.
@@ -14177,7 +14178,7 @@ Vaporise le liquide en expirant, et des flammes jailliront.
 Qu'en penses-tu ?
 Ça ne marchera pas !
 La phase d'inspiration semblait se passer sans problème.
-Mais je n'ai pas de [em1]dent cramoisie[/em1] ça va chauffer !
+Mais je n'ai pas de [em1]dent cramoisie[/em1] à faire chauffer !
 Avez-vous bien chauffé votre dent ?
 Je vois.
 Comment ça, « je vois »…
@@ -14189,7 +14190,7 @@ Et alors, si tu ne sais pas cracher du feu ?
 Un trésor ?
 Tu m'as rendu service, alors prends ce pain.
 Bon…
-À l'époque, je m'en servais pour intimider les humains qui m'en voulaient [em1]trésor[/em1].
+À l'époque, je m'en servais pour intimider les humains qui en avait après [em1]mon trésor[/em1].
 Mais aujourd'hui, je m'en sers simplement pour augmenter la température quand je fais mijoter un ragoût.
 Où se trouve le trésor maintenant ? L'as-tu caché dans une grotte secrète ?
 Je ne m'en souviens pas.
@@ -14216,9 +14217,9 @@ Essaie de le chercher en chemin.
 Désolé, je suis un peu occupé pour le moment.
 Bien sûr. Tu peux y jeter un œil quand tu auras un moment.
 C'est d'une couleur argentée particulière, et bien qu'il s'agisse d'une lampe, elle n'a ni mèche ni bougie.
-Je suis allé au [em1][lua(GetLocalizedString("Common", "Common_Theme_GreenForest"))] lac[/em1] loin du village et y a passé un moment.
+Je suis allé au [em1]lac de la [lua(GetLocalizedString("Common", "Common_Theme_GreenForest"))][/em1] loin du village et y ai passé un moment.
 D'accord. Je vais chercher.
-Ce n'était pas là quand je suis allé le chercher, mais on ne sait jamais.
+Elle n'était plus là quand je suis retourné la chercher, mais on ne sait jamais.
 Cette zone regorge de [em1]parfum de fleurs[/em1] la nuit.
 Je ne vois rien près du lac.
 Arden a bien dit qu'il ne l'avait pas trouvé.
@@ -14236,8 +14237,8 @@ Ah, où était-ce déjà ?
 C'est Rubrum qui l'a trouvé en premier, mais il a oublié de te le rapporter.
 Bravo.
 Mais comment t'es-tu retrouvé à emporter une veilleuse jusqu'au lac ?
-Juste parce que.
-Encore cette histoire de « juste parce que »
+Juste comme ça.
+Encore cette histoire de « juste comme ça ».
 Je suis toujours allé au lac de temps en temps, sans raison particulière. C'est tout.
 Parfois, l'envie me prend tout simplement.
 Et quand c'est le cas, je vais m'asseoir un moment au bord du lac pour contempler le paysage.
@@ -14276,7 +14277,7 @@ Je me souviens l'avoir ramené au village.
 J'ai mal à la gorge après avoir craché trop de feu.
 J'ai demandé à Rubrum de me préparer du thé. Pourrais-tu me rendre service et me l'apporter ?
 Donner le thé à Arden ?
-Je vois. Tu veux savoir [em1]comment cracher du feu[/em1]C'est ça ?
+Je vois. Tu veux savoir [em1]comment cracher du feu[/em1], c'est ça ?
 Je n'en étais pas sûr moi-même, alors j'y ai réfléchi pour te l'expliquer.
 Une fois que tu auras expiré, expulse également le liquide, et des flammes jailliront.
 Qu'y a-t-il de si extraordinaire à cracher du feu ?
@@ -14287,11 +14288,11 @@ En fait, c'est la première fois que je vois un dragon en chair et en os. Tu peu
 Je suppose qu'il n'y a pas beaucoup de dragons qui côtoient les humains.
 Comment fait-on pour cracher du feu ?
 Pourquoi ? Tu comptes apprendre ?
-C'est mon [em1]<wave>rêve de toujours</wave>[/em1] pour pouvoir cracher du feu !
+J'ai [em1]<wave>toujours rêvé</wave>[/em1] de cracher du feu !
 C'est plutôt simple pour un rêve de toujours.
-Je n'aurai pas besoin de ton âme, mais si tu me rends un [em1]s'il vous plaît[/em1] Je vais t'apprendre.
+Je n'aurai pas besoin de ton âme, mais si tu me rends un [em1]service[/em1] je peux t'apprendre.
 Pour ?
-Il y a quelque chose que j'ai demandé à [em1]Rouge[/em1].
+Il y a quelque chose que j'ai demandé à [em1]Rubrum[/em1].
 Si tu demandes à Rubrum, je suppose que c'est du thé ?
 Oui, il a prétendu avoir [em1]une tisane qui apaise la gorge[/em1].
 Je n'arrive pas à m'empêcher de toucher à mon pot.
@@ -14300,7 +14301,7 @@ Alors tu m'apprendras à cracher du feu ?
 Bien sûr. Mais rien ne garantit que tu y arriveras.
 Je vendrais bien mon [em1]âme[/em1] si je pouvais cracher du feu.
 Je lui ai dit d'entrer [em1]le matin[/em1].
-Bon... Broie bien ça et...
+Bon... Broyons bien ça et...
 Ça a marché !
 C'est étrange d'avoir un goût aussi désagréable alors qu'il n'y a aucune odeur.
 Tu n'aurais pas eu à le manger si tu n'étais pas allé dans des endroits interdits.
@@ -14319,7 +14320,7 @@ Cela fonctionnerait même si c'était autre chose que le poivre qui était maudi
 Je vais essayer ça pour l'instant.
 C'est bon ?
 Oui. J'ai bien réussi à t'empêcher de verser un seau entier de poivre.
-Mais alors, que signifie cette idée selon laquelle les dragons auraient plusieurs vies ?
+Mais alors, c'est quoi cette légende selon laquelle les dragons auraient plusieurs vies ?
 Un dragon vit mille ans. C'est comme si on accumulait une quantité énorme de souvenirs.
 Ouah, tu te souviens de tout ça ?
 On ne peut pas, parce qu'on deviendrait fous si on le faisait. Du coup, ça finit par disparaître.
@@ -14351,11 +14352,11 @@ Un trésor !
 Je voudrais te dire que je t'en donnerai un si tu t'occupes de la malédiction, mais je ne sais pas où il se trouve pour l'instant.
 À cette époque, toutes sortes de gens venaient nous rendre visite. Il y avait peut-être même des sorcières.
 Qu'est-ce qui t'intéresse ?
-Par passion pour les fleurs de glycine.
-Votre passion pour les fleurs de glycine ?
+Par passion pour les fleurs de Wisteria.
+Votre passion pour les fleurs de Wisteria ?
 Non, je ne sais pas à qui appartenait cette passion.
 Tu ne sais pas à qui appartenait cette passion, mais tu t'en souviens quand même ?
-Les fleurs de glycine sont d'une grande vitalité. D'où cette passion.
+Les fleurs de Wisteria sont d'une grande vitalité. D'où cette passion.
 Je me demande qui c'était...
 Voilà pour mes questions.
 Je ne me souviens vraiment de rien.
@@ -14384,7 +14385,7 @@ Tout ce qui n'a pas été révélé est un secret !
 D'accord. Commençons par rassembler davantage d'indices.
 Faut-il donner à Arden le bonbon qui lève les malédictions ?
 Des bonbons ?
-Pourrais-tu découvrir de quoi consiste cette malédiction et la lever ?
+Pourrais-tu découvrir en quoi consiste cette malédiction et la lever ?
 Je pense que ça va prendre un peu de temps et je suis un peu occupé en ce moment.
 Ah bon ? Très bien, alors.
 Où as-tu trouvé ce poivre ?
@@ -14397,29 +14398,29 @@ Je n'arrive pas à dormir, et je pense que c'est à cause de ce nouveau piment.
 Sa couleur est rougeâtre et son goût est subtil et sucré.
 J'ai toujours bien dormi quand j'ai ma veilleuse à mes côtés.
 Ça doit être une sorte de malédiction.
-Oui, c'est [em1][lua(GetLocalizedString("Item", "UncurseCandy_Name"))][/em1].
+Oui, ce sont des [em1][lua(GetLocalizedString("Item", "UncurseCandy_Name"))][/em1].
 Je t'ai demandé de lever la malédiction du poivre.
 J'ai vérifié auprès d'Aurea et j'ai également essayé d'utiliser [em1][lua(GetLocalizedString("Item", "CurseWatchCandy_Name"))][/em1], mais il n'y avait pas de malédiction dans le poivre.
-On dit que la couleur et le goût du poivron s'expliquent par le fait qu'il s'agit d'un poivron rouge.
-Je pense qu'il y a peut-être un piège quelque part. Mais même si ce n'est pas le cas, c'est un bonbon délicieux.
+On dit que la couleur et le goût du poivron s'expliquent par le fait qu'il s'agit d'un poivre rouge.
+Je pense qu'il y a peut-être un sort quelque part. Mais même si ce n'est pas le cas, c'est un bonbon délicieux.
 C'est pour ça que je l'ai apporté.
 Hé hé...
 Ce n'est qu'une solution provisoire. Cela ne résoudra pas complètement le problème.
 Bref, les sorcières se laissent emporter par leurs sentiments et se mêlent de tout et n'importe quoi en prétendant que c'est pour faire le bien...
-Ils ne sont que rarement d'une réelle aide. Ils veulent juste se sentir bien.
+Elles ne sont que rarement d'une réelle aide. Elles veulent juste se donner bonne conscience.
 Arden, tu n'arrives pas à dormir parce que tu n'arrêtes pas de dire des choses méchantes, non ?
 J'ai travaillé dur à ma manière parce que je voulais t'aider.
 Ça te fait plaisir de parler comme ça ?
 Ce n'est peut-être pas à cause de la veilleuse ou du poivre, mais parce que tu es toi-même maudit ?
 C'est peut-être vrai.
 Si tu me connais mieux, tu sauras peut-être si je suis maudit.
-Savez-vous ce que signifie l'expression selon laquelle les dragons ont plusieurs vies ?
+Connais-tu le mythe selon lequel les dragons auraient plusieurs vies ?
 Oh, toi, cruelle horloge de mon ventre.
 Tu veux un bol de ragoût de bœuf avant de partir ?
 Je vais aussi vous expliquer ce que cela signifie.
 D'accord. Mais ce n'est en aucun cas parce que j'ai faim.
-Mais comme je suis tellement ouvert d'esprit, j'aimerais t'écouter jusqu'au bout.
-C'est ce qu'a dit l'horloge interne.
+Mais comme je suis ouverte d'esprit, j'aimerais t'écouter jusqu'au bout.
+Ce n'est pas ce qu'indiquait ton horloge interne.
 <shake>*mon estomac gargouille*</shake>
 Je devrais aller chercher le [em1][lua(GetLocalizedString("Item", "UncurseCandy_Name"))][/em1].
 Arden, tu dors bien ?
@@ -14564,17 +14565,17 @@ Le modèle du villageois disparaît et disparaît, le villageois revient normale
 Ensuite, va demander aux adultes qui peuvent boire.
 Je ne vends pas.
 Mais je n’ai pas dit un seul mot.
-Tu n’es pas là pour me faire vendre[lua(GetLocalizedString("Common", "FlameDrink"))]?
+Tu n’es pas là pour m'acheter du [lua(GetLocalizedString("Common", "FlameDrink"))]?
 Ne sois pas comme ça, pourquoi as-tu arrêté de le vendre ? Tu as perdu la recette ?
 Il n’y a jamais eu de recette au départ.
-Attends, non, je pense qu’il y en avait un, mais maintenant c’est parti.
+Attends, non, je pense qu’il y en avait une, mais maintenant c’est parti.
 Je n’ai jamais dit que je ne vendrais plus d’alcool.
 Depuis que les ronces ont poussé, l’eau a changé et quoi que je fasse, la saveur n’est tout simplement pas la bonne.
 Kyla est juste déraisonnable.
 Alors pourquoi ne pas essayer de créer de nouveaux types d’alcool ?
 C’est trop compliqué.
 Tu t’y connais à l’alcool ?
-Je suis un expert en Twinkle-Twinkle Juice... Euh, j’ai déjà aidé à brasser du moonshine.
+Je suis un expert en jus de Twinkle-Twinkle... Euh, j’ai déjà aidé à brasser de l'acool de contrebande.
 Tu n’es d’aucune aide.
 Je n’ai pas encore atteint l’âge légal pour boire, d’accord ?
 C’est-à-dire que Kyla n’aimera pas le nouveau goût du vin ?
@@ -14645,7 +14646,7 @@ Grâce à lui, j’ai eu d’excellentes recettes.
 Au fait, tout à l’heure[em1]Roy[/em1]Venu acheter[lua(GetLocalizedString("EffectFoodCommon", "BeefStew_Name"))], et je te cherchais.
 Il a dit qu’il voulait te parler du[em1]Bibliothécaire[/em1]. Tu devrais aller le voir.
 Je ne lui ai pas beaucoup parlé et je ne sais pas grand-chose de lui.
-Comment pourrais-je connaître une histoire de glycine ?
+Comment pourrais-je connaître une histoire de Wisteria ?
 Mais, Arden, tu ne vis pas ici depuis longtemps ?
 Oui.
 Tu n’as jamais entendu parler d’un mythe ou d’un conte populaire ?
@@ -15613,8 +15614,10 @@ Voici la veilleuse que le Guerrier a laissée à Arden.
 Arden ne fera plus de cauchemars.
 Il est écrit... "[em1]éternel[/em1]propriétaire de ce restaurant. »
 Voici la signature de Vinch.
-Arden, tu connais le[em1]chats[/em1]qui viennent parfois au village ?
+Arden, tu connais les [em1]chats[/em1] qui viennent parfois au village ?
 Des chats ? Tu veux dire ces petits animaux qui marchent sur quatre pattes ?
+Hein ? Les chats ne sont-ils pas mignons ?
+Pff, mignon, mais un peu agaçant.
 Oui, ceux qui ont un nez et des oreilles, et qui font « miaou ».
 Cette explication est non demandée... Bien sûr que je connais ces créatures agaçantes.
 Alors, tu n’aimes pas les chats, Arden.
@@ -15638,12 +15641,12 @@ Quoi qu’il en soit, la fleur ne sert à rien, même si tu la trouves.
 Mais si tu veux vraiment regarder... demande à propos du[em1]Jardin des Mots Vides[/em1].
 Je pensais... peut-être que si je le trouvais, je pourrais passer un peu plus de temps avec elle.
 Quoi ? Tu as un cadeau pour moi ?
-Tu veux me donner ça[em1][lua(GetItemName(GetNPCPresentStorageItemID()))][/em1] ?
+Tu veux me donner ça [em1][lua(GetItemName(GetNPCPresentStorageItemID()))][/em1] ?
 Ce n’est pas mal. Merci.
-Tu me donnes un[em1][lua(GetItemName(GetNPCPresentStorageItemID()))][/em1] ?
-A[em1][lua(GetItemName(GetNPCPresentStorageItemID()))][/em1]...?
+Tu me donnes un [em1][lua(GetItemName(GetNPCPresentStorageItemID()))][/em1] ?
+Un [em1][lua(GetItemName(GetNPCPresentStorageItemID()))][/em1]...?
 Hmm... C’est un cadeau ?
-Je n’en ai pas besoin[em1][lua(GetItemName(GetNPCPresentStorageItemID()))][/em1].
+Je n’en ai pas besoin de [em1][lua(GetItemName(GetNPCPresentStorageItemID()))][/em1].
 Ne me le donne plus jamais.
 J’ai l’impression que j’aimais beaucoup ça avant...
 Mais je ne me souviens plus pourquoi.
@@ -15790,7 +15793,7 @@ Wahaha ! Admets ta défaite, Ellie ! Sinon tu auras juste l’air misérable.
 J’ai demandé à Enite de me préparer quelque chose. Pourriez-vous me le chercher ?
 Quoi ? Oh, bien sûr. Demande juste. Je serai plus rapide qu’une tempête !
 Feuilles du Théier de la ronce Amère au sommet de[lua(GetLocalizedString("Common", "Common_Theme_GreenForest"))]?
-Enite la chef de la glycine l’a elle-même essuyée au soleil. Ils n’étaient utilisés que dans des rituels, disent-ils.
+Enite la chef de la Wisteria l’a elle-même essuyée au soleil. Ils n’étaient utilisés que dans des rituels, disent-ils.
 Voilà[lua(GetLocalizedString("Item", "RattanPetal_Name"))]. Le Dieu Chat Noir me l’a donné.
 Le village porte le nom de cette fleur, et elle est plantée dans le temple.
 C’est tellement rapide...
@@ -17295,7 +17298,7 @@ La seule preuve est qu’il a un[<font="Astronomicon SDF">u</font>], un jeton ut
 Le chapitre 3 reste non traduit. Laisse-moi essayer.
 Le chapitre 5 reste non traduit. Laisse-moi essayer.
 Arin... Je l’ai fait. J’ai réussi à lire la dernière page.
-C’est une graine de glycine, et pourtant tu appelles ça une graine de cheval ?
+C’est une graine de Wisteria, et pourtant tu appelles ça une graine de cheval ?
 Arin est bibliothécaire, non ? Tu n’as pas de devis ?
 Je me concentre généralement sur des informations factuelles...
 Il vaudrait peut-être mieux demander à quelqu’un de plus familier avec les métaphores ou les expressions savantes.
@@ -18149,8 +18152,8 @@ On devrait trouver quelqu’un pour[em1]Surveillez le village[/em1]quand la cér
 Nous ne sommes pas des guerriers. Si le danger survient, nous fuyons.
 Bonne idée, Ellie.
 Je vais rassembler les affaires nécessaires. Arin, pourrais-tu préparer les certificats de remise des diplômes ?
-Sous la glycine
-Près des glycines, non ? Beaucoup d’organismes vivants y prospènent, et il est enraciné dans le sol.
+Sous la Wisteria
+Près des Wisterias, non ? Beaucoup d’organismes vivants y prospènent, et il est enraciné dans le sol.
 Mais ce n’est pas une source de[potions <font="Astronomicon SDF">u</font>]... Cela ne semble pas du tout lié.
 C’est vrai... L’arbre pourrait servir d’ingrédient pour certaines potions, mais l’appeler source de potions semble un peu tiré par les cheveux.
 La scène
@@ -18331,7 +18334,7 @@ Aurea, vendez-vous aussi des ingrédients alimentaires ?
 En général, seulement pour les articles demandés. Tu as besoin de quelque chose ?
 Oh, j’ai eu ça d’Arden, mais...
 Il a dit qu’il avait acheté ce poivre chez toi et qu’il y avait quelque chose d’étrange là-dedans.
-Hmm ? Pas question. On regarde ?
+Hein ? Pas possible. Je peux y jeter un œil ?
 Hmm... C’est du poivron rouge. C’est un poivre avec une douceur douce qui est fière de sa saveur unique.
 Je l’ai donné à Arden pour qu’il l’essaie, mais je suppose qu’il n’a pas écouté. Il ne le fait jamais.
 Eh bien... Arden pense que ce poivre est maudit.
@@ -18393,7 +18396,7 @@ Je vais vendre des produits de[em1]Différents thèmes quotidiens[/em1], alors r
 Si vous avez un thème que vous aimez vraiment et que vous souhaitez en voir davantage, dites-le-moi.
 Je garderai les produits[em1]Constant pendant 3 jours[/em1]pour toi, Ellie.
 Si vous avez de la chance, vous pourriez en trouver de temps en temps[em1]Mobilier rare[/em1], alors n’oubliez pas de venir jeter un œil souvent.
-Eh bien... La spécialité de la glycine, ce sont bien sûr les feuilles de thé.
+Eh bien... La spécialité de la Wisteria, ce sont bien sûr les feuilles de thé.
 Mais à quoi sert-il ?
 Créer des marque-pagets.
 Euh... Il y a des plantes étranges dans le coin. Laisse-moi voir lesquelles peuvent servir de marque-pages.
@@ -19253,7 +19256,7 @@ Ah bon ?
 Lisa Whitegarden.
 Oui ! Lisa Whitegarden. Savez-vous où elle est maintenant ?
 Elle est à Wisteria.
-La glycine inclut aussi les forêts qui l’entourent, non ?
+La Wisteria inclut aussi les forêts qui l’entourent, non ?
 Au moins, on sait qu’elle est dans le coin !
 Elle est dans la forêt.
 Elle est montée dans un arbre.
@@ -19279,7 +19282,7 @@ Lisa ne semblait pas vraiment se mêler aux villageois.
 Même Enite, qui avait vécu longtemps avec elle, et Kyla, qui était bonne amie avec elle, ne la connaissaient pas vraiment.
 À part les villageois, il n’y a personne d’autre à qui nous pouvons demander...
 Salutations, Dieu Chat Noir.
-Je souhaite savoir quelle plante a une importance particulière pour la glycine. Pourriez-vous me le dire, s’il vous plaît ?
+Je souhaite savoir quelle plante a une importance particulière pour la Wisteria. Pourriez-vous me le dire, s’il vous plaît ?
 Oh non... Donc ce n’est pas une vraie question finalement ?
 Tu n’es pas fâché... n’est-ce pas ? J’espère que non ?
 Ça paraît insignifiant, mais c’est crucial... Hein ? Qu’est-ce que c’est ?
@@ -19370,7 +19373,7 @@ C’est une forme visible d’émotions, matérialisée par la distillation.
 Mais je n’ai jamais ressenti ce sentiment auparavant.
 Ce n’est pas comme si je n’avais pas d’amis !
 La goutte d’émotion coule entre des cœurs connectés.
-La glycine abrite des liens puissants.
+La Wisteria abrite des liens puissants.
 Eh bien... En gros, tu me dis que le village est un endroit spécial ?
 Wow, c’est une goutte d’émotion ?
 Mais pourquoi je ne le vois que maintenant ?
@@ -19446,11 +19449,11 @@ Veux-tu réparer la Maison de la Sorcière ?
 Oui, les planches du plancher sont cassées.
 C’est un gros problème.
 Hmm, au fait,
-La Maîtresse Sorcière est-elle aussi d’accord ?
+La sorcière-supérieure est-elle aussi d’accord ?
 Elle dit oui.
 Alors si je vais postuler aujourd’hui...
 Une sorcière de réparation viendra probablement dans les trois jours.
-La maîtresse sorcière doit être présente à son arrivée. Ça va ?
+La sorcière-supérieure doit être présente à son arrivée. Ça va ?
 Oh, maintenant que j’y pense, j’aime en fait le sol tel qu’il est !
 C’est mon rêve de vivre dans une maison avec un sol cassé !
 I... Ah bon ?
@@ -19643,14 +19646,14 @@ Hm, eh bien...
 Un oreiller qui s’évanouit ! Dès que tu t’allonges, tu t’endors comme si tu t’évanouissais, d’où le nom.
 Non, je...
 C’est l’œuvre d’Herencia, qu’on appelle la maîtresse du sommeil et la reine de la nuit.
-Même si tu bois[lua(GetLocalizedString("Item", "RememberDreamPotion_Name"))]Avant, tu dormiras comme un bébé et tu ne te souviendras même pas de tes rêves. Essaie !
+Même si tu bois une [lua(GetLocalizedString("Item", "RememberDreamPotion_Name"))] avant, tu dormiras comme un bébé et tu ne te souviendras même pas de tes rêves. Essaie !
 [lua(GetLocalizedString("Item", "RememberDreamPotion_Name"))]!
 Voulez-vous acheter un oreiller anti-évanouissement ?
-Je dois fabriquer un[lua(GetLocalizedString("Item", "RememberDreamPotion_Name"))].
-D’accord, compris. Je vais aussi mettre[lua(GetLocalizedString("Item", "RememberDreamPotion_Name"))]sur la liste.
+Je dois fabriquer une [lua(GetLocalizedString("Item", "RememberDreamPotion_Name"))].
+D’accord, compris. Je vais aussi mettre [lua(GetLocalizedString("Item", "RememberDreamPotion_Name"))] sur la liste.
 Et donne-moi aussi l’oreiller.
 Merci. Merci de commander l’oreiller via le catalogue.
-Diane, peux-tu aussi me donner la recette pour[em1][lua(GetLocalizedString("Item", "CurseWatchCandy_Name"))][/em1] ?
+Diane, peux-tu aussi me donner la recette pour [em1][lua(GetLocalizedString("Item", "CurseWatchCandy_Name"))][/em1] ?
 Bien sûr. Je l’ajoute tout de suite, puisque j’en ai en stock.
 Tu vas l’utiliser toi-même ?
 Euh... C’est vrai, mais y a-t-il une autre version avec un meilleur goût ?
@@ -19675,8 +19678,8 @@ Vous devez signaler combien et dans quel but à l’Administration des Sorcière
 Ellie, tu es comme un chapeau inachevé.
 Vous n’avez toujours pas trouvé la recette ?
 T... Ils disent que je devrais le signaler à l’Administration...
-Oh, tu peux juste utiliser le nom de la maîtresse sorcière.
-Veuillez remplir ici le nom de la maîtresse sorcière, votre nom, l’usage prévu et le nombre de personnes.
+Oh, tu peux juste utiliser le nom de la sorcière-supérieure.
+Veuillez remplir ici le nom de la sorcière-supérieure, votre nom, l’usage prévu et le nombre de personnes.
 D’accord, je vais l’ajouter pour toi.
 Ouf... Mon cœur bat à tout rompre à chaque fois qu’il m’arrive quelque chose comme ça.
 Arrête de faire semblant, c’est terrible. Tu vas te faire prendre.
@@ -19686,10 +19689,10 @@ Je commence vraiment à m’inquiéter.
 Avant les lois, un[em1][lua(GetLocalizedString("Item", "FirecrackerPotion_Name"))][/em1]ils faisaient souvent sauter les fesses ou brûlaient des maisons...
 Je m’appelle Diane. Merci d’être venue aujourd’hui.
 Allons faire un[em1][lua(GetLocalizedString("Item", "FirecrackerPotion_Name"))][/em1], depuis que nous avons atteint notre objectif.
-<shake>L-le nom de la maîtresse sorcière... ?</shake>
+<shake>L-le nom de la sorcière-supérieure... ?</shake>
 Quoi ? Ellie, petite boule de poils !
 Tu écris MON nom avec ton écriture infernale ?
-On dirait que ta maîtresse sorcière a un sacré tempérament.
+On dirait que ta sorcière-supérieure a un sacré tempérament.
 Si vous le souhaitez, vous pouvez aussi mettre le nom de quelqu’un d’autre.
 <shake>T... Alors...</shake>
 <shake>Aria... et Ellie. Juste 1. Pour la fête du village...</shake>
@@ -19772,7 +19775,7 @@ Au début, vous n’aurez qu’une seule liste à la fois.
 Ensuite, je préparerai la liste pour que vous puissiez commencer par la prochaine mise à jour.
 Merci mille fois.
 Prends ton temps. Pas besoin de se presser.
-Oh, et il y a une chose de plus.
+Oh, encore une chose.
 J’espèrais que tu pourrais aller voir le marchand dans ce village.
 Tu parle d'Aurea ?
 Si c’est le nom de la personne qui achète des bonbons dans le village, oui.
@@ -20272,7 +20275,7 @@ Oh... Quel dommage. Mais puisque c’est de toi, Ellie, ça doit être du bon ma
 Tada ! C’est[lua(GetLocalizedString("Item", "SacredWater_Water_Name"))]!
 Waouh ! Parfait timing. J’allais écrire le rapport.
 Divers problèmes apparaîtront si le paiement est retardé trop longtemps...
-Je me demandais si je devais te rappeler la certitude de la maîtresse sorcière.
+Je me demandais si je devais te rappeler la certitude de la sorcière-supérieure.
 Euh... Et si je ne payais pas ?
 Heureusement, tu n’as pas trahi ma confiance.
 J’avais confiance en toi, Ellie.
@@ -20525,10 +20528,10 @@ Oui, il y a une matière dans laquelle je ne suis pas très doué, et je veux pl
 Je suppose que c’est ce qui a fait de toi magna cum laude ! Tu es tellement impatient d’apprendre.
 Malheureusement, Witches' Catalogue ne propose pas de tels services.
 Non? C’est dommage.
-Je veux pratiquer la menuiserie. Ma maîtresse sorcière enseigne bien toutes les autres matières, mais elle déteste la menuiserie...
+Je veux pratiquer la menuiserie. Ma sorcière-supérieure enseigne bien toutes les autres matières, mais elle déteste la menuiserie...
 E-Ellie ! Je ne ferai plus jamais de menuiserie !
 T-tu l’as entendue.
-Si la maîtresse sorcière le dit, on n’y peut rien.
+Si la sorcière-supérieure le dit, on n’y peut rien.
 Tu veux apprendre la menuiserie à cause de la récente restauration de la Maison de la Sorcière, je suppose ?
 Oui. Diane, tu connais cette tradition aussi ?
 Bien sûr. Après avoir renouvelé ta Maison de Sorcière,[em1][lua(GetLocalizedString("Common", "Craft"))][/em1] [em1][lua(GetLocalizedString("Common", "Blueprint"))][/em1]sera rempli de vos étagères.
@@ -20558,7 +20561,7 @@ En fait, il suffit de poser la main dessus en réfléchissant aux techniques que
 Oh, il y a plus : les marionnettes peuvent aussi être imprégnées de l’aura humaine.
 Oui, parce que[lua(GetItemName("CopycatMarionette"))]S sont alimentés par la magie des sorcières, pas par l’aura.
 Je demanderai à tous les villageois de fournir de l’aura alors. Plus il y en a, mieux c’est.
-Le problème, c’est que... Tu n’as personne pour te guider puisque ta maîtresse sorcière est absente, n’est-ce pas ?
+Le problème, c’est que... Tu n’as personne pour te guider puisque ta sorcière-supérieure est absente, n’est-ce pas ?
 D’accord. Même si je veux apprendre quelque chose, je n’ai personne de qui l’apprendre.
 Puis-je savoir de quel sujet on parle ?
 La menuiserie, je suppose... ? Les chaises que je fabrique ont toujours des pieds inégaux, et c’est pareil pour les autres meubles.
@@ -21080,13 +21083,13 @@ Il était diligent et gentil, et prenait aussi soin des plantes du village penda
 Après le départ de Roy, les fleurs du village commencèrent à faner.
 Le village deviendra plus joli une fois que Roy reviendra.
 C’est sûr.
-Oh, aussi, j’ai vu un casse[em1]Pont[/em1]Là-bas. L’autre côté fait aussi partie du village ?
+Oh, aussi, j’ai vu un [em1]pont[/em1] cassé là-bas. L’autre côté fait aussi partie du village ?
 Oui, il y avait beaucoup de gens qui vivaient au-delà du pont.
 Ce pont doit aussi être réparé.
 J’écrirai une lettre à Roy tout de suite.
 Je ne peux pas le laisser rester chez quelqu’un d’autre quand il reviendra, cependant...
 Compris. Je vais parler à Kyla.
-Ellie, je veux que tu ailles à[em1]Kyla[/em1]et lui demander d’aider à reconstruire la maison de Roy.
+Ellie, je veux que tu ailles chez [em1]Kyla[/em1] et que tu lui demande d’aider à reconstruire la maison de Roy.
 Après que les ronces eurent détruit les maisons, ils démolirent aussi le pont.
 Je te laisse faire.
 Roy était gentil et diligent.
@@ -21883,17 +21886,17 @@ Je prépare généralement de la nourriture à distribuer à tout le monde, mais
 Je te conseille de trouver quelqu’un qui en a besoin[em1]Pack stuff[/em1], ou quelqu’un qui[em1]prêterait une attention particulière à ces détails[/em1].
 Enite, puis-je te poser une question ?
 Ho-ho-ho, bonjour, Ellie. Qu’est-ce qu’il y a ?
-Je souhaite en savoir plus sur la relation entre les villageois et[em1]chats[/em1].
+Je souhaite en savoir plus sur la relation entre les villageois et [em1]les chats[/em1].
 Des chats... De quel genre de chats parle-t-on ?
 Un chat est récemment venu frapper à ma porte. Je souhaite savoir où il habite.
 Et aussi... s’il y a des amoureux des chats dans le village.
 Je vois. Comme vous l’avez sûrement remarqué, il y a beaucoup de chats dans le village.
-Bien qu’elles aient cessé de venir après l’apparition des ronces... Certaines semblent être revenues.
+Bien qu’ils aient cessé de venir après l’apparition des ronces... Certaines semblent être revenues.
 Alors, est-ce que certains villageois gardent des chats ?
 Non, personne au village ne les garde. Ils se promènent comme ils veulent.
 Je pensais que c’étaient les chats domestique de quelqu’un du village.
 Ils ne le sont pas, mais ils sont nourris de temps en temps.
-Moi-même, je les nourris quand ça me frappe.
+Moi-même, je les nourris quand l'envie m'en prend.
 Le chat à ma porte habite probablement à proximité.
 C’est probablement le cas, même si je ne connais pas assez bien ces chats pour les distinguer.
 Quel dommage. J’espère que quelqu’un connaît celui qui est à ma porte.
@@ -22264,7 +22267,7 @@ Cet endroit peut redevenir comme avant.
 À droite de là où nous nous tenons vivait une jeune tailleur nommée Nana.
 Tout au bas du village, il y avait autrefois une merveilleuse boulangerie.
 Cette maison était vide depuis assez longtemps. Elle a changé de propriétaire plusieurs fois.
-Et... la glycine, autrefois fierté du village, attire aussi l’attention.
+Et... la Wisteria, autrefois fierté du village, attire aussi l’attention.
 Enfin, toutes les ronces du village ont disparu.
 Ellie, tu as vraiment traversé beaucoup de choses.
 Comme avant, les villageois qui vivaient ici pourront revenir, non ?
@@ -22501,8 +22504,8 @@ Au revoir.
 J’ai enlevé les ronces ici.
 Déjà ? Mais tu n’as pas encore posé beaucoup de questions...
 Tu as bien fourni toutes les informations importantes. Alors, en récompense...
-Je vais te donner un autre bonbon, puisque tu as répondu à toutes mes questions[em1]sans aucune erreur[/em1].
-La maîtresse sorcière disparue... des ronces apparues soudainement, et un village laissé avec seulement 4 habitants...
+Je vais te donner un autre bonbon, puisque tu as répondu à toutes mes questions [em1]sans aucune erreur[/em1].
+La sorcière-supérieure disparue... des ronces apparues soudainement, et un village laissé avec seulement 4 habitants...
 Et Blueriver...
 Ce serait amusant.
 Regarde ça, Virgile ! J’ai aussi des bonbons.
@@ -22520,7 +22523,7 @@ Département d’échange d’informations entre sorcières et humains.
 C’est sûr que ça fonctionne. Il y a eu quelques difficultés, mais il continue de tourner.
 C’est quel genre d’endroit ?
 C’est un lieu créé pour partager des informations collectées avec les êtres humains.
-De nos jours, il semble que cela se concentre sur le[em1]Recensement[/em1]des villages gérés par les Maisons de Sorcières.
+De nos jours, il semble que cela se concentre sur le [em1]Recensement[/em1] des villages gérés par les Maisons de Sorcières.
 Hmm, donc ce n’est pas un endroit étrange.
 Ce qui est étrange, ce sont les gens, pas le département.
 Les sorcières collectent naturellement des informations grâce aux Maisons de Sorcières.
@@ -22528,11 +22531,11 @@ Ramenons d’abord les villageois.
 On reverra Kent de toute façon.
 Mais Kent vient-il vraiment de là ?
 Tu as répondu à tout sans même vérifier ?
-Tu as vu le[em1]Broche en forme de lune[/em1]sur la cape, n’est-ce pas ? Elle sert aussi de pass de la Communauté des Sorcières.
+Tu as vu la [em1]Broche en forme de lune[/em1] sur la cape, n’est-ce pas ? Elle sert aussi de pass de la Communauté des Sorcières.
 Je ne le savais pas.
-Et son[em1]Collier rouge orné de bijoux[/em1]est le[em1]Sceau royal[/em1]de la société humaine.
-Cela signifie-t-il qu’il est[em1]Sang royal[/em1] ?
-Peut-être, mais à en juger par l’apparence, c’est juste un[em1]Fonctionnaire public[/em1].
+Et son [em1]Collier rouge orné de bijoux[/em1] est le [em1]Sceau royal[/em1] de la société humaine.
+Cela signifie-t-il qu’il est de [em1]Sang royal[/em1] ?
+Peut-être, mais à en juger par l’apparence, c’est juste un [em1]Fonctionnaire public[/em1].
 Je veux dire, parce que les gens qui travaillent pour la famille royale en ont aussi.
 Enfin, ça veut dire que ce n’est pas un mensonge.
 Il n’avait pas l’air d’être quelqu’un qui mentirait non plus.
@@ -22549,7 +22552,7 @@ N’est-ce pas ? Il faut juste se concentrer sur la restauration du village !
 C’est un endroit tellement calme.
 Bonjour. Êtes-vous Ellie Blueriver ?
 Oui, c’est moi.
-Je m’appelle Kent. Je travaille pour le[em1]Département d’échange d’informations entre les sorciers et les humains[/em1].
+Je m'appelle Kent. Je travaille au [em1]Bureau d'échange d'informations entre sorciers et humains[/em1].
 Je crois que c’est la première fois que j’entends parler d’un tel département...
 C’est un département créé par des sorcières pour fournir des informations qu’elles trouvent utiles aux humains.
 Cela fait un bon moment depuis sa création. Si tu n’en as jamais entendu parler... Es-tu apprentie sorcière ?
@@ -22562,32 +22565,33 @@ En fait, je m'appelle Ellie Blueriver.
 Alors pourquoi as-tu menti ?
 Parce que tu avais l’air louche, je...
 Tu peux me faire confiance.
-Ellie, à qui tu parles déjà ?
-Oh, une... une sorcière ou peu importe du Département des Échanges.
+Dans ce cas...
+Ellie, à qui tu parles encore ?
+Oh, une... une sorcière ou peu importe du Bureau des Échanges.
 C’est un chapeau parlant ?
-<shake>Oh, la m... Maîtresse Sorcière</shake>n’est pas là en ce moment, alors elle parle à travers le chapeau.
-La maîtresse sorcière n’est pas là...
-Parce qu’elle est occupée.<shake>Haha...</shake>
-S’il vient du Département des Échanges, c’est sûrement à cause des villageois.
+<shake>Oh, la m... Sorcière-supérieure</shake> n’est pas là en ce moment, alors elle parle à travers le chapeau.
+La sorcière-supérieure n’est pas là...
+Parce qu’elle est occupée. <shake>Haha...</shake>
+S’il vient du Bureau des Échanges, c’est sûrement à cause des villageois.
 Les villageois ?
-La maîtresse sorcière semble bien connaître notre existence.
-Je sais un peu.
+La sorcière-supérieure semble bien connaître notre existence.
+J'ai déjà entendu parlé de vous.
 Puisque j’ai laissé tout ce qui concerne la Maison de la Sorcière à Ellie, tu peux lui parler.
 D’accord, je suis responsable de la Maison de la Sorcière maintenant.
 D’accord, compris. Je vais faire ça pour aujourd’hui.
 Mais de quoi allons-nous parler ?
 Ne t’inquiète pas, je ne poserai que quelques questions simples.
-Si vous répondez bien, il y a même un[em1]Prix[/em1].
+Si vous répondez bien, il y a même un [em1]Prix[/em1].
 Waouh, un prix ?
-Quel est le[em1]Nom du village[/em1]que la Maison de la Sorcière où tu loges actuellement est responsable ?
+Quel est le [em1]Nom du village[/em1] dont la Maison de la Sorcière où tu loges actuellement est responsable ?
 C’est Wisteria.
-Alors,[em1]combien[/em1]Les villageois vivent maintenant dans la glycine ?
+Alors, [em1]combien[/em1] de villageois vivent actuellement à Wisteria ?
 Euh... Hmm, une minute.
-Oh, il y en a 4. Quatre personnes y vivent maintenant.
+Oh, il y en a 4. Quatre personnes y vivent actuellement.
 4 personnes.
-... Tu as dit[em1]4 personnes[/em1] ?
+... Tu as dit [em1]4 personnes[/em1] ?
 Oui, Enite, Rubrum, Arden et Kyla, qui est revenue récemment.
-Ces données que j’ai disent que[em1]Il y a 7 ans[/em1], Wisteria avait autrefois[em1]20[/em1]les résidents...
+Les informations que j’ai disent qu'[em1]il y a 7 ans[/em1], Wisteria comptait [em1]20[/em1] habitants...
 Je peux aller au village jeter un œil ?
 Bien sûr. Je vais te guider.
 Tu es fiable.
@@ -22609,7 +22613,7 @@ Tu t’es inscrit au Catalogue des Sorcières il n’y a pas si longtemps, non ?
 Oui... Mais pourquoi ?
 Mais quel genre de question ?
 Tu n’as pas à t’inquiéter, car ce sont des questions formelles et triviales.
-Je vois... Glycine.
+Je vois... Wisteria.
 Oh, c’est là.
 Bimbley
 Vine Deli
@@ -22620,12 +22624,12 @@ C’est Yegrina.
 Ellie, tu n’as pas vu le panneau ? Ce village est[em1]Wisteria[/em1].
 Ah, oui. C’est Wisteria.
 Bonjour ! Kent, ça fait longtemps.
-La maîtresse sorcière n’est-elle toujours pas là aujourd’hui ?
+La sorcière-supérieure n’est-elle toujours pas là aujourd’hui ?
 Hein ? Oui... ! C’est ça. Comme elle est occupée... Haha...
 C’était une blague. Tu n’as plus besoin de te cacher.
 Ça fait un moment, Ellie Blueriver.
 Je ne suis pas sûr de ce dont tu parles... !
-Je sais déjà que la maîtresse sorcière n’est pas là pour une raison quelconque.
+Je sais déjà que la sorcière-supérieure n’est pas là pour une raison quelconque.
 En fait...
 On dirait que quelqu’un de nouveau a emménagé dans le village.
 Je suis aussi soulagé de voir le village restauré sans encombre.
@@ -22719,7 +22723,7 @@ Hm... Peut-être qu’elle a vraiment disparu.
 Mais il y a encore plus d’informations.
 D’ailleurs, Mme Lisa me confiait souvent la traduction de livres ou de documents demandés auprès de moi.
 Ces livres concernent principalement[em1]Usines[/em1]ou[em1]Immortalité[/em1].
-Donc[em1]Lisa[/em1]Ça devait être derrière les ronces du village !
+Donc [em1]Lisa[/em1] devait être derrière les ronces du village !
 Mais il n’y a aucune preuve pour le prouver de manière concluante.
 Et quel est son but ?
 C’est pourquoi j’ai apporté certains passages que je n’ai pas pu traduire des livres que Lisa m’a transmis.
@@ -22851,7 +22855,7 @@ Rien, je veux dire, merci pour la célébration... haha...
 Mais je suis en fait un peu déçu.
 Ellie, tu m’as vraiment menti, de toutes les personnes. J’aurais pu t’aider aussi si tu me l’avais dit plus tôt !
 <shake>Haha... Kent ?</shake>
-Oui, j’ai aussi parlé à Diane de la maîtresse sorcière.
+Oui, j’ai aussi parlé à Diane de la sorcière-supérieure.
 Je pense qu’on peut lui faire confiance.
 Tu peux sûrement.
 Ouf, c’est super que le problème soit résolu.
@@ -22956,7 +22960,7 @@ A-t-elle réussi ?
 Les villageois restants en parlèrent à une autre sorcière et cherchèrent son aide.
 Selon la seconde sorcière, lorsqu’elle arriva sur le site, la première sorcière avait presque réussi.
 C’est une histoire périlleuse. Même la sorcière qui m’a raconté l’histoire ne connaît pas les détails. Nous n’avons aucune idée de qui était la sorcière maléfique, ni de la méthode qu’elle a utilisée...
-La glycine a deux dieux-chats, et des villageois déplacés, tout comme le village du conte. C’est pourquoi je veux que tu connaisses cette histoire.
+La Wisteria a deux dieux-chats, et des villageois déplacés, tout comme le village du conte. C’est pourquoi je veux que tu connaisses cette histoire.
 Merci, Kent. C’est utile.
 *tousse* Je suis content de l’entendre de ta part.
 Si tu as besoin d’aide, dis-le-moi simplement.
@@ -23455,11 +23459,11 @@ Oh, c’est trop embarrassant d’en parler~ Nahaha !
 Non, elle est complètement bourrée.
 Kyla, j’ai entendu dire que tu voulais me voir ?
 Oh oui, venez vite, Mlle Sorcière.
-Rien d’important, j’ai entendu dire que tu as aidé Rubrum à chercher[lua(GetLocalizedString("Item", "Rubrum'sGoldenApple_Name"))]s?
+Rien d’important, j’ai entendu dire que tu as aidé Rubrum à chercher des [lua(GetLocalizedString("Item", "Rubrum'sGoldenApple_Name"))]s ?
 Oui, c’était plutôt amusant et j’ai fait un vœu.
 Quoi ? Tu as fait un vœu ? Oh là là, je ne t’aurais pas invité ici si je l’avais su, hahaha !
 Pourquoi ? Qu’est-ce qu’il y a ?
-En fait, Enite et moi les avons cachés[lua(GetLocalizedString("Item", "Rubrum'sGoldenApple_Name"))]s.
+En fait, Enite et moi avons cachés ces [lua(GetLocalizedString("Item", "Rubrum'sGoldenApple_Name"))]s.
 Enite et toi, Kyla !?
 Comme vous pouvez le voir, les enfants du village n’ont pas grand-chose avec quoi s’amuser.
 C’était donc une petite activité que nous avions prévue pour Rubrum.
@@ -23472,26 +23476,26 @@ Mais j’ai quitté le village un moment, non ?
 Donc Enite se débrouillait seule et ne pouvait pas s’aventurer bien loin. Il n’y en avait donc pas tant que ça caché.
 Mais grâce à toi, Mme Sorcière, je suis de retour et on peut recommencer le jeu.
 C’était plutôt amusant de les chercher.
-Oh, les Blue Apples sont juste peintes avec[lua(GetLocalizedString("Item", "Cranapple_Name"))]. Je m’occuperai d’eux.
+Oh, les Pommes Bleues sont juste peintes avec [lua(GetLocalizedString("Item", "Cranapple_Name"))]. Je m’en occuperai.
 Merci d’avoir joué avec Rubrum. Voici quelque chose qu’Enite voulait que je te transmette.
 Même si ce n’est pas une pomme légendaire, elle est vraiment bonne, haha !
 Merci ! Merci de dire à Enite que je lui dis merci.
 De rien.
 J’espère que ton vœu se réalisera aussi, Ellie.
 [lua(GetLocalizedString("Choice", "FullBag"))]
-Mais le[lua(GetLocalizedString("Encyclopedia", "LittleMandrake_Name"))]S va crier même pendant la production. Tu peux gérer ça ?
+Mais les [lua(GetLocalizedString("Encyclopedia", "LittleMandrake_Name"))]s vont crier même pendant la production. Tu peux gérer ça ?
 Haha, c’est pour ça que j’ai pris un autre type de potion.
-Tadah~[lua(GetLocalizedString("Item", "EarPlugPotion_Name"))]!
+Tadah~ [lua(GetLocalizedString("Item", "EarPlugPotion_Name"))] !
 <shake>N’est-ce pas du vin !</shake>
 Nahaha, tu ne sais pas que le vin est un excellent remède ?
 *gargouillement gargouilleux*... Hahaha, excellent travail !
 Personne ne peut arrêter un buveur comme toi...
 Sinon, pourquoi y aurait-il des histoires d’alcooliques qui ont bu leur famille jusqu’à la ruine et le désespoir ?
-Je suis réparateur de maisons, donc ma maison ne deviendra pas en ruines, hahaha !
+Je suis réparateur de maisons, donc ma maison ne tombera pas en ruines, hahaha !
 Ohoho, merveilleux~ Commençons ce qu’on doit faire.
-Maintenant, ajoutez le[lua(GetLocalizedString("Encyclopedia", "LittleMandrake_Name"))]s!
+Maintenant, ajoutes les [lua(GetLocalizedString("Encyclopedia", "LittleMandrake_Name"))]s !
 <shake>Oh non ! Leur peau est tombée !!</shake>
-Oh là là, tu as<shake>A une voix vraiment forte</shake>Pour une si petite bête !
+Oh là là, tu as <shake>une voix vraiment forte</shake> pour une si petite créature !
 Alors Ellie, tu entends cette chanson joyeuse ? Hahaha !
 Voilà donc la raison... pourquoi les professeurs disent de ne pas faire de potions illégales...
 Surtout si ce n’est qu’une potion nommée.
@@ -23500,31 +23504,31 @@ Na... Hahaha, la ruée arrive ! Cette énergie...<shake>Whoaaaaa</shake>!
 *gargouillement gargouilleux*... Je suis Kyla, la personne la plus forte du monde, hahaha~ Je crois que je peux voler !
 On devrait l’arrêter avant que ça ne dégénère ?
 Laisse tomber, la Potion de Courage commence à faire effet.
-Hé, jolie Ellie ! Viens prendre un verre...<shake>Ah oui, tu n’es pas assez vieux</shake>!
+Hé, jolie Ellie ! Viens prendre un verre... <shake>Ah oui, c'est vrai, tu n’es pas assez vieille</shake> !
 Bon, voyons voir, mangeons des snacks à boire.
 Ceci... c’est du chocolat que je garde pour une occasion spéciale, ici. Pour toi seulement, Ellie.
 Boue... Chocolat ?
 Il faut du cran pour manger.
 Et aussi quelque chose de... plus solide. Tiens, prends un peu de cette pomme de terre.
 Beurk... *tousse tousse* Kyla, mon ventre est plein à craquer.
-<shake>Quoi ?</shake>Ça ne va pas, bien sûr que non.
+<shake>Quoi ?</shake> Ça ne va pas, bien sûr que non.
 Alors ramène ça à la maison pour après ! J’ai coupé et préparé de la viande séchée moi-même !
-Mange beaucoup et grandis vite pour qu’on puisse être des compagnons de beuverie, petite Mlle Sorcière,<shake>hahaha !</shake>
+Mange beaucoup et grandis vite pour qu’on puisse être des compagnons de beuverie, petite Mlle Sorcière, <shake>hahaha !</shake>
 Oh, maintenant que j’ai fait une potion, suis-je une sorcière comme toi, Ellie ?
 Haha, peut-être.
 Ah ! Super, super ! C’est grâce à toi, mon amie sorcière.
 Mais il vaut mieux nous laisser les potions à nous, les sorcières, Kyla.
-Quoi, euh, je suppose que les sorcières sont les pros.<shake>Et moi ?</shake>Je suis un artisan du vin !<shake>Haha !</shake>
+Quoi, euh, je suppose que les sorcières sont les pros. <shake>Et moi ?</shake> Je suis un artisan du vin ! <shake>Haha !</shake>
 Est-ce que ça... fonctionne vraiment ?
-<shake>Nahaha !</shake>Délicieux !
+<shake>Nahaha !</shake> Délicieux !
 Je ne te demande pas quel goût ça a...
 Ça ne semble pas avoir grand-chose à voir avec le courage...
-Nahaha ! Ellie ! La chose la plus importante avec le vin, c’est<shake>Goût</shake>de cela, le<shake>Goût</shake>! Tout le reste n’a pas d’importance !
+Nahaha ! Ellie ! La chose la plus importante avec le vin, c’est <shake>son goût</shake>, le <shake>goût</shake> ! Tout le reste n’a pas d’importance !
 <shake>*gargouillement gargouille*</shake>... *gargouille* Ahhhh !
 Même si je suis un peu inquiet des effets de la potion.
 Ugh... L’odeur d’alcool est bien trop forte.
 Je dois y aller, Kyla.
-Hah~ Tu dois partir si tôt ?<shake>Très bien alors</shake>, à la prochaine, mon amie sorcière !
+Hah~ Tu dois partir si tôt ? <shake>Très bien alors</shake>, à la prochaine, mon amie sorcière !
 Des donuts ? Pourquoi on doit manger quelque chose d’aussi sucré ?
 Tu détestes les sucreries, Kyla ?
 Même si je ne les déteste pas vraiment, je ne ferais pas d’efforts particuliers pour les avoir.
@@ -23616,7 +23620,7 @@ Si vous voulez vraiment des meubles d’un certain thème, faites-le moi savoir.
 Eh bien, n’oubliez pas de passer souvent !
 Hum, oui. Je connais quelques rumeurs et blagues parmi les villageois.
 Ça ne compte pas ? Haha.
-Ce ne sont pas des histoires de glycine.
+Ce ne sont pas des histoires de Wisteria.
 Mais c’est surprenant. Je pensais que Kyla ne se soucierait pas de ces choses futiles.
 Moi, non, je les trouve juste intéressants.
 Certaines personnes babillaient à côté de moi quand je faisais de la forge.
@@ -23742,10 +23746,10 @@ J’espérais donc que tu pourrais construire les maisons pour les autres villag
 Hya Hya ! Je me demandais ce que tu allais dire.
 Bien sûr que je vais aider. J’allais te poser la même question.
 Y a-t-il quelque chose avec lequel je peux t’aider quand tu construiras la maison ?
-Pour commencer, j’ai besoin d’un[em1]Plan directeur de la maison[/em1]et[em1]Matériaux de fondation[/em1].
-Parle à[em1]Aurea[/em1]Pour les plans. Elle te les vendra.
-[em1]Matériaux de fondation[/em1]On peut facilement les trouver dans la forêt.
-Donc, si j’apporte le[em1]Plan directeur[/em1]et le[em1]Matériaux de fondation[/em1], on peut construire la maison de Roy ?
+Pour commencer, j’ai besoin d’un [em1]plan de construction de la maison[/em1] et de [em1]matériaux de fondation[/em1].
+Parle à [em1]Aurea[/em1] pour les plans. Elle te les vendra.
+Pour les [em1]matériaux de fondation[/em1] on peut facilement les trouver dans la forêt.
+Donc, si j’apporte un [em1]plan de construction[/em1] et les [em1]matériaux de fondation[/em1], on peut construire la maison de Roy ?
 Oui. Tu peux livrer petit à petit, alors préviens-moi quand tu en apportes.
 Roy est-il le prochain villageois chanceux ?
 La seule qui reste dans la zone est la maison de Roy.
@@ -23787,9 +23791,9 @@ Ce ne serait pas bien de mettre un avis sur le vin sur un bulletin que Rubrum pe
 Mais qu’en est-il de moi qui le sache ?
 Je n’ai aucune raison de te le cacher, Mlle Sorcière ! Hahaha !
 Alors, quel est l’ingrédient spécial qui donne son nom au vin ?
-Oh, ne sois pas trop surpris, mais c’est[em1][lua(GetLocalizedString("Encyclopedia", "LittleMandrake_Name"))][/em1].
-Tu devrais savoir à quel point les cris d’un sont forts[lua(GetLocalizedString("Encyclopedia", "LittleMandrake_Name"))]peut-être, Ellie.
-Mais si tu mets[lua(GetLocalizedString("Encyclopedia", "LittleMandrake_Name"))]dans les spiritueux distillés, il commence réellement à chanter.
+Oh, ne sois pas trop surprise, mais c’est la [em1][lua(GetLocalizedString("Encyclopedia", "LittleMandrake_Name"))][/em1].
+Tu devrais savoir à quel point les cris d’une [lua(GetLocalizedString("Encyclopedia", "LittleMandrake_Name"))] peuvent être forts, Ellie.
+Mais si tu mets une [lua(GetLocalizedString("Encyclopedia", "LittleMandrake_Name"))] dans les spiritueux distillés, il commence réellement à chanter.
 Et la saveur est inimaginable. Comment dire ? Tu commences à t’exciter vraiment,
 Puis rempli de confiance comme si tu pouvais affronter n’importe quoi au monde !
 C’est pour ça que je l’appelle la Potion du Courage, hahaha !
@@ -23798,9 +23802,9 @@ Je pensais que c’était une sorte de code...
 Ne sois pas comme ça, tu n’es pas curieuse, Ellie ?
 Comme tu l’as dit, ce nom ne devrait pas être donné à n’importe quel objet.
 Hm, d’accord. J’ai l’impression que ce sera une histoire intéressante à raconter à mes amis.
-Merveilleux, excellent. Je vais préparer les spiritueux distillés. Vas-y[em1]2x[lua(GetLocalizedString("Encyclopedia", "LittleMandrake_Name"))][/em1], s’il te plaît.
-Tu veux passer ?[em1][lua(GetLocalizedString("Encyclopedia", "LittleMandrake_Name"))][/em1]à Kyla ?
-Kyla, en voici deux[lua(GetLocalizedString("Encyclopedia", "LittleMandrake_Name"))]s.
+Merveilleux, excellent. Je vais préparer les spiritueux distillés. Trouves-moi [em1]2x [lua(GetLocalizedString("Encyclopedia", "LittleMandrake_Name"))][/em1], s’il te plaît.
+Veux-tu donner les [em1][lua(GetLocalizedString("Encyclopedia", "LittleMandrake_Name"))][/em1] à Kyla ?
+Kyla, voici deux [lua(GetLocalizedString("Encyclopedia", "LittleMandrake_Name"))]s.
 Oh, merci ! Je savais que je pouvais compter sur toi, Mlle Sorcière.
 J’ai essayé de le faire seul plusieurs fois, mais je n’y arrivais pas.
 Je pensais que j’allais devenir sourd, hahaha !
@@ -23853,23 +23857,24 @@ Donc tu te demandes autour de toi ce que tu veux manger ?
 Pas du tout, je me suis renseigné sérieusement.
 Maintenant, je vais prévenir Kyla. Ensuite, la dégustation de vin pourra commencer tout de suite.
 Arden m’a demandé de les apporter quand[em1]Kyla travaille[/em1].
-Voulez-vous m’aider à demander si[lua(GetLocalizedString("Common", "FlameDrink"))]sera vendu à nouveau ?
+Voulez-vous m’aider à demander si [lua(GetLocalizedString("Common", "FlameDrink"))] sera vendu à nouveau ?
 Oh, Ellie.
 Parfait timing. C’est pour toi.
 Hm ? Pourquoi[lua(GetLocalizedString("EffectFoodCommon", "BeefBread_Name"))]?
 Hahaha, tu as oublié ? J’ai promis de te soigner.
 J’en ai donc acheté quelques extras quand je suis allé au restaurant d’Arden.
 Mais écoute-moi, Ellie.
-Le[lua(GetLocalizedString("Common", "FlameDrink"))]Arden produisait autrefois était superbe.
+Le [lua(GetLocalizedString("Common", "FlameDrink"))] qu'Arden produisait autrefois était superbe.
 C’était sans égal, mais il insistait sur le fait qu’il n’y arriverait plus jamais.
 Si seulement je pouvais en profiter après une longue et dure journée de martèlement !
 Pourquoi a-t-il arrêté de le faire ?
 Oh oui, c’est vrai. Je vais en savourer.
 Il a dit que peu importe ses efforts, il ne pouvait pas reproduire la même saveur, alors il m’a dit de ne pas trop me faire d’illusions.
-N’est-ce pas ? Bien qu’il vende d’autres types d’alcool, ils ne sont pas aussi bons que[lua(GetLocalizedString("Common", "FlameDrink"))].
-Je l’ai encouragé à continuer à en faire quand j’ai acheté[lua(GetLocalizedString("EffectFoodCommon", "BeefBread_Name"))].
+N’est-ce pas ? Bien qu’il vende d’autres types d’alcool, ils ne sont pas aussi bons que ce [lua(GetLocalizedString("Common", "FlameDrink"))].
+Je l’ai encouragé à continuer à en faire quand j’ai acheté [lua(GetLocalizedString("EffectFoodCommon", "BeefBread_Name"))].
 J’ai essayé de le convaincre, mais il n’écoute tout simplement pas.
 Ce vin est-il vraiment si bon ?
+Ah... Rien que d’y penser, j’en ai envie.
 C’est évident, c’est délicieux !
 Ah... Rien que d’y penser, j’en ai envie.
 L’idée du vin me fait trop faiblir les bras pour marteler.
@@ -23888,8 +23893,8 @@ C’est dommage que tu ne puisses pas boire avec moi, Ellie.
 Si Arden dit un jour qu’il va s’en sortir, tu dois me le dire tout de suite.
 Souhaitez-vous inviter Kyla à la dégustation de vin ?
 Kyla ! J’ai parlé de tout ça avec Arden.
-Oh, est-ce qu’Arden va enfin m’en vendre[lua(GetLocalizedString("Common", "FlameDrink"))]?
-Il a décidé de faire quelque chose d’encore meilleur que[lua(GetLocalizedString("Common", "FlameDrink"))].
+Oh, est-ce qu’Arden va enfin m’en vendre [lua(GetLocalizedString("Common", "FlameDrink"))]?
+Il a décidé de faire quelque chose d’encore meilleur que [lua(GetLocalizedString("Common", "FlameDrink"))].
 Quoi ? Mais ce que je veux boire, c’est que...
 Allez, tu pourrais au moins essayer.
 On a des snacks avec les boissons ! C’est une dégustation comme aucune autre ! C’est ta chance !
@@ -25956,7 +25961,7 @@ Je croyais que « les fleurs vivantes éclosent dans le cœur » faisait référ
 Alors, j’ai décidé de préparer un bouquet de pensées.
 Et toi, Ellie, tu as accepté de chercher un[em1]fleur en perpétuelle floraison[/em1].
 J’ai laissé un[em1]Livre avec des informations pertinentes[/em1]à l’intérieur de[em1]boutique de fleurs[/em1]pour toi. N’hésite pas à le regarder quand tu veux.
-Vous cherchez des plantes que l’on ne trouve qu’autour de glycine ?
+Vous cherchez des plantes que l’on ne trouve qu’autour de Wisteria ?
 Oui, encore mieux s’ils peuvent être transformés en signets.
 Eh bien... Dans ce cas, ma recommandation serait[em1][lua(GetLocalizedString("Item", "MushroomWallPlants_Collect_Name"))][/em1].
 À[lua(GetLocalizedString("Common", "Common_Theme_RainbowForest"))], on peut trouver de nombreuses créatures étranges difficiles à voir ailleurs.
@@ -26313,7 +26318,7 @@ Hm... ?
 Eh bien... J’ai entendu dire que c’est une tradition pour les sorcières qui ont restauré une Maison de Sorcière de recevoir[em1][lua(GetLocalizedString("Common", "Furniture"))][/em1] [em1][lua(GetLocalizedString("Common", "Blueprint"))][/em1]comme cadeaux.
 Me suis-je trompé... ?
 Non, non. Je ne connais pas les traditions. C’est tout.
-Après tout, Ellie n’a pas de maîtresse sorcière. Personne ne lui en parle[em1]Traditions[/em1].
+Après tout, Ellie n’a pas de sorcière-supérieure. Personne ne lui en parle[em1]Traditions[/em1].
 Je vois. Dans ce cas, il est normal que tu ne sois pas au courant.
 Pour être honnête, je n’en suis pas si sûr moi-même. Je n’en ai entendu parler qu’une seule fois par un client sorcier pendant mes jours à Highlion.
 Je m’excuse de ne pas avoir vérifié l’information. Je le reprends et je t’apporte un autre cadeau à la place ?
@@ -26343,7 +26348,7 @@ Je suppose que je devrai devenir un apprenti officiel si je veux apprendre de Ky
 Mais tout ce dont j’ai besoin, ce sont quelques conseils. En d’autres termes, j’ai besoin d’un excellent en menuiserie ?
 Oh ! Et si je demandais à Diane ?
 Le Catalogue des Sorcières pourrait offrir ce service.
-Une apprentie sorcière utilisant le Catalogue des Sorcières pour chercher un instructeur... Si tu avais une maîtresse sorcière, elle serait devenue folle.
+Une apprentie sorcière utilisant le Catalogue des Sorcières pour chercher un instructeur... Si tu avais une sorcière-supérieure, elle serait devenue folle.
 Quel service ?
 Un service qui peut me trouver un instructeur de menuiserie !
 Regarde ça. Tu sens l’aura de l’artisan s’accumuler dans le[em1][lua(GetItemName("CopycatMarionette"))][/em1] ?
@@ -27725,7 +27730,7 @@ Je n’ai aucun regret, donc tu n’as pas besoin de chercher Ellie non plus.
 Je ne pense pas que Roy me le dira.
 Quelqu’un a peut-être vu ça, alors demandons[em1]quelqu’un d’autre[/em1].
 En effet, c’est la station Wisteria !
-Station de glycine... Serait-ce que ça pourrait... ?
+Station de Wisteria... Serait-ce que ça pourrait... ?
 Attends ! Tu ferais mieux de voir ça de tes propres yeux !
 Très bien, si tu le dis.
 Tu mènes, je te suis.
@@ -28195,7 +28200,7 @@ Mamie a dit que cela voulait dire qu’ils étaient[em1]fané[/em1].
 Ils peuvent repousser avec du bien[em1]Nutrition[/em1].
 Je ne peux pas juste attendre qu’elle pousse.
 Vérifiez le [em1]Grimoire[/em1]. N’oubliez pas non plus le[em1]Catalogue des Sorcières[/em1].
-D’accord. Au fait, tu as le[em1]thé[/em1]Arden a demandé ?
+Parfait. Au fait, tu as le [em1]thé[/em1] qu'Arden a demandé ?
 Je vais lui apporter.
 Oh, d’accord ! Merci !
 Je vais lui apporter en toute sécurité.
@@ -28300,22 +28305,22 @@ Si je m’aventure trop loin, Granny va me faire passer un savon à l’oreille,
 Fondu et invoque Rubrum qui s’efface
 Je pense que c’est ça, mais je ferais mieux de demander à Rubrum.
 Le modèle du villageois s’estompe et disparaît, le Rubrum revient normalement
-Oh, c’est ça, c’est celui-là ![lua(GetLocalizedString("Item", "Rubrum'sGoldenApple_Name"))]!
+Oh, c’est ça, c’est une ![lua(GetLocalizedString("Item", "Rubrum'sGoldenApple_Name"))] !
 Ils étaient dans des endroits vraiment isolés.
-Après tout, il essaie de se cacher de la Fée Bleue.
-Oui, s’il s’était caché ici, il n’aurait certainement pas été trouvé tout de suite.
+Après tout, elle essaie de se cacher de la Fée Bleue.
+Oui, si elle s’était cachée ici, elle n’aurait certainement pas été trouvée tout de suite.
 Maintenant que j’y pense, quand j’étais ici pour la première fois à exterminer les Petites Citrouilles Honey,
 Je ne m’attendais pas à m’installer au village.
-Si j’avais su pour le[lua(GetLocalizedString("Item", "Rubrum'sGoldenApple_Name"))]à l’époque, j’aurais gardé l’œil ouvert.
+Si j’avais su pour la [lua(GetLocalizedString("Item", "Rubrum'sGoldenApple_Name"))] à l’époque, j’aurais gardé l’œil ouvert.
 Tu vas dire : « Pas Highlion, pas Highlion » ?
-Heureusement, ce souhait s’est réalisé sans le[lua(GetLocalizedString("Item", "Rubrum'sGoldenApple_Name"))].
+Heureusement, ce souhait s’est réalisé sans la [lua(GetLocalizedString("Item", "Rubrum'sGoldenApple_Name"))].
 Je suis vraiment curieux de connaître le souhait de Rubrum.
-Puisque j’ai commencé à chercher, autant le faire[em1]Cherchez-en un autre[/em1].
-Hehe, en voilà un autre[lua(GetLocalizedString("Item", "Rubrum'sGoldenApple_Name"))]!
+Puisque j’ai commencé à chercher, autant en [em1]chercher une autre[/em1].
+Hehe, voilà une autre [lua(GetLocalizedString("Item", "Rubrum'sGoldenApple_Name"))] !
 Je ne m’attendais pas à devoir nager pour trouver une pomme.
 Pourquoi une pomme est-elle au milieu du lac ?
 Est-ce parce que les fées ont des ailes ?
-Est-ce qu’il a volé jusqu’ici pour se cacher de la Fée Bleue ?
+Est-ce qu’elle a volé jusqu’ici pour se cacher de la Fée Bleue ?
 C’est incroyable si elle exauçait vraiment des vœux en cavale.
 Tu crois vraiment que cette légende est vraie ?
 N’ai-je pas aussi appris les légendes et les mythes à l’école ?
@@ -28323,15 +28328,15 @@ Parce qu’il y a beaucoup de choses sur les forces puissantes et les êtres myt
 Ce ne serait pas si étrange si l’un d’eux vivait dans la Forêt Verte.
 Tu n’as pas l’air si naïf à ce sujet.
 Tu essaies de dire que je suis faible le reste du temps ?
-Dépêchons-nous de prendre ça[lua(GetLocalizedString("Item", "Rubrum'sGoldenApple_Name"))]à Rubrum pour qu’il réalise son vœu.
+Dépêchons-nous de donner la [lua(GetLocalizedString("Item", "Rubrum'sGoldenApple_Name"))] à Rubrum pour qu’il réalise son vœu.
 Toi...<shake>Attends de voir</shake>, Virgile.
 J’en ai trouvé deux !
 Il nous en faut trois pour que la fée réalise notre vœu...
-Peut-être devrions-nous demander à Rubrum d’en chercher un par lui-même.
+Peut-être devrions-nous demander à Rubrum d’en chercher une par lui-même.
 Maintenant, nous saurons enfin ce que Rubrum souhaite.
 C’est... une Pomme Bleue !
-[em1]Suivez[/em1]les Blue Apples et faites attention à votre environnement.
-Je dois trouver un[lua(GetLocalizedString("Item", "Rubrum'sGoldenApple_Name"))].
+[em1]Suivez[/em1] les Pommes Bleues et faites attention à votre environnement.
+Je dois trouver une [lua(GetLocalizedString("Item", "Rubrum'sGoldenApple_Name"))].
 Les pommes bleues ont vraiment l’air étranges.
 Ce ne sont pas de simples pommes après tout.
 C’est la première fois que je vois quelque chose comme ça.
@@ -28509,21 +28514,21 @@ oui... eh bien... mais je ne suis pas allé ailleurs, donc je ne sais pas s’il
 [em1]Quelqu’un qui est déjà allé ailleurs[/em1]À savoir.
 Quoi de neuf ? Quoi de neuf ?
 J’aimerais qu’il y ait quelque chose de sympa !
-Rubrum, quelle est la légende de la[lua(GetLocalizedString("Item", "Rubrum'sGoldenApple_Name"))]?
+Rubrum, quelle est la légende de la [lua(GetLocalizedString("Item", "Rubrum'sGoldenApple_Name"))]?
 Tu as vu l’avis que j’ai mis ?
 Oui ! C’est une pomme spéciale ?
 Super spécial ! C’est époustouflant !
 Et cela aide aussi à réaliser les vœux !
 Une pomme... peut-elle réaliser des vœux ?
-Collectez 3 fois[lua(GetLocalizedString("Item", "Rubrum'sGoldenApple_Name"))]Et ton vœu se réalisera.
+Récolte 3 [lua(GetLocalizedString("Item", "Rubrum'sGoldenApple_Name"))] et ton vœu se réalisera.
 Je l’ai fait une fois et mon souhait s’est vraiment réalisé !
 Une fois, je me suis faufilé dans le sous-sol de l’école et j’ai ouvert un coffre secret, mais il ne contenait qu’une boule de cristal montrant des souvenirs.
 Si ce que vous dites est vrai, c’est une pomme vraiment puissante.
-Exact ! Il devrait y en avoir[lua(GetLocalizedString("Item", "Rubrum'sGoldenApple_Name"))]pousse maintenant dans la Forêt Verte.
-Mais un an... Deux ans... Trois ans ! Je n’en ai trouvé qu’un seul en trois ans.
-Alors viens le chercher avec moi, Ellie.
+Exact ! Il devrait y avoir des [lua(GetLocalizedString("Item", "Rubrum'sGoldenApple_Name"))] qui poussent dans la Forêt Verte.
+Mais un an... deux ans... trois ans ! Je n’en ai trouvé qu’une seule en trois ans.
+Alors viens en chercher avec moi, Ellie.
 Bien sûr, je suis l’expert en matière de découverte de secrets et de découvertes de choses cachées.
-Mais cherchez-vous[lua(GetLocalizedString("Item", "Rubrum'sGoldenApple_Name"))]Parce que tu as un vœu à faire, Rubrum ?
+Mais est--ce que tu cherches une [lua(GetLocalizedString("Item", "Rubrum'sGoldenApple_Name"))] parce que tu as un vœu à faire, Rubrum ?
 Euh... Oui !
 Quel vœu est-ce ?
 C’est un secret. Je ne peux pas le révéler avant que le vœu ne se réalise.
@@ -28531,19 +28536,19 @@ Sinon, cela ne se réalisera pas.
 Alors tu dois garder ton vœu pour toi aussi, Ellie !
 D’accord, d’accord. Préviens-moi si tu trouves une autre pomme.
 Voyons voir, par où commencer ? On commence par les coins de la Forêt Verte ?
-Mamie veut que je garde un œil sur[em1]Pommes bleues[/em1].
+Mamie veut que je garde un œil sur les [em1]Pommes bleues[/em1].
 [em1]Pommes bleues[/em1] ?
-Oui ! On dit que la pomme dorée était autrefois une fée sage et bienveillante.
+Oui ! On dit que la pomme d'or était autrefois une fée sage et bienveillante.
 C’était agréable et utile.
 Parce qu’il était souvent harcelé par la Fée Bleue, il se transformait secrètement en pomme et se cachait dans la forêt.
-Mais la Fée Bleue l’a fini par découvrir et s’est aussi transformée en pomme — pour tromper les gens.
-Donc, quand vous trouvez un[em1]Pomme bleue[/em1], a[em1][lua(GetLocalizedString("Item", "Rubrum'sGoldenApple_Name"))][/em1]Ça doit être tout près.
-Je comprends, tu veux dire que le[em1]Pomme bleue[/em1]C’est un indice pour la chasse.
+Mais la Fée Bleue a fini par le découvrir et s’est aussi transformée en pomme — pour tromper les gens.
+Donc, quand vous trouvez une [em1]Pomme bleue[/em1], une [em1][lua(GetLocalizedString("Item", "Rubrum'sGoldenApple_Name"))][/em1] ne doit pas se trouver bien loin.
+Je comprends, tu veux dire que la [em1]Pomme bleue[/em1] est un indice pour la chasse.
 Oui ! Viens me chercher une fois que tu l’auras trouvé !
-Tu veux passer ?[em1][lua(GetLocalizedString("Item", "Rubrum'sGoldenApple_Name"))][/em1]à Rubrum ?
+Souhaitez-vous donner les [em1][lua(GetLocalizedString("Item", "Rubrum'sGoldenApple_Name"))][/em1] à Rubrum ?
 Ta-dah ! Regarde ce que j’ai trouvé, Rubrum !
 Oh waouh ! Tu es incroyable. Je n’arrive pas à croire que tu en aies trouvé deux !
-J’en ai trouvé un aussi, hihi.
+J’en ai trouvé une aussi, hihi.
 Tiens, Ellie !
 Hein ? Tu n’as pas trouvé ça, Rubrum ?
 Je croyais que tu avais un vœu à faire.
@@ -28560,12 +28565,12 @@ Pour que plus de gens puissent revenir.
 C’est ce que je souhaitais aussi, Ellie !
 Alors, je garde les pommes maintenant ?
 Une fois que vous aurez fait votre vœu, Mamie les transformera en tartes aux pommes.
-Oh,[lua(GetLocalizedString("Item", "Rubrum'sGoldenApple_Name"))]Des tartes ? Elles doivent être délicieuses !
-Oui ! Ils sont délicieux. Tellement délicieux !
+Oh, des tartes aux [lua(GetLocalizedString("Item", "Rubrum'sGoldenApple_Name"))] ? Elles doivent être délicieuses !
+Oui ! Elles sont délicieuses. Tellement délicieuses !
 Oh, et Kyla te cherchait.
 Hein ? Kyla ? Pourquoi tout à coup ?
 Hm, elle doit avoir quelque chose à te dire. Je vais rapporter les pommes à Mamie.
-Ellie, vas-y et regarde[em1]Kyla[/em1]!
+Ellie, va voir [em1]Kyla[/em1] !
 Richesses
 X marque l’endroit ! Des trésors cachés ! J’aimerais chercher plein de choses comme ça.
 Le trésor, c’est génial ! Un de mes souhaits est de déterrer un trésor !
@@ -28618,13 +28623,13 @@ Hmm... Dans ce cas, montre-leur[em1]quelque chose qu’ils aiment[/em1].
 Quelque chose qu’ils aiment ?
 Oui. Mamie a dit ça un jour.
 « Si tu veux quelque chose de quelqu’un, tu dois d’abord y réfléchir[em1]Ce que cette personne aime[/em1]."
-Rubrum, en as-tu vu[em1]chats[/em1]Venir au village ?
+Rubrum, as-tu vu [em1]des chats[/em1] venir au village ?
 Des chats ?
 Oui, un chat est récemment venu frapper à ma porte.
 Je me demande s’il visite aussi le village.
 Eh bien... Je ne sais pas de quel chat tu parles.
 Mais les chats viennent au village. J’en connais certains.
-Quoi ? Il y a plus d’un chat ?
+Quoi ? Il y a plusieurs chats ?
 Oui, certains restaient près de moi un moment.
 Mais ils ne restent jamais longtemps, ce qui est dommage.
 Waouh... Ça veut dire que tu t’entends bien avec des chats.
@@ -28632,7 +28637,7 @@ Ils... ne viennent pas souvent ici, je dirais.
 Mais on va plus souvent devenir amis avec eux si on les voit souvent, non ?
 Les chats ont cessé de visiter le village à cause des ronces.
 C’est pour ça que tu n’as pas eu beaucoup d’occasions de socialiser avec eux, Rubrum.
-Oui. Donc, je ne connais pas ces chats. Et les adultes qui le sont sont partis.
+Oui. Donc, je ne connais pas ces chats. Et les adultes qui les connaissent sont partis.
 Cela dit... Un homme d’âge moyen semble venir de temps en temps s’occuper des chats.
 Un homme d’âge moyen ?
 Uh-huh. Je ne le connais pas, et il ne reste jamais longtemps.
@@ -28740,7 +28745,7 @@ Vraiment ? Alors je pourrai entendre une autre performance merveilleuse de Rubru
 Auriez-vous quelqu’un que vous pourriez recommander ?
 Oui, mon[em1]Professeur de musique[/em1]!
 Tu as joué un rôle merveilleux[em1]Interprétation de Lyra[/em1]Quand tu es arrivé pour la première fois au village, et encore lors du défilé !
-Waouh, c’est mon préféré[em1][lua(GetItemName(GetNPCPresentStorageItemID()))][/em1].
+Waouh, c’est mon préféré [em1][lua(GetItemName(GetNPCPresentStorageItemID()))][/em1].
 Oh, eh bien...[em1][lua(GetItemName(GetNPCPresentStorageItemID()))][/em1]...
 [em1][lua(GetItemName(GetNPCPresentStorageItemID()))][/em1] ? Oh oh.
 C’est quoi ça, au juste ?
@@ -28783,7 +28788,7 @@ Enite, Arden, Kyla et Roy.
 Ceux qui ont bénéficié de l’enlèvement des ronces de la Forêt Verte.
 D’accord. Que devrais-je leur dire ?
 Dis-leur de se rassembler à[lua(GetLocalizedString("Map", "GreenForest_Deep"))]quand je les enverrai chercher. Pour être précis, à la[em1]Endroit où se trouvait autrefois le cœur piquant de la ronce[/em1].
-C’est pour l’arbre glycine du village. Veuillez vous assurer qu’ils soient informés.
+C’est pour l’arbre Wisteria du village. Veuillez vous assurer qu’ils soient informés.
 Oh, et Rubrum, je veux que tu sois là aussi.
 Je vais aller[lua(GetItemName("RubrumToyStolenByGaga"))].
 Rubrum ! Te voilà !
@@ -29390,11 +29395,11 @@ Donne[em1]3x[lua(GetItemName("CliffRoot_Collect"))][/em1]à Vinch ?
 Comment puis-je vous aider ?
 Je n’ai rien à te dire.
 Bonjour. Où suis-je ?
-Comme c’est une longue histoire, passons à côté. Tu l’oublieras de toute façon.
+Comme c’est une longue histoire, ne nous y attardons pas. Tu l’oublieras de toute façon.
 Écoute, je suis désolé, mais je ne comprends vraiment pas de quoi tu parles.
 C’est vraiment incroyable que ta réaction soit différente à chaque fois même si tu ne t’en souviens plus.
 Euh, je vais probablement m’en souvenir.
-J’ai bu[lua(GetLocalizedString("Item", "RememberDreamPotion_Name"))].
+J’ai bu une [lua(GetLocalizedString("Item", "RememberDreamPotion_Name"))].
 J’avais l’impression de faire des rêves bizarres, alors je l’ai bu avant.
 Attends, attends, tu as bu quoi ?
 Est-ce le rêve bizarre que j’ai fait ?
@@ -29408,11 +29413,11 @@ Je ne sais pas ce qui se passe, mais ne t’inquiète pas. Je me souviendrai de 
 Dis-le-moi maintenant, s’il te plaît.
 Ma dignité de dieu...
 Qui êtes-vous, et pourquoi apparaissez-vous dans mes rêves ?
-Oui... D’accord. Je vais te dire.
+Bon... D’accord. Je vais t'expliquer.
 Merci beaucoup d’avoir sauvé Rubrum. Et tu as fait un excellent travail en retirant la ronce blanche.
-Vous avez reconstruit le village et ramené un villageois, qui est Kyla la charpentiere. Bien joué.
-Tu as aussi trouvé le cœur de ronce. Maintenant, il ne te reste plus qu’à faire[lua(GetLocalizedString("Item", "MoonOil_Name"))]Encore une fois.
-Pourquoi la première rencontre qui devait être digne est-elle devenue ainsi... ?
+Tu as reconstruit le village et ramené une villageoise, Kyla la charpentière. Bien joué.
+Tu as aussi trouvé le cœur de ronce. Maintenant, il ne te reste plus qu’à faire à nouveau de l'[lua(GetLocalizedString("Item", "MoonOil_Name"))].
+Pourquoi cette première rencontre, qui devait être solennelle, a tourné ainsi… ?
 Bonjour, Dieu Chat Blanc.
 Permettez-moi de vous demander quelque chose. Je cherche une plante spéciale pour le village.
 Y en a-t-il ?
@@ -29443,46 +29448,46 @@ Et j’ai raté le train parce que j’ai trop dormi...
 Oui, tu as raté le train parce que je t’ai fait « accidentellement » trop dormir.
 Tu... l’as fait ?
 Nous nous sommes aussi rencontrés une fois en réalité.
-Ne me dis pas que le chat sur la rive du lac était...
+Ne me dis pas que le chat sur la rive du lac c'était...
 Je t’ai guidée jusqu’à la Maison de la Sorcière.
-Et je suis apparu dans tes rêves pour que tu t’endormes trop et que tu rates le train.
+Et je suis apparu dans tes rêves pour que tu dormes trop et que tu rates le train.
 Je vois. Pas étonnant que j’aie trop dormi.
 Quel est le service ?
 C’est une demande très personnelle et égoïste.
 Je voulais aider ce village. Il décline à cause des ronces.
-Mais un dieu sans croyants est impuissant. Je ne pourrais pas le faire avec mes propres moyens.
-Cela faisait trop longtemps que cette Maison de la Sorcière abandonnée n’avait pas vu sa dernière sorcière.
+Mais un dieu sans fidèles est impuissant. Je ne pourrais pas le faire avec mes propres moyens.
+Cela faisait trop longtemps que cette Maison de Sorcière abandonnée avait connu une sorcière.
 Tu es la seule à qui je peux demander, Ellie.
-Permettez-moi de répéter ce que j’ai dit dans le rêve cette nuit-là.
+Permets-moi de te redire ce que j’ai dit dans le rêve de cette nuit-là.
 Ellie, s’il te plaît, aide ce village.
-Oui. Et je continue encore.
+Bien sûr. Et j'ai bien l'intention de continuer.
 Précisément. Tu as réagi de la même façon la première fois qu’on s’est vus dans ton sommeil.
 J’ai perdu le compte du nombre de fois où j’ai été dans ce rêve.
 Même à l’époque, quand on ne connaissait pas du tout Rubrum, Enite, Arden, ni le village.
-Tu as aidé un village, ses habitants, et un Dieu, dont aucun n’a jamais rencontré sans hésitation.
+Tu as aidé un village, ses habitants et un dieu, que tu n'avais jamais rencontrés auparavant, sans la moindre hésitation.
 Mais pourquoi fais-tu ça ? Pourquoi es-tu prêt à aider ?
 Bonheur
 J’aimerais que les gens autour de moi puissent devenir heureux.
 Si d’autres sont heureux, je le suis.
 Si quelqu’un est malheureux, je veux le rendre heureux.
 Parce que c’est ce qui me rend heureuse.
-Et, il y a beaucoup d’autres à Highlion que moi qui peuvent aider.
-Je suis content que ce soit toi dans le train à l’époque, Ellie.
+Et, il y a beaucoup d’autres personnes que moi à Highlion qui peuvent aider.
+Je suis content que ce soit toi qui étais dans le train à l'époque, Ellie.
 N’importe quelle sorcière aurait fait ce que j’ai fait.
 Non, Ellie. Absolument pas.
-Je suis tellement contente que ce soit toi. Merci encore.
+Je suis tellement content que ce soit toi. Merci encore.
 Ce n’est pas si grave.
-Oui ? Avez-vous des questions ?
-Peut-être que le fait que j’aie eu l’impression d’y être en entrant dans le village était aussi...
-Oui, il y a eu un temps où je t’ai montré le village dans le rêve. Même si tu ne t’en souvenais pas.
+Oui ? Tu as des questions ?
+Peut-être que le fait que j’aie eu l’impression d’être déjà venu auparavant en entrant dans le village était aussi...
+Oui, à un moment, je t'ai montré le village dans ce rêve. Même si tu ne t'en souviens pas.
 Et est-ce aussi la raison pour laquelle j’avais l’impression de connaître Enite ?
 J’ai vraiment beaucoup parlé d’Enite.
-Je surveille Enite depuis sa naissance.
-Enite était vraiment mignonne enfant, tu sais ? L’expression sérieuse et la prononciation claire quand elle parlait...
+Je veille sur Enite depuis sa naissance.
+Enite était vraiment adorable quand elle était petite, tu sais ? Son air sérieux et sa prononciation si claire quand elle parlait...
 Oh, regarde l’heure.
 Quelle heure est-il ?
 Il est temps de se lever.
-Tu devrais te réveiller du rêve au matin.
+Tu devrais te réveiller de ce rêve quand le matin pointera.
 J’ai hâte de voir où notre partenariat nous mènera, Ellie.
 Moi aussi, Dieu Chat Blanc.
 Le chemin au-dessus du village... a été dégagé...
@@ -29557,7 +29562,7 @@ Je crois que vous connaissez le gigantesque glicine dans le village ?
 Je le suis certainement, et le fait qu’elle se soit fanée.
 C’est exact. Elle reste fanée même si les villageois sont tous revenus.
 Y a-t-il un moyen de la ressusciter ?
-L’arbre glycine est toujours vivant, mais il est en train de mourir.
+L’arbre Wisteria est toujours vivant, mais il est en train de mourir.
 Les ronces ont endommagé ses racines, rendant difficile l’absorption de nutriments.
 Y a-t-il un remède ?
 Il y en a un, mais il y a un problème.
@@ -29574,20 +29579,20 @@ Mon erreur a causé tout ça. Je dois arranger les choses avant de partir.
 L’éternité n’est pas tout ce qui compte.
 Certaines choses sont précieuses parce qu’elles ne durent pas... parce qu’elles changent constamment.
 Vous avez peut-être raison.
-[em1]Greffe[/em1]peut être pratiqué sur l’arbre glycine.
+[em1]Greffe[/em1]peut être pratiqué sur l’arbre Wisteria.
 Greffe ?
 Cela signifie unir différents arbres.
-Les racines de l’arbre glycine du village sont fragiles. Vous devez planter un nouveau glicine et l’unir à l’ancien.
+Les racines de l’arbre Wisteria du village sont fragiles. Vous devez planter un nouveau glicine et l’unir à l’ancien.
 Ainsi, l’ancien peut recevoir des nutriments du nouveau.
 Vraiment ? Ça ressemble à de la magie.
-Les glycines sont coriaces.
+Les Wisterias sont coriaces.
 Tiens, prends ces graines.
 Ce sont les fruits de mes recherches lorsque je suis arrivé au village pour étudier les glicines.
 Tout ce que j’ai à faire, c’est de les semer ?
 Exact, mais en établissant le[em1]Bond[/em1]est la clé.
 Lien ?
 C’est un vœu partagé, tout comme ce qui te relie au village, aux villageois, et à moi.
-Les glycines que vous plantez doivent partager le souhait de l’arbre du village, sinon elles ne tiendront plus tard.
+Les Wisterias que vous plantez doivent partager le souhait de l’arbre du village, sinon elles ne tiendront plus tard.
 Je ne comprends pas tout à fait. Que dois-je faire exactement ?
 Tout d’abord, allez à la[em1]Des endroits où se trouvaient autrefois des cœurx de ronces[/em1].
 Pourquoi ces endroits ?
@@ -29721,7 +29726,7 @@ J’aurais pu faire autre chose si Lisa était encore en vie, mais maintenant qu
 Euh, peut-être... Peut-être que tu pourrais repousser ça un peu plus longtemps ?
 Eh bien... ne vaudrait-il pas mieux que tu répondes après que le village soit complètement restauré ?
 On ne sait jamais ce qui peut arriver après avoir envoyé la lettre.
-La glycine devrait être notre priorité.
+La Wisteria devrait être notre priorité.
 Tu as peut-être raison, mais...
 Et ce n’est pas comme si les sorcières étaient impatientes d’une réponse. Tu pourras l’envoyer plus tard.
 Eh bien, je suppose que je peux demander à Kent de livrer la lettre pour moi, puisqu’il viendra quand le village sera restauré.
@@ -29829,7 +29834,7 @@ Puis soyez là et voyez-le.
 Mon corps a disparu depuis longtemps.
 Je pensais ne regretter rien une fois le jardin terminé...
 Mais maintenant que je t’ai rencontré, je réalise que je l’ai encore.
-Heh, j’aurais peut-être dû accepter d’être une maîtresse sorcière.
+Heh, j’aurais peut-être dû accepter d’être une sorcière-supérieure.
 Ellie, il est trop tôt pour être triste. Va semer ton vœu.
 Sème ton vœu — un souhait d’établir un lien avec tout le monde.
 Tu peux le faire.
@@ -30053,9 +30058,9 @@ Et je ne savais pas qu’il y avait une [em1]recette[/em1] qui donne [em1]3 bout
 Parfait, la [lua(GetLocalizedString("Item", "IntUpPotion_Name"))] est prête.
 J’ai l’impression d’être déjà plus intelligente !
 Maintenant, je suppose qu’il est temps de la boire.
-La [lua(GetLocalizedString("Item", "RememberDreamPotion_Name"))] est prêt !
-Même si ça sent le jus de raisins non mûrs...
-Je dois le boire.
+La [lua(GetLocalizedString("Item", "RememberDreamPotion_Name"))] est prête !
+Même si ça sent le jus de raisins pas frais...
+Je dois la boire.
 Tu as été très occupé ces derniers temps ? On dirait que ça fait un moment qu’on ne s’est pas parlé.
 Tu passes une bonne journée ?
 Oh, j’ai en fait quelques ingrédients restants de mes recherches sur le pain aujourd’hui.
@@ -30292,7 +30297,7 @@ Ellie, j’ai quelque chose à te dire.
 Tu as apporté un bon dégustation ! Tu veux l’échanger ?
 Je ne l’échangerai pas.
 Je ne comprends pas ce que tu veux dire.
-Les graines de glycine sont des graines d’émotion... ?
+Les graines de Wisteria sont des graines d’émotion... ?
 As-tu une idée de ce que cela signifie ? On dit qu’ils ont besoin du pouvoir des vœux.
 Hmm... Je ne connais pas grand-chose aux arbres ou aux fleurs.
 Cela pourrait-il avoir un rapport avec les sorcières ?
@@ -31963,7 +31968,7 @@ Vraiment ? C’est tellement gentil de ta part !
 Tu vas demander conseil à Kyla avant de commencer la construction, n’est-ce pas ?
 Un imprévu est arrivé. Je t’aiderai quand je serai de retour !
 Le [em1]Château du chat[/em1] inaugurera une nouvelle ère de bien-être encore meilleur des chats.
-Bien sûr ! En tant que meilleure charpentiere, Kyla pourrait imaginer un meilleur design de château.
+Bien sûr ! En tant que meilleure charpentière, Kyla pourrait imaginer un meilleur design de château.
 Je compte sur toi, Ellie !
 La conclusion semble être « C’est simple mais réalisable » ?
 Tu as pensé à quelque chose ?
@@ -34076,9 +34081,9 @@ Jouer avec les Cats
 Potion Pétard ×1
 Potion d’Attention ×1
 Étoile Filante ×4
-Semez la graine de glycine dans la grotte éclairée par les étoiles où se trouvait autrefois le cœur épineux de la ronce.
+Semez la graine de Wisteria dans la grotte éclairée par les étoiles où se trouvait autrefois le cœur épineux de la ronce.
 Fabriquez la potion de vœu
-Étoile de glycine
+Étoile de Wisteria
 Réforme du mobilier
 Fouillez l’île flottante de la Grotte Étoilée à la recherche de sculptures cachées.
 Suivre l’effet de la Potion Polaris
@@ -34145,8 +34150,8 @@ Arden a dit qu’il était allé se promener près du lac dans la Forêt Verte p
 Prologue : Tout est là pour une raison
 Donne les bonbons qui lèvent la malédiction à Arden
 Fabriquez le Bonbon de Détection de Malédictions
-Acte 1, Partie 1 : Ceux qui ont maudit un dragon
-Acte 1, Partie 2 : La Personne dans la Mémoire d’un Dragon
+Acte 1, Partie 1 : Ceux qui ont maudit le dragon
+Acte 1, Partie 2 : La Personne dans les souvenirs du dragon
 Acte 2 : Une promesse maudite
 Visitez la cascade Green Forest
 Cherchez le lac dans la chute d’eau de la forêt verte
@@ -34287,7 +34292,7 @@ Demandez aux gens à l’intérieur et à l’extérieur du village d’écrire 
 Demandez aux habitants du village et à l’extérieur d’écrire des lettres pour Roy, et obtenez une copie du Livre des Souvenirs.
 Allez au cœur de la ronce Épine dans la Forêt Verte et obtenez la rose bleue.
 On se déplace à l’endroit où se trouvait le cœur de Thornvine dans la Forêt Verte.
-Acte 3 : Une lettre parfumée à la glycine
+Acte 3 : Une lettre parfumée à la Wisteria
 J'avais prévu d'utiliser les potions mises de côté pour l'occasion, comme d'habitude, mais...
 Comme cet événement est organisé par l'administration, je ne peux pas me permettre qu'il y ait le moindre accroc.
 Utiliser la plume pour dessiner et recueillir des informations, puis utiliser la potion appropriée pour obtenir les matériaux récoltés.
@@ -34402,3 +34407,4 @@ Euh, tu parles des objets, c'est ça ?
 Ce n'est pas ça~ Je fais ça pour le bien-être de la méduse mimétique, hé hé.
 Ça va être encore plus sympa à partir de maintenant.
 Pourquoi ça ?
+Hein ? Pourquoi du [lua(GetLocalizedString("EffectFoodCommon", "BeefBread_Name"))] ?
