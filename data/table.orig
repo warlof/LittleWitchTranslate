@@ -5809,10 +5809,10 @@ Thank you again, Ellie.
 I just did what a witch should do.
 By the way, Arden is absent again, right?
 Right. Arden says he has to make stew.
-He’s strangely diligent although there aren't many customers. Hahaha.
+He's strangely diligent although there aren't many customers. Hahaha.
 Thanks for everything, Ellie. Keep up the good work.
 Keep up the good work!
-I'll go out of my way to help if you're asking.
+I'll go out of my way to help if it's you asking.
 Nice to make your acquaintance.
 Me too!
 Oh, Ellie. Let me talk to you for a minute before you go.
@@ -5829,11 +5829,11 @@ I really shouldn't ask... but could you help me?
 Sure. I made a promise to help the villagers return.
 Thank you, Ellie. You can talk to Kyla for the details.
 Please leave it to me.
-[em1][lua(GetLocalizedString("Item", "FirecrackerPotion_Name"))][/em1] is ready!
+[em1][lua(GetLocalizedString("Item", "FirecrackerPotion_Name"))][/em1] is done!
 I finally made one with my own hands...
-Be careful handling it. It’s probably supervised by the Administration for a reason.
+Be careful handling it. It's probably supervised by the administration for a reason.
 Yes, of course. Because no one should get hurt.
-Let’s take the [em1][lua(GetLocalizedString("Item", "FirecrackerPotion_Name"))][/em1] to Enite.
+Let's take the [em1][lua(GetLocalizedString("Item", "FirecrackerPotion_Name"))][/em1] to Enite.
 Haha! I passed the Gaga Bird safely!
 Has anyone seen Virgil?
 Why are you talking nonsense after a good night's rest?
@@ -7706,7 +7706,7 @@ I've been chasing them around with food in hand... So, it doesn't work out that 
 Cats have different personalities... but I guess you would scare every single cat, haha.
 Oh no...
 Ah, what's that noise? I think the cat's leaving.
-<shake>Bye, kitty. Looking forward to meeting you again.</shake>
+<wave>Bye, kitty. Looking forward to meeting you again.</wave>
 <shake>Byeeee!</shake>
 It's gone. I can't see it anymore from here.
 And it didn't even look back.
@@ -14016,7 +14016,7 @@ With whom?
 A warrior who was after my treasure.
 Yeah, I loved her. That's how it was.
 What happened to her?
-She died...A long time ago.
+She died... A long time ago.
 It's okay. I don't feel anything.
 Thanks. I think you're right.
 I don't know why she popped up in my dreams, but I may find out once I dream again.
@@ -14069,7 +14069,7 @@ It will make people want to curse it.
 Look at those cracks.
 What's there to look at? They're just old, broken sword and shield.
 Maybe there's something written on them.
-There’s nothing!
+There's nothing!
 I said they're just old things.
 The wretched soul of a treasure-seeking warrior downed by the dragon's flames has possessed...!
 Nope.
@@ -14093,14 +14093,14 @@ Ahhh!
 What's this?! A curse?!
 The neck has been separated.
 What a horrible curse...
-No! Something’s inside.
+No! Something's inside.
 Drawing? A person? What a terrible drawing.
 There are strange letters too. Is this also a drawing?
-It’s dragon language. The dragon scripts.
+It's dragon language. The dragon scripts.
 You know, Virgil.
 This isn't a curse.
 Arden just forgot someone.
-Apron, teacup, wine glass, and dragon figure...
+Apron, teacup, wine glass, and dragon body parts...
 Oh, can you read it?
 That I don’t know.
 He's dreaming because he threw away a bunch of stuff. Since he can't remember.
@@ -19664,20 +19664,20 @@ If you feel uncomfortable eating it, you can also consider grinding and sprinkli
 Was there such a method?!
 I told you to read the book to the end.
 Shush...
-[em1][lua(GetLocalizedString("Item", "FirecrackerPotion_Name"))][/em1]. It's a potion I've always wanted to try making.
+[em1][lua(GetLocalizedString("Item", "FirecrackerPotion_Name"))][/em1]. It's a potion I've always wanted to make.
 You too, Diane?
 Sure. It's the highlight of the [em1]Star Gun Festival[/em1].
 Right. I liked the fireworks on the last day the most, too.
 There's somewhere I want to use it in this time. Can I get the recipe?
-Hmm... It’s not hard to register the recipe in the Catalogue but...
-Ellie, as you likely already know, it's forbidden to craft a [em1][lua(GetLocalizedString("Item", "FirecrackerPotion_Name"))][/em1] while enrolled in the School for Witches.
-But I’m already an apprentice!
+Hmm... It's not hard to register the recipe in the Catalogue but...
+But as you likely already know, students at the School for Witches are not allowed to craft [em1][lua(GetLocalizedString("Item", "FirecrackerPotion_Name"))][/em1].
+But I'm already an apprentice!
 In that case, you can, but there are conditions.
 You have to report how many and for what purpose to the Witch Administration.
 <shake>Th.. the.. Administration...</shake>
 Ellie, you are like an unfinished hat.
 Still haven't found the recipe?
-T... They say I would have to report it to the Administration...
+T... They say I would have to report it to the administration...
 Oh, you can just use the master witch's name.
 Please fill out the master witch’s name, your name, the intended purpose, and how many, right here.
 Okay, I will add it for you.
@@ -19686,7 +19686,7 @@ Stop acting, it's terrible. You'll get caught.
 But I have no choice.
 I wrote down [em1]Mom's name[/em1] because it was the only name I could think of... That should be fine, right?
 I’m really getting worried.
-Before the laws, a [em1][lua(GetLocalizedString("Item", "FirecrackerPotion_Name"))][/em1] would often blow the butts off people or burn down houses...
+Before it was banned, [em1][lua(GetLocalizedString("Item", "FirecrackerPotion_Name"))][/em1] would often blow the butts off people or burn down houses...
 My name is Diane. Thank you for coming today.
 Let's go make a [em1][lua(GetLocalizedString("Item", "FirecrackerPotion_Name"))][/em1], since we've accomplished our goal.
 <shake>T-the master witch's name...?</shake>
@@ -19696,7 +19696,7 @@ It looks like your master witch has quite a temper.
 If you'd like, you can also put the name of someone else.
 <shake>T... Then...</shake>
 <shake>Aria... and Ellie. Just 1. For the village party...</shake>
-I like [em1][lua(GetLocalizedString("Item", "DangleMango_Name"))] sherbet[/em1]. It tastes refreshing and would be a great match.
+I like [em1][lua(GetLocalizedString("Item", "DangleMango_Name"))] Sherbet[/em1]. It tastes refreshing and would be a great match.
 Oh... A glass of [em1]sweet wine[/em1] after work with a dessert is the best.
 A slice of heaven to reward a hard day of work!
 I think I understand how that feels, that's me when I eat a Nubicula cupcake.
@@ -19916,12 +19916,12 @@ Although it's your own choice, you'd better double-check it.
 Thank you for your cooperation. The deadline is [em1][lua(GetLocalizedString("Common",  GetGlobalVariable("$711")))][/em1].
 Please think carefully before you decide.
 Thank you for your cooperation. Potions delivered.
-[em1]Cancel[/em1] the Delivery order?
+[em1]Cancel[/em1] the delivery order?
 Come back anytime.
 This isn't a delivery order you chose.
 Make sure you deliver before the deadline, or you will fail.
 Just deliver all goods required by the delivery order before [em1]this [lua(GetLocalizedString("Common",  GetGlobalVariable("$711")))][/em1].
-If you can't manage, or wish to switch to another Delivery order, you can [em1]cancel[/em1].
+If you can't manage, or wish to switch to another delivery order, you can [em1]cancel[/em1].
 You've reached the [em1]delivery limit[/em1] of this candy theme. Cannot deliver anymore.
 Delivery completed. Cannot be selected.
 Please select another delivery.
@@ -21312,7 +21312,7 @@ If it ever feels too difficult, know that you can stop anytime.
 I've got to go now. See you around, Ellie.
 Enite, are you the only one who comes here?
 This place is perfect for people looking for silence and contemplation.
-Perhaps to wish for something from the Cat Gods.
+Perhaps to wish for something from the cat gods.
 I've brought Rubrum here, but I don't think he remembers as he was too young.
 It is indeed quiet in here. The only sounds are our voices.
 That's actually what I find to be bizarre...
@@ -22657,7 +22657,7 @@ What should I do?... What if my professor finds out?
 I mean I will really be in big trouble if Mom finds out...
 That would be really a big problem.
 But don't worry too much.
-I think we should worry considering Aria’s personality.
+I think we should worry considering Aria's personality.
 Ellie is staying here with good intentions of helping the village.
 That is for sure. And it probably won't become known so soon.
 As far as I know, the School for Witches does not inform Witch's Houses about sending apprentice witches.
@@ -22672,7 +22672,7 @@ I want to know what kind of person the witch originally at the Witch's House is 
 I think it has something to do with the village, and probably with the prickly vines also...
 Can you help me?
 I don't know anything right now, but I'll investigate and let you know next time I come.
-I’ll leave it to you then.
+I'll leave it to you then.
 You'll keep it a secret, right?
 I can't leave this place behind now.
 Of course. I made a promise with you, Ellie.
@@ -23131,7 +23131,7 @@ It's no big deal.
 A curse... Interesting.
 I wouldn't be surprised if Arden is cursed.
 After all, he's a dragon with a long face. Hahaha!
-That's right. He’s so cold.
+That's right. He's so cold.
 He really isn't very easygoing.
 Kyla, have you ever seen anything Arden threw away?
 Oh, yes. I've got this one. He actually threw away such a nice wine glass.
@@ -23592,8 +23592,8 @@ The sword didn't look as refined as I expected,
 but it must have been sharp and easy to use, or it wouldn't have been chosen by a warrior.
 So, I suppose inner values are indeed more important than physical appearance.
 During the day, I have so much to do that it feels like I just work through it all without realizing it.
-Of course, there are days off, but I feel like I’ve worked only when I work while the sun is up.
-When that happens, I have to quickly grab a meal, so Arden's [em1][lua(GetLocalizedString("EffectFoodCommon", "BeefStew_Name"))][/em1] seems like a great choice.
+I do take days off, but I only feel like I've worked if I've worked while the sun is up.
+In such times, I have to quickly grab a meal, so Arden's [em1][lua(GetLocalizedString("EffectFoodCommon", "BeefStew_Name"))][/em1] seems like a great choice.
 Ellie, have you ever heard any strange sounds when you went to [lua(GetLocalizedString("Common", "Common_Theme_GreenForest"))]?
 Sometimes, I go to the forest to cut trees even at night.
 I was walking and heard a strange sound, and when I turned around, I realized it was the sound made by [em1][lua(GetLocalizedString("Encyclopedia", "BubbleLizard_Name"))][/em1].
@@ -23696,8 +23696,8 @@ That's a good idea. It needs some work, though.
 Aren't you tired of building houses all the time?
 No. I'd just be impatient if I stay still.
 It's also fun to see the village being restored bit by bit.
-Let’s see. Then the materials we have now... wouldn’t be enough.
-I’ll work on the foundations. Can you get me some materials?
+Let's see. Then the materials we have now... wouldn't be enough.
+I'll work on the foundations. Can you get me some materials?
 I’ll need 10x [lua(GetLocalizedString("Item", "Rock_Name"))], 10x [lua(GetLocalizedString("Item", "Mud_Name"))], and 10x [lua(GetLocalizedString("Item", "Branch_Name"))].
 Are you delivering it to build Roy's house?
 Right now, this is what's needed.
@@ -23717,7 +23717,7 @@ Come to think of it, don't you have something like that?
 I saw witches gather at Highlion Square and put something down during the Harvest Festival.
 When night fell, those things gave out light and it was spectacular.
 Uh... That sounds like...
-A [em1][em1][lua(GetLocalizedString("Item", "FirecrackerPotion_Name"))][/em1][/em1].
+It's [em1][lua(GetLocalizedString("Item", "FirecrackerPotion_Name"))][/em1].
 Exactly! Why didn't I think of that?
 Crafting those was prohibited at the School for Witches, but I'm an apprentice witch now.
 If they allowed that, the School would have needed to be repaired at least 10 times.
@@ -25229,7 +25229,7 @@ Don't treat people like game characters. That's kinda creepy.
 Why, I didn't!
 Anyway, didn't Freddie say that he was at the [em1][lua(GetLocalizedString("Map", "GreenForest_Waterfall"))][/em1]?
 Yes, that's what the letter said.
-It feels rude to bother someone in the evening when you've never met before. I guess I should go during [em1]daytime[/em1]?
+It feels rude to bother someone in the evening when you've never met before. I guess I should go during daytime?
 Daytime is better.
 But he also said [em1]"if you need me,"[/em1] so you shouldn't bother him either if you don't need him.
 I'm going to talk to him about prickly vines, and about [em1]fishing[/em1].
@@ -28168,7 +28168,7 @@ Tick-tock tick-tock for a long time! Tick-tock tick-tock with grandpa!
 The clock has stopped! My grandpa's wall clock!
 Curse? What is a curse? Is it on treasures?
 Hmm... A curse may ban you from saying anything other than praises for nature...
-Or keep you having nightmares and uable to sleep well...
+Or keep you having nightmares and unable to sleep well...
 Or make you have hiccups every time you eat an apple...
 *Gasp*
 Did Arden get one?
@@ -34408,3 +34408,10 @@ It's not like that~ I'm doing this for the jelly's wellbeing, hehe.
 It's gonna be even more fun from now on.
 Why not?
 Huh? Why [lua(GetLocalizedString("EffectFoodCommon", "BeefBread_Name"))]?
+help yourself to this.
+Besides blacksmiths, there were carpenters, potters, and so on. Everyone owned a workshop in the village and spent their days working on their products.
+Thank you for the [em1][lua(GetItemName(GetNPCPresentStorageItemID()))][/em1]!
+Dumplings are troublesome to make.
+But I have to make more, since Rubrum can't have enough of them.
+They give him endless energy to run around with.
+You should try some too.
