@@ -6089,8 +6089,8 @@ Keep up the good work, Ellie!
 You got this.
 I'll try my best, so that the other villagers can return.
 Try using the [em1]Furnishing Clock[/em1] beside the [em1]recording notebook[/em1]. Firstly, [em1]place[/em1] the [em1]furniture[/em1] that Kyla's provided.
-Let’s take a look on the second floor.
-Let’s check out the workshop in the basement.
+Let's take a look on the second floor.
+Let's check out the workshop in the basement.
 Let’s talk to that strange lizard.
 First, let’s pick up all the scattered furniture.
 Whoa, there really is a room!
@@ -6430,7 +6430,7 @@ Watch your mouth, you're the crappy one.
 I'll buy the furniture bit by bit... The problem is arranging them.
 Isn't the answer right in front of you?
 What? Oh, yeah! I've got the [em1]Furnishing Clock[/em1]!
-Back home, Mom wouldn't let me near it, now I can finally do whatever I want!
+Back home, Mom wouldn't let me near it. Now I can finally do whatever I want!
 Let's use it to place the [em1]furniture Kyla gave me[/em1].
 Restoring the houses of the former villagers was just an unrealistic dream for me.
 But the day has actually come for us to discuss how to use this area.
@@ -8430,12 +8430,12 @@ Thanks, Enite and Vinch. You're lifesavers.
 The village feels a little livelier already.
 Let's follow the thorny vines first.
 A lizard?
-This isn't a magic lizard or anything like that, is it?
+This isn't a witch lizard or anything like that, is it?
 It's possible a former witch created it or raised it.
 Possible? Mental jaws! Mysterious firs!
-Are you talking?
+It's talking?
 Talk? Incredible lakes! Noble elms!
-Are you laughing?
+Is it laughing?
 Laugh? A bumpy picture! A unique pine!
 What kind of conversation is this?
 Whatever you make it out to be.
@@ -18314,12 +18314,12 @@ I don't have any items ready now.
 Come by anytime.
 Sell
 Trade with [lua(GetLocalizedString("Common", "NormalCollect"))]
-[em1][lua(GetLocalizedString("Common", "NormalCollect"))][/em1] and [em1][lua(GetLocalizedString("Common", "NormalCollect_Unique"))][/em1] have many uses.
+[em1][lua(GetLocalizedString("Common", "NormalCollect"))][/em1] and [em1][lua(GetLocalizedString("Common", "NormalCollect_Unique"))][/em1] have many uses, don't they?
 But it's hard to always have everything you need on you, don't you agree?
 I can get [em1][lua(GetLocalizedString("Common", "NormalCollect"))][/em1] or [em1][lua(GetLocalizedString("Common", "NormalCollect_Unique"))][/em1] ready if you want to exchange for them.
 They tend to fly off the shelves, so I usually have them in stock.
 You can bring me any unneeded [em1][lua(GetLocalizedString("Common", "NormalCollect"))][/em1] to exchange for items you want.
-But I'm a merchant after all, so I will charge a small fee for the exchange. I hope you understand.
+But I'm a merchant after all, so I will charge you a processing fee. I hope you don't object.
 Ellie, you want to trade with [em1][lua(GetLocalizedString("Common", "NormalCollect"))][/em1]?
 And if there are any gathering items you've collected during your exploration that you don't have immediate use for.
 I’ll exchange them for [em1][lua(GetLocalizedString("Common", "NormalCollect"))][/em1] and others.
@@ -19709,14 +19709,14 @@ I once went to a shop which served donuts with a chocolate coat. Crack the coat
 and the glorious chocolate cream filling would ooze out of it. The donut was really chewy and the fruits served with it were fresh. It was a match made in heaven.
 <shake>No, no</shake>. I'm looking for a recipe for donuts, Diana!
 Oh, you wanted recipes?
-Well, though the Witch's Catalogue contains everything on anything under the sun...
+Well, though the Witch's Catalogue contains everything under the sun...
 But I don't think the Witch Potion Association would have any recipe for donuts...
 I'm really sorry I couldn't help.
 Why not have a look close by?
 Recipes are usually stored in [em1]homes[/em1] after all.
 If you ask [em1]longtime village residents[/em1] or [em1]people who have always cooked[/em1], you should be able to find what you need.
 That's a great idea. Thank you, Diane!
-Though there isn't a Donut Association, I'll be sure to use the Witches' Catalogue!
+Though there isn't a Donut Association, I'll be sure to use the Witches' Catalogue often!
 It's a promise, Ellie.
 Thank you for dropping by, this service was provided by Diana.
 Too bad the Witch's Catalogue only sells recipes that the Witch Potion Association has approved.
@@ -20005,7 +20005,7 @@ Er, nope.
 If you use it, you can get [em1]a lot of ingredients[/em1] out of [em1]just a few collected items[/em1].
 Does that mean only veteran witches are allowed to use it while apprentice witches are not?
 No! Ellie, you've got the [em1]Encyclopedia[/em1] issued by the School for Witches, right?
-Only plants and animals with a sufficient level of [em1]regional Encyclopedia completion[/em1] can be used in [lua(GetLocalizedString("Common", "Incubator"))].
+Only life forms from [em1]areas that have been progressed for a certain degree in the Encyclopedia[/em1] can be used in the [lua(GetLocalizedString("Common", "Incubator"))].
 Which means, you can become skillful at using the [lua(GetLocalizedString("Common", "Incubator"))] if you work hard to complete the researches in the Encyclopedia.
 Wow, this will spare me the efforts of collecting items from the wild.
 Exactly. It's especially favored by witches who need to [em1]travel a lot collecting items[/em1].
@@ -20032,7 +20032,7 @@ Just imagine materials such as [lua(GetLocalizedString("Item", "Phoenix_Collect_
 Witches' Catalogue, always at your service.
 I don't have any request now.
 Feel free to talk to me about anything.
-Please use the Witches' Catalogue to submit candies.
+Please use Witches' Catalogue to deliver candies.
 Looking forward to your next visit.
 [lua(GetLocalizedString("Common", "EncyclopediaRank"))]
 You really worked hard for the [lua(GetLocalizedString("Common", "EncyclopediaRank"))], didn't you?
@@ -20055,10 +20055,10 @@ Finally!
 From now on, you can use the Witches' Catalogue.
 It works [em1]the same as before[/em1]. There's no need to worry.
 Ah, so you won't be coming anymore, Diane?
-Not exactly.
-I'll leave the [em1]call bell[/em1] next to the mailbox, so feel free to use it whenever you need me.
+That's not it.
+I'll leave the [em1]call bell[/em1] next to the letterbox. Feel free to use it whenever you need me.
 Can I call you anytime I want to see you?
-Of course! Using the call bell makes it easy to come and go, so it's no problem at all!
+Sure! The call bell makes it easy to come and go, so it's no problem at all!
 Hmm... But I'd prefer you not calling me too frequently.
 Okay, got it.
 By the way, now that you have the Witches' Catalogue, you can [em1]purchase work tools[/em1].
@@ -20086,7 +20086,7 @@ Once it's ready, I'll let you know immediately.
 But what does that have to do with work tools?
 Because when the Witches' Catalogue is officially issued, I can easily travel through it.
 That way, I can bring heavy work tools to you.
-You must have been busy. It’s nice to see you!
+You must have been busy. It's nice to see you!
 Now, please choose the direction you want the workshop to expand in.
 Left
 Right
@@ -23615,8 +23615,8 @@ You should go home too.
 Although she kept complaining, she's drunk so much today, so she shouldn't come pestering me for that old wine anymore.
 Oh, welcome. Are you here to look at the furniture?
 I chiefly sell beds, chairs, bookcases and other [em1]large furnishings[/em1].
-And I'll sell them according to specific [em1]themes[/em1].
-The themes [em1]change daily[/em1], so be sure to drop in often.
+And when selling, I’ll sell them in specific [em1]types[/em1].
+The items for sale [em1]change daily[/em1], so stop by often.
 If you really want furnishings from a certain theme, let me know. The furniture I sell for the next [em1]3 days[/em1] will be from that theme only.
 Well then, be sure to come by often!
 Ahem, yep. I do know some rumors and jokes among village folks.
@@ -26581,7 +26581,7 @@ But you want to eat it now, don't you?
 Once in a while, I miss the food Dad and Mom used to make for me too.
 If I'd known, I would have bugged Dad till he let me back into the kitchen!
 That's how I feel sometimes.
-The food... in your memories?
+A food item... that takes me back.
 Yes, though it may not be exactly the same as what you ate in Highlion,
 if you just want to bake tasty donuts, maybe someone here will know how to.
 Roy, go on and prepare the ingredients for making donuts.
@@ -28264,9 +28264,9 @@ And... I like it when Granny reads stories to me. She's a great storyteller.
 I wish there were more books with illustrations in the library.
 Last time, Arin showed me a book called [em1]Legends of Animals[/em1], and it was really fun!
 But apparently, there aren’t many books like that. Most of them are just books with words written in them...
-I’ve tried it.
-But I’ve never caught a fish. Freddy says I’m not strong enough.
-That’s why I want to try catching [em1][lua(GetLocalizedString("Item", "Fish_Cantsee_Name"))][/em1], but I always miss it...
+I've tried that.
+But I've never caught a fish. Freddy says I'm not strong enough.
+I want to catch a [em1][lua(GetLocalizedString("Item", "Fish_Cantsee_Name"))][/em1], but I keep missing it...
 I'm drying tea leaves in Granny's stead.
 I’ve been making tea leaves out of [em1][lua(GetLocalizedString("Item", "MapleHerb_Collect_Name"))][/em1].
 Citrus flavor is trending these days, or so Aurea told me.
@@ -28285,7 +28285,7 @@ She sounds like a kind person.
 Seems to be the case.
 But that alone isn't going to help us find Lisa.
 If you're really stumped, why not ask the [em1]Cat Gods[/em1]?
-Cat Gods?
+Cat gods?
 Yes. If we [em1]pray[/em1] at the [em1]temple[/em1], the Cat Gods might come to answer our prayers.
 Is there a temple in the village?
 Will the Gods really show themselves if we pray at the temple?
@@ -34422,3 +34422,24 @@ And you work better when you're fed.
 Most importantly, it tastes good. Try it and you'll see.
 Deliver Diane’s Candies
 But why does the restaurant's menu only feature simple meat dishes?
+Ask Kyla what she needs.
+By the way, I've moved everything in the warehouse into the [em1]mailbox[/em1]. Make sure to check it out.
+Hey, Ellie, I've something to tell you.
+I used to sell various types of items at the same time.
+But that makes it tricky to arrange my warehouse, finding things and getting them out.
+So from now on, I'd like to sell furniture based on the [em1]size[/em1] or [em1]type[/em1].
+I'll let my customers know what I sell every day. No need to worry about that, hahaha.
+It's [em1]Wednesday[/em1] today, and I'm offering home decor.
+Tomorrow I'll be selling large furniture. Remember to drop by, haha.
+How about a treasure hunt in the woods?
+I found a thick branch in the woods.
+It didn't snap even after I played with it for a whole day.
+Ellie, let's go treasure hunting when you've had tea~
+Best wishes, Rubrum
+The theme I bring will [em1]be different every time[/em1], so keep that in mind.
+It's [em1]Thursday[/em1] today, and I'm offering rugs.
+Tomorrow I'll be selling miscellaneous goods.
+And if you've any collected items from your exploration that you don't have immediate use for,
+I can exchange [em1][lua(GetLocalizedString("Common", "NormalCollect"))][/em1] for them.
+Come to think of it!
+Well... Actually, I do...
