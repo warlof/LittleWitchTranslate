@@ -5905,7 +5905,7 @@ I couldn't find this flavor even in famous bakeries in Highlion.
 Ahem, it seems to be baked well.
 Ellie also prepared something amazing this time.
 Here, Ellie. It’s your turn.
-Here goes! A refreshing [em1][lua(GetLocalizedString("Item", "FirecrackerPotion_Name"))][/em1]!
+Here goes! My masterpiece [em1][lua(GetLocalizedString("Item", "FirecrackerPotion_Name"))][/em1]!
 Wow, what is this place?
 Looks like some kind of puzzle, Virgil!
 It's a very suspicious and unnatural sight.
@@ -6017,7 +6017,7 @@ It's an execution of budget.
 She'll upload a document and a witch will come.
 And they'll find out that there's no master witch here.
 Then what should I do?
-The Witch's House can also be fixed by a skillful artisan.
+The witch's house can also be fixed by a skillful artisan.
 Then I should ask Kyla.
 I mean once I get out of here.
 Isn't it too squeaky?
@@ -6026,7 +6026,7 @@ Hey! That’s not it!
 Good, I got out somehow.
 Isn't this bad?
 There's a huge hole there, though.
-Let’s ask Kyla and the others.
+Let's ask Kyla and the others.
 Squeak-squeak-squeak.
 If I'd gone to Highlion, I wouldn't be listening to this.
 It's better to make noise than to die of boredom, isn't it?
@@ -20940,9 +20940,9 @@ ut he declined, saying the thread thickness was inconsistent.
 Of course, I enjoy spinning [em1][lua(GetLocalizedString("Item", "PumpkinTerrier_Powder_Name"))][/em1] into thread and using it, so I continue to do so.
 Rather, the inconsistent thickness of the thread makes it feel nice to the touch.
 Did you know that [em1][lua(GetLocalizedString("Item", "FlowerBird_Collect_Name"))][/em1] won't grow if planted in ordinary soil?
-Long ago, the village was filled with flowers. I planted plenty of my favorite ones.
-But [em1][lua(GetLocalizedString("Item", "FlowerBird_Collect_Name"))][/em1] was the only one that never grew and always withered...
-I can still vividly remember Roy’s flustered expression as he explained it.
+The village used to be alive with blooming flowers, including many of my favorite species.
+But there was one flower that never survived — the [em1][lua(GetLocalizedString("Item", "FlowerBird_Collect_Name"))][/em1]... It withered every time.
+I can still vividly remember Roy's flustered expression as he explained why.
 When I recall the city's nightscape... it feels completely different from this place.
 Ah, I suddenly remember. A painting I saw by chance.
 [em1][lua(GetItemName("Basic_PictureFrame_NightView_MatSquareM"))][/em1] looks exactly like the scenery from that time.
@@ -22685,7 +22685,7 @@ Wow, thanks.
 I'm really leaving now!
 Hey, isn't that Kent?
 Kent!
-Oh, you're here, Ellie!
+Ah, Ms. Ellie. You're here.
 Good day to you, Ellie. I've been awaiting your arrival.
 It's about your previous request for me.
 My previous request... What was it?
@@ -23108,8 +23108,8 @@ Can you hear the song of the hammer? It's my favorite song.
 It's a sound that resonates with my soul, hahaha!
 Getting firewood and training at the same time, killing two birds with one stone.
 Argh! One! Two!
-Oh right, Ellie, as a witch, you must need a lot of ingredients, right?
-Just in case, I kept some. Hehe.
+By the way, Ellie, as a witch, you must need a lot of ingredients, right?
+I've set some aside just in case, hehe.
 I’m listening.
 What’s going on, witch?
 A weird dream that I don't even remember... How strange.
@@ -23277,7 +23277,7 @@ Oh wow... So that's how it's supposed to look!
 Actually there used to be a gorgeous dome top.
 I wanted to get that restored too, but that project's too big for now.
 Oh dear, I was off with the fairies.
-The materials should be collected first, and as a result, the workbench should be cleaned up first.
+I should collect the materials first, but I cleaned up the workbench instead.
 Can you gather some of those pebbles for me?
 Pebbles, you say?
 It's alright if it's too much work. I can do it myself once I finish the work at hand, haha!
@@ -23314,6 +23314,7 @@ Will you tell me about Lisa then?
 Sure, now listen closely.
 Lisa hated bread that tasted too sweet because she considered it a main course.
 She hated mushrooms too, saying they belonged in the garden.
+She did?
 Strange, I know. Mushrooms are delightful.
 So do you know anything else apart from this?
 Anything else? Hm... alright. This is a secret but...
@@ -23816,7 +23817,7 @@ Of course. Now we have all we need. Let's get started.
 Come back when you've got [em1]3 slots[/em1].
 I'll leave procuring the [em1]2 [lua(GetLocalizedString("Encyclopedia", "LittleMandrake_Name"))]s[/em1] to you.
 You're going to see what the Potion of Courage is for yourself, hahaha!
-Witch's House?
+Witch's house?
 Have you ever repaired one before?
 Witch's Houses are normally repaired by witch craftsmen.
 I have only repaired simple tools there.
@@ -25588,13 +25589,13 @@ Alright, what do you want to know?
 Just how much do cats like [em1]fish[/em1]?
 How much... How would I know?
 Although they do try to steal all of my catch.
-So, you've suffered quite some loss? How many times have they stollen fish from you?
+So, you've suffered quite some loss? How many times have they stolen fish from you?
 Let's see... Once or twice?
 Huh... That's not a lot.
-They've only actually stollen my fish once or twice, but they usually stare at me when I fish.
+They've only actually stolen my fish once or twice, but they usually stare at me when I fish.
 And when it comes to throwing my hard-earned catch away, even once is too many.
 Speaking of which, some cats only stare at [em1][lua(GetLocalizedString("Item", "Fish_Cantsee_Name"))][/em1].
-[em1][lua(GetLocalizedString("Item", "Fish_Cantsee_Name"))][/em1] only? They do have a clear [em1]preference[/em1].
+[em1][lua(GetLocalizedString("Item", "Fish_Cantsee_Name"))][/em1] only? You do have a clear [em1]preference[/em1].
 Humph, that's why I asked you to fish for me.
 Alright. One last question.
 Why did you ask me to catch 3 [em1][lua(GetLocalizedString("Item", "Fish_Cantsee_Name"))][/em1]?
@@ -26900,7 +26901,7 @@ He will! Because Arden has a warm heart!
 At least... the fire he breathes is warm for sure.
 A long time ago, a man lived in the village.
 In a very distant village, there was a woman he loved dearly.
-They often met in the forest because of fierce opposition from their parents.
+they often met in the forest because of fierce opposition from their parents.
 Oh... Was this a forbidden love?
 Sounds like everything forbidden looks good to you, huh.
 Of course not! I'm just a hopeless romantic!
@@ -34415,3 +34416,9 @@ Dumplings are troublesome to make.
 But I have to make more, since Rubrum can't have enough of them.
 They give him endless energy to run around with.
 You should try some too.
+I've sent you a meat kebab. Try it.
+It's good for carrying around.
+And you work better when you're fed.
+Most importantly, it tastes good. Try it and you'll see.
+Deliver Diane’s Candies
+But why does the restaurant's menu only feature simple meat dishes?
