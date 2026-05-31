@@ -6258,15 +6258,15 @@ If you need help, all you have to do is say the word.
 I will!
 Kyla, do you have a moment?
 Haha, of course. What's the matter?
-Can you repair the bridge in the village?
+Could you repair the bridge in the village?
 The bridge?
 Yes, the bridge near the fountain that leads to the bank opposite the village.
-Oh, yes. The people near the fountain have all come back.
+Oh, yes. Houses around the fountain all have occupants again.
 You've been busy as a bee lately! Haha!
 Of course! I'm giving it my all.
 Now it's time to get the people on the other side of the bridge home,
-before I search for leads on Lisa in [lua(GetLocalizedString("Common", "Common_Theme_RainbowForest"))].
-That's right, there's a road that leads to [lua(GetLocalizedString("Common", "Common_Theme_RainbowForest"))] on the other side of the river.
+before I search for leads on Lisa in the [lua(GetLocalizedString("Common", "Common_Theme_RainbowForest"))].
+That's right. There's a road that leads to the [lua(GetLocalizedString("Common", "Common_Theme_RainbowForest"))] on the other side of the river.
 Hm, very good. But...
 What is it?
 Oh, nothing. It's just that the bridge is a little unique.
@@ -6276,7 +6276,7 @@ What's special about it?
 Some of the bricks in the bridge are with special powers.
 Only by using the original bricks can we repair the bridge successfully.
 So if we're missing those bricks, we can't fix it!
-No one should have touched the bridge after it was broken. The bits of the bridge should be in the area.
+No one should have touched the bridge after it was broken. All the bits should still be around.
 That's fortunate.
 So don't worry too much, haha!
 Then let's go take a look right away!
@@ -12094,7 +12094,7 @@ But I don't have those.
 We don’t, but you have the knowledge that you learned from the School for [em1]Witches[/em1].
 Hmm... Since it's someone [em1]swallowing[/em1] something...
 A [em1]shining star yourself[/em1]...
-Enite wouldn’t have swallowed the Stellar Stone... there must be another way.
+Enite wouldn't have swallowed the Stellar Stone... There must be another way.
 I can't use it now.
 It says [em1][lua(GetLocalizedString("Encyclopedia", TargetCreatureName))][/em1] on the nametag.
 Replace [lua(GetLocalizedString("Common", "DisplayItem"))]
@@ -21397,11 +21397,11 @@ Yes. But how did you do it without any Stellar Stone?
 I used Twinkle-Twinkle Juice like I did for the streetlamps.
 Twinkle-Twinkle Juice is a potion that makes its drinker glow.
 That must have been the beautiful, mysterious light I saw.
-I drank the potion, crawled to the device and found it activated.
+I drank the potion, climbed onto the device and found it activated.
 How in the world did you think of that idea!
 You're a genius, Ellie.
 Aw shucks, it wasn't that difficult, really.
-There were many coo... interesting things in the cave.
+There were many fun... curious things in the cave.
 It's said to be another manifestation of respect towards the Cat Gods.
 It's said the two Gods represent the sun and the moon respectively.
 The color of the water is amazing.
@@ -21431,7 +21431,7 @@ The water in the temple really changes the ambiance, doesn't it?
 It's all because you helped us get the waterway device working again.
 Thank you very much, Ellie.
 The temple has returned to its old self, and villagers are returning.
-Kyla, Ellie, the restoration wouldn't have gone so smoothly if not for you two
+Kyla, Ellie, the restoration wouldn't have gone so smoothly if not for you two.
 Oh, the mural. Is it going to stay like that?
 Some parts of the mural seem to be missing.
 As the prickly vines grew and disappeared, they took the illustrations with them.
@@ -21463,7 +21463,7 @@ Incredible! I've never heard of such a method.
 It was called the Place of Promise.
 I suppose it's called that because our ancestors made a promise to the Cat Gods in there.
 To be honest, to always remember the favors they received, and to be sincere to the Gods.
-It's incredible that you can heard that voice. It must mean you're a precious guest of this village.
+It's incredible that you can hear that voice. It must mean you're a precious guest of this village.
 Hm, could it have something to do with this? Since I came out after the device was activated.
 Let's see here... Why don't you come a bit closer so I can see?
 I tried opening it, but it's locked up very well.
@@ -24138,7 +24138,7 @@ I'm a pro when it comes to metal and woodwork, but this is a different field.
 I can give it a shot, but I'm no expert, so who knows what it'll turn out like. Hahaha.
 Really? That's too bad.
 *whine*
-Ah! Since it's a fishing rod, maybe we can ask [em1]Freddie.[/em1]
+Ah! Since it's a fishing rod, maybe we can ask [em1]Freddie[/em1].
 Freddie?
 Oh, Freddie?
 That's a good idea! From what I know, Freddie makes fishing rods himself.
@@ -25783,7 +25783,7 @@ Aspiration
 I don't have any aspiration. I just want to learn my current happiness by heart.
 Besides that... I hope everyone around me stays healthy and happy.
 Is this... an answer you want?
-I've hardly fished anywhere outside of the village... so I've only caught limited types of fish.
+I've hardly fished anywhere outside of the village... so I've only caught local species.
 Speaking of which, I don't think I've caught any [em1][lua(GetLocalizedString("Item", "Fish_Gwitch_Name"))][/em1].
 There are flowers that only bloom at night... but they’re quite difficult to manage.
 I’m human too, so I can’t stay awake all the time.
@@ -26516,7 +26516,7 @@ It can't be too hot when you bake it and you must keep the temperature constant.
 Hm, it already smells like the real deal.
 Rubrum, come get ready to enjoy some donuts with Ellie.
 Yes, Granny!
-<wave>Donuts~ Donuts~ Rolly-polly pies~</wave>
+<wave>Donuts~ Donuts~ Rolly-polly donuts~</wave>
 Wow, is this a donut?
 Looks so interesting! It's a pie but with a hole!
 I'm going to dig in!
@@ -26528,7 +26528,7 @@ It's really delicious!
 It's baked through evenly, no bitterness and just the right doneness.
 The cream's very sweet and it's scrumptious.
 Here, let me have a bite...
-Oh... It really is delightful, I can't believe I made this.
+Oh... It really is delightful. I can't believe I made this.
 You were a quick study. Just keep in mind what I said and you'll be making even better donuts.
 You're too kind, it's thanks to both of you, Ellie and Enite.
 Since they've turned out so well, you should take some home with you.
@@ -27148,7 +27148,7 @@ The nobles are usually demanding. It's a proof that you know your stuff!
 Please stop. I'm getting really awkward.
 Anyway, now that I've got all the materials, I can start working.
 Is there anything else I can help with?
-No, I‘m good.
+I'm good.
 I wish I can see how the Countess's flower basket looks.
 I'm afraid you may not see the finished product.
 I plan to finish it this midnight and have it delivered at once, so that the flowers will still be fresh.
@@ -29898,23 +29898,23 @@ Yes, White Cat God, I believe you know her?
 Surely I do.
 She...
 She... is now in the [em1][lua(GetLocalizedString("Common", "Common_Theme_RainbowForest"))][/em1].
-[em1][lua(GetLocalizedString("Common", "Common_Theme_RainbowForest"))][/em1]? Where's that?
+[em1][lua(GetLocalizedString("Common", "Common_Theme_RainbowForest"))][/em1]? What kind of place is that?
 It's a special forest in Wisteria.
-There used to be a path connecting it to the [lua(GetLocalizedString("Common", "Common_Theme_GreenForest"))], but it seems to be blocked at the moment.
-Clear the path [em1]across the bridge in the village[/em1] and follow it to reach the [lua(GetLocalizedString("Common", "Common_Theme_RainbowForest"))].
-Woah! Thank you, White Cat God. Good thing I've come to you.
+There used to be a path connecting it with the [lua(GetLocalizedString("Common", "Common_Theme_GreenForest"))], but it seems to be blocked at the moment.
+To reach the [lua(GetLocalizedString("Common", "Common_Theme_RainbowForest"))], just clear the path [em1]across the bridge in the village[/em1] and follow it.
+Woah! Thank you. Good thing I've come to you, White Cat God.
 I believe the Black Cat God also tried to help you.
-Ah, may I ask about something else?
+Ah, may I ask another question?
 Is Lisa really responsible for the prickly vines in the village? If so, what's her purpose?
-It would be better for Lisa herself to explain it to you.
-I believe it's what she would've wanted.
+You'd better ask Lisa herself.
+I believe she thinks the same.
 Alright. Thank you very much!
 It's my pleasure. And thank you for contributing to the village.
 To go to the [em1][lua(GetLocalizedString("Common", "Common_Theme_RainbowForest"))][/em1], you must first repair the village bridge.
-Okay, let's head for the [em1][lua(GetLocalizedString("Common", "Common_Theme_RainbowForest"))][/em1] now.
+Okay, let's head to the [em1][lua(GetLocalizedString("Common", "Common_Theme_RainbowForest"))][/em1] now.
 We have to fix the bridge first.
 The bridge over that river, is it?
-It's a big one.
+It looks quite big.
 Kyla should be able to help. Let's go ask her.
 White Cat God, I've removed the prickly vine core in the [lua(GetLocalizedString("Common", "Common_Theme_RainbowForest"))] as well.
 Yes, I saw it. Well done. More people should return to the village now.
@@ -34443,3 +34443,17 @@ And if you've any collected items from your exploration that you don't have imme
 I can exchange [em1][lua(GetLocalizedString("Common", "NormalCollect"))][/em1] for them.
 Come to think of it!
 Well... Actually, I do...
+Playing with Ritorings is fun
+Yesterday, I played with a Ritoring. It hid in a tree. I got close and touched it.
+I found another one beneath a rock, but it wouldn't play with me.
+No matter how I called out to it, it wouldn't come out. It made me sad.
+It'd be great if you can join us, Ellie. Come play with me when you've had the tea~
+Until next time, Rubrum
+Ellie, how do you like the tea lately?
+Your praise makes me want to [em1]put even more care[/em1] into the tea.
+By the way! I can now make more tea at a time! Aurea told me that it was called increasing my [em1]stock[/em].
+Come to have some tea whenever you've time, Ellie!
+Come to me whenever you want some!
+Heh, Ellie, would you like some tea too?
+You restored the temple? Good job.
+After all, the White Cat God is the easier to talk to.
